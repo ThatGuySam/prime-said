@@ -1,0 +1,3929 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_486598e1d770c01a03d9b2db",
+  "sourceId": "youtube:20SkiBvylyM",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T18:08:07.320Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:1",
+      "startMs": 0,
+      "endMs": 3840,
+      "verbatim": "Uh W logo, it's CSS is hard, okay?",
+      "display": "Uh W logo, it's CSS is hard, okay?",
+      "search": "uh w logo, it's css is hard, okay?",
+      "confidence": 0.62
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:2",
+      "startMs": 3840,
+      "endMs": 5360,
+      "verbatim": "To be fair, I zoomed in.",
+      "display": "To be fair, I zoomed in.",
+      "search": "to be fair, i zoomed in.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:3",
+      "startMs": 5360,
+      "endMs": 8720,
+      "verbatim": "Zoomed in, CSS is effectively impossible to get right, okay?",
+      "display": "Zoomed in, CSS is effectively impossible to get right, okay?",
+      "search": "zoomed in, css is effectively impossible to get right, okay?",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:4",
+      "startMs": 8720,
+      "endMs": 10640,
+      "verbatim": "No website has ever got it right.",
+      "display": "No website has ever got it right.",
+      "search": "no website has ever got it right.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:5",
+      "startMs": 10640,
+      "endMs": 11040,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.745
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:6",
+      "startMs": 11040,
+      "endMs": 12320,
+      "verbatim": "Oh, Julia Julia.",
+      "display": "Oh, Julia Julia.",
+      "search": "oh, julia julia.",
+      "confidence": 0.627
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:7",
+      "startMs": 12320,
+      "endMs": 14400,
+      "verbatim": "Sorry, I couldn't read that.",
+      "display": "Sorry, I couldn't read that.",
+      "search": "sorry, i couldn't read that.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:8",
+      "startMs": 14400,
+      "endMs": 15120,
+      "verbatim": "Julia.",
+      "display": "Julia.",
+      "search": "julia.",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:9",
+      "startMs": 15120,
+      "endMs": 16480,
+      "verbatim": "Julia Evans.",
+      "display": "Julia Evans.",
+      "search": "julia evans.",
+      "confidence": 0.652
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:10",
+      "startMs": 16480,
+      "endMs": 18320,
+      "verbatim": "Fear makes you a worse programmer.",
+      "display": "Fear makes you a worse programmer.",
+      "search": "fear makes you a worse programmer.",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:11",
+      "startMs": 18320,
+      "endMs": 22320,
+      "verbatim": "Okay, I'm I I'm I I I'm curious where this is going.",
+      "display": "Okay, I'm I I'm I I I'm curious where this is going.",
+      "search": "okay, i'm i i'm i i i'm curious where this is going.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:12",
+      "startMs": 22320,
+      "endMs": 23120,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.542
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:13",
+      "startMs": 23120,
+      "endMs": 26080,
+      "verbatim": "Is Julia saying that I should not be afraid?",
+      "display": "Is Julia saying that I should not be afraid?",
+      "search": "is julia saying that i should not be afraid?",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:14",
+      "startMs": 26080,
+      "endMs": 30880,
+      "verbatim": "Should I use uh should we use X XZ 5.6.1?",
+      "display": "Should I use uh should we use X XZ 5.6.1?",
+      "search": "should i use uh should we use x xz 5.6.1?",
+      "confidence": 0.623
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:15",
+      "startMs": 30880,
+      "endMs": 31680,
+      "verbatim": "Not afraid?",
+      "display": "Not afraid?",
+      "search": "not afraid?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:16",
+      "startMs": 31680,
+      "endMs": 32560,
+      "verbatim": "I'm not afraid.",
+      "display": "I'm not afraid.",
+      "search": "i'm not afraid.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:17",
+      "startMs": 32560,
+      "endMs": 33520,
+      "verbatim": "Don't be afraid.",
+      "display": "Don't be afraid.",
+      "search": "don't be afraid.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:18",
+      "startMs": 33520,
+      "endMs": 41840,
+      "verbatim": "Anyways, yesterday morning I asked Twitter, does anyone have a good writing about fear plus programming and how being afraid to make important changes makes you a worse programmer?",
+      "display": "Anyways, yesterday morning I asked Twitter, does anyone have a good writing about fear plus programming and how being afraid to make important changes makes you a worse programmer?",
+      "search": "anyways, yesterday morning i asked twitter, does anyone have a good writing about fear plus programming and how being afraid to make important changes makes you a worse programmer?",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:19",
+      "startMs": 41840,
+      "endMs": 49200,
+      "verbatim": "And I feel like there's a really important line between caution, A, excellent, and fear, which holds you back from doing necessary work.",
+      "display": "And I feel like there's a really important line between caution, A, excellent, and fear, which holds you back from doing necessary work.",
+      "search": "and i feel like there's a really important line between caution, a, excellent, and fear, which holds you back from doing necessary work.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:20",
+      "startMs": 49200,
+      "endMs": 57040,
+      "verbatim": "I this this may okay, so it this may be one of those topics where I am categorically bad at relating to.",
+      "display": "I this this may okay, so it this may be one of those topics where I am categorically bad at relating to.",
+      "search": "i this this may okay, so it this may be one of those topics where i am categorically bad at relating to.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:21",
+      "startMs": 57040,
+      "endMs": 69360,
+      "verbatim": "And maybe it's the acoustics in this room, but if there's a challenge, whether at work or in my personal life, I've never gone, oh, I can't do that.",
+      "display": "And maybe it's the acoustics in this room, but if there's a challenge, whether at work or in my personal life, I've never gone, oh, I can't do that.",
+      "search": "and maybe it's the acoustics in this room, but if there's a challenge, whether at work or in my personal life, i've never gone, oh, i can't do that.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:22",
+      "startMs": 69360,
+      "endMs": 72160,
+      "verbatim": "I always thought, no matter how hard this is, I can do it.",
+      "display": "I always thought, no matter how hard this is, I can do it.",
+      "search": "i always thought, no matter how hard this is, i can do it.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:23",
+      "startMs": 72160,
+      "endMs": 74160,
+      "verbatim": "I can do this, and I will figure it out.",
+      "display": "I can do this, and I will figure it out.",
+      "search": "i can do this, and i will figure it out.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:24",
+      "startMs": 74160,
+      "endMs": 81360,
+      "verbatim": "And I've never really had I've never really had this thing that holds me back due to fear of being of failure.",
+      "display": "And I've never really had I've never really had this thing that holds me back due to fear of being of failure.",
+      "search": "and i've never really had i've never really had this thing that holds me back due to fear of being of failure.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:25",
+      "startMs": 81360,
+      "endMs": 84560,
+      "verbatim": "And I think maybe I have a broken brain.",
+      "display": "And I think maybe I have a broken brain.",
+      "search": "and i think maybe i have a broken brain.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:26",
+      "startMs": 84560,
+      "endMs": 85760,
+      "verbatim": "Maybe I'm neurodivergent.",
+      "display": "Maybe I'm neurodivergent.",
+      "search": "maybe i'm neurodivergent.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:27",
+      "startMs": 85760,
+      "endMs": 88800,
+      "verbatim": "I should put that on my Twitter handle, neurodivergent confidence too high.",
+      "display": "I should put that on my Twitter handle, neurodivergent confidence too high.",
+      "search": "i should put that on my twitter handle, neurodivergent confidence too high.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:28",
+      "startMs": 88800,
+      "endMs": 91520,
+      "verbatim": "Uh, but I I uh it's something you learn with time.",
+      "display": "Uh, but I I uh it's something you learn with time.",
+      "search": "uh, but i i uh it's something you learn with time.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:29",
+      "startMs": 91520,
+      "endMs": 93920,
+      "verbatim": "I I never had that problem from the beginning.",
+      "display": "I I never had that problem from the beginning.",
+      "search": "i i never had that problem from the beginning.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:30",
+      "startMs": 93920,
+      "endMs": 94320,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.654
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:31",
+      "startMs": 94320,
+      "endMs": 99040,
+      "verbatim": "I've never, I like from the very, very beginning, I've never thought I couldn't do something.",
+      "display": "I've never, I like from the very, very beginning, I've never thought I couldn't do something.",
+      "search": "i've never, i like from the very, very beginning, i've never thought i couldn't do something.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:32",
+      "startMs": 99040,
+      "endMs": 109200,
+      "verbatim": "Uh me and a friend were laughing because we call it our toxic trait, where I see someone do anything, juggling swords, and I'm like, I could do that, right?",
+      "display": "Uh me and a friend were laughing because we call it our toxic trait, where I see someone do anything, juggling swords, and I'm like, I could do that, right?",
+      "search": "uh me and a friend were laughing because we call it our toxic trait, where i see someone do anything, juggling swords, and i'm like, i could do that, right?",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:33",
+      "startMs": 109200,
+      "endMs": 111920,
+      "verbatim": "Like, I just think I could do anything.",
+      "display": "Like, I just think I could do anything.",
+      "search": "like, i just think i could do anything.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:34",
+      "startMs": 111920,
+      "endMs": 115840,
+      "verbatim": "Like, I see anyone doing anything, and I'm like, yeah, I could probably do that.",
+      "display": "Like, I see anyone doing anything, and I'm like, yeah, I could probably do that.",
+      "search": "like, i see anyone doing anything, and i'm like, yeah, i could probably do that.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:35",
+      "startMs": 115840,
+      "endMs": 118000,
+      "verbatim": "I could, I could probably do that.",
+      "display": "I could, I could probably do that.",
+      "search": "i could, i could probably do that.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:36",
+      "startMs": 118000,
+      "endMs": 122880,
+      "verbatim": "Literally, I'm hold my beer guy, and for better or for worse, here I am.",
+      "display": "Literally, I'm hold my beer guy, and for better or for worse, here I am.",
+      "search": "literally, i'm hold my beer guy, and for better or for worse, here i am.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:37",
+      "startMs": 122880,
+      "endMs": 124080,
+      "verbatim": "What are you afraid of?",
+      "display": "What are you afraid of?",
+      "search": "what are you afraid of?",
+      "confidence": 0.99
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:38",
+      "startMs": 124080,
+      "endMs": 125600,
+      "verbatim": "I mean, there's like things to be afraid of.",
+      "display": "I mean, there's like things to be afraid of.",
+      "search": "i mean, there's like things to be afraid of.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:39",
+      "startMs": 125600,
+      "endMs": 127440,
+      "verbatim": "Like, I wouldn't want to get tortured to death, right?",
+      "display": "Like, I wouldn't want to get tortured to death, right?",
+      "search": "like, i wouldn't want to get tortured to death, right?",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:40",
+      "startMs": 127440,
+      "endMs": 129520,
+      "verbatim": "I wouldn't want to go out like that.",
+      "display": "I wouldn't want to go out like that.",
+      "search": "i wouldn't want to go out like that.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:41",
+      "startMs": 129520,
+      "endMs": 131360,
+      "verbatim": "I'm neurodivergent too.",
+      "display": "I'm neurodivergent too.",
+      "search": "i'm neurodivergent too.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:42",
+      "startMs": 131360,
+      "endMs": 131680,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:43",
+      "startMs": 131680,
+      "endMs": 133440,
+      "verbatim": "I get does that make me neurodivergent?",
+      "display": "I get does that make me neurodivergent?",
+      "search": "i get does that make me neurodivergent?",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:44",
+      "startMs": 133440,
+      "endMs": 135840,
+      "verbatim": "Oh my goodness, did I just receive?",
+      "display": "Oh my goodness, did I just receive?",
+      "search": "oh my goodness, did i just receive?",
+      "confidence": 0.672
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:45",
+      "startMs": 136160,
+      "endMs": 138080,
+      "verbatim": "Did I just receive Twitter clout?",
+      "display": "Did I just receive Twitter clout?",
+      "search": "did i just receive twitter clout?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:46",
+      "startMs": 138080,
+      "endMs": 140400,
+      "verbatim": "I'm here for a good time, not a long time.",
+      "display": "I'm here for a good time, not a long time.",
+      "search": "i'm here for a good time, not a long time.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:47",
+      "startMs": 140400,
+      "endMs": 141120,
+      "verbatim": "Wow.",
+      "display": "Wow.",
+      "search": "wow.",
+      "confidence": 0.385
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:48",
+      "startMs": 141520,
+      "endMs": 143200,
+      "verbatim": "Did I just receive Twitter clout?",
+      "display": "Did I just receive Twitter clout?",
+      "search": "did i just receive twitter clout?",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:49",
+      "startMs": 143200,
+      "endMs": 145600,
+      "verbatim": "Am I officially Twitter clouted?",
+      "display": "Am I officially Twitter clouted?",
+      "search": "am i officially twitter clouted?",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:50",
+      "startMs": 145600,
+      "endMs": 146960,
+      "verbatim": "Can I put that in my bio?",
+      "display": "Can I put that in my bio?",
+      "search": "can i put that in my bio?",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:51",
+      "startMs": 146960,
+      "endMs": 150000,
+      "verbatim": "Um, anyways, a lot of super uh interesting discussion ensued.",
+      "display": "Um, anyways, a lot of super uh interesting discussion ensued.",
+      "search": "um, anyways, a lot of super uh interesting discussion ensued.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:52",
+      "startMs": 150000,
+      "endMs": 157760,
+      "verbatim": "So this is so I may not be able to add a lot to this just because of that kind of broken perspective in some sense, where I think I can do anything.",
+      "display": "So this is so I may not be able to add a lot to this just because of that kind of broken perspective in some sense, where I think I can do anything.",
+      "search": "so this is so i may not be able to add a lot to this just because of that kind of broken perspective in some sense, where i think i can do anything.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:53",
+      "startMs": 157760,
+      "endMs": 158640,
+      "verbatim": "We'll find out.",
+      "display": "We'll find out.",
+      "search": "we'll find out.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:54",
+      "startMs": 158640,
+      "endMs": 161440,
+      "verbatim": "A lot of super interesting discussion ensued, and I'd like to talk about some of it.",
+      "display": "A lot of super interesting discussion ensued, and I'd like to talk about some of it.",
+      "search": "a lot of super interesting discussion ensued, and i'd like to talk about some of it.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:55",
+      "startMs": 161440,
+      "endMs": 169280,
+      "verbatim": "Before I start, Ryan Kennedy linked me to this slide deck of a presentation he gave at Fear Driven Development, which I absolutely loved, and I think you should look at it.",
+      "display": "Before I start, Ryan Kennedy linked me to this slide deck of a presentation he gave at Fear Driven Development, which I absolutely loved, and I think you should look at it.",
+      "search": "before i start, ryan kennedy linked me to this slide deck of a presentation he gave at fear driven development, which i absolutely loved, and i think you should look at it.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:56",
+      "startMs": 169280,
+      "endMs": 175760,
+      "verbatim": "I think my favorite sentence from the presentation is fear creates local local maximums.",
+      "display": "I think my favorite sentence from the presentation is fear creates local local maximums.",
+      "search": "i think my favorite sentence from the presentation is fear creates local local maximums.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:57",
+      "startMs": 175760,
+      "endMs": 177440,
+      "verbatim": "I f okay.",
+      "display": "I f okay.",
+      "search": "i f okay.",
+      "confidence": 0.532
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:58",
+      "startMs": 177440,
+      "endMs": 180880,
+      "verbatim": "Okay, I find that when I'm afraid, I become super conservative.",
+      "display": "Okay, I find that when I'm afraid, I become super conservative.",
+      "search": "okay, i find that when i'm afraid, i become super conservative.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:59",
+      "startMs": 180880,
+      "endMs": 182800,
+      "verbatim": "We cannot possibly make this this change.",
+      "display": "We cannot possibly make this this change.",
+      "search": "we cannot possibly make this this change.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:60",
+      "startMs": 182800,
+      "endMs": 183920,
+      "verbatim": "What if it breaks?",
+      "display": "What if it breaks?",
+      "search": "what if it breaks?",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:61",
+      "startMs": 183920,
+      "endMs": 185840,
+      "verbatim": "And this means worse software.",
+      "display": "And this means worse software.",
+      "search": "and this means worse software.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:62",
+      "startMs": 185840,
+      "endMs": 188240,
+      "verbatim": "It actually uh kind of disastrous.",
+      "display": "It actually uh kind of disastrous.",
+      "search": "it actually uh kind of disastrous.",
+      "confidence": 0.615
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:63",
+      "startMs": 188240,
+      "endMs": 195360,
+      "verbatim": "If you have, let's see, if you are scared of making changes, you can't make something dramatically better or do the big code cleanup.",
+      "display": "If you have, let's see, if you are scared of making changes, you can't make something dramatically better or do the big code cleanup.",
+      "search": "if you have, let's see, if you are scared of making changes, you can't make something dramatically better or do the big code cleanup.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:64",
+      "startMs": 195360,
+      "endMs": 199520,
+      "verbatim": "Maybe you can't even deploy the code that you already wrote and tested because it feels too scary.",
+      "display": "Maybe you can't even deploy the code that you already wrote and tested because it feels too scary.",
+      "search": "maybe you can't even deploy the code that you already wrote and tested because it feels too scary.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:65",
+      "startMs": 199520,
+      "endMs": 202960,
+      "verbatim": "You just want to stick to what's sort of working, even if it's not great.",
+      "display": "You just want to stick to what's sort of working, even if it's not great.",
+      "search": "you just want to stick to what's sort of working, even if it's not great.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:66",
+      "startMs": 202960,
+      "endMs": 210480,
+      "verbatim": "I mean, I think one thing that's that's that that could be kind of real about this is that if you if you don't have any form of metrics to know that you're even breaking, right?",
+      "display": "I mean, I think one thing that's that's that that could be kind of real about this is that if you if you don't have any form of metrics to know that you're even breaking, right?",
+      "search": "i mean, i think one thing that's that's that that could be kind of real about this is that if you if you don't have any form of metrics to know that you're even breaking, right?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:67",
+      "startMs": 210480,
+      "endMs": 217040,
+      "verbatim": "Like if you don't even know that things are breaking, I I I would be cautious for sure on making big changes.",
+      "display": "Like if you don't even know that things are breaking, I I I would be cautious for sure on making big changes.",
+      "search": "like if you don't even know that things are breaking, i i i would be cautious for sure on making big changes.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:68",
+      "startMs": 217040,
+      "endMs": 226080,
+      "verbatim": "One time I made a change at Netflix that broke a uh that if you pressed add to my list on the billboard of the website, it went into an infinite loop.",
+      "display": "One time I made a change at Netflix that broke a uh that if you pressed add to my list on the billboard of the website, it went into an infinite loop.",
+      "search": "one time i made a change at netflix that broke a uh that if you pressed add to my list on the billboard of the website, it went into an infinite loop.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:69",
+      "startMs": 226080,
+      "endMs": 228000,
+      "verbatim": "Infinite loop, react.",
+      "display": "Infinite loop, react.",
+      "search": "infinite loop, react.",
+      "confidence": 0.731
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:70",
+      "startMs": 228000,
+      "endMs": 228560,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.542
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:71",
+      "startMs": 228560,
+      "endMs": 234400,
+      "verbatim": "React did a little state change, did a little re-render, did a little state change, did a little re-render.",
+      "display": "React did a little state change, did a little re-render, did a little state change, did a little re-render.",
+      "search": "react did a little state change, did a little re-render, did a little state change, did a little re-render.",
+      "confidence": 0.557
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:72",
+      "startMs": 234400,
+      "endMs": 237360,
+      "verbatim": "And I just it just just owned, literally froze the site.",
+      "display": "And I just it just just owned, literally froze the site.",
+      "search": "and i just it just just owned, literally froze the site.",
+      "confidence": 0.719
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:73",
+      "startMs": 237360,
+      "endMs": 238400,
+      "verbatim": "You had to close the tab.",
+      "display": "You had to close the tab.",
+      "search": "you had to close the tab.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:74",
+      "startMs": 238400,
+      "endMs": 240000,
+      "verbatim": "Smooth move, I know, and we missed it.",
+      "display": "Smooth move, I know, and we missed it.",
+      "search": "smooth move, i know, and we missed it.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:75",
+      "startMs": 240000,
+      "endMs": 241120,
+      "verbatim": "I don't know what happened.",
+      "display": "I don't know what happened.",
+      "search": "i don't know what happened.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:76",
+      "startMs": 241120,
+      "endMs": 243280,
+      "verbatim": "I did that though, I did that.",
+      "display": "I did that though, I did that.",
+      "search": "i did that though, i did that.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:77",
+      "startMs": 243280,
+      "endMs": 245600,
+      "verbatim": "Seems like we should have caught that in our testing.",
+      "display": "Seems like we should have caught that in our testing.",
+      "search": "seems like we should have caught that in our testing.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:78",
+      "startMs": 245600,
+      "endMs": 248000,
+      "verbatim": "I thought we did, must have goofed that one up.",
+      "display": "I thought we did, must have goofed that one up.",
+      "search": "i thought we did, must have goofed that one up.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:79",
+      "startMs": 248000,
+      "endMs": 258880,
+      "verbatim": "A lot of people brought up tools and processes, in particular, a fantastic Keasley Gilmore Enus, who has a new to me things to say about better process for testing code every time I talk to her.",
+      "display": "A lot of people brought up tools and processes, in particular, a fantastic Keasley Gilmore Enus, who has a new to me things to say about better process for testing code every time I talk to her.",
+      "search": "a lot of people brought up tools and processes, in particular, a fantastic keasley gilmore enus, who has a new to me things to say about better process for testing code every time i talk to her.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:80",
+      "startMs": 258880,
+      "endMs": 261040,
+      "verbatim": "Uh, or Kelsey, I thought it was Keasley.",
+      "display": "Uh, or Kelsey, I thought it was Keasley.",
+      "search": "uh, or kelsey, i thought it was keasley.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:81",
+      "startMs": 261040,
+      "endMs": 261760,
+      "verbatim": "Wow, I was way off.",
+      "display": "Wow, I was way off.",
+      "search": "wow, i was way off.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:82",
+      "startMs": 261760,
+      "endMs": 263760,
+      "verbatim": "I have open source in my brain.",
+      "display": "I have open source in my brain.",
+      "search": "i have open source in my brain.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:83",
+      "startMs": 263760,
+      "endMs": 271840,
+      "verbatim": "I know you're talking about uh more psychologically, but this one is one of my main reasons I believe investing in tests early is important.",
+      "display": "I know you're talking about uh more psychologically, but this one is one of my main reasons I believe investing in tests early is important.",
+      "search": "i know you're talking about uh more psychologically, but this one is one of my main reasons i believe investing in tests early is important.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:84",
+      "startMs": 271840,
+      "endMs": 281360,
+      "verbatim": "I believe writing your code to be testable and thinking ahead of time of how you're going to test and how you're going to ensure that changes don't break things is very important.",
+      "display": "I believe writing your code to be testable and thinking ahead of time of how you're going to test and how you're going to ensure that changes don't break things is very important.",
+      "search": "i believe writing your code to be testable and thinking ahead of time of how you're going to test and how you're going to ensure that changes don't break things is very important.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:85",
+      "startMs": 281360,
+      "endMs": 288480,
+      "verbatim": "Again, I have a very simple approach, which is if you can't get it right first try, you should test it.",
+      "display": "Again, I have a very simple approach, which is if you can't get it right first try, you should test it.",
+      "search": "again, i have a very simple approach, which is if you can't get it right first try, you should test it.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:86",
+      "startMs": 288480,
+      "endMs": 301040,
+      "verbatim": "I usually use tests as a way to drive development because if I can't get it right the first try, it means I'm gonna have a really long and annoying testing cycle for me to make it right.",
+      "display": "I usually use tests as a way to drive development because if I can't get it right the first try, it means I'm gonna have a really long and annoying testing cycle for me to make it right.",
+      "search": "i usually use tests as a way to drive development because if i can't get it right the first try, it means i'm gonna have a really long and annoying testing cycle for me to make it right.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:87",
+      "startMs": 301040,
+      "endMs": 304320,
+      "verbatim": "Therefore, I will write a test once I've written something complicated.",
+      "display": "Therefore, I will write a test once I've written something complicated.",
+      "search": "therefore, i will write a test once i've written something complicated.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:88",
+      "startMs": 304320,
+      "endMs": 305680,
+      "verbatim": "It's opposite of TDD, really.",
+      "display": "It's opposite of TDD, really.",
+      "search": "it's opposite of tdd, really.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:89",
+      "startMs": 305680,
+      "endMs": 307040,
+      "verbatim": "It's still the opposite of TDD.",
+      "display": "It's still the opposite of TDD.",
+      "search": "it's still the opposite of tdd.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:90",
+      "startMs": 307040,
+      "endMs": 312880,
+      "verbatim": "I decide all the APIs and everything beforehand, and then after I get done doing it, I then do the next thing.",
+      "display": "I decide all the APIs and everything beforehand, and then after I get done doing it, I then do the next thing.",
+      "search": "i decide all the apis and everything beforehand, and then after i get done doing it, i then do the next thing.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:91",
+      "startMs": 312880,
+      "endMs": 325520,
+      "verbatim": "So like Harpoon, my most recent change to Harpoon, I added a I add a I added a whole bunch of uh I've added a new feature in which is very, very complicated, which allows for holes inside the lists, nils inside the list.",
+      "display": "So like Harpoon, my most recent change to Harpoon, I added a I add a I added a whole bunch of uh I've added a new feature in which is very, very complicated, which allows for holes inside the lists, nils inside the list.",
+      "search": "so like harpoon, my most recent change to harpoon, i added a i add a i added a whole bunch of uh i've added a new feature in which is very, very complicated, which allows for holes inside the lists, nils inside the list.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:92",
+      "startMs": 325520,
+      "endMs": 332240,
+      "verbatim": "So for me to be able to validate that this is true, I first wrote everything, and then now I'm just going through and I'm just testing everything in my head.",
+      "display": "So for me to be able to validate that this is true, I first wrote everything, and then now I'm just going through and I'm just testing everything in my head.",
+      "search": "so for me to be able to validate that this is true, i first wrote everything, and then now i'm just going through and i'm just testing everything in my head.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:93",
+      "startMs": 332240,
+      "endMs": 334000,
+      "verbatim": "I like to do it in two different tries.",
+      "display": "I like to do it in two different tries.",
+      "search": "i like to do it in two different tries.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:94",
+      "startMs": 334000,
+      "endMs": 337680,
+      "verbatim": "So being able to drive testability is really, really important.",
+      "display": "So being able to drive testability is really, really important.",
+      "search": "so being able to drive testability is really, really important.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:95",
+      "startMs": 337680,
+      "endMs": 340640,
+      "verbatim": "And I've added in all the hooks and software for me to be able to do it.",
+      "display": "And I've added in all the hooks and software for me to be able to do it.",
+      "search": "and i've added in all the hooks and software for me to be able to do it.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:96",
+      "startMs": 340640,
+      "endMs": 342160,
+      "verbatim": "Even this one right here, equals.",
+      "display": "Even this one right here, equals.",
+      "search": "even this one right here, equals.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:97",
+      "startMs": 342160,
+      "endMs": 350160,
+      "verbatim": "I can override how I determine the equal the equality of list items within Harpoon itself.",
+      "display": "I can override how I determine the equal the equality of list items within Harpoon itself.",
+      "search": "i can override how i determine the equal the equality of list items within harpoon itself.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:98",
+      "startMs": 350160,
+      "endMs": 352480,
+      "verbatim": "So I like it.",
+      "display": "So I like it.",
+      "search": "so i like it.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:99",
+      "startMs": 352480,
+      "endMs": 354240,
+      "verbatim": "I think it's good.",
+      "display": "I think it's good.",
+      "search": "i think it's good.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:100",
+      "startMs": 354240,
+      "endMs": 355680,
+      "verbatim": "So I I do agree.",
+      "display": "So I I do agree.",
+      "search": "so i i do agree.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:101",
+      "startMs": 355680,
+      "endMs": 360160,
+      "verbatim": "Thinking about testing should always be one of your first steps.",
+      "display": "Thinking about testing should always be one of your first steps.",
+      "search": "thinking about testing should always be one of your first steps.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:102",
+      "startMs": 360160,
+      "endMs": 360880,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.693
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:103",
+      "startMs": 360880,
+      "endMs": 363600,
+      "verbatim": "Holes in the list is a uh Lua's Achilles' heel.",
+      "display": "Holes in the list is a uh Lua's Achilles' heel.",
+      "search": "holes in the list is a uh lua's achilles' heel.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:104",
+      "startMs": 363600,
+      "endMs": 364800,
+      "verbatim": "Yeah, I totally agree with that.",
+      "display": "Yeah, I totally agree with that.",
+      "search": "yeah, i totally agree with that.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:105",
+      "startMs": 364800,
+      "endMs": 370640,
+      "verbatim": "Uh obsessive monitoring, CI, canary deploys, chat uh uh chat ops, dog fooding, self-serve, infra.",
+      "display": "Uh obsessive monitoring, CI, canary deploys, chat uh uh chat ops, dog fooding, self-serve, infra.",
+      "search": "uh obsessive monitoring, ci, canary deploys, chat uh uh chat ops, dog fooding, self-serve, infra.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:106",
+      "startMs": 370640,
+      "endMs": 371920,
+      "verbatim": "Yeah, all those are very, very good.",
+      "display": "Yeah, all those are very, very good.",
+      "search": "yeah, all those are very, very good.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:107",
+      "startMs": 371920,
+      "endMs": 376480,
+      "verbatim": "So here's a few tools or ways, tools, and processes to make you less uh to make us less afraid.",
+      "display": "So here's a few tools or ways, tools, and processes to make you less uh to make us less afraid.",
+      "search": "so here's a few tools or ways, tools, and processes to make you less uh to make us less afraid.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:108",
+      "startMs": 376480,
+      "endMs": 378560,
+      "verbatim": "I don't know if afraid is the right word, though.",
+      "display": "I don't know if afraid is the right word, though.",
+      "search": "i don't know if afraid is the right word, though.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:109",
+      "startMs": 378560,
+      "endMs": 388880,
+      "verbatim": "Like if you're just deploying into production with absolutely no way to monitor, I don't think being afraid to do that is anything but wise.",
+      "display": "Like if you're just deploying into production with absolutely no way to monitor, I don't think being afraid to do that is anything but wise.",
+      "search": "like if you're just deploying into production with absolutely no way to monitor, i don't think being afraid to do that is anything but wise.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:110",
+      "startMs": 388880,
+      "endMs": 391600,
+      "verbatim": "You should be greatly worried about that.",
+      "display": "You should be greatly worried about that.",
+      "search": "you should be greatly worried about that.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:111",
+      "startMs": 391600,
+      "endMs": 394080,
+      "verbatim": "You're making changes with no observability.",
+      "display": "You're making changes with no observability.",
+      "search": "you're making changes with no observability.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:112",
+      "startMs": 394080,
+      "endMs": 395440,
+      "verbatim": "It feels kind of crazy to me.",
+      "display": "It feels kind of crazy to me.",
+      "search": "it feels kind of crazy to me.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:113",
+      "startMs": 395440,
+      "endMs": 396880,
+      "verbatim": "Just raw dog in production.",
+      "display": "Just raw dog in production.",
+      "search": "just raw dog in production.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:114",
+      "startMs": 396880,
+      "endMs": 400160,
+      "verbatim": "That's it, that feels really, really difficult.",
+      "display": "That's it, that feels really, really difficult.",
+      "search": "that's it, that feels really, really difficult.",
+      "confidence": 0.718
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:115",
+      "startMs": 400160,
+      "endMs": 405200,
+      "verbatim": "Version control means that you uh can make changes to your code without being uh scared of losing old versions.",
+      "display": "Version control means that you uh can make changes to your code without being uh scared of losing old versions.",
+      "search": "version control means that you uh can make changes to your code without being uh scared of losing old versions.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:116",
+      "startMs": 405200,
+      "endMs": 411600,
+      "verbatim": "This is one of the uh this one is so basic to me now, I can't even imagine how afraid I would be if I were programming without version control.",
+      "display": "This is one of the uh this one is so basic to me now, I can't even imagine how afraid I would be if I were programming without version control.",
+      "search": "this is one of the uh this one is so basic to me now, i can't even imagine how afraid i would be if i were programming without version control.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:117",
+      "startMs": 411600,
+      "endMs": 413600,
+      "verbatim": "Yeah, I mean version control is so cheap too.",
+      "display": "Yeah, I mean version control is so cheap too.",
+      "search": "yeah, i mean version control is so cheap too.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:118",
+      "startMs": 413600,
+      "endMs": 415040,
+      "verbatim": "I I can't even imagine programming.",
+      "display": "I I can't even imagine programming.",
+      "search": "i i can't even imagine programming.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:119",
+      "startMs": 415040,
+      "endMs": 418000,
+      "verbatim": "Like, I don't even know how to program without version control at this point.",
+      "display": "Like, I don't even know how to program without version control at this point.",
+      "search": "like, i don't even know how to program without version control at this point.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:120",
+      "startMs": 418000,
+      "endMs": 422560,
+      "verbatim": "It's git init, get add dot, move on, right?",
+      "display": "It's git init, get add dot, move on, right?",
+      "search": "it's git init, get add dot, move on, right?",
+      "confidence": 0.6
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:121",
+      "startMs": 422560,
+      "endMs": 424640,
+      "verbatim": "It's not about fear, it's about irresponsibility.",
+      "display": "It's not about fear, it's about irresponsibility.",
+      "search": "it's not about fear, it's about irresponsibility.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:122",
+      "startMs": 424640,
+      "endMs": 425920,
+      "verbatim": "Yeah, I think you're being affected.",
+      "display": "Yeah, I think you're being affected.",
+      "search": "yeah, i think you're being affected.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:123",
+      "startMs": 425920,
+      "endMs": 430560,
+      "verbatim": "Like, to me, this sounds like uh irresponsibility or maybe not irresponsibility.",
+      "display": "Like, to me, this sounds like uh irresponsibility or maybe not irresponsibility.",
+      "search": "like, to me, this sounds like uh irresponsibility or maybe not irresponsibility.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:124",
+      "startMs": 430560,
+      "endMs": 440320,
+      "verbatim": "That might be a little too hard of a word because some people, if you don't even know it's there, kind of like one of those unknown unknowns, you may not even realize that it's a problem, right?",
+      "display": "That might be a little too hard of a word because some people, if you don't even know it's there, kind of like one of those unknown unknowns, you may not even realize that it's a problem, right?",
+      "search": "that might be a little too hard of a word because some people, if you don't even know it's there, kind of like one of those unknown unknowns, you may not even realize that it's a problem, right?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:125",
+      "startMs": 440320,
+      "endMs": 443120,
+      "verbatim": "It could just be sheer ignorance, right?",
+      "display": "It could just be sheer ignorance, right?",
+      "search": "it could just be sheer ignorance, right?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:126",
+      "startMs": 443120,
+      "endMs": 445040,
+      "verbatim": "Uh right.",
+      "display": "Uh right.",
+      "search": "uh right.",
+      "confidence": 0.572
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:127",
+      "startMs": 445040,
+      "endMs": 448720,
+      "verbatim": "If you, you know, I've been ignorant of a lot of things.",
+      "display": "If you, you know, I've been ignorant of a lot of things.",
+      "search": "if you, you know, i've been ignorant of a lot of things.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:128",
+      "startMs": 448720,
+      "endMs": 451360,
+      "verbatim": "It's taken a lot a long time for me to learn a lot of stuff.",
+      "display": "It's taken a lot a long time for me to learn a lot of stuff.",
+      "search": "it's taken a lot a long time for me to learn a lot of stuff.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:129",
+      "startMs": 451360,
+      "endMs": 454960,
+      "verbatim": "Uh, so many people mentioned testing as a way to build confidence.",
+      "display": "Uh, so many people mentioned testing as a way to build confidence.",
+      "search": "uh, so many people mentioned testing as a way to build confidence.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:130",
+      "startMs": 454960,
+      "endMs": 457280,
+      "verbatim": "I don't think testing is a way to build confidence.",
+      "display": "I don't think testing is a way to build confidence.",
+      "search": "i don't think testing is a way to build confidence.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:131",
+      "startMs": 457280,
+      "endMs": 461280,
+      "verbatim": "I think it's a way to ensure that it hasn't broken in ways that you think it could break.",
+      "display": "I think it's a way to ensure that it hasn't broken in ways that you think it could break.",
+      "search": "i think it's a way to ensure that it hasn't broken in ways that you think it could break.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:132",
+      "startMs": 461280,
+      "endMs": 463360,
+      "verbatim": "And that's it.",
+      "display": "And that's it.",
+      "search": "and that's it.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:133",
+      "startMs": 463360,
+      "endMs": 468000,
+      "verbatim": "Testing doesn't build confidence for me, it maintains confidence for me.",
+      "display": "Testing doesn't build confidence for me, it maintains confidence for me.",
+      "search": "testing doesn't build confidence for me, it maintains confidence for me.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:134",
+      "startMs": 468000,
+      "endMs": 469680,
+      "verbatim": "And that's it.",
+      "display": "And that's it.",
+      "search": "and that's it.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:135",
+      "startMs": 469680,
+      "endMs": 472000,
+      "verbatim": "I think there's a I think there's a big difference.",
+      "display": "I think there's a I think there's a big difference.",
+      "search": "i think there's a i think there's a big difference.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:136",
+      "startMs": 472000,
+      "endMs": 476080,
+      "verbatim": "And I always assume that all my code has bugs in it, no matter how much testing I do.",
+      "display": "And I always assume that all my code has bugs in it, no matter how much testing I do.",
+      "search": "and i always assume that all my code has bugs in it, no matter how much testing i do.",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:137",
+      "startMs": 476080,
+      "endMs": 484640,
+      "verbatim": "My favorite thing I've read about testing is from working effectively with legacy code, where every chapter title is something that's scary or difficult about working with legacy code.",
+      "display": "My favorite thing I've read about testing is from working effectively with legacy code, where every chapter title is something that's scary or difficult about working with legacy code.",
+      "search": "my favorite thing i've read about testing is from working effectively with legacy code, where every chapter title is something that's scary or difficult about working with legacy code.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:138",
+      "startMs": 484640,
+      "endMs": 489600,
+      "verbatim": "He defines legacy code as code without tests to give you a flavor.",
+      "display": "He defines legacy code as code without tests to give you a flavor.",
+      "search": "he defines legacy code as code without tests to give you a flavor.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:139",
+      "startMs": 489600,
+      "endMs": 491920,
+      "verbatim": "Oh, that's a strange way to define legacy code.",
+      "display": "Oh, that's a strange way to define legacy code.",
+      "search": "oh, that's a strange way to define legacy code.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:140",
+      "startMs": 491920,
+      "endMs": 494560,
+      "verbatim": "I think we should probably not define legacy code that way.",
+      "display": "I think we should probably not define legacy code that way.",
+      "search": "i think we should probably not define legacy code that way.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:141",
+      "startMs": 494560,
+      "endMs": 496400,
+      "verbatim": "Just because that's kind of confusing.",
+      "display": "Just because that's kind of confusing.",
+      "search": "just because that's kind of confusing.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:142",
+      "startMs": 496400,
+      "endMs": 499920,
+      "verbatim": "For instance, I don't understand the code well enough to change it.",
+      "display": "For instance, I don't understand the code well enough to change it.",
+      "search": "for instance, i don't understand the code well enough to change it.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:143",
+      "startMs": 499920,
+      "endMs": 502320,
+      "verbatim": "How do I know that I'm not breaking anything?",
+      "display": "How do I know that I'm not breaking anything?",
+      "search": "how do i know that i'm not breaking anything?",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:144",
+      "startMs": 502320,
+      "endMs": 505120,
+      "verbatim": "I don't have much time and I have to change it.",
+      "display": "I don't have much time and I have to change it.",
+      "search": "i don't have much time and i have to change it.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:145",
+      "startMs": 505120,
+      "endMs": 509040,
+      "verbatim": "You know, surprisingly, I don't get fear for any of those things.",
+      "display": "You know, surprisingly, I don't get fear for any of those things.",
+      "search": "you know, surprisingly, i don't get fear for any of those things.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:146",
+      "startMs": 509040,
+      "endMs": 511760,
+      "verbatim": "Like, yeah, I'll I I I'm a bit hesitant.",
+      "display": "Like, yeah, I'll I I I'm a bit hesitant.",
+      "search": "like, yeah, i'll i i i'm a bit hesitant.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:147",
+      "startMs": 511760,
+      "endMs": 515440,
+      "verbatim": "I try to test things myself, but at some point I go, well, this is as good as we can get.",
+      "display": "I try to test things myself, but at some point I go, well, this is as good as we can get.",
+      "search": "i try to test things myself, but at some point i go, well, this is as good as we can get.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:148",
+      "startMs": 515440,
+      "endMs": 517680,
+      "verbatim": "I have no testing infrastructure.",
+      "display": "I have no testing infrastructure.",
+      "search": "i have no testing infrastructure.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:149",
+      "startMs": 519200,
+      "endMs": 520240,
+      "verbatim": "Let's go for it.",
+      "display": "Let's go for it.",
+      "search": "let's go for it.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:150",
+      "startMs": 520240,
+      "endMs": 520480,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:151",
+      "startMs": 520480,
+      "endMs": 523520,
+      "verbatim": "This tweet from Uncle Bob Martin explains this idea pretty well.",
+      "display": "This tweet from Uncle Bob Martin explains this idea pretty well.",
+      "search": "this tweet from uncle bob martin explains this idea pretty well.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:152",
+      "startMs": 523520,
+      "endMs": 527920,
+      "verbatim": "Even with good test design, without tests you feel fear of change, and so code will rot.",
+      "display": "Even with good test design, without tests you feel fear of change, and so code will rot.",
+      "search": "even with good test design, without tests you feel fear of change, and so code will rot.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:153",
+      "startMs": 527920,
+      "endMs": 531360,
+      "verbatim": "With good tests, there's no fear, uh, so you'll clean the code.",
+      "display": "With good tests, there's no fear, uh, so you'll clean the code.",
+      "search": "with good tests, there's no fear, uh, so you'll clean the code.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:154",
+      "startMs": 531360,
+      "endMs": 533040,
+      "verbatim": "I disagree with that too.",
+      "display": "I disagree with that too.",
+      "search": "i disagree with that too.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:155",
+      "startMs": 533040,
+      "endMs": 538240,
+      "verbatim": "Generally, I disagree with that because it depends on the size and scope of the tests, right?",
+      "display": "Generally, I disagree with that because it depends on the size and scope of the tests, right?",
+      "search": "generally, i disagree with that because it depends on the size and scope of the tests, right?",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:156",
+      "startMs": 539680,
+      "endMs": 544960,
+      "verbatim": "If you change it it totally depends on the size and scope.",
+      "display": "If you change it it totally depends on the size and scope.",
+      "search": "if you change it it totally depends on the size and scope.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:157",
+      "startMs": 545200,
+      "endMs": 557600,
+      "verbatim": "Like right now, uh again, returning to Harpoon, uh, I have this whole list functionality and I'm adding a bunch of new functionality and changing things, but I also have a bunch of integration tests, right, that kind of go through and change this.",
+      "display": "Like right now, uh again, returning to Harpoon, uh, I have this whole list functionality and I'm adding a bunch of new functionality and changing things, but I also have a bunch of integration tests, right, that kind of go through and change this.",
+      "search": "like right now, uh again, returning to harpoon, uh, i have this whole list functionality and i'm adding a bunch of new functionality and changing things, but i also have a bunch of integration tests, right, that kind of go through and change this.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:158",
+      "startMs": 557600,
+      "endMs": 567120,
+      "verbatim": "So if if I can prove with my integration tests that these still work, then I'll be more confident that that this worked.",
+      "display": "So if if I can prove with my integration tests that these still work, then I'll be more confident that that this worked.",
+      "search": "so if if i can prove with my integration tests that these still work, then i'll be more confident that that this worked.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:159",
+      "startMs": 567120,
+      "endMs": 575120,
+      "verbatim": "But if I change the interface, then I have to go through and change all the tests, and if I change all the tests, then am I confident that I misdo the tests?",
+      "display": "But if I change the interface, then I have to go through and change all the tests, and if I change all the tests, then am I confident that I misdo the tests?",
+      "search": "but if i change the interface, then i have to go through and change all the tests, and if i change all the tests, then am i confident that i misdo the tests?",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:160",
+      "startMs": 575120,
+      "endMs": 575840,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:161",
+      "startMs": 575840,
+      "endMs": 578800,
+      "verbatim": "Like it really just depends.",
+      "display": "Like it really just depends.",
+      "search": "like it really just depends.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:162",
+      "startMs": 578800,
+      "endMs": 584240,
+      "verbatim": "You know, it really just depends on the level in which the test changes, right?",
+      "display": "You know, it really just depends on the level in which the test changes, right?",
+      "search": "you know, it really just depends on the level in which the test changes, right?",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:163",
+      "startMs": 584240,
+      "endMs": 588160,
+      "verbatim": "I have zero confidence, like you know, I think the word is good test.",
+      "display": "I have zero confidence, like you know, I think the word is good test.",
+      "search": "i have zero confidence, like you know, i think the word is good test.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:164",
+      "startMs": 588160,
+      "endMs": 591280,
+      "verbatim": "I know, but good test is such a bullshit word.",
+      "display": "I know, but good test is such a bullshit word.",
+      "search": "i know, but good test is such a bullshit word.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:165",
+      "startMs": 591280,
+      "endMs": 596080,
+      "verbatim": "And what I mean by a bullshit word is that how good are you at good tests?",
+      "display": "And what I mean by a bullshit word is that how good are you at good tests?",
+      "search": "and what i mean by a bullshit word is that how good are you at good tests?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:166",
+      "startMs": 596160,
+      "endMs": 598800,
+      "verbatim": "I think I'm pretty good, but I don't think I'm always that good.",
+      "display": "I think I'm pretty good, but I don't think I'm always that good.",
+      "search": "i think i'm pretty good, but i don't think i'm always that good.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:167",
+      "startMs": 598800,
+      "endMs": 599680,
+      "verbatim": "Just saying.",
+      "display": "Just saying.",
+      "search": "just saying.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:168",
+      "startMs": 599680,
+      "endMs": 604080,
+      "verbatim": "I think I say that word a lot, and I might not be saying that word well.",
+      "display": "I think I say that word a lot, and I might not be saying that word well.",
+      "search": "i think i say that word a lot, and i might not be saying that word well.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:169",
+      "startMs": 604080,
+      "endMs": 606400,
+      "verbatim": "Good, like, good is like, yeah, you're right.",
+      "display": "Good, like, good is like, yeah, you're right.",
+      "search": "good, like, good is like, yeah, you're right.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:170",
+      "startMs": 606400,
+      "endMs": 610320,
+      "verbatim": "Test that the pro- here's the problem is that you then you get into the fallacy.",
+      "display": "Test that the pro- here's the problem is that you then you get into the fallacy.",
+      "search": "test that the pro- here's the problem is that you then you get into the fallacy.",
+      "confidence": 0.692
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:171",
+      "startMs": 610320,
+      "endMs": 612320,
+      "verbatim": "You pretty much run into the dark forest of tests.",
+      "display": "You pretty much run into the dark forest of tests.",
+      "search": "you pretty much run into the dark forest of tests.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:172",
+      "startMs": 612320,
+      "endMs": 613520,
+      "verbatim": "How do you know a test is good?",
+      "display": "How do you know a test is good?",
+      "search": "how do you know a test is good?",
+      "confidence": 0.99
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:173",
+      "startMs": 613520,
+      "endMs": 615280,
+      "verbatim": "You have a test that breaks sometimes.",
+      "display": "You have a test that breaks sometimes.",
+      "search": "you have a test that breaks sometimes.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:174",
+      "startMs": 615280,
+      "endMs": 616240,
+      "verbatim": "Is that test bad?",
+      "display": "Is that test bad?",
+      "search": "is that test bad?",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:175",
+      "startMs": 616240,
+      "endMs": 617440,
+      "verbatim": "Is infrastructure bad?",
+      "display": "Is infrastructure bad?",
+      "search": "is infrastructure bad?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:176",
+      "startMs": 617440,
+      "endMs": 620000,
+      "verbatim": "Is the person who control uh made it kind of a dummy?",
+      "display": "Is the person who control uh made it kind of a dummy?",
+      "search": "is the person who control uh made it kind of a dummy?",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:177",
+      "startMs": 620000,
+      "endMs": 622720,
+      "verbatim": "Is the person who made it really, really good?",
+      "display": "Is the person who made it really, really good?",
+      "search": "is the person who made it really, really good?",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:178",
+      "startMs": 622960,
+      "endMs": 623920,
+      "verbatim": "Because it's green?",
+      "display": "Because it's green?",
+      "search": "because it's green?",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:179",
+      "startMs": 623920,
+      "endMs": 624800,
+      "verbatim": "Yeah, is it green?",
+      "display": "Yeah, is it green?",
+      "search": "yeah, is it green?",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:180",
+      "startMs": 624800,
+      "endMs": 626080,
+      "verbatim": "Is that the reason why it's good?",
+      "display": "Is that the reason why it's good?",
+      "search": "is that the reason why it's good?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:181",
+      "startMs": 626080,
+      "endMs": 628640,
+      "verbatim": "Like that though, none of those are good reasons.",
+      "display": "Like that though, none of those are good reasons.",
+      "search": "like that though, none of those are good reasons.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:182",
+      "startMs": 628640,
+      "endMs": 630960,
+      "verbatim": "But testing and version control are not the only tools we have.",
+      "display": "But testing and version control are not the only tools we have.",
+      "search": "but testing and version control are not the only tools we have.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:183",
+      "startMs": 630960,
+      "endMs": 634160,
+      "verbatim": "We can also build QA environments where breaking things is totally allowed and encouraged.",
+      "display": "We can also build QA environments where breaking things is totally allowed and encouraged.",
+      "search": "we can also build qa environments where breaking things is totally allowed and encouraged.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:184",
+      "startMs": 634160,
+      "endMs": 639280,
+      "verbatim": "Deployees that go out a little bit at a time, the slow clap, uh, the ability to roll back and deploy easily.",
+      "display": "Deployees that go out a little bit at a time, the slow clap, uh, the ability to roll back and deploy easily.",
+      "search": "deployees that go out a little bit at a time, the slow clap, uh, the ability to roll back and deploy easily.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:185",
+      "startMs": 639280,
+      "endMs": 639840,
+      "verbatim": "That's good.",
+      "display": "That's good.",
+      "search": "that's good.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:186",
+      "startMs": 639840,
+      "endMs": 643200,
+      "verbatim": "QA teams whose uh job is to exhaustively test software.",
+      "display": "QA teams whose uh job is to exhaustively test software.",
+      "search": "qa teams whose uh job is to exhaustively test software.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:187",
+      "startMs": 643200,
+      "endMs": 647120,
+      "verbatim": "I'm curious about the future of of AI teams.",
+      "display": "I'm curious about the future of of AI teams.",
+      "search": "i'm curious about the future of of ai teams.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:188",
+      "startMs": 647120,
+      "endMs": 657040,
+      "verbatim": "I think that that's a very interesting area to think about with um with AI and enough data about how your users use the application.",
+      "display": "I think that that's a very interesting area to think about with um with AI and enough data about how your users use the application.",
+      "search": "i think that that's a very interesting area to think about with um with ai and enough data about how your users use the application.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:189",
+      "startMs": 657040,
+      "endMs": 679040,
+      "verbatim": "I think there's like a really interesting area that exists where if you have all of the like if you have how users use your application, and you can take an AI to just continuously run effectively against your application, just walking like a user kind of walks, like a fuzzing, like a UI fuzzing, it'd be very, very interesting.",
+      "display": "I think there's like a really interesting area that exists where if you have all of the like if you have how users use your application, and you can take an AI to just continuously run effectively against your application, just walking like a user kind of walks, like a fuzzing, like a UI fuzzing, it'd be very, very interesting.",
+      "search": "i think there's like a really interesting area that exists where if you have all of the like if you have how users use your application, and you can take an ai to just continuously run effectively against your application, just walking like a user kind of walks, like a fuzzing, like a ui fuzzing, it'd be very, very interesting.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:190",
+      "startMs": 679040,
+      "endMs": 687360,
+      "verbatim": "And when I say how the AI walks, what I mean by that is that it's able to grab a screenshot and loosely say this is a kind of what we would expect.",
+      "display": "And when I say how the AI walks, what I mean by that is that it's able to grab a screenshot and loosely say this is a kind of what we would expect.",
+      "search": "and when i say how the ai walks, what i mean by that is that it's able to grab a screenshot and loosely say this is a kind of what we would expect.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:191",
+      "startMs": 687360,
+      "endMs": 694000,
+      "verbatim": "I know we're r there's a lot of research at at plenty of places looking for this kind of basic answer.",
+      "display": "I know we're r there's a lot of research at at plenty of places looking for this kind of basic answer.",
+      "search": "i know we're r there's a lot of research at at plenty of places looking for this kind of basic answer.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:192",
+      "startMs": 694000,
+      "endMs": 695760,
+      "verbatim": "Walking as a gradient descent.",
+      "display": "Walking as a gradient descent.",
+      "search": "walking as a gradient descent.",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:193",
+      "startMs": 697680,
+      "endMs": 699120,
+      "verbatim": "I'm curious.",
+      "display": "I'm curious.",
+      "search": "i'm curious.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:194",
+      "startMs": 699600,
+      "endMs": 705360,
+      "verbatim": "And if you put in enough asserts, there's something to it, right?",
+      "display": "And if you put in enough asserts, there's something to it, right?",
+      "search": "and if you put in enough asserts, there's something to it, right?",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:195",
+      "startMs": 705600,
+      "endMs": 710880,
+      "verbatim": "If you can put in enough asserts and you do enough just random stochastic walking.",
+      "display": "If you can put in enough asserts and you do enough just random stochastic walking.",
+      "search": "if you can put in enough asserts and you do enough just random stochastic walking.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:196",
+      "startMs": 710880,
+      "endMs": 711600,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.748
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:197",
+      "startMs": 711680,
+      "endMs": 712960,
+      "verbatim": "Could be interesting.",
+      "display": "Could be interesting.",
+      "search": "could be interesting.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:198",
+      "startMs": 712960,
+      "endMs": 713920,
+      "verbatim": "Could be interesting.",
+      "display": "Could be interesting.",
+      "search": "could be interesting.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:199",
+      "startMs": 713920,
+      "endMs": 718240,
+      "verbatim": "Uh wouldn't that just create by definition a uh a just cracker treadmill?",
+      "display": "Uh wouldn't that just create by definition a uh a just cracker treadmill?",
+      "search": "uh wouldn't that just create by definition a uh a just cracker treadmill?",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:200",
+      "startMs": 718320,
+      "endMs": 719040,
+      "verbatim": "Probably.",
+      "display": "Probably.",
+      "search": "probably.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:201",
+      "startMs": 719040,
+      "endMs": 720400,
+      "verbatim": "Or threadmill.",
+      "display": "Or threadmill.",
+      "search": "or threadmill.",
+      "confidence": 0.569
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:202",
+      "startMs": 720400,
+      "endMs": 722720,
+      "verbatim": "A dummy protection is a must.",
+      "display": "A dummy protection is a must.",
+      "search": "a dummy protection is a must.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:203",
+      "startMs": 722720,
+      "endMs": 724560,
+      "verbatim": "But AI can't do dummy protection.",
+      "display": "But AI can't do dummy protection.",
+      "search": "but ai can't do dummy protection.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:204",
+      "startMs": 724560,
+      "endMs": 725200,
+      "verbatim": "Facts.",
+      "display": "Facts.",
+      "search": "facts.",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:205",
+      "startMs": 725200,
+      "endMs": 734800,
+      "verbatim": "I mean, if if you have every way, if you have every way a user's use your app, then there is some level of which you can reproduce how a dummy uses your app.",
+      "display": "I mean, if if you have every way, if you have every way a user's use your app, then there is some level of which you can reproduce how a dummy uses your app.",
+      "search": "i mean, if if you have every way, if you have every way a user's use your app, then there is some level of which you can reproduce how a dummy uses your app.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:206",
+      "startMs": 734800,
+      "endMs": 735840,
+      "verbatim": "But we'll see.",
+      "display": "But we'll see.",
+      "search": "but we'll see.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:207",
+      "startMs": 735840,
+      "endMs": 737360,
+      "verbatim": "Depends on how it's changed, right?",
+      "display": "Depends on how it's changed, right?",
+      "search": "depends on how it's changed, right?",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:208",
+      "startMs": 737360,
+      "endMs": 740800,
+      "verbatim": "Uh like optimizing humor and action in general is kind of sketchy.",
+      "display": "Uh like optimizing humor and action in general is kind of sketchy.",
+      "search": "uh like optimizing humor and action in general is kind of sketchy.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:209",
+      "startMs": 740800,
+      "endMs": 741600,
+      "verbatim": "Uh yeah.",
+      "display": "Uh yeah.",
+      "search": "uh yeah.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:210",
+      "startMs": 741600,
+      "endMs": 746320,
+      "verbatim": "Uh tools uh that will email you if your program throws an exception and a lot more.",
+      "display": "Uh tools uh that will email you if your program throws an exception and a lot more.",
+      "search": "uh tools uh that will email you if your program throws an exception and a lot more.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:211",
+      "startMs": 746400,
+      "endMs": 747920,
+      "verbatim": "Get hit with an email.",
+      "display": "Get hit with an email.",
+      "search": "get hit with an email.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:212",
+      "startMs": 747920,
+      "endMs": 748320,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.623
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:213",
+      "startMs": 748320,
+      "endMs": 750800,
+      "verbatim": "Fear of retribution and blameless postmortems.",
+      "display": "Fear of retribution and blameless postmortems.",
+      "search": "fear of retribution and blameless postmortems.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:214",
+      "startMs": 750800,
+      "endMs": 754160,
+      "verbatim": "But tools and processes are absolutely not uh the only thing.",
+      "display": "But tools and processes are absolutely not uh the only thing.",
+      "search": "but tools and processes are absolutely not uh the only thing.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:215",
+      "startMs": 754160,
+      "endMs": 761360,
+      "verbatim": "Even if I have amazing tools and QA systems and the best deployees and well-tested uh testing code, I'm still going to make mistakes sometimes.",
+      "display": "Even if I have amazing tools and QA systems and the best deployees and well-tested uh testing code, I'm still going to make mistakes sometimes.",
+      "search": "even if i have amazing tools and qa systems and the best deployees and well-tested uh testing code, i'm still going to make mistakes sometimes.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:216",
+      "startMs": 761360,
+      "endMs": 763680,
+      "verbatim": "And what happens when I make mistakes is really critical.",
+      "display": "And what happens when I make mistakes is really critical.",
+      "search": "and what happens when i make mistakes is really critical.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:217",
+      "startMs": 763680,
+      "endMs": 768640,
+      "verbatim": "Etsy and Google and Stripe, where I work, all have blameless postmortems.",
+      "display": "Etsy and Google and Stripe, where I work, all have blameless postmortems.",
+      "search": "etsy and google and stripe, where i work, all have blameless postmortems.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:218",
+      "startMs": 768640,
+      "endMs": 775520,
+      "verbatim": "This means that if you make a change that breaks something, people talk about what happened by focusing on the change and the facts, not blaming you.",
+      "display": "This means that if you make a change that breaks something, people talk about what happened by focusing on the change and the facts, not blaming you.",
+      "search": "this means that if you make a change that breaks something, people talk about what happened by focusing on the change and the facts, not blaming you.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:219",
+      "startMs": 776000,
+      "endMs": 782080,
+      "verbatim": "You know, the reason why I don't like this is that if you break things regularly, people are counting.",
+      "display": "You know, the reason why I don't like this is that if you break things regularly, people are counting.",
+      "search": "you know, the reason why i don't like this is that if you break things regularly, people are counting.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:220",
+      "startMs": 782080,
+      "endMs": 783600,
+      "verbatim": "People are keeping score.",
+      "display": "People are keeping score.",
+      "search": "people are keeping score.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:221",
+      "startMs": 783600,
+      "endMs": 786480,
+      "verbatim": "People are most certainly keeping score.",
+      "display": "People are most certainly keeping score.",
+      "search": "people are most certainly keeping score.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:222",
+      "startMs": 786480,
+      "endMs": 791840,
+      "verbatim": "And so that's where a lot of these things are, where it's just like, yeah, it's blameless and all these things, but is it blameless?",
+      "display": "And so that's where a lot of these things are, where it's just like, yeah, it's blameless and all these things, but is it blameless?",
+      "search": "and so that's where a lot of these things are, where it's just like, yeah, it's blameless and all these things, but is it blameless?",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:223",
+      "startMs": 791840,
+      "endMs": 794560,
+      "verbatim": "Yeah, I'm sure they bring up the score with people who are breaking enough.",
+      "display": "Yeah, I'm sure they bring up the score with people who are breaking enough.",
+      "search": "yeah, i'm sure they bring up the score with people who are breaking enough.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:224",
+      "startMs": 794560,
+      "endMs": 794960,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:225",
+      "startMs": 794960,
+      "endMs": 796560,
+      "verbatim": "It becomes talk behind their back.",
+      "display": "It becomes talk behind their back.",
+      "search": "it becomes talk behind their back.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:226",
+      "startMs": 796560,
+      "endMs": 799120,
+      "verbatim": "I don't think that this somehow creates a good culture.",
+      "display": "I don't think that this somehow creates a good culture.",
+      "search": "i don't think that this somehow creates a good culture.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:227",
+      "startMs": 799120,
+      "endMs": 801440,
+      "verbatim": "I really don't think this creates good cultures.",
+      "display": "I really don't think this creates good cultures.",
+      "search": "i really don't think this creates good cultures.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:228",
+      "startMs": 801440,
+      "endMs": 804320,
+      "verbatim": "I don't know if the other way creates good cultures either.",
+      "display": "I don't know if the other way creates good cultures either.",
+      "search": "i don't know if the other way creates good cultures either.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:229",
+      "startMs": 804320,
+      "endMs": 806400,
+      "verbatim": "I'm not offering a solution.",
+      "display": "I'm not offering a solution.",
+      "search": "i'm not offering a solution.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:230",
+      "startMs": 806400,
+      "endMs": 811360,
+      "verbatim": "I'm just offering an observation that I'm not convinced this is a net positive.",
+      "display": "I'm just offering an observation that I'm not convinced this is a net positive.",
+      "search": "i'm just offering an observation that i'm not convinced this is a net positive.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:231",
+      "startMs": 811360,
+      "endMs": 816480,
+      "verbatim": "Uh maybe it's less about blame and more about the ability to come out and say you effed up and just plainly say what you did.",
+      "display": "Uh maybe it's less about blame and more about the ability to come out and say you effed up and just plainly say what you did.",
+      "search": "uh maybe it's less about blame and more about the ability to come out and say you effed up and just plainly say what you did.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:232",
+      "startMs": 816480,
+      "endMs": 816880,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:233",
+      "startMs": 816880,
+      "endMs": 825840,
+      "verbatim": "To me, it just that's like what it comes down to is like if everyone's just kind of a grown-up and just, you know, put their big the big boy pants on, just say, yeah, I I messed up.",
+      "display": "To me, it just that's like what it comes down to is like if everyone's just kind of a grown-up and just, you know, put their big the big boy pants on, just say, yeah, I I messed up.",
+      "search": "to me, it just that's like what it comes down to is like if everyone's just kind of a grown-up and just, you know, put their big the big boy pants on, just say, yeah, i i messed up.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:234",
+      "startMs": 825840,
+      "endMs": 827120,
+      "verbatim": "How do we fix this?",
+      "display": "How do we fix this?",
+      "search": "how do we fix this?",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:235",
+      "startMs": 827120,
+      "endMs": 829840,
+      "verbatim": "Well, how how do we prevent this from happening again?",
+      "display": "Well, how how do we prevent this from happening again?",
+      "search": "well, how how do we prevent this from happening again?",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:236",
+      "startMs": 829840,
+      "endMs": 837280,
+      "verbatim": "The thing is, is you get you actually get quite a few, you get quite a few oopsie daisies before people look at you like you need to improve.",
+      "display": "The thing is, is you get you actually get quite a few, you get quite a few oopsie daisies before people look at you like you need to improve.",
+      "search": "the thing is, is you get you actually get quite a few, you get quite a few oopsie daisies before people look at you like you need to improve.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:237",
+      "startMs": 837280,
+      "endMs": 837840,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.653
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:238",
+      "startMs": 837840,
+      "endMs": 840080,
+      "verbatim": "It takes quite a bit of time.",
+      "display": "It takes quite a bit of time.",
+      "search": "it takes quite a bit of time.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:239",
+      "startMs": 840080,
+      "endMs": 840480,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:240",
+      "startMs": 840480,
+      "endMs": 847040,
+      "verbatim": "And the more like the reality is the more accountability you take, typically people are more lenient with you.",
+      "display": "And the more like the reality is the more accountability you take, typically people are more lenient with you.",
+      "search": "and the more like the reality is the more accountability you take, typically people are more lenient with you.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:241",
+      "startMs": 847040,
+      "endMs": 849840,
+      "verbatim": "Uh, I also realized that this goes much further than programming.",
+      "display": "Uh, I also realized that this goes much further than programming.",
+      "search": "uh, i also realized that this goes much further than programming.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:242",
+      "startMs": 849840,
+      "endMs": 853200,
+      "verbatim": "And Mark linked me to an amazing site about restorative justice.",
+      "display": "And Mark linked me to an amazing site about restorative justice.",
+      "search": "and mark linked me to an amazing site about restorative justice.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:243",
+      "startMs": 853200,
+      "endMs": 854320,
+      "verbatim": "I'm not sure what that means.",
+      "display": "I'm not sure what that means.",
+      "search": "i'm not sure what that means.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:244",
+      "startMs": 854320,
+      "endMs": 858800,
+      "verbatim": "Anytime there's an adjective with justice, I always get I get confused by it, which you should also go read.",
+      "display": "Anytime there's an adjective with justice, I always get I get confused by it, which you should also go read.",
+      "search": "anytime there's an adjective with justice, i always get i get confused by it, which you should also go read.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:245",
+      "startMs": 858800,
+      "endMs": 864320,
+      "verbatim": "So if you blame people for breaking things, they'll become more scared to make changes in the future and you'll end up with worse programs.",
+      "display": "So if you blame people for breaking things, they'll become more scared to make changes in the future and you'll end up with worse programs.",
+      "search": "so if you blame people for breaking things, they'll become more scared to make changes in the future and you'll end up with worse programs.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:246",
+      "startMs": 864320,
+      "endMs": 870720,
+      "verbatim": "I don't know if I I'm not sure if I buy I I think this is a a bit of a logical leap.",
+      "display": "I don't know if I I'm not sure if I buy I I think this is a a bit of a logical leap.",
+      "search": "i don't know if i i'm not sure if i buy i i think this is a a bit of a logical leap.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:247",
+      "startMs": 870720,
+      "endMs": 884480,
+      "verbatim": "The problem that I have generally with this take is that that I think you always being afraid is more of a problem than you trying to set up a system that prevents you from having the fear in general.",
+      "display": "The problem that I have generally with this take is that that I think you always being afraid is more of a problem than you trying to set up a system that prevents you from having the fear in general.",
+      "search": "the problem that i have generally with this take is that that i think you always being afraid is more of a problem than you trying to set up a system that prevents you from having the fear in general.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:248",
+      "startMs": 884480,
+      "endMs": 889680,
+      "verbatim": "I think addressing the root cause is, I mean, for me, this seems like symptom curing.",
+      "display": "I think addressing the root cause is, I mean, for me, this seems like symptom curing.",
+      "search": "i think addressing the root cause is, i mean, for me, this seems like symptom curing.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:249",
+      "startMs": 889680,
+      "endMs": 896640,
+      "verbatim": "That's how I look at it is that you're trying to avoid people having the symptom as opposed to figuring out what's the cure.",
+      "display": "That's how I look at it is that you're trying to avoid people having the symptom as opposed to figuring out what's the cure.",
+      "search": "that's how i look at it is that you're trying to avoid people having the symptom as opposed to figuring out what's the cure.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:250",
+      "startMs": 896640,
+      "endMs": 907040,
+      "verbatim": "Anyways, uh one last thing that uh one last thing that that fear driven uh driven development talk talks about that really resonates with me was some fears are irrational.",
+      "display": "Anyways, uh one last thing that uh one last thing that that fear driven uh driven development talk talks about that really resonates with me was some fears are irrational.",
+      "search": "anyways, uh one last thing that uh one last thing that that fear driven uh driven development talk talks about that really resonates with me was some fears are irrational.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:251",
+      "startMs": 907040,
+      "endMs": 909280,
+      "verbatim": "Very true, and they can infect other people.",
+      "display": "Very true, and they can infect other people.",
+      "search": "very true, and they can infect other people.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:252",
+      "startMs": 909280,
+      "endMs": 916480,
+      "verbatim": "If you deploy something goes wrong and you and you figure out the cause and fix the problem and nobody yells at you, hopefully future deploys should not be that scary.",
+      "display": "If you deploy something goes wrong and you and you figure out the cause and fix the problem and nobody yells at you, hopefully future deploys should not be that scary.",
+      "search": "if you deploy something goes wrong and you and you figure out the cause and fix the problem and nobody yells at you, hopefully future deploys should not be that scary.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:253",
+      "startMs": 916480,
+      "endMs": 917840,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:254",
+      "startMs": 917840,
+      "endMs": 923600,
+      "verbatim": "I mean, I I do understand if you're new at a job and your first time putting out code, there's probably a little bit of hesitation for sure.",
+      "display": "I mean, I I do understand if you're new at a job and your first time putting out code, there's probably a little bit of hesitation for sure.",
+      "search": "i mean, i i do understand if you're new at a job and your first time putting out code, there's probably a little bit of hesitation for sure.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:255",
+      "startMs": 923600,
+      "endMs": 926640,
+      "verbatim": "I have the problem with calling it fear because I don't really feel afraid.",
+      "display": "I have the problem with calling it fear because I don't really feel afraid.",
+      "search": "i have the problem with calling it fear because i don't really feel afraid.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:256",
+      "startMs": 926640,
+      "endMs": 931840,
+      "verbatim": "I just like, oh man, I gotta make sure I I've checked all the boxes and that I I do good here.",
+      "display": "I just like, oh man, I gotta make sure I I've checked all the boxes and that I I do good here.",
+      "search": "i just like, oh man, i gotta make sure i i've checked all the boxes and that i i do good here.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:257",
+      "startMs": 931840,
+      "endMs": 936400,
+      "verbatim": "Uh, but because uh we are only human and not logical robots, sometimes the uh they still are.",
+      "display": "Uh, but because uh we are only human and not logical robots, sometimes the uh they still are.",
+      "search": "uh, but because uh we are only human and not logical robots, sometimes the uh they still are.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:258",
+      "startMs": 936400,
+      "endMs": 942000,
+      "verbatim": "And maybe you feel nervous about doing deploys for a while until you see that things are really uh usually fine.",
+      "display": "And maybe you feel nervous about doing deploys for a while until you see that things are really uh usually fine.",
+      "search": "and maybe you feel nervous about doing deploys for a while until you see that things are really uh usually fine.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:259",
+      "startMs": 942000,
+      "endMs": 946960,
+      "verbatim": "I think there's a lot more to be said about irrational fears, and I'd be just interested to hear more.",
+      "display": "I think there's a lot more to be said about irrational fears, and I'd be just interested to hear more.",
+      "search": "i think there's a lot more to be said about irrational fears, and i'd be just interested to hear more.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:260",
+      "startMs": 946960,
+      "endMs": 952000,
+      "verbatim": "Uh this year was the first year that I worked on a large software system that affected lots of people, and it's been scary sometimes.",
+      "display": "Uh this year was the first year that I worked on a large software system that affected lots of people, and it's been scary sometimes.",
+      "search": "uh this year was the first year that i worked on a large software system that affected lots of people, and it's been scary sometimes.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:261",
+      "startMs": 952000,
+      "endMs": 956000,
+      "verbatim": "Next year will be the second year, and my plan is to uh for it to be easier.",
+      "display": "Next year will be the second year, and my plan is to uh for it to be easier.",
+      "search": "next year will be the second year, and my plan is to uh for it to be easier.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:262",
+      "startMs": 956000,
+      "endMs": 971520,
+      "verbatim": "I mean, I really like I really like the the highlighting of irrational fears because I think almost all of us are I think not all of us, a lot of us have irrational fears on this thing.",
+      "display": "I mean, I really like I really like the the highlighting of irrational fears because I think almost all of us are I think not all of us, a lot of us have irrational fears on this thing.",
+      "search": "i mean, i really like i really like the the highlighting of irrational fears because i think almost all of us are i think not all of us, a lot of us have irrational fears on this thing.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:263",
+      "startMs": 971520,
+      "endMs": 974240,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:264",
+      "startMs": 974240,
+      "endMs": 979920,
+      "verbatim": "And I think that if you look at most of the things you think are scary, they're all irrational.",
+      "display": "And I think that if you look at most of the things you think are scary, they're all irrational.",
+      "search": "and i think that if you look at most of the things you think are scary, they're all irrational.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:265",
+      "startMs": 980640,
+      "endMs": 981680,
+      "verbatim": "I'll give you an example.",
+      "display": "I'll give you an example.",
+      "search": "i'll give you an example.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:266",
+      "startMs": 981680,
+      "endMs": 984560,
+      "verbatim": "A lot of people are very afraid of whiteboard interviews.",
+      "display": "A lot of people are very afraid of whiteboard interviews.",
+      "search": "a lot of people are very afraid of whiteboard interviews.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:267",
+      "startMs": 985440,
+      "endMs": 987760,
+      "verbatim": "Coming in a huge code base can be scary.",
+      "display": "Coming in a huge code base can be scary.",
+      "search": "coming in a huge code base can be scary.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:268",
+      "startMs": 987920,
+      "endMs": 990000,
+      "verbatim": "If you think it's scary, that's such the wrong word.",
+      "display": "If you think it's scary, that's such the wrong word.",
+      "search": "if you think it's scary, that's such the wrong word.",
+      "confidence": 0.99
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:269",
+      "startMs": 990000,
+      "endMs": 992000,
+      "verbatim": "Overwhelming, much better word.",
+      "display": "Overwhelming, much better word.",
+      "search": "overwhelming, much better word.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:270",
+      "startMs": 992000,
+      "endMs": 995680,
+      "verbatim": "Whelming, probably even the best word.",
+      "display": "Whelming, probably even the best word.",
+      "search": "whelming, probably even the best word.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:271",
+      "startMs": 995680,
+      "endMs": 1005120,
+      "verbatim": "Um scary is a a strange one, but let's go back to whiteboard interviews.",
+      "display": "Um scary is a a strange one, but let's go back to whiteboard interviews.",
+      "search": "um scary is a a strange one, but let's go back to whiteboard interviews.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:272",
+      "startMs": 1005120,
+      "endMs": 1008560,
+      "verbatim": "Um It can also be underwhelming.",
+      "display": "Um It can also be underwhelming.",
+      "search": "um it can also be underwhelming.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:273",
+      "startMs": 1008960,
+      "endMs": 1013920,
+      "verbatim": "After you've seen it, you might realize the code is garbage, and then you're underwhelmed by the quality.",
+      "display": "After you've seen it, you might realize the code is garbage, and then you're underwhelmed by the quality.",
+      "search": "after you've seen it, you might realize the code is garbage, and then you're underwhelmed by the quality.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:274",
+      "startMs": 1013920,
+      "endMs": 1028320,
+      "verbatim": "Um, but when I talk about whiteboard interviews, I see a lot of people that are like, they they say how scared they are about the whiteboard interview, and I I get very curious or confused by the statement because there's a couple things that are true.",
+      "display": "Um, but when I talk about whiteboard interviews, I see a lot of people that are like, they they say how scared they are about the whiteboard interview, and I I get very curious or confused by the statement because there's a couple things that are true.",
+      "search": "um, but when i talk about whiteboard interviews, i see a lot of people that are like, they they say how scared they are about the whiteboard interview, and i i get very curious or confused by the statement because there's a couple things that are true.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:275",
+      "startMs": 1028320,
+      "endMs": 1032560,
+      "verbatim": "The interviewer could ask you something that you do not know.",
+      "display": "The interviewer could ask you something that you do not know.",
+      "search": "the interviewer could ask you something that you do not know.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:276",
+      "startMs": 1032560,
+      "endMs": 1033040,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:277",
+      "startMs": 1033040,
+      "endMs": 1038320,
+      "verbatim": "I mean, that's that's really where the fear kind of breaks down to is that you're gonna be asked a question in which you cannot answer.",
+      "display": "I mean, that's that's really where the fear kind of breaks down to is that you're gonna be asked a question in which you cannot answer.",
+      "search": "i mean, that's that's really where the fear kind of breaks down to is that you're gonna be asked a question in which you cannot answer.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:278",
+      "startMs": 1038320,
+      "endMs": 1041120,
+      "verbatim": "But what happened if you're asked a question that you can't answer?",
+      "display": "But what happened if you're asked a question that you can't answer?",
+      "search": "but what happened if you're asked a question that you can't answer?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:279",
+      "startMs": 1041120,
+      "endMs": 1044080,
+      "verbatim": "How have you increased your surface area of questions that you can't answer?",
+      "display": "How have you increased your surface area of questions that you can't answer?",
+      "search": "how have you increased your surface area of questions that you can't answer?",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:280",
+      "startMs": 1044080,
+      "endMs": 1045680,
+      "verbatim": "Can you answer those questions?",
+      "display": "Can you answer those questions?",
+      "search": "can you answer those questions?",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:281",
+      "startMs": 1045680,
+      "endMs": 1053920,
+      "verbatim": "If you feel like you have a pretty good surface area, you've done a lot of studying, you've really thought about your craft, you've been doing it for a while, then why are you afraid?",
+      "display": "If you feel like you have a pretty good surface area, you've done a lot of studying, you've really thought about your craft, you've been doing it for a while, then why are you afraid?",
+      "search": "if you feel like you have a pretty good surface area, you've done a lot of studying, you've really thought about your craft, you've been doing it for a while, then why are you afraid?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:282",
+      "startMs": 1053920,
+      "endMs": 1057360,
+      "verbatim": "The chance of them asking you some question you don't know always exists.",
+      "display": "The chance of them asking you some question you don't know always exists.",
+      "search": "the chance of them asking you some question you don't know always exists.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:283",
+      "startMs": 1057360,
+      "endMs": 1060240,
+      "verbatim": "Like, why are you focusing on the negative side of things?",
+      "display": "Like, why are you focusing on the negative side of things?",
+      "search": "like, why are you focusing on the negative side of things?",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:284",
+      "startMs": 1060240,
+      "endMs": 1061520,
+      "verbatim": "It's kind of irrational.",
+      "display": "It's kind of irrational.",
+      "search": "it's kind of irrational.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:285",
+      "startMs": 1061520,
+      "endMs": 1061840,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.668
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:286",
+      "startMs": 1061840,
+      "endMs": 1063760,
+      "verbatim": "And that's why we call it irrational fear.",
+      "display": "And that's why we call it irrational fear.",
+      "search": "and that's why we call it irrational fear.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:287",
+      "startMs": 1063760,
+      "endMs": 1069280,
+      "verbatim": "Like, but that that's what that's why you logically think through the situation.",
+      "display": "Like, but that that's what that's why you logically think through the situation.",
+      "search": "like, but that that's what that's why you logically think through the situation.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:288",
+      "startMs": 1069280,
+      "endMs": 1074560,
+      "verbatim": "Like, what cures a lot of fear is being logical about your approach.",
+      "display": "Like, what cures a lot of fear is being logical about your approach.",
+      "search": "like, what cures a lot of fear is being logical about your approach.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:289",
+      "startMs": 1074560,
+      "endMs": 1076400,
+      "verbatim": "Of course, anxiety sucks.",
+      "display": "Of course, anxiety sucks.",
+      "search": "of course, anxiety sucks.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:290",
+      "startMs": 1076400,
+      "endMs": 1082080,
+      "verbatim": "And it's definitely, I mean, there's definitely a trained habit within anxiety as well.",
+      "display": "And it's definitely, I mean, there's definitely a trained habit within anxiety as well.",
+      "search": "and it's definitely, i mean, there's definitely a trained habit within anxiety as well.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:291",
+      "startMs": 1082080,
+      "endMs": 1096880,
+      "verbatim": "And what I mean by a trained habit habit is that if you feel fear and you just sit there and let it control you, and you change how you act because of fear, that makes you like technically a coward.",
+      "display": "And what I mean by a trained habit habit is that if you feel fear and you just sit there and let it control you, and you change how you act because of fear, that makes you like technically a coward.",
+      "search": "and what i mean by a trained habit habit is that if you feel fear and you just sit there and let it control you, and you change how you act because of fear, that makes you like technically a coward.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:292",
+      "startMs": 1096880,
+      "endMs": 1103920,
+      "verbatim": "And by doing that, you've just allowed whatever that, like, whatever that behavioral pattern to set in stronger.",
+      "display": "And by doing that, you've just allowed whatever that, like, whatever that behavioral pattern to set in stronger.",
+      "search": "and by doing that, you've just allowed whatever that, like, whatever that behavioral pattern to set in stronger.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:293",
+      "startMs": 1103920,
+      "endMs": 1109520,
+      "verbatim": "There's this there's this phrase that people say, which is neurons that uh fire together wire together.",
+      "display": "There's this there's this phrase that people say, which is neurons that uh fire together wire together.",
+      "search": "there's this there's this phrase that people say, which is neurons that uh fire together wire together.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:294",
+      "startMs": 1109520,
+      "endMs": 1114160,
+      "verbatim": "And so if you allow these things to happen, then you're gonna do that.",
+      "display": "And so if you allow these things to happen, then you're gonna do that.",
+      "search": "and so if you allow these things to happen, then you're gonna do that.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:295",
+      "startMs": 1114160,
+      "endMs": 1117360,
+      "verbatim": "You're gonna you're gonna allow those things to to wire together.",
+      "display": "You're gonna you're gonna allow those things to to wire together.",
+      "search": "you're gonna you're gonna allow those things to to wire together.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:296",
+      "startMs": 1117360,
+      "endMs": 1119760,
+      "verbatim": "See, this by the way, this is a very stupid phrase.",
+      "display": "See, this by the way, this is a very stupid phrase.",
+      "search": "see, this by the way, this is a very stupid phrase.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:297",
+      "startMs": 1120240,
+      "endMs": 1122080,
+      "verbatim": "Damn cowards won't play in traffic.",
+      "display": "Damn cowards won't play in traffic.",
+      "search": "damn cowards won't play in traffic.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:298",
+      "startMs": 1122080,
+      "endMs": 1123920,
+      "verbatim": "That has nothing to do with what we're talking about.",
+      "display": "That has nothing to do with what we're talking about.",
+      "search": "that has nothing to do with what we're talking about.",
+      "confidence": 0.997
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:299",
+      "startMs": 1123920,
+      "endMs": 1135440,
+      "verbatim": "If you somehow equate a whiteboard interview and being afraid you might be asked a question that you're not gonna get versus doing something that's objectively dangerous, you are a moron, right?",
+      "display": "If you somehow equate a whiteboard interview and being afraid you might be asked a question that you're not gonna get versus doing something that's objectively dangerous, you are a moron, right?",
+      "search": "if you somehow equate a whiteboard interview and being afraid you might be asked a question that you're not gonna get versus doing something that's objectively dangerous, you are a moron, right?",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:300",
+      "startMs": 1135440,
+      "endMs": 1138320,
+      "verbatim": "Like you're j you're genuinely a moron, okay?",
+      "display": "Like you're j you're genuinely a moron, okay?",
+      "search": "like you're j you're genuinely a moron, okay?",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:301",
+      "startMs": 1138320,
+      "endMs": 1140400,
+      "verbatim": "So don't don't be a moron.",
+      "display": "So don't don't be a moron.",
+      "search": "so don't don't be a moron.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:302",
+      "startMs": 1140400,
+      "endMs": 1143120,
+      "verbatim": "Be be at least a little clever, okay?",
+      "display": "Be be at least a little clever, okay?",
+      "search": "be be at least a little clever, okay?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:303",
+      "startMs": 1143120,
+      "endMs": 1145760,
+      "verbatim": "At least think about things before you say them, right?",
+      "display": "At least think about things before you say them, right?",
+      "search": "at least think about things before you say them, right?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:304",
+      "startMs": 1145760,
+      "endMs": 1146880,
+      "verbatim": "Moron is a strong word.",
+      "display": "Moron is a strong word.",
+      "search": "moron is a strong word.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:305",
+      "startMs": 1146880,
+      "endMs": 1148080,
+      "verbatim": "It's not a strong word.",
+      "display": "It's not a strong word.",
+      "search": "it's not a strong word.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:306",
+      "startMs": 1148080,
+      "endMs": 1149520,
+      "verbatim": "You're being a moron.",
+      "display": "You're being a moron.",
+      "search": "you're being a moron.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:307",
+      "startMs": 1149520,
+      "endMs": 1159040,
+      "verbatim": "If you cannot hear somebody say something without thinking of the most objectable or uh obviously bad faith argument possible, then you are being a moron.",
+      "display": "If you cannot hear somebody say something without thinking of the most objectable or uh obviously bad faith argument possible, then you are being a moron.",
+      "search": "if you cannot hear somebody say something without thinking of the most objectable or uh obviously bad faith argument possible, then you are being a moron.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:308",
+      "startMs": 1159040,
+      "endMs": 1160160,
+      "verbatim": "That's what a moron does, okay?",
+      "display": "That's what a moron does, okay?",
+      "search": "that's what a moron does, okay?",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:309",
+      "startMs": 1160160,
+      "endMs": 1161920,
+      "verbatim": "A fool might be a better word.",
+      "display": "A fool might be a better word.",
+      "search": "a fool might be a better word.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:310",
+      "startMs": 1161920,
+      "endMs": 1169760,
+      "verbatim": "Um, and so don't like it that's how I think about it, which is there's always a chance you'll fail, no matter what.",
+      "display": "Um, and so don't like it that's how I think about it, which is there's always a chance you'll fail, no matter what.",
+      "search": "um, and so don't like it that's how i think about it, which is there's always a chance you'll fail, no matter what.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:311",
+      "startMs": 1169760,
+      "endMs": 1177520,
+      "verbatim": "In any sort of in any sort of the in any activity you do, there's a chance you'll fail.",
+      "display": "In any sort of in any sort of the in any activity you do, there's a chance you'll fail.",
+      "search": "in any sort of in any sort of the in any activity you do, there's a chance you'll fail.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:312",
+      "startMs": 1177680,
+      "endMs": 1179200,
+      "verbatim": "Think about it this way.",
+      "display": "Think about it this way.",
+      "search": "think about it this way.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:313",
+      "startMs": 1179200,
+      "endMs": 1185360,
+      "verbatim": "Take the best free throw uh free throw shooter in the world, has been practicing their entire lifetime.",
+      "display": "Take the best free throw uh free throw shooter in the world, has been practicing their entire lifetime.",
+      "search": "take the best free throw uh free throw shooter in the world, has been practicing their entire lifetime.",
+      "confidence": 0.683
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:314",
+      "startMs": 1185680,
+      "endMs": 1186880,
+      "verbatim": "What's their percentage?",
+      "display": "What's their percentage?",
+      "search": "what's their percentage?",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:315",
+      "startMs": 1187280,
+      "endMs": 1189920,
+      "verbatim": "It's not a hundred percent.",
+      "display": "It's not a hundred percent.",
+      "search": "it's not a hundred percent.",
+      "confidence": 0.671
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:316",
+      "startMs": 1189920,
+      "endMs": 1195360,
+      "verbatim": "They can't even reproduce a physical shot over and over again.",
+      "display": "They can't even reproduce a physical shot over and over again.",
+      "search": "they can't even reproduce a physical shot over and over again.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:317",
+      "startMs": 1195360,
+      "endMs": 1199760,
+      "verbatim": "They can't do a physical motion over and over again the same a hundred percent of the time.",
+      "display": "They can't do a physical motion over and over again the same a hundred percent of the time.",
+      "search": "they can't do a physical motion over and over again the same a hundred percent of the time.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:318",
+      "startMs": 1200840,
+      "endMs": 1206440,
+      "verbatim": "So imagine something that's significantly more complex, right?",
+      "display": "So imagine something that's significantly more complex, right?",
+      "search": "so imagine something that's significantly more complex, right?",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:319",
+      "startMs": 1206440,
+      "endMs": 1210600,
+      "verbatim": "So why shouldn't you like why should you expect not to fail sometimes?",
+      "display": "So why shouldn't you like why should you expect not to fail sometimes?",
+      "search": "so why shouldn't you like why should you expect not to fail sometimes?",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:320",
+      "startMs": 1210600,
+      "endMs": 1213720,
+      "verbatim": "It's not an it's not a critique of your character.",
+      "display": "It's not an it's not a critique of your character.",
+      "search": "it's not an it's not a critique of your character.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:321",
+      "startMs": 1213720,
+      "endMs": 1216760,
+      "verbatim": "It's literally that it's this is an expectation.",
+      "display": "It's literally that it's this is an expectation.",
+      "search": "it's literally that it's this is an expectation.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:322",
+      "startMs": 1216760,
+      "endMs": 1219320,
+      "verbatim": "This should be what you think should happen.",
+      "display": "This should be what you think should happen.",
+      "search": "this should be what you think should happen.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:323",
+      "startMs": 1219320,
+      "endMs": 1219800,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.679
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:324",
+      "startMs": 1219800,
+      "endMs": 1230600,
+      "verbatim": "And so that's where I have a lot of the problems with these things is that people j generate all these fears and they they want they want the world to change around them because the world is scary, because there might be failure.",
+      "display": "And so that's where I have a lot of the problems with these things is that people j generate all these fears and they they want they want the world to change around them because the world is scary, because there might be failure.",
+      "search": "and so that's where i have a lot of the problems with these things is that people j generate all these fears and they they want they want the world to change around them because the world is scary, because there might be failure.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:325",
+      "startMs": 1230600,
+      "endMs": 1232760,
+      "verbatim": "Like, yeah, the world will always have failure.",
+      "display": "Like, yeah, the world will always have failure.",
+      "search": "like, yeah, the world will always have failure.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:326",
+      "startMs": 1232760,
+      "endMs": 1234680,
+      "verbatim": "You cannot protect yourself against failure.",
+      "display": "You cannot protect yourself against failure.",
+      "search": "you cannot protect yourself against failure.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:327",
+      "startMs": 1234680,
+      "endMs": 1237080,
+      "verbatim": "Embrace the fact you're going to fail.",
+      "display": "Embrace the fact you're going to fail.",
+      "search": "embrace the fact you're going to fail.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:328",
+      "startMs": 1237080,
+      "endMs": 1241640,
+      "verbatim": "And it's gonna just destroy a huge percentage of your anxiety over these kind of things.",
+      "display": "And it's gonna just destroy a huge percentage of your anxiety over these kind of things.",
+      "search": "and it's gonna just destroy a huge percentage of your anxiety over these kind of things.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:329",
+      "startMs": 1241640,
+      "endMs": 1245960,
+      "verbatim": "Like if you just if you if you if you willingly embrace that, it's gonna be good.",
+      "display": "Like if you just if you if you if you willingly embrace that, it's gonna be good.",
+      "search": "like if you just if you if you if you willingly embrace that, it's gonna be good.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:330",
+      "startMs": 1245960,
+      "endMs": 1257560,
+      "verbatim": "But I'll say the inverse, which is that if you constantly make decisions in which you accept the fear and say, I'm gonna change what I'm doing because of fear, you are going to become more afraid.",
+      "display": "But I'll say the inverse, which is that if you constantly make decisions in which you accept the fear and say, I'm gonna change what I'm doing because of fear, you are going to become more afraid.",
+      "search": "but i'll say the inverse, which is that if you constantly make decisions in which you accept the fear and say, i'm gonna change what i'm doing because of fear, you are going to become more afraid.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:331",
+      "startMs": 1257560,
+      "endMs": 1259640,
+      "verbatim": "There's no staying in one position.",
+      "display": "There's no staying in one position.",
+      "search": "there's no staying in one position.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:332",
+      "startMs": 1259640,
+      "endMs": 1262840,
+      "verbatim": "You can never stay in one place.",
+      "display": "You can never stay in one place.",
+      "search": "you can never stay in one place.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:333",
+      "startMs": 1262840,
+      "endMs": 1267640,
+      "verbatim": "You'll either become more afraid or you'll become less afraid.",
+      "display": "You'll either become more afraid or you'll become less afraid.",
+      "search": "you'll either become more afraid or you'll become less afraid.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:334",
+      "startMs": 1267640,
+      "endMs": 1272760,
+      "verbatim": "There's you there is no, there is no stagnant.",
+      "display": "There's you there is no, there is no stagnant.",
+      "search": "there's you there is no, there is no stagnant.",
+      "confidence": 0.575
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:335",
+      "startMs": 1272760,
+      "endMs": 1274280,
+      "verbatim": "Failure is growth.",
+      "display": "Failure is growth.",
+      "search": "failure is growth.",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:336",
+      "startMs": 1274280,
+      "endMs": 1275560,
+      "verbatim": "Exactly.",
+      "display": "Exactly.",
+      "search": "exactly.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:337",
+      "startMs": 1275560,
+      "endMs": 1279320,
+      "verbatim": "Do you know how scary it is to go on stage and talk in front of people?",
+      "display": "Do you know how scary it is to go on stage and talk in front of people?",
+      "search": "do you know how scary it is to go on stage and talk in front of people?",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:338",
+      "startMs": 1279320,
+      "endMs": 1280440,
+      "verbatim": "Every single time.",
+      "display": "Every single time.",
+      "search": "every single time.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:339",
+      "startMs": 1280440,
+      "endMs": 1281880,
+      "verbatim": "Every single time.",
+      "display": "Every single time.",
+      "search": "every single time.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:340",
+      "startMs": 1281880,
+      "endMs": 1283720,
+      "verbatim": "I feel awful.",
+      "display": "I feel awful.",
+      "search": "i feel awful.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:341",
+      "startMs": 1283720,
+      "endMs": 1286360,
+      "verbatim": "It's why I don't like to hold microphones whenever I do it.",
+      "display": "It's why I don't like to hold microphones whenever I do it.",
+      "search": "it's why i don't like to hold microphones whenever i do it.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:342",
+      "startMs": 1286360,
+      "endMs": 1288520,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:343",
+      "startMs": 1288520,
+      "endMs": 1292040,
+      "verbatim": "Every single time I go onto a stage, it feels awful.",
+      "display": "Every single time I go onto a stage, it feels awful.",
+      "search": "every single time i go onto a stage, it feels awful.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:344",
+      "startMs": 1292040,
+      "endMs": 1294280,
+      "verbatim": "But you will never be able to detect it from my voice.",
+      "display": "But you will never be able to detect it from my voice.",
+      "search": "but you will never be able to detect it from my voice.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:345",
+      "startMs": 1294280,
+      "endMs": 1295160,
+      "verbatim": "You know why?",
+      "display": "You know why?",
+      "search": "you know why?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:346",
+      "startMs": 1295160,
+      "endMs": 1305480,
+      "verbatim": "Because when I go up there, I make a commitment to my heart that when I walk on there, I'm gonna go on there and I'm gonna just speak with my chest, and I'm just gonna say it, and I'm not gonna flinch.",
+      "display": "Because when I go up there, I make a commitment to my heart that when I walk on there, I'm gonna go on there and I'm gonna just speak with my chest, and I'm just gonna say it, and I'm not gonna flinch.",
+      "search": "because when i go up there, i make a commitment to my heart that when i walk on there, i'm gonna go on there and i'm gonna just speak with my chest, and i'm just gonna say it, and i'm not gonna flinch.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:347",
+      "startMs": 1305480,
+      "endMs": 1308600,
+      "verbatim": "And on my inside, if I hold a microphone, I'm shaken.",
+      "display": "And on my inside, if I hold a microphone, I'm shaken.",
+      "search": "and on my inside, if i hold a microphone, i'm shaken.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:348",
+      "startMs": 1308600,
+      "endMs": 1311720,
+      "verbatim": "I'm shaken wildly.",
+      "display": "I'm shaken wildly.",
+      "search": "i'm shaken wildly.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:349",
+      "startMs": 1311720,
+      "endMs": 1314840,
+      "verbatim": "But externally, I have made the choice.",
+      "display": "But externally, I have made the choice.",
+      "search": "but externally, i have made the choice.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:350",
+      "startMs": 1314840,
+      "endMs": 1316680,
+      "verbatim": "I will just defeat that.",
+      "display": "I will just defeat that.",
+      "search": "i will just defeat that.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:351",
+      "startMs": 1316680,
+      "endMs": 1323160,
+      "verbatim": "I just refuse to give in to the into the into any sort of like fear like that or anxiety around things.",
+      "display": "I just refuse to give in to the into the into any sort of like fear like that or anxiety around things.",
+      "search": "i just refuse to give in to the into the into any sort of like fear like that or anxiety around things.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:352",
+      "startMs": 1323160,
+      "endMs": 1326360,
+      "verbatim": "You can't you can't let yourself be dictated by it.",
+      "display": "You can't you can't let yourself be dictated by it.",
+      "search": "you can't you can't let yourself be dictated by it.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:353",
+      "startMs": 1326360,
+      "endMs": 1327000,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.684
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:354",
+      "startMs": 1327000,
+      "endMs": 1332360,
+      "verbatim": "You really don't, you really don't want to be dictated by that thing.",
+      "display": "You really don't, you really don't want to be dictated by that thing.",
+      "search": "you really don't, you really don't want to be dictated by that thing.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:355",
+      "startMs": 1332360,
+      "endMs": 1346040,
+      "verbatim": "Because you will you will significantly hinder your growth as a person and in your life if you expect the world to become a safer place for you rather than you to become a more brave person for the world.",
+      "display": "Because you will you will significantly hinder your growth as a person and in your life if you expect the world to become a safer place for you rather than you to become a more brave person for the world.",
+      "search": "because you will you will significantly hinder your growth as a person and in your life if you expect the world to become a safer place for you rather than you to become a more brave person for the world.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:356",
+      "startMs": 1346040,
+      "endMs": 1347640,
+      "verbatim": "I'm not saying it's easy, by the way.",
+      "display": "I'm not saying it's easy, by the way.",
+      "search": "i'm not saying it's easy, by the way.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:357",
+      "startMs": 1347640,
+      "endMs": 1358440,
+      "verbatim": "Like I said, I shake, I shake like a like someone just said, I shake like an old alcoholic when I get on stage and I hope I never have to hold a mic.",
+      "display": "Like I said, I shake, I shake like a like someone just said, I shake like an old alcoholic when I get on stage and I hope I never have to hold a mic.",
+      "search": "like i said, i shake, i shake like a like someone just said, i shake like an old alcoholic when i get on stage and i hope i never have to hold a mic.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:358",
+      "startMs": 1358440,
+      "endMs": 1359160,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:359",
+      "startMs": 1359160,
+      "endMs": 1362040,
+      "verbatim": "I hope I never have to hold a mic while doing it.",
+      "display": "I hope I never have to hold a mic while doing it.",
+      "search": "i hope i never have to hold a mic while doing it.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:360",
+      "startMs": 1362040,
+      "endMs": 1370200,
+      "verbatim": "But if you give me a mic and say you have to hold this mic and go speak in front of a thousand people right now, I'll do it.",
+      "display": "But if you give me a mic and say you have to hold this mic and go speak in front of a thousand people right now, I'll do it.",
+      "search": "but if you give me a mic and say you have to hold this mic and go speak in front of a thousand people right now, i'll do it.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:361",
+      "startMs": 1370200,
+      "endMs": 1380360,
+      "verbatim": "And I'm gonna shake and I'm gonna feel like I look like an idiot, but I'm gonna go out there and I'm gonna speak with all of my chest, and I'm gonna just absolutely go all in on it.",
+      "display": "And I'm gonna shake and I'm gonna feel like I look like an idiot, but I'm gonna go out there and I'm gonna speak with all of my chest, and I'm gonna just absolutely go all in on it.",
+      "search": "and i'm gonna shake and i'm gonna feel like i look like an idiot, but i'm gonna go out there and i'm gonna speak with all of my chest, and i'm gonna just absolutely go all in on it.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:362",
+      "startMs": 1380360,
+      "endMs": 1383160,
+      "verbatim": "Anyways, sorry.",
+      "display": "Anyways, sorry.",
+      "search": "anyways, sorry.",
+      "confidence": 0.627
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:363",
+      "startMs": 1385080,
+      "endMs": 1389000,
+      "verbatim": "Uh uh fear can make you freeze or it can inspire you to move.",
+      "display": "Uh uh fear can make you freeze or it can inspire you to move.",
+      "search": "uh uh fear can make you freeze or it can inspire you to move.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:364",
+      "startMs": 1389000,
+      "endMs": 1390040,
+      "verbatim": "Yeah, it's true.",
+      "display": "Yeah, it's true.",
+      "search": "yeah, it's true.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:365",
+      "startMs": 1390040,
+      "endMs": 1391960,
+      "verbatim": "The whole fight or flight thing, right?",
+      "display": "The whole fight or flight thing, right?",
+      "search": "the whole fight or flight thing, right?",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:366",
+      "startMs": 1391960,
+      "endMs": 1393320,
+      "verbatim": "That's why mentorship is important.",
+      "display": "That's why mentorship is important.",
+      "search": "that's why mentorship is important.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:367",
+      "startMs": 1393320,
+      "endMs": 1394520,
+      "verbatim": "Yeah, I agree with that.",
+      "display": "Yeah, I agree with that.",
+      "search": "yeah, i agree with that.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:368",
+      "startMs": 1394520,
+      "endMs": 1396680,
+      "verbatim": "Anyways, sorry that, you know.",
+      "display": "Anyways, sorry that, you know.",
+      "search": "anyways, sorry that, you know.",
+      "confidence": 0.589
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:369",
+      "startMs": 1398040,
+      "endMs": 1399240,
+      "verbatim": "I'm not saying it's easy.",
+      "display": "I'm not saying it's easy.",
+      "search": "i'm not saying it's easy.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:370",
+      "startMs": 1399240,
+      "endMs": 1404280,
+      "verbatim": "I hope, I hope the takeaway people have isn't that it's easy.",
+      "display": "I hope, I hope the takeaway people have isn't that it's easy.",
+      "search": "i hope, i hope the takeaway people have isn't that it's easy.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:371",
+      "startMs": 1404280,
+      "endMs": 1405240,
+      "verbatim": "And you know what?",
+      "display": "And you know what?",
+      "search": "and you know what?",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:372",
+      "startMs": 1405240,
+      "endMs": 1411960,
+      "verbatim": "Some of some of you will have more anxiety, and some of you will have less anxiety, right?",
+      "display": "Some of some of you will have more anxiety, and some of you will have less anxiety, right?",
+      "search": "some of some of you will have more anxiety, and some of you will have less anxiety, right?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:373",
+      "startMs": 1411960,
+      "endMs": 1413800,
+      "verbatim": "We're all we all have permutations.",
+      "display": "We're all we all have permutations.",
+      "search": "we're all we all have permutations.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:374",
+      "startMs": 1413800,
+      "endMs": 1417880,
+      "verbatim": "Like TJ is probably the best programmer I've ever met.",
+      "display": "Like TJ is probably the best programmer I've ever met.",
+      "search": "like tj is probably the best programmer i've ever met.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:375",
+      "startMs": 1417880,
+      "endMs": 1422520,
+      "verbatim": "Hands down, probably the best programmer I have ever met.",
+      "display": "Hands down, probably the best programmer I have ever met.",
+      "search": "hands down, probably the best programmer i have ever met.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:376",
+      "startMs": 1422520,
+      "endMs": 1430360,
+      "verbatim": "And part of that is because he is uh he practices and does it does a lot of work.",
+      "display": "And part of that is because he is uh he practices and does it does a lot of work.",
+      "search": "and part of that is because he is uh he practices and does it does a lot of work.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:377",
+      "startMs": 1430360,
+      "endMs": 1435720,
+      "verbatim": "But the other part of it is because he is uh, dude, he's just born talented.",
+      "display": "But the other part of it is because he is uh, dude, he's just born talented.",
+      "search": "but the other part of it is because he is uh, dude, he's just born talented.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:378",
+      "startMs": 1435720,
+      "endMs": 1437640,
+      "verbatim": "The man is just simply born talented.",
+      "display": "The man is just simply born talented.",
+      "search": "the man is just simply born talented.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:379",
+      "startMs": 1437640,
+      "endMs": 1440840,
+      "verbatim": "If you don't know Tiege, oh Lawrence said who's Tiege?",
+      "display": "If you don't know Tiege, oh Lawrence said who's Tiege?",
+      "search": "if you don't know tiege, oh lawrence said who's tiege?",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:380",
+      "startMs": 1440840,
+      "endMs": 1441800,
+      "verbatim": "You haven't met me.",
+      "display": "You haven't met me.",
+      "search": "you haven't met me.",
+      "confidence": 0.731
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:381",
+      "startMs": 1442120,
+      "endMs": 1443080,
+      "verbatim": "Facts.",
+      "display": "Facts.",
+      "search": "facts.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:382",
+      "startMs": 1443080,
+      "endMs": 1445480,
+      "verbatim": "Okay, I don't know why Tiege didn't show up here.",
+      "display": "Okay, I don't know why Tiege didn't show up here.",
+      "search": "okay, i don't know why tiege didn't show up here.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:383",
+      "startMs": 1445480,
+      "endMs": 1447720,
+      "verbatim": "Uh Tiege, where's Tiege?",
+      "display": "Uh Tiege, where's Tiege?",
+      "search": "uh tiege, where's tiege?",
+      "confidence": 0.664
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:384",
+      "startMs": 1447720,
+      "endMs": 1448280,
+      "verbatim": "There you go.",
+      "display": "There you go.",
+      "search": "there you go.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:385",
+      "startMs": 1448280,
+      "endMs": 1450280,
+      "verbatim": "Uh Twitch TV Tiege DV.",
+      "display": "Uh Twitch TV Tiege DV.",
+      "search": "uh twitch tv tiege dv.",
+      "confidence": 0.705
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:386",
+      "startMs": 1450280,
+      "endMs": 1459480,
+      "verbatim": "Uh but yeah, like genuinely, clear, clearly physically gifted, but also has worked hard.",
+      "display": "Uh but yeah, like genuinely, clear, clearly physically gifted, but also has worked hard.",
+      "search": "uh but yeah, like genuinely, clear, clearly physically gifted, but also has worked hard.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:387",
+      "startMs": 1459480,
+      "endMs": 1462600,
+      "verbatim": "And so I know I know variations exist, right?",
+      "display": "And so I know I know variations exist, right?",
+      "search": "and so i know i know variations exist, right?",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:388",
+      "startMs": 1462600,
+      "endMs": 1464360,
+      "verbatim": "All variations exist.",
+      "display": "All variations exist.",
+      "search": "all variations exist.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:389",
+      "startMs": 1464520,
+      "endMs": 1467240,
+      "verbatim": "Some people, you know what the worst part about a lot of these things?",
+      "display": "Some people, you know what the worst part about a lot of these things?",
+      "search": "some people, you know what the worst part about a lot of these things?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:390",
+      "startMs": 1467240,
+      "endMs": 1472600,
+      "verbatim": "Like you go and interview, and some people won't like you for some stupid ass reason, right?",
+      "display": "Like you go and interview, and some people won't like you for some stupid ass reason, right?",
+      "search": "like you go and interview, and some people won't like you for some stupid ass reason, right?",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:391",
+      "startMs": 1472600,
+      "endMs": 1474840,
+      "verbatim": "Some people could hear my voice and just not like it.",
+      "display": "Some people could hear my voice and just not like it.",
+      "search": "some people could hear my voice and just not like it.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:392",
+      "startMs": 1474840,
+      "endMs": 1475880,
+      "verbatim": "Oh, I don't like this guy.",
+      "display": "Oh, I don't like this guy.",
+      "search": "oh, i don't like this guy.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:393",
+      "startMs": 1475880,
+      "endMs": 1476680,
+      "verbatim": "And now guess what?",
+      "display": "And now guess what?",
+      "search": "and now guess what?",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:394",
+      "startMs": 1476680,
+      "endMs": 1478200,
+      "verbatim": "You're fighting an uphill battle.",
+      "display": "You're fighting an uphill battle.",
+      "search": "you're fighting an uphill battle.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:395",
+      "startMs": 1478200,
+      "endMs": 1486280,
+      "verbatim": "You got to not only impress the person, but you gotta like now overcome someone not liking you for some stupid, immutable feature, right?",
+      "display": "You got to not only impress the person, but you gotta like now overcome someone not liking you for some stupid, immutable feature, right?",
+      "search": "you got to not only impress the person, but you gotta like now overcome someone not liking you for some stupid, immutable feature, right?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:396",
+      "startMs": 1486280,
+      "endMs": 1487720,
+      "verbatim": "And that does exist.",
+      "display": "And that does exist.",
+      "search": "and that does exist.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:397",
+      "startMs": 1487720,
+      "endMs": 1490680,
+      "verbatim": "So, anyways, just something to think about.",
+      "display": "So, anyways, just something to think about.",
+      "search": "so, anyways, just something to think about.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:398",
+      "startMs": 1490920,
+      "endMs": 1496280,
+      "verbatim": "Just something to think about, and I don't want you guys to get all uh, you know.",
+      "display": "Just something to think about, and I don't want you guys to get all uh, you know.",
+      "search": "just something to think about, and i don't want you guys to get all uh, you know.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:399",
+      "startMs": 1496280,
+      "endMs": 1499560,
+      "verbatim": "Anyways, sorry, I feel strongly about this topic, okay?",
+      "display": "Anyways, sorry, I feel strongly about this topic, okay?",
+      "search": "anyways, sorry, i feel strongly about this topic, okay?",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:400",
+      "startMs": 1499560,
+      "endMs": 1505960,
+      "verbatim": "I feel, you know, I didn't think I was gonna have a lot to say, but man, it turns out I I feel very strongly about it.",
+      "display": "I feel, you know, I didn't think I was gonna have a lot to say, but man, it turns out I I feel very strongly about it.",
+      "search": "i feel, you know, i didn't think i was gonna have a lot to say, but man, it turns out i i feel very strongly about it.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:401",
+      "startMs": 1505960,
+      "endMs": 1510040,
+      "verbatim": "The reason why I feel so strongly about it, here's the reason why I feel so strongly about it.",
+      "display": "The reason why I feel so strongly about it, here's the reason why I feel so strongly about it.",
+      "search": "the reason why i feel so strongly about it, here's the reason why i feel so strongly about it.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:402",
+      "startMs": 1510040,
+      "endMs": 1513480,
+      "verbatim": "When I read this article, do you know what my takeaway to this is?",
+      "display": "When I read this article, do you know what my takeaway to this is?",
+      "search": "when i read this article, do you know what my takeaway to this is?",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:403",
+      "startMs": 1515000,
+      "endMs": 1520120,
+      "verbatim": "Julia views herself as a victim in her own story.",
+      "display": "Julia views herself as a victim in her own story.",
+      "search": "julia views herself as a victim in her own story.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:404",
+      "startMs": 1520120,
+      "endMs": 1521160,
+      "verbatim": "That's how I take it.",
+      "display": "That's how I take it.",
+      "search": "that's how i take it.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:405",
+      "startMs": 1521160,
+      "endMs": 1522360,
+      "verbatim": "Now, that may not be true.",
+      "display": "Now, that may not be true.",
+      "search": "now, that may not be true.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:406",
+      "startMs": 1522360,
+      "endMs": 1527000,
+      "verbatim": "I don't want to over overstep anything, but that's how I take it.",
+      "display": "I don't want to over overstep anything, but that's how I take it.",
+      "search": "i don't want to over overstep anything, but that's how i take it.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:407",
+      "startMs": 1527000,
+      "endMs": 1529160,
+      "verbatim": "And I don't mean that like victim mentality.",
+      "display": "And I don't mean that like victim mentality.",
+      "search": "and i don't mean that like victim mentality.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:408",
+      "startMs": 1529160,
+      "endMs": 1533000,
+      "verbatim": "I mean like she's already losing and needs to fight.",
+      "display": "I mean like she's already losing and needs to fight.",
+      "search": "i mean like she's already losing and needs to fight.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:409",
+      "startMs": 1533000,
+      "endMs": 1539560,
+      "verbatim": "And and it's, you know, like it can't you, you know, it's very, very hard and very, you know, scary.",
+      "display": "And and it's, you know, like it can't you, you know, it's very, very hard and very, you know, scary.",
+      "search": "and and it's, you know, like it can't you, you know, it's very, very hard and very, you know, scary.",
+      "confidence": 0.644
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:410",
+      "startMs": 1539560,
+      "endMs": 1542280,
+      "verbatim": "Or it's just like, don't be the victim in your own story.",
+      "display": "Or it's just like, don't be the victim in your own story.",
+      "search": "or it's just like, don't be the victim in your own story.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:411",
+      "startMs": 1542280,
+      "endMs": 1542840,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:412",
+      "startMs": 1542840,
+      "endMs": 1543960,
+      "verbatim": "It's hard.",
+      "display": "It's hard.",
+      "search": "it's hard.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:413",
+      "startMs": 1543960,
+      "endMs": 1546120,
+      "verbatim": "It's hard, it's not easy.",
+      "display": "It's hard, it's not easy.",
+      "search": "it's hard, it's not easy.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:414",
+      "startMs": 1546120,
+      "endMs": 1553480,
+      "verbatim": "I've had a lot of I've had a lot of very shockingly mean things said to me uh uh in groups of people over my career.",
+      "display": "I've had a lot of I've had a lot of very shockingly mean things said to me uh uh in groups of people over my career.",
+      "search": "i've had a lot of i've had a lot of very shockingly mean things said to me uh uh in groups of people over my career.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:415",
+      "startMs": 1553640,
+      "endMs": 1554360,
+      "verbatim": "You know, it's hard.",
+      "display": "You know, it's hard.",
+      "search": "you know, it's hard.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:416",
+      "startMs": 1554360,
+      "endMs": 1558200,
+      "verbatim": "It can make you feel bad, it can make you feel like you're not uh good enough.",
+      "display": "It can make you feel bad, it can make you feel like you're not uh good enough.",
+      "search": "it can make you feel bad, it can make you feel like you're not uh good enough.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:417",
+      "startMs": 1558200,
+      "endMs": 1561560,
+      "verbatim": "Um, you know, it's hard.",
+      "display": "Um, you know, it's hard.",
+      "search": "um, you know, it's hard.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:418",
+      "startMs": 1561560,
+      "endMs": 1565160,
+      "verbatim": "There always will be people that aren't fun to work with, that aren't good.",
+      "display": "There always will be people that aren't fun to work with, that aren't good.",
+      "search": "there always will be people that aren't fun to work with, that aren't good.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:419",
+      "startMs": 1565160,
+      "endMs": 1566360,
+      "verbatim": "Uh, you know what I mean?",
+      "display": "Uh, you know what I mean?",
+      "search": "uh, you know what i mean?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:420",
+      "startMs": 1566360,
+      "endMs": 1567080,
+      "verbatim": "But you can do it.",
+      "display": "But you can do it.",
+      "search": "but you can do it.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:421",
+      "startMs": 1567080,
+      "endMs": 1568440,
+      "verbatim": "You can still do it.",
+      "display": "You can still do it.",
+      "search": "you can still do it.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:422",
+      "startMs": 1568440,
+      "endMs": 1569160,
+      "verbatim": "You know?",
+      "display": "You know?",
+      "search": "you know?",
+      "confidence": 0.59
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:423",
+      "startMs": 1569160,
+      "endMs": 1571640,
+      "verbatim": "Programming is a little bit less scary than, say, being a cop.",
+      "display": "Programming is a little bit less scary than, say, being a cop.",
+      "search": "programming is a little bit less scary than, say, being a cop.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:424",
+      "startMs": 1571640,
+      "endMs": 1572120,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.601
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:425",
+      "startMs": 1572120,
+      "endMs": 1574120,
+      "verbatim": "Yeah, that's a whole different level of scary.",
+      "display": "Yeah, that's a whole different level of scary.",
+      "search": "yeah, that's a whole different level of scary.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:426",
+      "startMs": 1574120,
+      "endMs": 1580120,
+      "verbatim": "Imagine approaching a car that just one out of a thousand times you might get shot at.",
+      "display": "Imagine approaching a car that just one out of a thousand times you might get shot at.",
+      "search": "imagine approaching a car that just one out of a thousand times you might get shot at.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:427",
+      "startMs": 1580120,
+      "endMs": 1581400,
+      "verbatim": "That's kind of scary.",
+      "display": "That's kind of scary.",
+      "search": "that's kind of scary.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:428",
+      "startMs": 1581400,
+      "endMs": 1583400,
+      "verbatim": "Um, anyways, there you go.",
+      "display": "Um, anyways, there you go.",
+      "search": "um, anyways, there you go.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:429",
+      "startMs": 1583400,
+      "endMs": 1585240,
+      "verbatim": "Don't be the don't do that.",
+      "display": "Don't be the don't do that.",
+      "search": "don't be the don't do that.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:430",
+      "startMs": 1585240,
+      "endMs": 1586040,
+      "verbatim": "Be careful.",
+      "display": "Be careful.",
+      "search": "be careful.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:431",
+      "startMs": 1586040,
+      "endMs": 1588840,
+      "verbatim": "Be very, you know, be careful.",
+      "display": "Be very, you know, be careful.",
+      "search": "be very, you know, be careful.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:432",
+      "startMs": 1588840,
+      "endMs": 1590760,
+      "verbatim": "It's okay to be hesitant.",
+      "display": "It's okay to be hesitant.",
+      "search": "it's okay to be hesitant.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:433",
+      "startMs": 1590760,
+      "endMs": 1596120,
+      "verbatim": "It's okay to cross your I's and dot your T's and make sure you're doing the right stuff.",
+      "display": "It's okay to cross your I's and dot your T's and make sure you're doing the right stuff.",
+      "search": "it's okay to cross your i's and dot your t's and make sure you're doing the right stuff.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:434",
+      "startMs": 1596120,
+      "endMs": 1601480,
+      "verbatim": "But don't shy away from challenge because it might be scary.",
+      "display": "But don't shy away from challenge because it might be scary.",
+      "search": "but don't shy away from challenge because it might be scary.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:20SkiBvylyM:segment:435",
+      "startMs": 1601480,
+      "endMs": 1605560,
+      "verbatim": "You will forever and forever never live up to your true calling.",
+      "display": "You will forever and forever never live up to your true calling.",
+      "search": "you will forever and forever never live up to your true calling.",
+      "confidence": 0.853
+    }
+  ]
+}

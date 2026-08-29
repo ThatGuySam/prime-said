@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:20SkiBvylyM",
+  "platform": "youtube",
+  "platformId": "20SkiBvylyM",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Fear And Software",
+  "description": "Recorded live on twitch, GET IN \n\n### Blog Article\nhttps://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/\nBy: Julia Evans | https://twitter.com/b0rk\n\n### My Stream\nhttps://twitch.tv/ThePrimeagen\n\n### Best Way To Support Me\nBecome a backend engineer.  Its my favorite site\nhttps://boot.dev/?promo=PRIMEYT\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.  \n\nMY MAIN YT CHANNEL: Has well edited engineering videos\nhttps://youtube.com/ThePrimeagen\n\nDiscord\nhttps://discord.gg/ThePrimeagen\n\n\nHave something for me to read or react to?: https://www.reddit.com/r/ThePrimeagenReact/\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\nHey I am sponsored by Turso, an edge database.  I think they are pretty neet.  Give them a try for free and if you want you can get a decent amount off (the free tier is the best (better than planetscale or any other))\nhttps://turso.tech/deeznuts",
+  "canonicalUrl": "https://www.youtube.com/watch?v=20SkiBvylyM",
+  "publishedAt": "2024-04-15T15:29:31.000Z",
+  "durationMs": 1606000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:08:07.320Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:08:07.320Z",
+    "runId": "2026-08-29T18-02-56-676Z-162c87ac"
+  }
+}
