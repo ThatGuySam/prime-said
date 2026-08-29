@@ -18,20 +18,20 @@ import "../../styles/review.css";
     <main>
       <header class="masthead">
         <a class="wordmark" href="/" aria-label="Prime Said home"><span>PRIME</span><span>SAID</span></a>
-        <p id="data-count">Loading real caption tracks…</p>
+        <p>Caption review</p>
       </header>
 
-      <section class="search-stage">
-        <div>
-          <p class="eyebrow">Phase 0 source-review tool</p>
-          <h1>Find the words.<br />Verify the owner.</h1>
-          <p class="lede">
-            Literal search across three full YouTube auto-caption tracks. Results open the original
-            recording at the caption time.
+      <section class="search-stage" aria-labelledby="page-title">
+        <div class="search-intro">
+          <p class="eyebrow">Search real caption tracks</p>
+          <h1 id="page-title">Find the moment.</h1>
+          <p>
+            Search words from the captions, then play the source at the matching time.
           </p>
         </div>
+
         <form id="search-form" role="search">
-          <label for="transcript-search">Search caption text</label>
+          <label for="transcript-search">Caption words</label>
           <div class="search-control">
             <input
               id="transcript-search"
@@ -41,7 +41,8 @@ import "../../styles/review.css";
               autocomplete="off"
               spellcheck="false"
             />
-            <button type="submit">Search</button>
+            <button id="clear-search" class="clear-search" type="button" aria-label="Clear search">×</button>
+            <button class="search-submit" type="submit">Search</button>
           </div>
           <div class="examples" aria-label="Example searches">
             <span>Try</span>
@@ -50,20 +51,17 @@ import "../../styles/review.css";
             <button type="button" data-query="100% code coverage means nothing">100% code coverage</button>
           </div>
         </form>
-      </section>
 
-      <aside class="warning">
-        <strong>A caption match is not an authorship claim.</strong>
-        <p>
-          Prime may be reading Twitch chat, an article, or another source. Auto captions can also be
-          wrong. Listen and inspect the screen before treating any wording as his.
+        <p class="origin-note">
+          <strong>A match is not an authorship claim.</strong> Prime may be reading Twitch chat or
+          another source. Listen and inspect the screen before quoting him.
         </p>
-      </aside>
+      </section>
 
       <section class="results-section" aria-labelledby="results-title">
         <header class="results-header">
           <div>
-            <p class="eyebrow">Auto-caption matches</p>
+            <p class="eyebrow">Caption matches</p>
             <h2 id="results-title">“tests drive development”</h2>
           </div>
           <p id="result-status" role="status" aria-live="polite">Loading…</p>
@@ -72,14 +70,30 @@ import "../../styles/review.css";
         <ol id="results" class="results" aria-busy="true"></ol>
       </section>
 
-      <footer>
-        <p>
-          <strong>Data status:</strong> YouTube English auto captions, normalized for literal search,
-          unreviewed for wording, vocal speaker, and word origin.
-        </p>
-        <p>This is bounded review tooling, not the Phase 2 search product or a verified quote library.</p>
-      </footer>
+      <details class="data-details">
+        <summary>About these results</summary>
+        <div>
+          <p id="data-count">Loading real caption tracks…</p>
+          <p>
+            YouTube English auto captions are normalized for literal browser-side search and are
+            unreviewed for wording, vocal speaker, and word origin.
+          </p>
+          <p>This is bounded review tooling, not a verified quote library.</p>
+        </div>
+      </details>
     </main>
+
+    <aside id="player-dock" class="player-dock" aria-labelledby="player-title" hidden>
+      <header>
+        <div>
+          <p>Playing source</p>
+          <h2 id="player-title">Recording</h2>
+        </div>
+        <button id="close-player" type="button" aria-label="Close video player">×</button>
+      </header>
+      <div id="player-frame" class="player-frame"></div>
+      <a id="player-source" href="https://www.youtube.com" target="_blank" rel="noreferrer">Open on YouTube</a>
+    </aside>
 
     <script>
       import "../../scripts/review-search-interface.ts";

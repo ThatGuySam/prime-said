@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 14:09 UTC
+**Updated:** 2026-08-29 15:15 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -20,6 +20,20 @@ locator now searches all three complete, hash-locked auto-caption tracks, but
 it does not promote those captions to canonical transcripts or quotations.
 Recording review and the quoted-source attribution gate still block the
 manually verified TDD-span deliverable, so Phase 1 has not started.
+
+The current implementation candidate makes the review locator compact and
+quote-first, moves results into a two-column desktop/one-column mobile layout,
+adds lazy YouTube thumbnails, and uses one docked player so a second selection
+replaces rather than overlaps the first. Search reset is explicit, source-copy
+wording names YouTube, and transcript context plus corpus methodology use
+progressive disclosure.
+
+A deterministic related-word experiment found the real 4:48 testing-preference
+window for the paraphrase `testing guides coding`. It was not retained in the
+production candidate: `AGENTS.md` requires the golden retrieval suite and an
+average-or-worse iPhone latency benchmark for ranking changes, and neither gate
+is available. The deployed candidate therefore keeps the existing literal
+caption ranking and does not claim semantic retrieval.
 
 ## Completed work
 
@@ -113,6 +127,22 @@ not verify exact recording words, vocal speaker, word origin, or relevance.
 The GIF is assembled from screenshots of the running preview, not a continuous
 screen recording.
 
+## Compact review-interface candidate
+
+| Check | Result |
+| --- | --- |
+| `bun run check` | Pass. Repository and corpus checks pass; Astro reports 0 errors, 0 warnings, and 0 hints across 24 files. |
+| `bun test` | Pass. 53 tests, 0 failures, 144 assertions. |
+| `bun run build` | Pass. Two static pages and five assets. Largest asset `review/captions.json`, 908,967 bytes. Total output 930,149 bytes. |
+| `wrangler deploy --dry-run` | Pass with Wrangler 4.127.1. It read seven files; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
+| Local interaction browser check | Not run. This environment did not expose the local preview to the cloud browser. Interaction verification remains pending on the public Cloudflare build. |
+
+The existing Cloudflare Workers static deployment is visible at
+<https://prime-said.samcarlton.workers.dev/review/> and is connected to
+`ThatGuySam/prime-said` `main`. The user supplied the provider and live-page
+screenshots. The compact candidate has not yet been published or observed on
+that URL.
+
 ## Source screening and open gate
 
 Public metadata confirms that all three IDs are available videos on The PrimeTime channel. YouTube's English auto-generated timed text exposed a conflict, but media playback was unavailable. These are screening findings, not verified quotes:
@@ -142,9 +172,11 @@ playback boundary has been approved from them.
 
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
 - No reference-iPhone or Android measurement.
-- No Cloudflare account deployment or native Workers Builds run.
-- A ChatGPT Sites preview was deployed. No Cloudflare production deployment,
-  paid resource, source outreach, or account/token handoff was performed.
+- A Cloudflare Workers static deployment now exists through the user's native
+  Git integration. No direct account/API deployment or paid resource operation
+  was performed in this session.
+- A ChatGPT Sites preview was deployed. No source outreach or account/token
+  handoff was performed.
 
 ## Next checkpoint
 
