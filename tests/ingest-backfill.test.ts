@@ -169,6 +169,29 @@ describe("canonical corpus conversion", () => {
     expect(records.transcript.segments[0]).not.toHaveProperty("words");
   });
 
+  test("clamps small final-segment drift to the source duration", () => {
+    const metadata = parseSourceMetadata(METADATA);
+    const parakeet = parseParakeetOutput({
+      text: "Tail segment.",
+      sentences: [{
+        text: " Tail segment.",
+        start: 11,
+        end: 12.66,
+        confidence: 0.9,
+        tokens: [{ text: " Tail segment.", start: 11, end: 12.66, confidence: 0.9 }],
+      }],
+    });
+    const records = buildCanonicalRecords({
+      metadata,
+      parakeet,
+      generatedAt: "2026-08-29T12:00:00.000Z",
+      runId: "fixture-run",
+      runtime: "parakeet-mlx 0.5.1",
+    });
+
+    expect(records.transcript.segments[0]?.endMs).toBe(12_500);
+  });
+
   test("rejects transcript timestamps beyond the source duration", () => {
     const metadata = parseSourceMetadata(METADATA);
     const parakeet = parseParakeetOutput({

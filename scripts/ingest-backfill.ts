@@ -404,10 +404,16 @@ export function buildCanonicalRecords(options: {
   let previousEndMs = 0;
   const segments = options.parakeet.sentences.map((sentence, index) => {
     const startMs = Math.round(sentence.start * 1_000);
-    const endMs = Math.round(sentence.end * 1_000);
-    if (startMs < previousEndMs || endMs <= startMs || endMs > options.metadata.durationMs + 2_500) {
+    const rawEndMs = Math.round(sentence.end * 1_000);
+    if (
+      startMs < previousEndMs
+      || rawEndMs <= startMs
+      || rawEndMs > options.metadata.durationMs + 2_500
+    ) {
       throw new Error(`sentence ${index} violates transcript timing invariants`);
     }
+    const endMs = Math.min(rawEndMs, options.metadata.durationMs);
+    if (endMs <= startMs) throw new Error(`sentence ${index} starts beyond the source duration`);
     previousEndMs = endMs;
     const verbatim = normalizeWhitespace(sentence.text);
     return {
