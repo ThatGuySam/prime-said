@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 15:22 UTC
+**Updated:** 2026-08-29 18:26 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -10,31 +10,36 @@
 **Review-caption data slice:** `24e6d64c882495fda72bdd62c5e219c468ab33de`
 **Transcript-review interface slice:** `171b470a1fe4253950c5a879e94fe291994b0f15`
 **Published compact review interface:** `820a738950296b3557c283ca9ab5198271b7f597`
+**Published retrieval regressions:** `25802c62091f5eabe89b8ea26322c35b729d992f`
+**Published shadcn review interface:** `899f5e3821a898360ae1d54b7e3819df2b729e24`
 **ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
 ## Current phase
 
-Phase 0: repository and fixtures. The note/gold separation and deterministic
-attribution screening baseline are published on `main`. A bounded review
-locator now searches all three complete, hash-locked auto-caption tracks, but
-it does not promote those captions to canonical transcripts or quotations.
-Recording review and the quoted-source attribution gate still block the
-manually verified TDD-span deliverable, so Phase 1 has not started.
+Phase 0 remains blocked on recording-reviewed wording, vocal speaker, word
+origin, and response boundaries. The bounded review locator searches all three
+complete, hash-locked auto-caption tracks, but it does not promote those
+captions to canonical transcripts or verified quotations.
 
-The deployed interface makes the review locator compact and
-quote-first, moves results into a two-column desktop/one-column mobile layout,
-adds lazy YouTube thumbnails, and uses one docked player so a second selection
-replaces rather than overlaps the first. Search reset is explicit, source-copy
-wording names YouTube, and transcript context plus corpus methodology use
-progressive disclosure.
+Later-phase ingestion implementation has also landed on `main`: the backfill
+runner and three source/transcript pairs now produce six canonical files that
+pass schema and corpus validation. This is implementation progress, not a
+Phase 0 or Phase 1 gate claim. This turn did not run Apple Silicon
+transcription or measure timestamp drift against recording-reviewed spans.
 
-A deterministic related-word experiment found the real 4:48 testing-preference
-window for the paraphrase `testing guides coding`. It was not retained in the
-published interface: `AGENTS.md` requires the golden retrieval suite and an
-average-or-worse iPhone latency benchmark for ranking changes, and neither gate
-is available. The deployed interface therefore keeps the existing literal
-caption ranking and does not claim semantic retrieval.
+The deployed review interface is now a React island assembled from local
+shadcn primitives. It preserves native search and URL state, source filtering,
+origin warnings, context, clipboard links, and the single-player invariant.
+Continuous curves use CSS `corner-shape: superellipse(2)` where supported and
+retain ordinary `border-radius` as the fallback.
+
+A deterministic retrieval development screen now captures topic, stance,
+word-origin, morphology, no-result, and duplicate-neighborhood regressions.
+The strongest experimental ranker passed all 20 explicit constraints, up from
+15/20 for the deployed ranker. It remains an offline, same-set-tuned experiment:
+the production ranker was not changed because the frozen recording-reviewed
+gold set and reference-iPhone latency gate are still open.
 
 ## Completed work
 
@@ -75,6 +80,17 @@ caption ranking and does not claim semantic retrieval.
 - Added a deterministic export used by the ChatGPT Sites preview. The checked-in
   GIF and still were captured from the functional preview and are review aids,
   not source-verification evidence.
+- Added 13 caption-derived development queries plus one synthetic boundary
+  case, an executable three-variant retrieval evaluator, and regressions for
+  whole-token aliases, proximity, prompt/response routing, no-result behavior,
+  and neighborhood deduplication.
+- Rebuilt `/review/` as one React island using source-owned shadcn Button,
+  Input, Card, Badge, Alert, and Separator components. The real caption corpus
+  remains a separately fetched static asset rather than entering the client
+  JavaScript bundle.
+- Added progressive superellipse styling with a baseline rounded-corner
+  fallback and documented both the browser-support boundary and retrieval
+  experiment in dated research memos.
 
 ## Automated Phase 0 evidence
 
@@ -146,6 +162,26 @@ The published Cloudflare Workers static deployment is visible at
 fast-forward from `1bc9bd3b54aefce8916fffed5a233c26b4aea206`; the live asset
 names confirm that Cloudflare served its exact verified build output.
 
+## Retrieval experiment and shadcn interface evidence
+
+| Check | Result |
+| --- | --- |
+| `bun install --frozen-lockfile` | Pass. 374 installs across 508 packages; the lockfile and worktree did not change. |
+| `bun run check` | Pass. Repository checks, six canonical files, and two fixtures pass; Astro reports 0 errors, 0 warnings, and 0 hints across 36 files. |
+| `bun test` | Pass. 69 tests, 0 failures, and 173 assertions across nine files. |
+| `bun run eval:review-retrieval` | Pass as a descriptive development screen. The deployed ranker passed 7/8 required hits, 5/7 pairwise preferences, 3/3 literals, 0/1 no-result, and 0/1 whole-token constraints, with three origin-risk results and six duplicate neighborhoods. BM25 plus proximity passed 7/8, 4/7, 3/3, 1/1, and 1/1, with four origin-risk results and no duplicates. BM25 plus proximity and origin routing passed 8/8, 7/7, 3/3, 1/1, and 1/1, with one origin-risk result and no duplicates. |
+| `bun run build` | Pass. Two static pages and seven assets. Largest asset `review/captions.json`, 908,967 bytes; total output 1,189,308 bytes. The review island is 53,100 bytes and its renderer is 180,598 bytes. |
+| `bun run deploy:dry-run` | Not completed. The execution environment cancelled the network approval before Wrangler returned; no pass is claimed for this revision. |
+| Cloudflare native Git deployment | Pass. The public page references `review-app.BfPBMODA.js`, `client.BApSHwD7.js`, and `index.Bp9tKl64.css`, exactly matching the verified build from published commit `899f5e3821a898360ae1d54b7e3819df2b729e24`. |
+| Public functional browser flow | Pass in Chromium at a 1,363-pixel desktop viewport. The real corpus returned 12 windows for `tests drive development`; expanded context exposed the later “opposite of TDD” qualification. `reverse funnel` returned one 20:42 chat/response case. Copy produced the exact timestamped YouTube URL; clear removed query state and restored focus. No horizontal overflow or app-origin browser errors were observed. |
+| Single-player invariant | Pass. Selecting 4:40 and then 0:04 kept exactly one iframe and replaced its source and start time. Closing the dock removed the iframe. Audiovisual playback was not claimed. |
+| Superellipse progressive enhancement | Pass in the measured Chromium browser. A result card computed to `corner-shape: squircle` and `border-radius: 20px`. Other engines and devices were not measured. |
+
+The retrieval figures were tuned and measured on the same caption-derived
+development cases. They are not held-out relevance accuracy, recording-review
+accuracy, authorship accuracy, or evidence that the experimental ranker meets
+the mobile performance gate.
+
 ## Source screening and open gate
 
 Public metadata confirms that all three IDs are available videos on The PrimeTime channel. YouTube's English auto-generated timed text exposed a conflict, but media playback was unavailable. These are screening findings, not verified quotes:
@@ -175,19 +211,23 @@ playback boundary has been approved from them.
 
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
 - No reference-iPhone or Android measurement.
-- A Cloudflare Workers static deployment now exists through the user's native
-  Git integration. No direct account/API deployment or paid resource operation
-  was performed in this session.
+- Cloudflare's native Git integration deployed the exact published shadcn
+  build. The direct Wrangler dry run for this revision was interrupted by the
+  execution environment before Wrangler returned output; no direct account/API
+  deployment or paid resource operation was performed.
 - A ChatGPT Sites preview was deployed. No source outreach or account/token
   handoff was performed.
 
 ## Next checkpoint
 
-Review the three testing-preference windows plus a balanced sample of chat,
-article, response, mixed, and uncued cases against recording audio and pixels.
-Record bounded wording, vocal speaker, word origin, and response boundaries;
-retain 20:42 as a quoted-chat hard negative. Then prototype OCR/source-text
-alignment on the reviewed cases and rerun the full Phase 0 gate. Only after it
-passes should Phase 1 begin with the typed command builders, binary/hash
-preflight, temporary-directory isolation, and run-manifest schema described in
-`docs/research/phase1-toolchain-pins-2026-08-29.md`.
+The highest-leverage next action is human recording review of the three
+testing-preference windows plus a balanced sample of chat, article, response,
+mixed, and uncued cases. Record bounded wording, vocal speaker, word origin,
+and response boundaries; retain 20:42 as a quoted-chat hard negative.
+
+After that review, freeze at least 50 general-purpose retrieval queries, pool
+judgments across the deployed and experimental rankers, and hold out complete
+sources for evaluation. Benchmark only the resulting candidate on a reference
+iPhone. If those gates pass, move the deterministic ranker into production and
+continue the ordered phase gates without treating caption-screened examples as
+verified quotations.
