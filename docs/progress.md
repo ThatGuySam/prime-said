@@ -1,17 +1,18 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 04:52 UTC
+**Updated:** 2026-08-29 05:04 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
 **Published attribution research:** `44ac8354c73226949aac88324bc2928fa345402c`
-**Local candidate-data correction:** `3a8c91d9ddbdd4e1f046a940c3111e1065436526`
+**Published candidate-data correction:** `bf83640d1e7c39da6116642c920a41a20daad35a`
+**Published attribution screening gate:** `cb54db16bf7c92441b0d439b6023671eebc64f83`
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
 ## Current phase
 
 Phase 0: repository and fixtures. The note/gold separation and deterministic
-attribution screening baseline are implemented locally. Recording review and
+attribution screening baseline are published on `main`. Recording review and
 the quoted-source attribution gate still block the manually verified TDD-span
 deliverable, so Phase 1 has not started.
 
