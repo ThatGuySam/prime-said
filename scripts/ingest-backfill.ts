@@ -20,6 +20,16 @@ const APPROVED_CHANNEL_ID = "UCUyeluBRhGPCW4rPe_UvBZQ";
 const ALLOW_LIST_ID = "youtube:theprimetimeagen-official";
 const MODEL_ID = "mlx-community/parakeet-tdt-0.6b-v3";
 const MODEL_REVISION = "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15";
+const YT_DLP_VERSION = "2026.08.27.231323";
+const YT_DLP_MACOS_SHA256 = "282d67228a418b4f0c56ce0ca82d0f6b12dc31bb5d3f7b85c1d5944974e1fbe8";
+const PINNED_YT_DLP_PATH = join(
+  REPOSITORY_ROOT,
+  "artifacts",
+  "tools",
+  "yt-dlp",
+  YT_DLP_VERSION,
+  "yt-dlp_macos",
+);
 const MODEL_SNAPSHOT = join(
   process.env.HOME ?? "",
   ".cache",
@@ -452,7 +462,7 @@ async function resolveTooling(): Promise<{ paths: ToolPaths; versions: ToolVersi
     ffmpeg: requireTool("ffmpeg"),
     ffprobe: requireTool("ffprobe"),
     parakeet: requireTool("parakeet-mlx"),
-    ytDlp: requireTool("yt-dlp"),
+    ytDlp: await resolveYtDlpPath(),
   };
   await access(MODEL_SNAPSHOT);
   const [deno, ffmpeg, parakeet, parakeetVersion, ytDlp] = await Promise.all([
@@ -473,6 +483,17 @@ async function resolveTooling(): Promise<{ paths: ToolPaths; versions: ToolVersi
       ytDlp: firstLine(ytDlp.stdout),
     },
   };
+}
+
+async function resolveYtDlpPath(): Promise<string> {
+  if (!(await exists(PINNED_YT_DLP_PATH))) return requireTool("yt-dlp");
+  const digest = createHash("sha256")
+    .update(await readFile(PINNED_YT_DLP_PATH))
+    .digest("hex");
+  if (digest !== YT_DLP_MACOS_SHA256) {
+    throw new Error(`pinned yt-dlp SHA-256 mismatch: ${digest}`);
+  }
+  return PINNED_YT_DLP_PATH;
 }
 
 async function readParakeetVersion(executablePath: string): Promise<string> {
