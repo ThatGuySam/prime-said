@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:S_7SE_Uzk-I",
+  "platform": "youtube",
+  "platformId": "S_7SE_Uzk-I",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "The Lies Of 100% Code Coverage | Prime Reacts",
+  "description": "Recorded live on twitch, GET IN \n\nhttps://twitch.tv/ThePrimeagen\n\nBecome a backend engineer.  Its my favorite site\nhttps://boot.dev/?promo=PRIMEYT\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.  \n\nArticle link: https://www.code4it.dev/blog/code-coverage-must-not-be-the-target/\n\nMY MAIN YT CHANNEL: Has well edited engineering videos\nhttps://youtube.com/ThePrimeagen\n\nDiscord\nhttps://discord.gg/ThePrimeagen\n\n\nHave something for me to read or react to?: https://www.reddit.com/r/ThePrimeagenReact/\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\nHey I am sponsored by Turso, an edge database.  I think they are pretty neet.  Give them a try for free and if you want you can get a decent amount off (the free tier is the best (better than planetscale or any other))\nhttps://turso.tech/deeznuts",
+  "canonicalUrl": "https://www.youtube.com/watch?v=S_7SE_Uzk-I",
+  "publishedAt": "2024-03-27T12:56:43.000Z",
+  "durationMs": 1301000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T17:56:31.049Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T17:56:31.049Z",
+    "runId": "2026-08-29T17-56-19-151Z-4b76f754"
+  }
+}

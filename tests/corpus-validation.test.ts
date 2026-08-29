@@ -146,15 +146,15 @@ afterEach(async () => {
 });
 
 describe("corpus validation", () => {
-  test("accepts the Phase 0 layout and unverified candidate fixture", async () => {
+  test("accepts the committed corpus and unverified candidate fixtures", async () => {
     const result = await validateCorpus({ rootDir: REPOSITORY_ROOT });
 
-    expect(result).toEqual({
+    expect(result).toMatchObject({
       ok: true,
       errors: [],
-      canonicalFilesValidated: 0,
       fixtureFilesValidated: 2,
     });
+    expect(result.canonicalFilesValidated).toBeGreaterThanOrEqual(2);
   });
 
   test("reports a corpus traversal failure instead of treating it as empty", async () => {

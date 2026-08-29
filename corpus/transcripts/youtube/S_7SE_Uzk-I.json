@@ -1,0 +1,3848 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_bc0adac2dedc50111143096e",
+  "sourceId": "youtube:S_7SE_Uzk-I",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T17:56:31.049Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:1",
+      "startMs": 80,
+      "endMs": 5760,
+      "verbatim": "We're over here arguing about code coverage, and somebody gives us a four-day-old one.",
+      "display": "We're over here arguing about code coverage, and somebody gives us a four-day-old one.",
+      "search": "we're over here arguing about code coverage, and somebody gives us a four-day-old one.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:2",
+      "startMs": 5760,
+      "endMs": 11280,
+      "verbatim": "Why reaching 100% code coverage must not be your testing goal with examples in C sharp?",
+      "display": "Why reaching 100% code coverage must not be your testing goal with examples in C sharp?",
+      "search": "why reaching 100% code coverage must not be your testing goal with examples in c sharp?",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:3",
+      "startMs": 11280,
+      "endMs": 13360,
+      "verbatim": "Okay, obviously, first big mistake is C sharp.",
+      "display": "Okay, obviously, first big mistake is C sharp.",
+      "search": "okay, obviously, first big mistake is c sharp.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:4",
+      "startMs": 13360,
+      "endMs": 13840,
+      "verbatim": "Got him.",
+      "display": "Got him.",
+      "search": "got him.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:5",
+      "startMs": 13840,
+      "endMs": 14320,
+      "verbatim": "Got him.",
+      "display": "Got him.",
+      "search": "got him.",
+      "confidence": 0.545
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:6",
+      "startMs": 14320,
+      "endMs": 15040,
+      "verbatim": "Easy.",
+      "display": "Easy.",
+      "search": "easy.",
+      "confidence": 0.668
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:7",
+      "startMs": 15040,
+      "endMs": 15760,
+      "verbatim": "Destroyed.",
+      "display": "Destroyed.",
+      "search": "destroyed.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:8",
+      "startMs": 15760,
+      "endMs": 16720,
+      "verbatim": "Get wrecked.",
+      "display": "Get wrecked.",
+      "search": "get wrecked.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:9",
+      "startMs": 16720,
+      "endMs": 21200,
+      "verbatim": "Um, I I'm fully in agreement with this statement, but I'm willing to be wrong.",
+      "display": "Um, I I'm fully in agreement with this statement, but I'm willing to be wrong.",
+      "search": "um, i i'm fully in agreement with this statement, but i'm willing to be wrong.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:10",
+      "startMs": 21200,
+      "endMs": 22080,
+      "verbatim": "And I do mean that.",
+      "display": "And I do mean that.",
+      "search": "and i do mean that.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:11",
+      "startMs": 22080,
+      "endMs": 24240,
+      "verbatim": "I am fully willing to be wrong here.",
+      "display": "I am fully willing to be wrong here.",
+      "search": "i am fully willing to be wrong here.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:12",
+      "startMs": 24240,
+      "endMs": 26160,
+      "verbatim": "Alright, table of contents for an article.",
+      "display": "Alright, table of contents for an article.",
+      "search": "alright, table of contents for an article.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:13",
+      "startMs": 26160,
+      "endMs": 26640,
+      "verbatim": "Come on.",
+      "display": "Come on.",
+      "search": "come on.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:14",
+      "startMs": 26640,
+      "endMs": 27280,
+      "verbatim": "Just a second.",
+      "display": "Just a second.",
+      "search": "just a second.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:15",
+      "startMs": 27280,
+      "endMs": 31680,
+      "verbatim": "If you're here and you're a software engineer, did you know about storing domain and networking cost?",
+      "display": "If you're here and you're a software engineer, did you know about storing domain and networking cost?",
+      "search": "if you're here and you're a software engineer, did you know about storing domain and networking cost?",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:16",
+      "startMs": 31760,
+      "endMs": 33280,
+      "verbatim": "Do this thing in this blog.",
+      "display": "Do this thing in this blog.",
+      "search": "do this thing in this blog.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:17",
+      "startMs": 33280,
+      "endMs": 34880,
+      "verbatim": "Uh something configured ad sense.",
+      "display": "Uh something configured ad sense.",
+      "search": "uh something configured ad sense.",
+      "confidence": 0.716
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:18",
+      "startMs": 34880,
+      "endMs": 35440,
+      "verbatim": "I'm not really sure.",
+      "display": "I'm not really sure.",
+      "search": "i'm not really sure.",
+      "confidence": 0.986
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:19",
+      "startMs": 35440,
+      "endMs": 35760,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:20",
+      "startMs": 35760,
+      "endMs": 40080,
+      "verbatim": "Code coverage is a valuable metric in software development, especially when it comes to testing.",
+      "display": "Code coverage is a valuable metric in software development, especially when it comes to testing.",
+      "search": "code coverage is a valuable metric in software development, especially when it comes to testing.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:21",
+      "startMs": 40080,
+      "endMs": 44640,
+      "verbatim": "It provides insights into how much of your code base is exercised by your test suite.",
+      "display": "It provides insights into how much of your code base is exercised by your test suite.",
+      "search": "it provides insights into how much of your code base is exercised by your test suite.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:22",
+      "startMs": 44640,
+      "endMs": 49680,
+      "verbatim": "However, we must recognize that code coverage alone should not be the ultimate goal of your strategy.",
+      "display": "However, we must recognize that code coverage alone should not be the ultimate goal of your strategy.",
+      "search": "however, we must recognize that code coverage alone should not be the ultimate goal of your strategy.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:23",
+      "startMs": 49680,
+      "endMs": 52160,
+      "verbatim": "It has some known limitations.",
+      "display": "It has some known limitations.",
+      "search": "it has some known limitations.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:24",
+      "startMs": 52160,
+      "endMs": 55600,
+      "verbatim": "Okay, okay, okay.",
+      "display": "Okay, okay, okay.",
+      "search": "okay, okay, okay.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:25",
+      "startMs": 55600,
+      "endMs": 59600,
+      "verbatim": "100% code coverage does not guarantee your code to be bug free.",
+      "display": "100% code coverage does not guarantee your code to be bug free.",
+      "search": "100% code coverage does not guarantee your code to be bug free.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:26",
+      "startMs": 59600,
+      "endMs": 60960,
+      "verbatim": "Yes, we all we all know this.",
+      "display": "Yes, we all we all know this.",
+      "search": "yes, we all we all know this.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:27",
+      "startMs": 60960,
+      "endMs": 64720,
+      "verbatim": "You can't you can't test it, you can't just write hard coded tests your way out of things.",
+      "display": "You can't you can't test it, you can't just write hard coded tests your way out of things.",
+      "search": "you can't you can't test it, you can't just write hard coded tests your way out of things.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:28",
+      "startMs": 64720,
+      "endMs": 71360,
+      "verbatim": "This article will explore why code coverage matters, its limitations, and how to balance uh achieving high coverage and effective testing.",
+      "display": "This article will explore why code coverage matters, its limitations, and how to balance uh achieving high coverage and effective testing.",
+      "search": "this article will explore why code coverage matters, its limitations, and how to balance uh achieving high coverage and effective testing.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:29",
+      "startMs": 71360,
+      "endMs": 76080,
+      "verbatim": "We'll use C sharp to demonstrate the code coverage and how you can uh and how you can cheat the results.",
+      "display": "We'll use C sharp to demonstrate the code coverage and how you can uh and how you can cheat the results.",
+      "search": "we'll use c sharp to demonstrate the code coverage and how you can uh and how you can cheat the results.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:30",
+      "startMs": 76080,
+      "endMs": 76320,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.652
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:31",
+      "startMs": 76320,
+      "endMs": 77120,
+      "verbatim": "What is code coverage?",
+      "display": "What is code coverage?",
+      "search": "what is code coverage?",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:32",
+      "startMs": 77120,
+      "endMs": 82160,
+      "verbatim": "Code coverage measures the percent of code lines, branches, and st or statements executed during a test.",
+      "display": "Code coverage measures the percent of code lines, branches, and st or statements executed during a test.",
+      "search": "code coverage measures the percent of code lines, branches, and st or statements executed during a test.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:33",
+      "startMs": 82160,
+      "endMs": 85200,
+      "verbatim": "It helps answer questions like how much of my code is tested?",
+      "display": "It helps answer questions like how much of my code is tested?",
+      "search": "it helps answer questions like how much of my code is tested?",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:34",
+      "startMs": 85200,
+      "endMs": 87440,
+      "verbatim": "Are there any untested paths or dead code?",
+      "display": "Are there any untested paths or dead code?",
+      "search": "are there any untested paths or dead code?",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:35",
+      "startMs": 87440,
+      "endMs": 90160,
+      "verbatim": "Which parts of the application need additional test coverage?",
+      "display": "Which parts of the application need additional test coverage?",
+      "search": "which parts of the application need additional test coverage?",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:36",
+      "startMs": 90160,
+      "endMs": 98800,
+      "verbatim": "In C sharp, tools like cobert cobertura dot coverage and Visual Studio's built-in coverage analysis provide code coverage reports.",
+      "display": "In C sharp, tools like cobert cobertura dot coverage and Visual Studio's built-in coverage analysis provide code coverage reports.",
+      "search": "in c sharp, tools like cobert cobertura dot coverage and visual studio's built-in coverage analysis provide code coverage reports.",
+      "confidence": 0.719
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:37",
+      "startMs": 98800,
+      "endMs": 103920,
+      "verbatim": "You may be tempted to think that higher the coverage, the better the quality of your tests.",
+      "display": "You may be tempted to think that higher the coverage, the better the quality of your tests.",
+      "search": "you may be tempted to think that higher the coverage, the better the quality of your tests.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:38",
+      "startMs": 103920,
+      "endMs": 106800,
+      "verbatim": "However, we will soon demonstrate why this assumption is misleading.",
+      "display": "However, we will soon demonstrate why this assumption is misleading.",
+      "search": "however, we will soon demonstrate why this assumption is misleading.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:39",
+      "startMs": 106800,
+      "endMs": 109040,
+      "verbatim": "Okay, okay, okay, okay, hold on.",
+      "display": "Okay, okay, okay, okay, hold on.",
+      "search": "okay, okay, okay, okay, hold on.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:40",
+      "startMs": 109040,
+      "endMs": 112080,
+      "verbatim": "Let's let the man cook everybody.",
+      "display": "Let's let the man cook everybody.",
+      "search": "let's let the man cook everybody.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:41",
+      "startMs": 112080,
+      "endMs": 113040,
+      "verbatim": "Why test?",
+      "display": "Why test?",
+      "search": "why test?",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:42",
+      "startMs": 113040,
+      "endMs": 113920,
+      "verbatim": "It's not expected.",
+      "display": "It's not expected.",
+      "search": "it's not expected.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:43",
+      "startMs": 113920,
+      "endMs": 115440,
+      "verbatim": "Go brr.",
+      "display": "Go brr.",
+      "search": "go brr.",
+      "confidence": 0.287
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:44",
+      "startMs": 115440,
+      "endMs": 117680,
+      "verbatim": "You know you gotta really lean into that.",
+      "display": "You know you gotta really lean into that.",
+      "search": "you know you gotta really lean into that.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:45",
+      "startMs": 117680,
+      "endMs": 118880,
+      "verbatim": "Oh, I like this.",
+      "display": "Oh, I like this.",
+      "search": "oh, i like this.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:46",
+      "startMs": 118880,
+      "endMs": 123200,
+      "verbatim": "In my opinion, the bottom line is you can enforce thinking through something with policy gates.",
+      "display": "In my opinion, the bottom line is you can enforce thinking through something with policy gates.",
+      "search": "in my opinion, the bottom line is you can enforce thinking through something with policy gates.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:47",
+      "startMs": 123200,
+      "endMs": 128480,
+      "verbatim": "I don't think you can force somebody to become a good tester by saying that they need 100% coverage.",
+      "display": "I don't think you can force somebody to become a good tester by saying that they need 100% coverage.",
+      "search": "i don't think you can force somebody to become a good tester by saying that they need 100% coverage.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:48",
+      "startMs": 128480,
+      "endMs": 131200,
+      "verbatim": "I think you'll get a bunch of lazy tests that get there.",
+      "display": "I think you'll get a bunch of lazy tests that get there.",
+      "search": "i think you'll get a bunch of lazy tests that get there.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:49",
+      "startMs": 131200,
+      "endMs": 133600,
+      "verbatim": "Gatekeeping, hmm.",
+      "display": "Gatekeeping, hmm.",
+      "search": "gatekeeping, hmm.",
+      "confidence": 0.651
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:50",
+      "startMs": 133600,
+      "endMs": 134240,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.634
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:51",
+      "startMs": 134240,
+      "endMs": 135440,
+      "verbatim": "Thank you, Brummery.",
+      "display": "Thank you, Brummery.",
+      "search": "thank you, brummery.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:52",
+      "startMs": 135440,
+      "endMs": 136160,
+      "verbatim": "I appreciate that.",
+      "display": "I appreciate that.",
+      "search": "i appreciate that.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:53",
+      "startMs": 136160,
+      "endMs": 138000,
+      "verbatim": "Testing's for pussies.",
+      "display": "Testing's for pussies.",
+      "search": "testing's for pussies.",
+      "confidence": 0.684
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:54",
+      "startMs": 138240,
+      "endMs": 141200,
+      "verbatim": "Say it out loud, put my foot down now.",
+      "display": "Say it out loud, put my foot down now.",
+      "search": "say it out loud, put my foot down now.",
+      "confidence": 0.688
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:55",
+      "startMs": 141200,
+      "endMs": 142400,
+      "verbatim": "Um, alright.",
+      "display": "Um, alright.",
+      "search": "um, alright.",
+      "confidence": 0.651
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:56",
+      "startMs": 142400,
+      "endMs": 146560,
+      "verbatim": "Clearly, if you write valuable tests, the code coverage is a great ally.",
+      "display": "Clearly, if you write valuable tests, the code coverage is a great ally.",
+      "search": "clearly, if you write valuable tests, the code coverage is a great ally.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:57",
+      "startMs": 146560,
+      "endMs": 149840,
+      "verbatim": "A high value of code coverage helps you with risk mitigation.",
+      "display": "A high value of code coverage helps you with risk mitigation.",
+      "search": "a high value of code coverage helps you with risk mitigation.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:58",
+      "startMs": 149840,
+      "endMs": 152960,
+      "verbatim": "High coverage code reduces the risk of undiscovered defects.",
+      "display": "High coverage code reduces the risk of undiscovered defects.",
+      "search": "high coverage code reduces the risk of undiscovered defects.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:59",
+      "startMs": 152960,
+      "endMs": 157200,
+      "verbatim": "If a piece of code isn't covered, it will likely contain bugs.",
+      "display": "If a piece of code isn't covered, it will likely contain bugs.",
+      "search": "if a piece of code isn't covered, it will likely contain bugs.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:60",
+      "startMs": 157200,
+      "endMs": 160480,
+      "verbatim": "Okay, I don't agree with that statement just in general.",
+      "display": "Okay, I don't agree with that statement just in general.",
+      "search": "okay, i don't agree with that statement just in general.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:61",
+      "startMs": 160480,
+      "endMs": 164640,
+      "verbatim": "I do not think that you can say either or.",
+      "display": "I do not think that you can say either or.",
+      "search": "i do not think that you can say either or.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:62",
+      "startMs": 164640,
+      "endMs": 168160,
+      "verbatim": "Because most of the code you write is happy path code.",
+      "display": "Because most of the code you write is happy path code.",
+      "search": "because most of the code you write is happy path code.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:63",
+      "startMs": 168160,
+      "endMs": 174640,
+      "verbatim": "And most of the code you write, or in most of the code that's tested is happy path code, and those are the easiest ones to get right.",
+      "display": "And most of the code you write, or in most of the code that's tested is happy path code, and those are the easiest ones to get right.",
+      "search": "and most of the code you write, or in most of the code that's tested is happy path code, and those are the easiest ones to get right.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:64",
+      "startMs": 174640,
+      "endMs": 178080,
+      "verbatim": "It's all the other parts of it.",
+      "display": "It's all the other parts of it.",
+      "search": "it's all the other parts of it.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:65",
+      "startMs": 178080,
+      "endMs": 180320,
+      "verbatim": "Uh code is destined to evolve over time.",
+      "display": "Uh code is destined to evolve over time.",
+      "search": "uh code is destined to evolve over time.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:66",
+      "startMs": 180320,
+      "endMs": 188160,
+      "verbatim": "If you ensure that most of your code coverage is covered by tests, whenever you'll add some more code, you'll discover which parts of the existing system are impacted by your changes.",
+      "display": "If you ensure that most of your code coverage is covered by tests, whenever you'll add some more code, you'll discover which parts of the existing system are impacted by your changes.",
+      "search": "if you ensure that most of your code coverage is covered by tests, whenever you'll add some more code, you'll discover which parts of the existing system are impacted by your changes.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:67",
+      "startMs": 188160,
+      "endMs": 192080,
+      "verbatim": "If you update the production code and no test failed, it might be a bad sign.",
+      "display": "If you update the production code and no test failed, it might be a bad sign.",
+      "search": "if you update the production code and no test failed, it might be a bad sign.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:68",
+      "startMs": 192080,
+      "endMs": 195280,
+      "verbatim": "You probably need to cover your code you are modifying with enough tests.",
+      "display": "You probably need to cover your code you are modifying with enough tests.",
+      "search": "you probably need to cover your code you are modifying with enough tests.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:69",
+      "startMs": 195280,
+      "endMs": 197680,
+      "verbatim": "I don't know if I actually uh agree with this statement either.",
+      "display": "I don't know if I actually uh agree with this statement either.",
+      "search": "i don't know if i actually uh agree with this statement either.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:70",
+      "startMs": 197680,
+      "endMs": 203920,
+      "verbatim": "Again, if you update your code and no tests fail, I don't see how that's bad or good.",
+      "display": "Again, if you update your code and no tests fail, I don't see how that's bad or good.",
+      "search": "again, if you update your code and no tests fail, i don't see how that's bad or good.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:71",
+      "startMs": 203920,
+      "endMs": 205360,
+      "verbatim": "I think more like this.",
+      "display": "I think more like this.",
+      "search": "i think more like this.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:72",
+      "startMs": 205360,
+      "endMs": 209680,
+      "verbatim": "If a piece of code isn't covered, then you can't be sure it doesn't contain a bug.",
+      "display": "If a piece of code isn't covered, then you can't be sure it doesn't contain a bug.",
+      "search": "if a piece of code isn't covered, then you can't be sure it doesn't contain a bug.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:73",
+      "startMs": 209680,
+      "endMs": 212640,
+      "verbatim": "Okay, but then I would give you the opposite axiom.",
+      "display": "Okay, but then I would give you the opposite axiom.",
+      "search": "okay, but then i would give you the opposite axiom.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:74",
+      "startMs": 212640,
+      "endMs": 216160,
+      "verbatim": "If a code is covered, you can't be sure it contains a bug.",
+      "display": "If a code is covered, you can't be sure it contains a bug.",
+      "search": "if a code is covered, you can't be sure it contains a bug.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:75",
+      "startMs": 216160,
+      "endMs": 220400,
+      "verbatim": "Like I I don't I don't think you can s like that that's what I'm saying.",
+      "display": "Like I I don't I don't think you can s like that that's what I'm saying.",
+      "search": "like i i don't i don't think you can s like that that's what i'm saying.",
+      "confidence": 0.662
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:76",
+      "startMs": 220400,
+      "endMs": 226640,
+      "verbatim": "I think the difficulty here is that there is these statements, these statements mean nothing in this sense.",
+      "display": "I think the difficulty here is that there is these statements, these statements mean nothing in this sense.",
+      "search": "i think the difficulty here is that there is these statements, these statements mean nothing in this sense.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:77",
+      "startMs": 226640,
+      "endMs": 229440,
+      "verbatim": "Like this this statement means literally nothing.",
+      "display": "Like this this statement means literally nothing.",
+      "search": "like this this statement means literally nothing.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:78",
+      "startMs": 229440,
+      "endMs": 231520,
+      "verbatim": "The sky is blue when it's not orange.",
+      "display": "The sky is blue when it's not orange.",
+      "search": "the sky is blue when it's not orange.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:79",
+      "startMs": 231520,
+      "endMs": 238160,
+      "verbatim": "You're like, yeah, as sure, but it's orange sometimes also, you know, when the sun's like setting and stuff, it's kind of getting a little orangey.",
+      "display": "You're like, yeah, as sure, but it's orange sometimes also, you know, when the sun's like setting and stuff, it's kind of getting a little orangey.",
+      "search": "you're like, yeah, as sure, but it's orange sometimes also, you know, when the sun's like setting and stuff, it's kind of getting a little orangey.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:80",
+      "startMs": 238160,
+      "endMs": 241600,
+      "verbatim": "And you're like, well, yeah, but we're talking about the blue, and you're like, okay, cool.",
+      "display": "And you're like, well, yeah, but we're talking about the blue, and you're like, okay, cool.",
+      "search": "and you're like, well, yeah, but we're talking about the blue, and you're like, okay, cool.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:81",
+      "startMs": 241600,
+      "endMs": 242400,
+      "verbatim": "What are you saying?",
+      "display": "What are you saying?",
+      "search": "what are you saying?",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:82",
+      "startMs": 242400,
+      "endMs": 243200,
+      "verbatim": "I don't get it.",
+      "display": "I don't get it.",
+      "search": "i don't get it.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:83",
+      "startMs": 243200,
+      "endMs": 245520,
+      "verbatim": "100% code coverage is still useful to find dead code.",
+      "display": "100% code coverage is still useful to find dead code.",
+      "search": "100% code coverage is still useful to find dead code.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:84",
+      "startMs": 245520,
+      "endMs": 245840,
+      "verbatim": "How?",
+      "display": "How?",
+      "search": "how?",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:85",
+      "startMs": 245840,
+      "endMs": 247120,
+      "verbatim": "You have covered 100% of your code.",
+      "display": "You have covered 100% of your code.",
+      "search": "you have covered 100% of your code.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:86",
+      "startMs": 247120,
+      "endMs": 248000,
+      "verbatim": "How do you know it's dead?",
+      "display": "How do you know it's dead?",
+      "search": "how do you know it's dead?",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:87",
+      "startMs": 248000,
+      "endMs": 249920,
+      "verbatim": "Like, like, isn't it the opposite?",
+      "display": "Like, like, isn't it the opposite?",
+      "search": "like, like, isn't it the opposite?",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:88",
+      "startMs": 249920,
+      "endMs": 251600,
+      "verbatim": "Isn't what you're saying the literal opposite?",
+      "display": "Isn't what you're saying the literal opposite?",
+      "search": "isn't what you're saying the literal opposite?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:89",
+      "startMs": 251600,
+      "endMs": 255120,
+      "verbatim": "If your test tests 100% of your interface, all of your code should run.",
+      "display": "If your test tests 100% of your interface, all of your code should run.",
+      "search": "if your test tests 100% of your interface, all of your code should run.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:90",
+      "startMs": 255120,
+      "endMs": 260480,
+      "verbatim": "No, that's that's not 100% coverage, it's not coverage of interfaces, it's coverage of code.",
+      "display": "No, that's that's not 100% coverage, it's not coverage of interfaces, it's coverage of code.",
+      "search": "no, that's that's not 100% coverage, it's not coverage of interfaces, it's coverage of code.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:91",
+      "startMs": 260480,
+      "endMs": 262160,
+      "verbatim": "It's in fact the opposite.",
+      "display": "It's in fact the opposite.",
+      "search": "it's in fact the opposite.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:92",
+      "startMs": 262160,
+      "endMs": 267840,
+      "verbatim": "If you have 100% code coverage, you're certainly not getting a good insight into dead code.",
+      "display": "If you have 100% code coverage, you're certainly not getting a good insight into dead code.",
+      "search": "if you have 100% code coverage, you're certainly not getting a good insight into dead code.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:93",
+      "startMs": 267840,
+      "endMs": 269040,
+      "verbatim": "All right, guidance.",
+      "display": "All right, guidance.",
+      "search": "all right, guidance.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:94",
+      "startMs": 269200,
+      "endMs": 270160,
+      "verbatim": "Let's see.",
+      "display": "Let's see.",
+      "search": "let's see.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:95",
+      "startMs": 270160,
+      "endMs": 274480,
+      "verbatim": "Code coverage ensures that critical parts of your application are tested thoroughly.",
+      "display": "Code coverage ensures that critical parts of your application are tested thoroughly.",
+      "search": "code coverage ensures that critical parts of your application are tested thoroughly.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:96",
+      "startMs": 274480,
+      "endMs": 275600,
+      "verbatim": "Also not true.",
+      "display": "Also not true.",
+      "search": "also not true.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:97",
+      "startMs": 275600,
+      "endMs": 278160,
+      "verbatim": "Good tests focus on the functional aspects of code.",
+      "display": "Good tests focus on the functional aspects of code.",
+      "search": "good tests focus on the functional aspects of code.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:98",
+      "startMs": 278160,
+      "endMs": 278480,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.646
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:99",
+      "startMs": 278480,
+      "endMs": 280720,
+      "verbatim": "Rather than the technical aspects, how?",
+      "display": "Rather than the technical aspects, how?",
+      "search": "rather than the technical aspects, how?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:100",
+      "startMs": 280720,
+      "endMs": 282560,
+      "verbatim": "I'd have to think about that statement more.",
+      "display": "I'd have to think about that statement more.",
+      "search": "i'd have to think about that statement more.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:101",
+      "startMs": 282560,
+      "endMs": 284320,
+      "verbatim": "I'm not really sure I understand it.",
+      "display": "I'm not really sure I understand it.",
+      "search": "i'm not really sure i understand it.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:102",
+      "startMs": 284320,
+      "endMs": 288000,
+      "verbatim": "A good test suite is safety net against regressions.",
+      "display": "A good test suite is safety net against regressions.",
+      "search": "a good test suite is safety net against regressions.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:103",
+      "startMs": 288000,
+      "endMs": 288960,
+      "verbatim": "This is fine.",
+      "display": "This is fine.",
+      "search": "this is fine.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:104",
+      "startMs": 288960,
+      "endMs": 289920,
+      "verbatim": "I think this is true.",
+      "display": "I think this is true.",
+      "search": "i think this is true.",
+      "confidence": 0.988
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:105",
+      "startMs": 289920,
+      "endMs": 291600,
+      "verbatim": "This last statement is very, very true.",
+      "display": "This last statement is very, very true.",
+      "search": "this last statement is very, very true.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:106",
+      "startMs": 291600,
+      "endMs": 298320,
+      "verbatim": "If you have a known bug and you ensure that you put stuff in, it does mean that you will probably not make that bug again.",
+      "display": "If you have a known bug and you ensure that you put stuff in, it does mean that you will probably not make that bug again.",
+      "search": "if you have a known bug and you ensure that you put stuff in, it does mean that you will probably not make that bug again.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:107",
+      "startMs": 298320,
+      "endMs": 298720,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.643
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:108",
+      "startMs": 298720,
+      "endMs": 305280,
+      "verbatim": "Now you may make it in a new, in a in an extravagant way, but it's unlikely you will create the same oopsie daisy more than once.",
+      "display": "Now you may make it in a new, in a in an extravagant way, but it's unlikely you will create the same oopsie daisy more than once.",
+      "search": "now you may make it in a new, in a in an extravagant way, but it's unlikely you will create the same oopsie daisy more than once.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:109",
+      "startMs": 305280,
+      "endMs": 307760,
+      "verbatim": "Again, this goes back to the exact same thing that I've talked about.",
+      "display": "Again, this goes back to the exact same thing that I've talked about.",
+      "search": "again, this goes back to the exact same thing that i've talked about.",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:110",
+      "startMs": 307760,
+      "endMs": 309200,
+      "verbatim": "Uh, chat is dumb.",
+      "display": "Uh, chat is dumb.",
+      "search": "uh, chat is dumb.",
+      "confidence": 0.706
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:111",
+      "startMs": 309200,
+      "endMs": 316320,
+      "verbatim": "Where I test the things I don't like, I don't know I can get correct first try.",
+      "display": "Where I test the things I don't like, I don't know I can get correct first try.",
+      "search": "where i test the things i don't like, i don't know i can get correct first try.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:112",
+      "startMs": 316320,
+      "endMs": 318000,
+      "verbatim": "Like window spec.",
+      "display": "Like window spec.",
+      "search": "like window spec.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:113",
+      "startMs": 318000,
+      "endMs": 322080,
+      "verbatim": "Ensuring that I can create a window, do all the stuff, and close a window.",
+      "display": "Ensuring that I can create a window, do all the stuff, and close a window.",
+      "search": "ensuring that i can create a window, do all the stuff, and close a window.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:114",
+      "startMs": 322080,
+      "endMs": 331360,
+      "verbatim": "I know I could probably add some more tests, some different stuff with uh, you know, specification, all this kind of stuff, but I wasn't, I could not do all this once, and testing it was extremely difficult.",
+      "display": "I know I could probably add some more tests, some different stuff with uh, you know, specification, all this kind of stuff, but I wasn't, I could not do all this once, and testing it was extremely difficult.",
+      "search": "i know i could probably add some more tests, some different stuff with uh, you know, specification, all this kind of stuff, but i wasn't, i could not do all this once, and testing it was extremely difficult.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:115",
+      "startMs": 331360,
+      "endMs": 342080,
+      "verbatim": "Actually, doing going through the process of testing and untesting required me to close down Vim or clear out the Lua cache, re-bring everything back in, re-execute a script, seeing if the results were correct.",
+      "display": "Actually, doing going through the process of testing and untesting required me to close down Vim or clear out the Lua cache, re-bring everything back in, re-execute a script, seeing if the results were correct.",
+      "search": "actually, doing going through the process of testing and untesting required me to close down vim or clear out the lua cache, re-bring everything back in, re-execute a script, seeing if the results were correct.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:116",
+      "startMs": 342080,
+      "endMs": 345360,
+      "verbatim": "Instead, I could just write something that can just tell me those things very, very quick.",
+      "display": "Instead, I could just write something that can just tell me those things very, very quick.",
+      "search": "instead, i could just write something that can just tell me those things very, very quick.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:117",
+      "startMs": 345360,
+      "endMs": 346640,
+      "verbatim": "That just feels easier.",
+      "display": "That just feels easier.",
+      "search": "that just feels easier.",
+      "confidence": 0.994
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:118",
+      "startMs": 346640,
+      "endMs": 348720,
+      "verbatim": "This was even harder to get right, right?",
+      "display": "This was even harder to get right, right?",
+      "search": "this was even harder to get right, right?",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:119",
+      "startMs": 348720,
+      "endMs": 354960,
+      "verbatim": "Doing a caching mechanism, ensuring that from a string I could actually build out the correct display from a string.",
+      "display": "Doing a caching mechanism, ensuring that from a string I could actually build out the correct display from a string.",
+      "search": "doing a caching mechanism, ensuring that from a string i could actually build out the correct display from a string.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:120",
+      "startMs": 354960,
+      "endMs": 356880,
+      "verbatim": "I could not get this right first try.",
+      "display": "I could not get this right first try.",
+      "search": "i could not get this right first try.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:121",
+      "startMs": 356880,
+      "endMs": 361120,
+      "verbatim": "This was ex this was an extremely difficult piece of code to get right first try.",
+      "display": "This was ex this was an extremely difficult piece of code to get right first try.",
+      "search": "this was ex this was an extremely difficult piece of code to get right first try.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:122",
+      "startMs": 361120,
+      "endMs": 364640,
+      "verbatim": "As you can see, very easy to goof this up, especially with one-based indexing.",
+      "display": "As you can see, very easy to goof this up, especially with one-based indexing.",
+      "search": "as you can see, very easy to goof this up, especially with one-based indexing.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:123",
+      "startMs": 364640,
+      "endMs": 367760,
+      "verbatim": "One-based indexing, the death of all programmers, by the way.",
+      "display": "One-based indexing, the death of all programmers, by the way.",
+      "search": "one-based indexing, the death of all programmers, by the way.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:124",
+      "startMs": 367760,
+      "endMs": 370240,
+      "verbatim": "Um, I found it to be very difficult to reason about.",
+      "display": "Um, I found it to be very difficult to reason about.",
+      "search": "um, i found it to be very difficult to reason about.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:125",
+      "startMs": 370240,
+      "endMs": 373120,
+      "verbatim": "So this makes perfect sense why you'd want to run over this, right?",
+      "display": "So this makes perfect sense why you'd want to run over this, right?",
+      "search": "so this makes perfect sense why you'd want to run over this, right?",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:126",
+      "startMs": 373120,
+      "endMs": 374560,
+      "verbatim": "Like why you'd want to test this.",
+      "display": "Like why you'd want to test this.",
+      "search": "like why you'd want to test this.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:127",
+      "startMs": 374560,
+      "endMs": 377840,
+      "verbatim": "Because I don't think I could ever get this right in one try at all.",
+      "display": "Because I don't think I could ever get this right in one try at all.",
+      "search": "because i don't think i could ever get this right in one try at all.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:128",
+      "startMs": 377840,
+      "endMs": 379680,
+      "verbatim": "Ever for any reason, right?",
+      "display": "Ever for any reason, right?",
+      "search": "ever for any reason, right?",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:129",
+      "startMs": 379680,
+      "endMs": 383440,
+      "verbatim": "And it's just so much faster to have a function I can run and test it over and over again.",
+      "display": "And it's just so much faster to have a function I can run and test it over and over again.",
+      "search": "and it's just so much faster to have a function i can run and test it over and over again.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:130",
+      "startMs": 383440,
+      "endMs": 384800,
+      "verbatim": "So yeah, I'm happy about that.",
+      "display": "So yeah, I'm happy about that.",
+      "search": "so yeah, i'm happy about that.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:131",
+      "startMs": 384800,
+      "endMs": 385840,
+      "verbatim": "I've covered regressions.",
+      "display": "I've covered regressions.",
+      "search": "i've covered regressions.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:132",
+      "startMs": 385840,
+      "endMs": 388080,
+      "verbatim": "Now I won't goof up messing that up.",
+      "display": "Now I won't goof up messing that up.",
+      "search": "now i won't goof up messing that up.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:133",
+      "startMs": 388080,
+      "endMs": 389200,
+      "verbatim": "Lua, why one?",
+      "display": "Lua, why one?",
+      "search": "lua, why one?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:134",
+      "startMs": 389200,
+      "endMs": 390240,
+      "verbatim": "Y1, Lua.",
+      "display": "Y1, Lua.",
+      "search": "y1, lua.",
+      "confidence": 0.728
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:135",
+      "startMs": 390240,
+      "endMs": 392400,
+      "verbatim": "Uh code coverage highlights areas that need more attention.",
+      "display": "Uh code coverage highlights areas that need more attention.",
+      "search": "uh code coverage highlights areas that need more attention.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:136",
+      "startMs": 392400,
+      "endMs": 395520,
+      "verbatim": "It guides developers in writing additional tests where necessary.",
+      "display": "It guides developers in writing additional tests where necessary.",
+      "search": "it guides developers in writing additional tests where necessary.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:137",
+      "startMs": 395520,
+      "endMs": 400480,
+      "verbatim": "Again, I mean, that that assumes this axiom is true and that the inverse isn't, right?",
+      "display": "Again, I mean, that that assumes this axiom is true and that the inverse isn't, right?",
+      "search": "again, i mean, that that assumes this axiom is true and that the inverse isn't, right?",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:138",
+      "startMs": 400480,
+      "endMs": 402080,
+      "verbatim": "There's a lot of assumptions made in there.",
+      "display": "There's a lot of assumptions made in there.",
+      "search": "there's a lot of assumptions made in there.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:139",
+      "startMs": 402080,
+      "endMs": 403520,
+      "verbatim": "The limitations of code coverage.",
+      "display": "The limitations of code coverage.",
+      "search": "the limitations of code coverage.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:140",
+      "startMs": 403520,
+      "endMs": 405440,
+      "verbatim": "While code coverage is valuable, it has limitations.",
+      "display": "While code coverage is valuable, it has limitations.",
+      "search": "while code coverage is valuable, it has limitations.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:141",
+      "startMs": 405440,
+      "endMs": 406320,
+      "verbatim": "False sense of security.",
+      "display": "False sense of security.",
+      "search": "false sense of security.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:142",
+      "startMs": 406320,
+      "endMs": 409280,
+      "verbatim": "Achieving 100% code coverage doesn't guarantee bug-free software.",
+      "display": "Achieving 100% code coverage doesn't guarantee bug-free software.",
+      "search": "achieving 100% code coverage doesn't guarantee bug-free software.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:143",
+      "startMs": 409280,
+      "endMs": 412640,
+      "verbatim": "It's possible to have well-covered code that contains subtle defects.",
+      "display": "It's possible to have well-covered code that contains subtle defects.",
+      "search": "it's possible to have well-covered code that contains subtle defects.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:144",
+      "startMs": 412640,
+      "endMs": 414960,
+      "verbatim": "This is especially true when mocking dependencies.",
+      "display": "This is especially true when mocking dependencies.",
+      "search": "this is especially true when mocking dependencies.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:145",
+      "startMs": 414960,
+      "endMs": 415920,
+      "verbatim": "Oh boy.",
+      "display": "Oh boy.",
+      "search": "oh boy.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:146",
+      "startMs": 415920,
+      "endMs": 424160,
+      "verbatim": "Every time you mock, you have just stated that you understand the universe for that mock and you will be able to represent all of its behaviors properly.",
+      "display": "Every time you mock, you have just stated that you understand the universe for that mock and you will be able to represent all of its behaviors properly.",
+      "search": "every time you mock, you have just stated that you understand the universe for that mock and you will be able to represent all of its behaviors properly.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:147",
+      "startMs": 424160,
+      "endMs": 428480,
+      "verbatim": "Mocking is particularly egregious when uh when discovering problems.",
+      "display": "Mocking is particularly egregious when uh when discovering problems.",
+      "search": "mocking is particularly egregious when uh when discovering problems.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:148",
+      "startMs": 428480,
+      "endMs": 436560,
+      "verbatim": "I can't tell you how many things I have discovered in production or in code where the mock makes a false assumption about production.",
+      "display": "I can't tell you how many things I have discovered in production or in code where the mock makes a false assumption about production.",
+      "search": "i can't tell you how many things i have discovered in production or in code where the mock makes a false assumption about production.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:149",
+      "startMs": 436560,
+      "endMs": 446000,
+      "verbatim": "So not only do you have a test that tests something that no longer exists in production, but it also guards you from getting the actual answer correct.",
+      "display": "So not only do you have a test that tests something that no longer exists in production, but it also guards you from getting the actual answer correct.",
+      "search": "so not only do you have a test that tests something that no longer exists in production, but it also guards you from getting the actual answer correct.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:150",
+      "startMs": 446000,
+      "endMs": 449040,
+      "verbatim": "Mocks are literally the devil.",
+      "display": "Mocks are literally the devil.",
+      "search": "mocks are literally the devil.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:151",
+      "startMs": 449040,
+      "endMs": 450160,
+      "verbatim": "They're the devil.",
+      "display": "They're the devil.",
+      "search": "they're the devil.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:152",
+      "startMs": 450160,
+      "endMs": 456320,
+      "verbatim": "For what it's worth, we add about we added 100% uh coverage to get our devs to actually write any tests along with their PR.",
+      "display": "For what it's worth, we add about we added 100% uh coverage to get our devs to actually write any tests along with their PR.",
+      "search": "for what it's worth, we add about we added 100% uh coverage to get our devs to actually write any tests along with their pr.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:153",
+      "startMs": 456320,
+      "endMs": 459120,
+      "verbatim": "Otherwise, they just wait till it breaks before writing another test.",
+      "display": "Otherwise, they just wait till it breaks before writing another test.",
+      "search": "otherwise, they just wait till it breaks before writing another test.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:154",
+      "startMs": 459120,
+      "endMs": 461440,
+      "verbatim": "I'm actually not necessarily opposed to that.",
+      "display": "I'm actually not necessarily opposed to that.",
+      "search": "i'm actually not necessarily opposed to that.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:155",
+      "startMs": 461440,
+      "endMs": 464480,
+      "verbatim": "Uh surprisingly, easy to keep your coverage over 80%.",
+      "display": "Uh surprisingly, easy to keep your coverage over 80%.",
+      "search": "uh surprisingly, easy to keep your coverage over 80%.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:156",
+      "startMs": 464480,
+      "endMs": 469680,
+      "verbatim": "In short, when someone complains about a hundred percent code coverage thing, we explain that it's a culture thing to try to get devs to be good citizens.",
+      "display": "In short, when someone complains about a hundred percent code coverage thing, we explain that it's a culture thing to try to get devs to be good citizens.",
+      "search": "in short, when someone complains about a hundred percent code coverage thing, we explain that it's a culture thing to try to get devs to be good citizens.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:157",
+      "startMs": 469680,
+      "endMs": 473120,
+      "verbatim": "So here so here's the question I think you need to ask yourself.",
+      "display": "So here so here's the question I think you need to ask yourself.",
+      "search": "so here so here's the question i think you need to ask yourself.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:158",
+      "startMs": 473120,
+      "endMs": 476720,
+      "verbatim": "Why aren't tests right- why are devs not writing tests?",
+      "display": "Why aren't tests right- why are devs not writing tests?",
+      "search": "why aren't tests right- why are devs not writing tests?",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:159",
+      "startMs": 476720,
+      "endMs": 483200,
+      "verbatim": "My assumption is that whatever the environment is makes it hard to write tests to test specific things.",
+      "display": "My assumption is that whatever the environment is makes it hard to write tests to test specific things.",
+      "search": "my assumption is that whatever the environment is makes it hard to write tests to test specific things.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:160",
+      "startMs": 483200,
+      "endMs": 488160,
+      "verbatim": "Because you can't tell me that no devs writing code that's not difficult, that they can't get right in the first try.",
+      "display": "Because you can't tell me that no devs writing code that's not difficult, that they can't get right in the first try.",
+      "search": "because you can't tell me that no devs writing code that's not difficult, that they can't get right in the first try.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:161",
+      "startMs": 488160,
+      "endMs": 497360,
+      "verbatim": "So if they can have an iteration cycle that's directly better than trying to run the entire program, then there's your problem.",
+      "display": "So if they can have an iteration cycle that's directly better than trying to run the entire program, then there's your problem.",
+      "search": "so if they can have an iteration cycle that's directly better than trying to run the entire program, then there's your problem.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:162",
+      "startMs": 497360,
+      "endMs": 500560,
+      "verbatim": "I mean, that's another reason why I write tests, is because guess what?",
+      "display": "I mean, that's another reason why I write tests, is because guess what?",
+      "search": "i mean, that's another reason why i write tests, is because guess what?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:163",
+      "startMs": 500560,
+      "endMs": 507280,
+      "verbatim": "It is a thousand times easier testing this in a test than it is trying to test it while running it.",
+      "display": "It is a thousand times easier testing this in a test than it is trying to test it while running it.",
+      "search": "it is a thousand times easier testing this in a test than it is trying to test it while running it.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:164",
+      "startMs": 507280,
+      "endMs": 517840,
+      "verbatim": "And so whenever you get into this part where people aren't writing tests, I often think the environment to write tests is more difficult to test and run than the thing itself.",
+      "display": "And so whenever you get into this part where people aren't writing tests, I often think the environment to write tests is more difficult to test and run than the thing itself.",
+      "search": "and so whenever you get into this part where people aren't writing tests, i often think the environment to write tests is more difficult to test and run than the thing itself.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:165",
+      "startMs": 517840,
+      "endMs": 520640,
+      "verbatim": "Yeah, the env is often the problem.",
+      "display": "Yeah, the env is often the problem.",
+      "search": "yeah, the env is often the problem.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:166",
+      "startMs": 520640,
+      "endMs": 524800,
+      "verbatim": "In reality, uh the reality is writing testable code is hard, and most devs is new.",
+      "display": "In reality, uh the reality is writing testable code is hard, and most devs is new.",
+      "search": "in reality, uh the reality is writing testable code is hard, and most devs is new.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:167",
+      "startMs": 524800,
+      "endMs": 526880,
+      "verbatim": "This is also very, very true.",
+      "display": "This is also very, very true.",
+      "search": "this is also very, very true.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:168",
+      "startMs": 526880,
+      "endMs": 529760,
+      "verbatim": "A lot of people don't know how to write testable code.",
+      "display": "A lot of people don't know how to write testable code.",
+      "search": "a lot of people don't know how to write testable code.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:169",
+      "startMs": 529760,
+      "endMs": 532160,
+      "verbatim": "That is a very fair statement.",
+      "display": "That is a very fair statement.",
+      "search": "that is a very fair statement.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:170",
+      "startMs": 532160,
+      "endMs": 534320,
+      "verbatim": "You're using a logical fallacy, so are you.",
+      "display": "You're using a logical fallacy, so are you.",
+      "search": "you're using a logical fallacy, so are you.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:171",
+      "startMs": 534320,
+      "endMs": 538320,
+      "verbatim": "Uh, the existence of bad tests is not an argument against 100% code coverage.",
+      "display": "Uh, the existence of bad tests is not an argument against 100% code coverage.",
+      "search": "uh, the existence of bad tests is not an argument against 100% code coverage.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:172",
+      "startMs": 538320,
+      "endMs": 540480,
+      "verbatim": "Of course, the tests have to be effective as well.",
+      "display": "Of course, the tests have to be effective as well.",
+      "search": "of course, the tests have to be effective as well.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:173",
+      "startMs": 540480,
+      "endMs": 545920,
+      "verbatim": "When safety is uh by far the top priority uh example in software for airplanes or x-ray machines.",
+      "display": "When safety is uh by far the top priority uh example in software for airplanes or x-ray machines.",
+      "search": "when safety is uh by far the top priority uh example in software for airplanes or x-ray machines.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:174",
+      "startMs": 545920,
+      "endMs": 550080,
+      "verbatim": "Remember, I I I don't see why you shouldn't have 100% test coverage.",
+      "display": "Remember, I I I don't see why you shouldn't have 100% test coverage.",
+      "search": "remember, i i i don't see why you shouldn't have 100% test coverage.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:175",
+      "startMs": 550080,
+      "endMs": 554240,
+      "verbatim": "I guarantee you you could have had 100% test coverage and still had that X-ray machine problem.",
+      "display": "I guarantee you you could have had 100% test coverage and still had that X-ray machine problem.",
+      "search": "i guarantee you you could have had 100% test coverage and still had that x-ray machine problem.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:176",
+      "startMs": 554240,
+      "endMs": 557120,
+      "verbatim": "But you're doing like the literal exact opposite problem.",
+      "display": "But you're doing like the literal exact opposite problem.",
+      "search": "but you're doing like the literal exact opposite problem.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:177",
+      "startMs": 557120,
+      "endMs": 560960,
+      "verbatim": "100% code coverage does not mean the software is safe either, right?",
+      "display": "100% code coverage does not mean the software is safe either, right?",
+      "search": "100% code coverage does not mean the software is safe either, right?",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:178",
+      "startMs": 560960,
+      "endMs": 567760,
+      "verbatim": "And so it's just like my argument is that we should make good tests for things that are very valuable.",
+      "display": "And so it's just like my argument is that we should make good tests for things that are very valuable.",
+      "search": "and so it's just like my argument is that we should make good tests for things that are very valuable.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:179",
+      "startMs": 567760,
+      "endMs": 572320,
+      "verbatim": "We should not make tests for the sake of making a test.",
+      "display": "We should not make tests for the sake of making a test.",
+      "search": "we should not make tests for the sake of making a test.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:180",
+      "startMs": 572320,
+      "endMs": 574080,
+      "verbatim": "I don't think X-ray machines are simple.",
+      "display": "I don't think X-ray machines are simple.",
+      "search": "i don't think x-ray machines are simple.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:181",
+      "startMs": 574080,
+      "endMs": 575280,
+      "verbatim": "I never said that.",
+      "display": "I never said that.",
+      "search": "i never said that.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:182",
+      "startMs": 575280,
+      "endMs": 577520,
+      "verbatim": "I would most certainly have never said that.",
+      "display": "I would most certainly have never said that.",
+      "search": "i would most certainly have never said that.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:183",
+      "startMs": 577520,
+      "endMs": 581040,
+      "verbatim": "I just don't think that you can make those statements, right?",
+      "display": "I just don't think that you can make those statements, right?",
+      "search": "i just don't think that you can make those statements, right?",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:184",
+      "startMs": 581040,
+      "endMs": 582960,
+      "verbatim": "Therek25 mentioned, let's go.",
+      "display": "Therek25 mentioned, let's go.",
+      "search": "therek25 mentioned, let's go.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:185",
+      "startMs": 582960,
+      "endMs": 583920,
+      "verbatim": "Yeah, exactly.",
+      "display": "Yeah, exactly.",
+      "search": "yeah, exactly.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:186",
+      "startMs": 583920,
+      "endMs": 589200,
+      "verbatim": "For those that don't know, there's a couple people that died because of this uh race condition effectively that happened.",
+      "display": "For those that don't know, there's a couple people that died because of this uh race condition effectively that happened.",
+      "search": "for those that don't know, there's a couple people that died because of this uh race condition effectively that happened.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:187",
+      "startMs": 589200,
+      "endMs": 596000,
+      "verbatim": "While the arm was moving, if you reset a value, the value wasn't accepted despite the UI still showing it.",
+      "display": "While the arm was moving, if you reset a value, the value wasn't accepted despite the UI still showing it.",
+      "search": "while the arm was moving, if you reset a value, the value wasn't accepted despite the ui still showing it.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:188",
+      "startMs": 596000,
+      "endMs": 596880,
+      "verbatim": "And guess what?",
+      "display": "And guess what?",
+      "search": "and guess what?",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:189",
+      "startMs": 596880,
+      "endMs": 600800,
+      "verbatim": "Pretty much guaranteed that a unit test would have definitely thought that that was fine.",
+      "display": "Pretty much guaranteed that a unit test would have definitely thought that that was fine.",
+      "search": "pretty much guaranteed that a unit test would have definitely thought that that was fine.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:190",
+      "startMs": 600800,
+      "endMs": 602800,
+      "verbatim": "Let risk determine the testing conditions.",
+      "display": "Let risk determine the testing conditions.",
+      "search": "let risk determine the testing conditions.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:191",
+      "startMs": 602800,
+      "endMs": 606640,
+      "verbatim": "When it comes to any of these other things, I would much rather see Tiger style.",
+      "display": "When it comes to any of these other things, I would much rather see Tiger style.",
+      "search": "when it comes to any of these other things, i would much rather see tiger style.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:192",
+      "startMs": 606640,
+      "endMs": 612560,
+      "verbatim": "I'd much rather see tons of asserts, negative space, and a shit ton of simulation testing on these things, right?",
+      "display": "I'd much rather see tons of asserts, negative space, and a shit ton of simulation testing on these things, right?",
+      "search": "i'd much rather see tons of asserts, negative space, and a shit ton of simulation testing on these things, right?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:193",
+      "startMs": 612720,
+      "endMs": 614800,
+      "verbatim": "I would much rather see that.",
+      "display": "I would much rather see that.",
+      "search": "i would much rather see that.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:194",
+      "startMs": 614800,
+      "endMs": 624640,
+      "verbatim": "Because you're gonna, because you can use code coverage from your simulation testing, and you could say we are testing 100% of the code with simulation testing, and at least that's way more believable.",
+      "display": "Because you're gonna, because you can use code coverage from your simulation testing, and you could say we are testing 100% of the code with simulation testing, and at least that's way more believable.",
+      "search": "because you're gonna, because you can use code coverage from your simulation testing, and you could say we are testing 100% of the code with simulation testing, and at least that's way more believable.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:195",
+      "startMs": 624640,
+      "endMs": 628000,
+      "verbatim": "At least at that point, I'm like, okay, now we actually have real things.",
+      "display": "At least at that point, I'm like, okay, now we actually have real things.",
+      "search": "at least at that point, i'm like, okay, now we actually have real things.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:196",
+      "startMs": 628000,
+      "endMs": 629600,
+      "verbatim": "What does it mean by testable code?",
+      "display": "What does it mean by testable code?",
+      "search": "what does it mean by testable code?",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:197",
+      "startMs": 629600,
+      "endMs": 631520,
+      "verbatim": "Testable code is really, really simple.",
+      "display": "Testable code is really, really simple.",
+      "search": "testable code is really, really simple.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:198",
+      "startMs": 631520,
+      "endMs": 638000,
+      "verbatim": "Let's pretend I have a function, foo, and inside function foo, by the way, this is uh Lua, so just deal with it.",
+      "display": "Let's pretend I have a function, foo, and inside function foo, by the way, this is uh Lua, so just deal with it.",
+      "search": "let's pretend i have a function, foo, and inside function foo, by the way, this is uh lua, so just deal with it.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:199",
+      "startMs": 638000,
+      "endMs": 645760,
+      "verbatim": "Inside function foo, I go to the up uh go to the uh server for some data, right?",
+      "display": "Inside function foo, I go to the up uh go to the uh server for some data, right?",
+      "search": "inside function foo, i go to the up uh go to the uh server for some data, right?",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:200",
+      "startMs": 645760,
+      "endMs": 655600,
+      "verbatim": "And then I uh do some things to uh uh things to uh data, right?",
+      "display": "And then I uh do some things to uh uh things to uh data, right?",
+      "search": "and then i uh do some things to uh uh things to uh data, right?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:201",
+      "startMs": 655600,
+      "endMs": 656960,
+      "verbatim": "Right in here.",
+      "display": "Right in here.",
+      "search": "right in here.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:202",
+      "startMs": 656960,
+      "endMs": 658640,
+      "verbatim": "This is very hard code to test.",
+      "display": "This is very hard code to test.",
+      "search": "this is very hard code to test.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:203",
+      "startMs": 658640,
+      "endMs": 660320,
+      "verbatim": "This is very, very hard code to test.",
+      "display": "This is very, very hard code to test.",
+      "search": "this is very, very hard code to test.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:204",
+      "startMs": 660320,
+      "endMs": 663120,
+      "verbatim": "You have to have something that you can override, say go to the server.",
+      "display": "You have to have something that you can override, say go to the server.",
+      "search": "you have to have something that you can override, say go to the server.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:205",
+      "startMs": 663120,
+      "endMs": 666640,
+      "verbatim": "You have to dependency inject at like a at like a a level, right?",
+      "display": "You have to dependency inject at like a at like a a level, right?",
+      "search": "you have to dependency inject at like a at like a a level, right?",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:206",
+      "startMs": 666640,
+      "endMs": 668400,
+      "verbatim": "You know what's much nicer?",
+      "display": "You know what's much nicer?",
+      "search": "you know what's much nicer?",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:207",
+      "startMs": 668400,
+      "endMs": 671040,
+      "verbatim": "Foo, data.",
+      "display": "Foo, data.",
+      "search": "foo, data.",
+      "confidence": 0.434
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:208",
+      "startMs": 671040,
+      "endMs": 673120,
+      "verbatim": "This is very easy to test.",
+      "display": "This is very easy to test.",
+      "search": "this is very easy to test.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:209",
+      "startMs": 673120,
+      "endMs": 683280,
+      "verbatim": "Because this, on the other hand, I can just make up the different shapes I need that I think are well tested or difficult to produce, and I can test that really simple.",
+      "display": "Because this, on the other hand, I can just make up the different shapes I need that I think are well tested or difficult to produce, and I can test that really simple.",
+      "search": "because this, on the other hand, i can just make up the different shapes i need that i think are well tested or difficult to produce, and i can test that really simple.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:210",
+      "startMs": 683280,
+      "endMs": 686400,
+      "verbatim": "It's I mean that's really that's how you write testable code, right?",
+      "display": "It's I mean that's really that's how you write testable code, right?",
+      "search": "it's i mean that's really that's how you write testable code, right?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:211",
+      "startMs": 686400,
+      "endMs": 688960,
+      "verbatim": "It's it's it's like as simple as that.",
+      "display": "It's it's it's like as simple as that.",
+      "search": "it's it's it's like as simple as that.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:212",
+      "startMs": 688960,
+      "endMs": 689920,
+      "verbatim": "Test me, Daddy.",
+      "display": "Test me, Daddy.",
+      "search": "test me, daddy.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:213",
+      "startMs": 689920,
+      "endMs": 690640,
+      "verbatim": "Okay, anyways.",
+      "display": "Okay, anyways.",
+      "search": "okay, anyways.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:214",
+      "startMs": 690640,
+      "endMs": 692560,
+      "verbatim": "Uh they focus on lines, not behavior.",
+      "display": "Uh they focus on lines, not behavior.",
+      "search": "uh they focus on lines, not behavior.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:215",
+      "startMs": 692560,
+      "endMs": 698080,
+      "verbatim": "Code coverage doesn't consider the quality of test, it guarantees that the line uh that the test covers all possible scenarios.",
+      "display": "Code coverage doesn't consider the quality of test, it guarantees that the line uh that the test covers all possible scenarios.",
+      "search": "code coverage doesn't consider the quality of test, it guarantees that the line uh that the test covers all possible scenarios.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:216",
+      "startMs": 698080,
+      "endMs": 702000,
+      "verbatim": "It touches all possible lines, doesn't cover all possible scenarios.",
+      "display": "It touches all possible lines, doesn't cover all possible scenarios.",
+      "search": "it touches all possible lines, doesn't cover all possible scenarios.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:217",
+      "startMs": 702000,
+      "endMs": 705520,
+      "verbatim": "Some code paths, execution handling, rare conditions are too complex to cover.",
+      "display": "Some code paths, execution handling, rare conditions are too complex to cover.",
+      "search": "some code paths, execution handling, rare conditions are too complex to cover.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:218",
+      "startMs": 705520,
+      "endMs": 708400,
+      "verbatim": "High coverage doesn't uh necessarily mean thorough testing.",
+      "display": "High coverage doesn't uh necessarily mean thorough testing.",
+      "search": "high coverage doesn't uh necessarily mean thorough testing.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:219",
+      "startMs": 708400,
+      "endMs": 708960,
+      "verbatim": "Facts.",
+      "display": "Facts.",
+      "search": "facts.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:220",
+      "startMs": 708960,
+      "endMs": 711840,
+      "verbatim": "Okay, practical reasons why code coverage percentage can be misleading.",
+      "display": "Okay, practical reasons why code coverage percentage can be misleading.",
+      "search": "okay, practical reasons why code coverage percentage can be misleading.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:221",
+      "startMs": 711840,
+      "endMs": 717760,
+      "verbatim": "For the sake of this article, I've created a dummy.net API project with the typical three layers, controller, service, and repository.",
+      "display": "For the sake of this article, I've created a dummy.net API project with the typical three layers, controller, service, and repository.",
+      "search": "for the sake of this article, i've created a dummy.net api project with the typical three layers, controller, service, and repository.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:222",
+      "startMs": 718720,
+      "endMs": 720640,
+      "verbatim": "It contains a controller with two endpoints.",
+      "display": "It contains a controller with two endpoints.",
+      "search": "it contains a controller with two endpoints.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:223",
+      "startMs": 720640,
+      "endMs": 725120,
+      "verbatim": "Okay, so we got one endpoint universal weather forecasting controller.",
+      "display": "Okay, so we got one endpoint universal weather forecasting controller.",
+      "search": "okay, so we got one endpoint universal weather forecasting controller.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:224",
+      "startMs": 725120,
+      "endMs": 736800,
+      "verbatim": "Uh we got low HP Git, we get enumerable weather, forecast weather service by locations, two list, weather, get my min planet, weather, min planet, whatever universal stuff, weather service, another one of these.",
+      "display": "Uh we got low HP Git, we get enumerable weather, forecast weather service by locations, two list, weather, get my min planet, weather, min planet, whatever universal stuff, weather service, another one of these.",
+      "search": "uh we got low hp git, we get enumerable weather, forecast weather service by locations, two list, weather, get my min planet, weather, min planet, whatever universal stuff, weather service, another one of these.",
+      "confidence": 0.692
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:225",
+      "startMs": 737280,
+      "endMs": 738160,
+      "verbatim": "I don't really know this pattern.",
+      "display": "I don't really know this pattern.",
+      "search": "i don't really know this pattern.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:226",
+      "startMs": 738160,
+      "endMs": 739200,
+      "verbatim": "I don't know what I'm looking at.",
+      "display": "I don't know what I'm looking at.",
+      "search": "i don't know what i'm looking at.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:227",
+      "startMs": 739200,
+      "endMs": 744880,
+      "verbatim": "I enumerable weather by locations, argument out of uh argument exception, throw if less than this.",
+      "display": "I enumerable weather by locations, argument out of uh argument exception, throw if less than this.",
+      "search": "i enumerable weather by locations, argument out of uh argument exception, throw if less than this.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:228",
+      "startMs": 744880,
+      "endMs": 747280,
+      "verbatim": "Weird way to throw exceptions, but whatever.",
+      "display": "Weird way to throw exceptions, but whatever.",
+      "search": "weird way to throw exceptions, but whatever.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:229",
+      "startMs": 747280,
+      "endMs": 748000,
+      "verbatim": "Do this.",
+      "display": "Do this.",
+      "search": "do this.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:230",
+      "startMs": 748000,
+      "endMs": 752240,
+      "verbatim": "I really hate when people program logic like this into a function.",
+      "display": "I really hate when people program logic like this into a function.",
+      "search": "i really hate when people program logic like this into a function.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:231",
+      "startMs": 752240,
+      "endMs": 754080,
+      "verbatim": "Throw if less than or equal.",
+      "display": "Throw if less than or equal.",
+      "search": "throw if less than or equal.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:232",
+      "startMs": 754080,
+      "endMs": 756320,
+      "verbatim": "You know what's like way cooler?",
+      "display": "You know what's like way cooler?",
+      "search": "you know what's like way cooler?",
+      "confidence": 0.694
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:233",
+      "startMs": 756320,
+      "endMs": 763200,
+      "verbatim": "Just if location is less than or equal to zero, throw out of range exception.",
+      "display": "Just if location is less than or equal to zero, throw out of range exception.",
+      "search": "just if location is less than or equal to zero, throw out of range exception.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:234",
+      "startMs": 763200,
+      "endMs": 766880,
+      "verbatim": "You know how much nicer it is to just have that?",
+      "display": "You know how much nicer it is to just have that?",
+      "search": "you know how much nicer it is to just have that?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:235",
+      "startMs": 766880,
+      "endMs": 773120,
+      "verbatim": "Can we just all agree that this type of stuff is just just why have one more level of indirection?",
+      "display": "Can we just all agree that this type of stuff is just just why have one more level of indirection?",
+      "search": "can we just all agree that this type of stuff is just just why have one more level of indirection?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:236",
+      "startMs": 773120,
+      "endMs": 773920,
+      "verbatim": "Why?",
+      "display": "Why?",
+      "search": "why?",
+      "confidence": 0.632
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:237",
+      "startMs": 773920,
+      "endMs": 775280,
+      "verbatim": "Can we just stop?",
+      "display": "Can we just stop?",
+      "search": "can we just stop?",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:238",
+      "startMs": 775280,
+      "endMs": 776240,
+      "verbatim": "Can we just stop?",
+      "display": "Can we just stop?",
+      "search": "can we just stop?",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:239",
+      "startMs": 776240,
+      "endMs": 778240,
+      "verbatim": "And then right afterwards doing this, Mr.",
+      "display": "And then right afterwards doing this, Mr.",
+      "search": "and then right afterwards doing this, mr.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:240",
+      "startMs": 778240,
+      "endMs": 783840,
+      "verbatim": "Safety Safety Pants, you toss in a non-squirely brace if statement, you're being an evil individual, okay?",
+      "display": "Safety Safety Pants, you toss in a non-squirely brace if statement, you're being an evil individual, okay?",
+      "search": "safety safety pants, you toss in a non-squirely brace if statement, you're being an evil individual, okay?",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:241",
+      "startMs": 783840,
+      "endMs": 784880,
+      "verbatim": "You can't do that.",
+      "display": "You can't do that.",
+      "search": "you can't do that.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:242",
+      "startMs": 784880,
+      "endMs": 786160,
+      "verbatim": "You can't do that.",
+      "display": "You can't do that.",
+      "search": "you can't do that.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:243",
+      "startMs": 786160,
+      "endMs": 787200,
+      "verbatim": "We can't, actually.",
+      "display": "We can't, actually.",
+      "search": "we can't, actually.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:244",
+      "startMs": 787200,
+      "endMs": 788160,
+      "verbatim": "That's crazy.",
+      "display": "That's crazy.",
+      "search": "that's crazy.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:245",
+      "startMs": 788160,
+      "endMs": 788960,
+      "verbatim": "Evil!",
+      "display": "Evil!",
+      "search": "evil!",
+      "confidence": 0.456
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:246",
+      "startMs": 788960,
+      "endMs": 791760,
+      "verbatim": "Okay, this is way more terrifying.",
+      "display": "Okay, this is way more terrifying.",
+      "search": "okay, this is way more terrifying.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:247",
+      "startMs": 791760,
+      "endMs": 794320,
+      "verbatim": "This is way more terrifying than anything else.",
+      "display": "This is way more terrifying than anything else.",
+      "search": "this is way more terrifying than anything else.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:248",
+      "startMs": 794320,
+      "endMs": 795920,
+      "verbatim": "Anyways, okay.",
+      "display": "Anyways, okay.",
+      "search": "anyways, okay.",
+      "confidence": 0.693
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:249",
+      "startMs": 795920,
+      "endMs": 799120,
+      "verbatim": "Do a bunch of crap, more of this stuff, blah blah blah blah blah blah.",
+      "display": "Do a bunch of crap, more of this stuff, blah blah blah blah blah blah.",
+      "search": "do a bunch of crap, more of this stuff, blah blah blah blah blah blah.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:250",
+      "startMs": 799120,
+      "endMs": 799840,
+      "verbatim": "Okay, fantastic.",
+      "display": "Okay, fantastic.",
+      "search": "okay, fantastic.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:251",
+      "startMs": 799840,
+      "endMs": 802560,
+      "verbatim": "Finally, the service calls the repository emitted for brevity.",
+      "display": "Finally, the service calls the repository emitted for brevity.",
+      "search": "finally, the service calls the repository emitted for brevity.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:252",
+      "startMs": 802560,
+      "endMs": 805920,
+      "verbatim": "Just a bunch of line uh items of in uh memory I lists.",
+      "display": "Just a bunch of line uh items of in uh memory I lists.",
+      "search": "just a bunch of line uh items of in uh memory i lists.",
+      "confidence": 0.626
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:253",
+      "startMs": 805920,
+      "endMs": 809680,
+      "verbatim": "Then I created an end unit test project to generate some uh unit tests.",
+      "display": "Then I created an end unit test project to generate some uh unit tests.",
+      "search": "then i created an end unit test project to generate some uh unit tests.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:254",
+      "startMs": 809680,
+      "endMs": 811200,
+      "verbatim": "Okay, let's see what the unit tests are.",
+      "display": "Okay, let's see what the unit tests are.",
+      "search": "okay, let's see what the unit tests are.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:255",
+      "startMs": 811200,
+      "endMs": 813040,
+      "verbatim": "All right, so we got some setup, we got some teardowns.",
+      "display": "All right, so we got some setup, we got some teardowns.",
+      "search": "all right, so we got some setup, we got some teardowns.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:256",
+      "startMs": 813040,
+      "endMs": 814080,
+      "verbatim": "Ooh, we got some mocks.",
+      "display": "Ooh, we got some mocks.",
+      "search": "ooh, we got some mocks.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:257",
+      "startMs": 814080,
+      "endMs": 815440,
+      "verbatim": "Oh, you done effed up.",
+      "display": "Oh, you done effed up.",
+      "search": "oh, you done effed up.",
+      "confidence": 0.606
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:258",
+      "startMs": 815440,
+      "endMs": 816640,
+      "verbatim": "You're done effed up already.",
+      "display": "You're done effed up already.",
+      "search": "you're done effed up already.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:259",
+      "startMs": 816720,
+      "endMs": 820640,
+      "verbatim": "This class covers two cases, both related to the forecast by location method of service.",
+      "display": "This class covers two cases, both related to the forecast by location method of service.",
+      "search": "this class covers two cases, both related to the forecast by location method of service.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:260",
+      "startMs": 820640,
+      "endMs": 821280,
+      "verbatim": "Case one.",
+      "display": "Case one.",
+      "search": "case one.",
+      "confidence": 0.561
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:261",
+      "startMs": 821280,
+      "endMs": 822720,
+      "verbatim": "The location exists in the repository.",
+      "display": "The location exists in the repository.",
+      "search": "the location exists in the repository.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:262",
+      "startMs": 822720,
+      "endMs": 824720,
+      "verbatim": "This method must return the related information.",
+      "display": "This method must return the related information.",
+      "search": "this method must return the related information.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:263",
+      "startMs": 824720,
+      "endMs": 826480,
+      "verbatim": "Okay, this is what we expect.",
+      "display": "Okay, this is what we expect.",
+      "search": "okay, this is what we expect.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:264",
+      "startMs": 826480,
+      "endMs": 828240,
+      "verbatim": "Here's the new clay thing.",
+      "display": "Here's the new clay thing.",
+      "search": "here's the new clay thing.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:265",
+      "startMs": 828240,
+      "endMs": 834000,
+      "verbatim": "We do this, we tell it to hey, you get these functions right here, do this guy right here.",
+      "display": "We do this, we tell it to hey, you get these functions right here, do this guy right here.",
+      "search": "we do this, we tell it to hey, you get these functions right here, do this guy right here.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:266",
+      "startMs": 834000,
+      "endMs": 834880,
+      "verbatim": "Now we got it.",
+      "display": "Now we got it.",
+      "search": "now we got it.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:267",
+      "startMs": 834880,
+      "endMs": 835840,
+      "verbatim": "Okay, great.",
+      "display": "Okay, great.",
+      "search": "okay, great.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:268",
+      "startMs": 835840,
+      "endMs": 838000,
+      "verbatim": "You've tested that your mock is fantastic.",
+      "display": "You've tested that your mock is fantastic.",
+      "search": "you've tested that your mock is fantastic.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:269",
+      "startMs": 838000,
+      "endMs": 841280,
+      "verbatim": "Your mock, real nice, real nice mock there.",
+      "display": "Your mock, real nice, real nice mock there.",
+      "search": "your mock, real nice, real nice mock there.",
+      "confidence": 0.641
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:270",
+      "startMs": 841280,
+      "endMs": 841920,
+      "verbatim": "Case two.",
+      "display": "Case two.",
+      "search": "case two.",
+      "confidence": 0.474
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:271",
+      "startMs": 841920,
+      "endMs": 846400,
+      "verbatim": "The location does not exist uh in the repository, and the method should throw location not found exception.",
+      "display": "The location does not exist uh in the repository, and the method should throw location not found exception.",
+      "search": "the location does not exist uh in the repository, and the method should throw location not found exception.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:272",
+      "startMs": 846400,
+      "endMs": 850880,
+      "verbatim": "Do a little bit of this one, null, get a little location, assert, catch this.",
+      "display": "Do a little bit of this one, null, get a little location, assert, catch this.",
+      "search": "do a little bit of this one, null, get a little location, assert, catch this.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:273",
+      "startMs": 850880,
+      "endMs": 852160,
+      "verbatim": "Okay, fantastic.",
+      "display": "Okay, fantastic.",
+      "search": "okay, fantastic.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:274",
+      "startMs": 852160,
+      "endMs": 852720,
+      "verbatim": "All right.",
+      "display": "All right.",
+      "search": "all right.",
+      "confidence": 0.603
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:275",
+      "startMs": 852720,
+      "endMs": 855040,
+      "verbatim": "When I run the code coverage report, I see the following results.",
+      "display": "When I run the code coverage report, I see the following results.",
+      "search": "when i run the code coverage report, i see the following results.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:276",
+      "startMs": 855040,
+      "endMs": 857600,
+      "verbatim": "Line coverage 16%, branches cover 25%.",
+      "display": "Line coverage 16%, branches cover 25%.",
+      "search": "line coverage 16%, branches cover 25%.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:277",
+      "startMs": 857600,
+      "endMs": 858320,
+      "verbatim": "Fantastic.",
+      "display": "Fantastic.",
+      "search": "fantastic.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:278",
+      "startMs": 858320,
+      "endMs": 861680,
+      "verbatim": "Test coverage 16% of the lines, 45% of branches, shown in the chart above.",
+      "display": "Test coverage 16% of the lines, 45% of branches, shown in the chart above.",
+      "search": "test coverage 16% of the lines, 45% of branches, shown in the chart above.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:279",
+      "startMs": 861680,
+      "endMs": 867360,
+      "verbatim": "Delving into the details of the weather service class, we can see that we have reached 100% code coverage of forecast by location method.",
+      "display": "Delving into the details of the weather service class, we can see that we have reached 100% code coverage of forecast by location method.",
+      "search": "delving into the details of the weather service class, we can see that we have reached 100% code coverage of forecast by location method.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:280",
+      "startMs": 868480,
+      "endMs": 870560,
+      "verbatim": "I I hope you don't test that anymore.",
+      "display": "I I hope you don't test that anymore.",
+      "search": "i i hope you don't test that anymore.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:281",
+      "startMs": 870560,
+      "endMs": 873120,
+      "verbatim": "Look at that, you got 100% coverage.",
+      "display": "Look at that, you got 100% coverage.",
+      "search": "look at that, you got 100% coverage.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:282",
+      "startMs": 873280,
+      "endMs": 875360,
+      "verbatim": "We got 100% coverage.",
+      "display": "We got 100% coverage.",
+      "search": "we got 100% coverage.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:283",
+      "startMs": 876960,
+      "endMs": 879120,
+      "verbatim": "You don't need to test that, right?",
+      "display": "You don't need to test that, right?",
+      "search": "you don't need to test that, right?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:284",
+      "startMs": 879440,
+      "endMs": 880320,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.355
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:285",
+      "startMs": 880560,
+      "endMs": 882960,
+      "verbatim": "I think everybody can see the bug, right?",
+      "display": "I think everybody can see the bug, right?",
+      "search": "i think everybody can see the bug, right?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:286",
+      "startMs": 883840,
+      "endMs": 885040,
+      "verbatim": "Can everyone see the bug?",
+      "display": "Can everyone see the bug?",
+      "search": "can everyone see the bug?",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:287",
+      "startMs": 885040,
+      "endMs": 886160,
+      "verbatim": "Can everyone see the bug?",
+      "display": "Can everyone see the bug?",
+      "search": "can everyone see the bug?",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:288",
+      "startMs": 887200,
+      "endMs": 889360,
+      "verbatim": "They haven't tested this thing right here.",
+      "display": "They haven't tested this thing right here.",
+      "search": "they haven't tested this thing right here.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:289",
+      "startMs": 889360,
+      "endMs": 896080,
+      "verbatim": "Alright, they haven't tested if your argument is out of is uh i i i if it if it's out of range.",
+      "display": "Alright, they haven't tested if your argument is out of is uh i i i if it if it's out of range.",
+      "search": "alright, they haven't tested if your argument is out of is uh i i i if it if it's out of range.",
+      "confidence": 0.626
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:290",
+      "startMs": 896720,
+      "endMs": 897520,
+      "verbatim": "Can't see the screen.",
+      "display": "Can't see the screen.",
+      "search": "can't see the screen.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:291",
+      "startMs": 897520,
+      "endMs": 898240,
+      "verbatim": "Well, too bad.",
+      "display": "Well, too bad.",
+      "search": "well, too bad.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:292",
+      "startMs": 898240,
+      "endMs": 899520,
+      "verbatim": "I don't think I can really zoom in.",
+      "display": "I don't think I can really zoom in.",
+      "search": "i don't think i can really zoom in.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:293",
+      "startMs": 899520,
+      "endMs": 900320,
+      "verbatim": "It's an image.",
+      "display": "It's an image.",
+      "search": "it's an image.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:294",
+      "startMs": 901280,
+      "endMs": 902800,
+      "verbatim": "Argument out of exception.",
+      "display": "Argument out of exception.",
+      "search": "argument out of exception.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:295",
+      "startMs": 902800,
+      "endMs": 904560,
+      "verbatim": "It's it's it's this line up here.",
+      "display": "It's it's it's this line up here.",
+      "search": "it's it's it's this line up here.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:296",
+      "startMs": 905520,
+      "endMs": 906720,
+      "verbatim": "It's this one.",
+      "display": "It's this one.",
+      "search": "it's this one.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:297",
+      "startMs": 906880,
+      "endMs": 911040,
+      "verbatim": "Every single time you run by this code, of course you run this line.",
+      "display": "Every single time you run by this code, of course you run this line.",
+      "search": "every single time you run by this code, of course you run this line.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:298",
+      "startMs": 911040,
+      "endMs": 917920,
+      "verbatim": "Now what you don't see is that underneath the hood, this function has not covered code.",
+      "display": "Now what you don't see is that underneath the hood, this function has not covered code.",
+      "search": "now what you don't see is that underneath the hood, this function has not covered code.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:299",
+      "startMs": 917920,
+      "endMs": 921760,
+      "verbatim": "So then you end up testing the function to make sure that that function works correctly.",
+      "display": "So then you end up testing the function to make sure that that function works correctly.",
+      "search": "so then you end up testing the function to make sure that that function works correctly.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:300",
+      "startMs": 921760,
+      "endMs": 924160,
+      "verbatim": "So you'll notice that you get 100% code coverage.",
+      "display": "So you'll notice that you get 100% code coverage.",
+      "search": "so you'll notice that you get 100% code coverage.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:301",
+      "startMs": 924160,
+      "endMs": 930400,
+      "verbatim": "You have you can test that this thing throws properly, and you test that this function works and gets 100% code coverage.",
+      "display": "You have you can test that this thing throws properly, and you test that this function works and gets 100% code coverage.",
+      "search": "you have you can test that this thing throws properly, and you test that this function works and gets 100% code coverage.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:302",
+      "startMs": 930400,
+      "endMs": 934000,
+      "verbatim": "But you actually haven't tested to see if this function throws when you hit there.",
+      "display": "But you actually haven't tested to see if this function throws when you hit there.",
+      "search": "but you actually haven't tested to see if this function throws when you hit there.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:303",
+      "startMs": 934000,
+      "endMs": 941760,
+      "verbatim": "You actually haven't tested the the most important case of this function, which is the rare event.",
+      "display": "You actually haven't tested the the most important case of this function, which is the rare event.",
+      "search": "you actually haven't tested the the most important case of this function, which is the rare event.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:304",
+      "startMs": 941760,
+      "endMs": 942960,
+      "verbatim": "All right, let's do this.",
+      "display": "All right, let's do this.",
+      "search": "all right, let's do this.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:305",
+      "startMs": 942960,
+      "endMs": 943760,
+      "verbatim": "This is fantastic.",
+      "display": "This is fantastic.",
+      "search": "this is fantastic.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:306",
+      "startMs": 944160,
+      "endMs": 945680,
+      "verbatim": "This is a very good example, by the way.",
+      "display": "This is a very good example, by the way.",
+      "search": "this is a very good example, by the way.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:307",
+      "startMs": 945680,
+      "endMs": 946960,
+      "verbatim": "Let's review the code under question.",
+      "display": "Let's review the code under question.",
+      "search": "let's review the code under question.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:308",
+      "startMs": 946960,
+      "endMs": 947680,
+      "verbatim": "Blah blah blah blah.",
+      "display": "Blah blah blah blah.",
+      "search": "blah blah blah blah.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:309",
+      "startMs": 947680,
+      "endMs": 949040,
+      "verbatim": "Only tests covered by two cases.",
+      "display": "Only tests covered by two cases.",
+      "search": "only tests covered by two cases.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:310",
+      "startMs": 949040,
+      "endMs": 950640,
+      "verbatim": "Location exists, location does not exist.",
+      "display": "Location exists, location does not exist.",
+      "search": "location exists, location does not exist.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:311",
+      "startMs": 950640,
+      "endMs": 953120,
+      "verbatim": "However, there are no tests to cover the following question.",
+      "display": "However, there are no tests to cover the following question.",
+      "search": "however, there are no tests to cover the following question.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:312",
+      "startMs": 953120,
+      "endMs": 957040,
+      "verbatim": "Uh the location uh is less than zero, the location is exactly zero.",
+      "display": "Uh the location uh is less than zero, the location is exactly zero.",
+      "search": "uh the location uh is less than zero, the location is exactly zero.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:313",
+      "startMs": 957040,
+      "endMs": 958640,
+      "verbatim": "The repository throws an exception.",
+      "display": "The repository throws an exception.",
+      "search": "the repository throws an exception.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:314",
+      "startMs": 958640,
+      "endMs": 960400,
+      "verbatim": "Right now, that exception is not handled.",
+      "display": "Right now, that exception is not handled.",
+      "search": "right now, that exception is not handled.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:315",
+      "startMs": 960400,
+      "endMs": 964000,
+      "verbatim": "The location does not exist, but it uh has no weather forecast info.",
+      "display": "The location does not exist, but it uh has no weather forecast info.",
+      "search": "the location does not exist, but it uh has no weather forecast info.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:316",
+      "startMs": 964000,
+      "endMs": 967120,
+      "verbatim": "Or the location does exist, but it has no weather forecast info.",
+      "display": "Or the location does exist, but it has no weather forecast info.",
+      "search": "or the location does exist, but it has no weather forecast info.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:317",
+      "startMs": 967120,
+      "endMs": 968320,
+      "verbatim": "Is this a valid result?",
+      "display": "Is this a valid result?",
+      "search": "is this a valid result?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:318",
+      "startMs": 968320,
+      "endMs": 970720,
+      "verbatim": "Or should we have thrown another uh custom exception?",
+      "display": "Or should we have thrown another uh custom exception?",
+      "search": "or should we have thrown another uh custom exception?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:319",
+      "startMs": 970720,
+      "endMs": 975680,
+      "verbatim": "So we have 100% code coverage for this method, yet we have plenty of uncovered cases.",
+      "display": "So we have 100% code coverage for this method, yet we have plenty of uncovered cases.",
+      "search": "so we have 100% code coverage for this method, yet we have plenty of uncovered cases.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:320",
+      "startMs": 975680,
+      "endMs": 978080,
+      "verbatim": "You can cheat the result by adding pointless tests.",
+      "display": "You can cheat the result by adding pointless tests.",
+      "search": "you can cheat the result by adding pointless tests.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:321",
+      "startMs": 978080,
+      "endMs": 986800,
+      "verbatim": "Yeah, so this is where the 100% gets so dangerous, is that you create tests to increase the code coverage, but you're not testing the thing, right?",
+      "display": "Yeah, so this is where the 100% gets so dangerous, is that you create tests to increase the code coverage, but you're not testing the thing, right?",
+      "search": "yeah, so this is where the 100% gets so dangerous, is that you create tests to increase the code coverage, but you're not testing the thing, right?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:322",
+      "startMs": 986800,
+      "endMs": 994480,
+      "verbatim": "So if I tested the exception throw if less than zero, I don't actually test it in my real function.",
+      "display": "So if I tested the exception throw if less than zero, I don't actually test it in my real function.",
+      "search": "so if i tested the exception throw if less than zero, i don't actually test it in my real function.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:323",
+      "startMs": 994480,
+      "endMs": 996160,
+      "verbatim": "I just test it in this synthetic way.",
+      "display": "I just test it in this synthetic way.",
+      "search": "i just test it in this synthetic way.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:324",
+      "startMs": 996160,
+      "endMs": 999600,
+      "verbatim": "And then I get this really weird, sounds like bad unit testing practices.",
+      "display": "And then I get this really weird, sounds like bad unit testing practices.",
+      "search": "and then i get this really weird, sounds like bad unit testing practices.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:325",
+      "startMs": 999600,
+      "endMs": 1001040,
+      "verbatim": "It actually no, you know what it sounds like?",
+      "display": "It actually no, you know what it sounds like?",
+      "search": "it actually no, you know what it sounds like?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:326",
+      "startMs": 1001040,
+      "endMs": 1003840,
+      "verbatim": "It sounds like every unit testing practices of all time.",
+      "display": "It sounds like every unit testing practices of all time.",
+      "search": "it sounds like every unit testing practices of all time.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:327",
+      "startMs": 1003840,
+      "endMs": 1005440,
+      "verbatim": "It's just what it is, sad padding.",
+      "display": "It's just what it is, sad padding.",
+      "search": "it's just what it is, sad padding.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:328",
+      "startMs": 1005440,
+      "endMs": 1006160,
+      "verbatim": "It's so dangerous.",
+      "display": "It's so dangerous.",
+      "search": "it's so dangerous.",
+      "confidence": 0.996
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:329",
+      "startMs": 1006160,
+      "endMs": 1008640,
+      "verbatim": "This is why I don't like 100% code coverage.",
+      "display": "This is why I don't like 100% code coverage.",
+      "search": "this is why i don't like 100% code coverage.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:330",
+      "startMs": 1008640,
+      "endMs": 1014880,
+      "verbatim": "Is this exact same reason is that you end up writing you it hides to you the real reason what things are not being tested.",
+      "display": "Is this exact same reason is that you end up writing you it hides to you the real reason what things are not being tested.",
+      "search": "is this exact same reason is that you end up writing you it hides to you the real reason what things are not being tested.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:331",
+      "startMs": 1014880,
+      "endMs": 1022080,
+      "verbatim": "To demonstrate it, we can create a single uh test method to reach 100% code coverage with the repository without even knowing what it actually does.",
+      "display": "To demonstrate it, we can create a single uh test method to reach 100% code coverage with the repository without even knowing what it actually does.",
+      "search": "to demonstrate it, we can create a single uh test method to reach 100% code coverage with the repository without even knowing what it actually does.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:332",
+      "startMs": 1022080,
+      "endMs": 1023280,
+      "verbatim": "Totally useless test.",
+      "display": "Totally useless test.",
+      "search": "totally useless test.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:333",
+      "startMs": 1023280,
+      "endMs": 1028160,
+      "verbatim": "Get location by D, planet Jupiter, uh equal one equals to one.",
+      "display": "Get location by D, planet Jupiter, uh equal one equals to one.",
+      "search": "get location by d, planet jupiter, uh equal one equals to one.",
+      "confidence": 0.707
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:334",
+      "startMs": 1028160,
+      "endMs": 1028960,
+      "verbatim": "Nice.",
+      "display": "Nice.",
+      "search": "nice.",
+      "confidence": 0.608
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:335",
+      "startMs": 1028960,
+      "endMs": 1030080,
+      "verbatim": "Nailed it.",
+      "display": "Nailed it.",
+      "search": "nailed it.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:336",
+      "startMs": 1030080,
+      "endMs": 1030800,
+      "verbatim": "Here we are.",
+      "display": "Here we are.",
+      "search": "here we are.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:337",
+      "startMs": 1030800,
+      "endMs": 1034400,
+      "verbatim": "We've reached 53% uh total code coverage by adding a single test.",
+      "display": "We've reached 53% uh total code coverage by adding a single test.",
+      "search": "we've reached 53% uh total code coverage by adding a single test.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:338",
+      "startMs": 1034400,
+      "endMs": 1036080,
+      "verbatim": "Does it provide any value?",
+      "display": "Does it provide any value?",
+      "search": "does it provide any value?",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:339",
+      "startMs": 1036080,
+      "endMs": 1039760,
+      "verbatim": "Hmm, society?",
+      "display": "Hmm, society?",
+      "search": "hmm, society?",
+      "confidence": 0.451
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:340",
+      "startMs": 1039760,
+      "endMs": 1040640,
+      "verbatim": "Fantastic.",
+      "display": "Fantastic.",
+      "search": "fantastic.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:341",
+      "startMs": 1040640,
+      "endMs": 1042800,
+      "verbatim": "You can cheat by excluding parts of the code.",
+      "display": "You can cheat by excluding parts of the code.",
+      "search": "you can cheat by excluding parts of the code.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:342",
+      "startMs": 1042800,
+      "endMs": 1045840,
+      "verbatim": "In C sharp, there's a handy attribute you can apply to methods and classes.",
+      "display": "In C sharp, there's a handy attribute you can apply to methods and classes.",
+      "search": "in c sharp, there's a handy attribute you can apply to methods and classes.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:343",
+      "startMs": 1045840,
+      "endMs": 1047120,
+      "verbatim": "Exclude from code coverage.",
+      "display": "Exclude from code coverage.",
+      "search": "exclude from code coverage.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:344",
+      "startMs": 1047120,
+      "endMs": 1054880,
+      "verbatim": "While this attribute can be useful for classes you cannot test, it can be uh it can be used to inflate the code coverage percentage by applying classes and methods you don't want to test.",
+      "display": "While this attribute can be useful for classes you cannot test, it can be uh it can be used to inflate the code coverage percentage by applying classes and methods you don't want to test.",
+      "search": "while this attribute can be useful for classes you cannot test, it can be uh it can be used to inflate the code coverage percentage by applying classes and methods you don't want to test.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:345",
+      "startMs": 1054880,
+      "endMs": 1057440,
+      "verbatim": "Maybe because you are lazy, hmm?",
+      "display": "Maybe because you are lazy, hmm?",
+      "search": "maybe because you are lazy, hmm?",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:346",
+      "startMs": 1058080,
+      "endMs": 1060640,
+      "verbatim": "That's actually pretty funny that you can do that.",
+      "display": "That's actually pretty funny that you can do that.",
+      "search": "that's actually pretty funny that you can do that.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:347",
+      "startMs": 1060640,
+      "endMs": 1063680,
+      "verbatim": "I don't even know I didn't even actually know.",
+      "display": "I don't even know I didn't even actually know.",
+      "search": "i don't even know i didn't even actually know.",
+      "confidence": 0.743
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:348",
+      "startMs": 1063680,
+      "endMs": 1068400,
+      "verbatim": "One would argue that it's better than nothing, and I'd say that one argument was shitty.",
+      "display": "One would argue that it's better than nothing, and I'd say that one argument was shitty.",
+      "search": "one would argue that it's better than nothing, and i'd say that one argument was shitty.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:349",
+      "startMs": 1068400,
+      "endMs": 1069360,
+      "verbatim": "Hmm?",
+      "display": "Hmm?",
+      "search": "hmm?",
+      "confidence": 0.367
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:350",
+      "startMs": 1070080,
+      "endMs": 1071280,
+      "verbatim": "Let's go.",
+      "display": "Let's go.",
+      "search": "let's go.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:351",
+      "startMs": 1071280,
+      "endMs": 1072080,
+      "verbatim": "Let's go.",
+      "display": "Let's go.",
+      "search": "let's go.",
+      "confidence": 0.653
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:352",
+      "startMs": 1072240,
+      "endMs": 1073200,
+      "verbatim": "100%.",
+      "display": "100%.",
+      "search": "100%.",
+      "confidence": 0.586
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:353",
+      "startMs": 1073200,
+      "endMs": 1075040,
+      "verbatim": "We're destroying it, boys.",
+      "display": "We're destroying it, boys.",
+      "search": "we're destroying it, boys.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:354",
+      "startMs": 1075040,
+      "endMs": 1077120,
+      "verbatim": "I never said I know you didn't say that.",
+      "display": "I never said I know you didn't say that.",
+      "search": "i never said i know you didn't say that.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:355",
+      "startMs": 1078640,
+      "endMs": 1084320,
+      "verbatim": "I know you didn't say that, but still, people are getting this idea that there's people that argue that 100% is good.",
+      "display": "I know you didn't say that, but still, people are getting this idea that there's people that argue that 100% is good.",
+      "search": "i know you didn't say that, but still, people are getting this idea that there's people that argue that 100% is good.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:356",
+      "startMs": 1084320,
+      "endMs": 1087200,
+      "verbatim": "I d I'd say 100% means nothing.",
+      "display": "I d I'd say 100% means nothing.",
+      "search": "i d i'd say 100% means nothing.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:357",
+      "startMs": 1087200,
+      "endMs": 1088320,
+      "verbatim": "That's what I say.",
+      "display": "That's what I say.",
+      "search": "that's what i say.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:358",
+      "startMs": 1088320,
+      "endMs": 1092000,
+      "verbatim": "100% code coverage means nothing.",
+      "display": "100% code coverage means nothing.",
+      "search": "100% code coverage means nothing.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:359",
+      "startMs": 1092000,
+      "endMs": 1099920,
+      "verbatim": "If you say I have a project with 90% code coverage, 60% code coverage, and 100% code coverage, which one has the best coverage?",
+      "display": "If you say I have a project with 90% code coverage, 60% code coverage, and 100% code coverage, which one has the best coverage?",
+      "search": "if you say i have a project with 90% code coverage, 60% code coverage, and 100% code coverage, which one has the best coverage?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:360",
+      "startMs": 1099920,
+      "endMs": 1101760,
+      "verbatim": "I would say I don't know.",
+      "display": "I would say I don't know.",
+      "search": "i would say i don't know.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:361",
+      "startMs": 1101760,
+      "endMs": 1102960,
+      "verbatim": "That's what I would say.",
+      "display": "That's what I would say.",
+      "search": "that's what i would say.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:362",
+      "startMs": 1102960,
+      "endMs": 1107680,
+      "verbatim": "I would say I have literally no clue which one contains the least amount of bugs.",
+      "display": "I would say I have literally no clue which one contains the least amount of bugs.",
+      "search": "i would say i have literally no clue which one contains the least amount of bugs.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:363",
+      "startMs": 1107680,
+      "endMs": 1112240,
+      "verbatim": "I could say the one with 0% probably contains more bugs than one with some percent.",
+      "display": "I could say the one with 0% probably contains more bugs than one with some percent.",
+      "search": "i could say the one with 0% probably contains more bugs than one with some percent.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:364",
+      "startMs": 1112240,
+      "endMs": 1116400,
+      "verbatim": "0%, I can at least say the likelihood of bugs is higher.",
+      "display": "0%, I can at least say the likelihood of bugs is higher.",
+      "search": "0%, i can at least say the likelihood of bugs is higher.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:365",
+      "startMs": 1116400,
+      "endMs": 1118720,
+      "verbatim": "You have even run your happy paths.",
+      "display": "You have even run your happy paths.",
+      "search": "you have even run your happy paths.",
+      "confidence": 0.733
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:366",
+      "startMs": 1118720,
+      "endMs": 1120480,
+      "verbatim": "But everything else, I don't know.",
+      "display": "But everything else, I don't know.",
+      "search": "but everything else, i don't know.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:367",
+      "startMs": 1120480,
+      "endMs": 1122240,
+      "verbatim": "I think most stems from management, not Des.",
+      "display": "I think most stems from management, not Des.",
+      "search": "i think most stems from management, not des.",
+      "confidence": 0.627
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:368",
+      "startMs": 1122240,
+      "endMs": 1123200,
+      "verbatim": "Well, there's risk factors too.",
+      "display": "Well, there's risk factors too.",
+      "search": "well, there's risk factors too.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:369",
+      "startMs": 1123200,
+      "endMs": 1124720,
+      "verbatim": "Like people have talked about like medical equipment.",
+      "display": "Like people have talked about like medical equipment.",
+      "search": "like people have talked about like medical equipment.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:370",
+      "startMs": 1124720,
+      "endMs": 1126080,
+      "verbatim": "Like, what do you do with medical equipment?",
+      "display": "Like, what do you do with medical equipment?",
+      "search": "like, what do you do with medical equipment?",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:371",
+      "startMs": 1126080,
+      "endMs": 1127840,
+      "verbatim": "Do you do 100% test coverage?",
+      "display": "Do you do 100% test coverage?",
+      "search": "do you do 100% test coverage?",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:372",
+      "startMs": 1127840,
+      "endMs": 1129280,
+      "verbatim": "Pro probably.",
+      "display": "Pro probably.",
+      "search": "pro probably.",
+      "confidence": 0.515
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:373",
+      "startMs": 1129280,
+      "endMs": 1132960,
+      "verbatim": "I I honestly I think for not getting sued, you probably do that.",
+      "display": "I I honestly I think for not getting sued, you probably do that.",
+      "search": "i i honestly i think for not getting sued, you probably do that.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:374",
+      "startMs": 1133200,
+      "endMs": 1138400,
+      "verbatim": "What's the correct percent what's the correct percentage you do on medical equipment or self-driving cars?",
+      "display": "What's the correct percent what's the correct percentage you do on medical equipment or self-driving cars?",
+      "search": "what's the correct percent what's the correct percentage you do on medical equipment or self-driving cars?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:375",
+      "startMs": 1138400,
+      "endMs": 1139920,
+      "verbatim": "That's where things get really tricky.",
+      "display": "That's where things get really tricky.",
+      "search": "that's where things get really tricky.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:376",
+      "startMs": 1139920,
+      "endMs": 1144720,
+      "verbatim": "And I'm totally on that, I'm totally on that team where it's just like, what's the proper amount?",
+      "display": "And I'm totally on that, I'm totally on that team where it's just like, what's the proper amount?",
+      "search": "and i'm totally on that, i'm totally on that team where it's just like, what's the proper amount?",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:377",
+      "startMs": 1144720,
+      "endMs": 1145440,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:378",
+      "startMs": 1145440,
+      "endMs": 1148000,
+      "verbatim": "The problem is that I want good test coverage.",
+      "display": "The problem is that I want good test coverage.",
+      "search": "the problem is that i want good test coverage.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:379",
+      "startMs": 1148000,
+      "endMs": 1150000,
+      "verbatim": "Uh, as we saw, high code coverage is not enough.",
+      "display": "Uh, as we saw, high code coverage is not enough.",
+      "search": "uh, as we saw, high code coverage is not enough.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:380",
+      "startMs": 1150000,
+      "endMs": 1152480,
+      "verbatim": "It's a good starting point, but it must not be the final goal.",
+      "display": "It's a good starting point, but it must not be the final goal.",
+      "search": "it's a good starting point, but it must not be the final goal.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:381",
+      "startMs": 1152480,
+      "endMs": 1154640,
+      "verbatim": "We can indeed focus our efforts in different areas.",
+      "display": "We can indeed focus our efforts in different areas.",
+      "search": "we can indeed focus our efforts in different areas.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:382",
+      "startMs": 1154640,
+      "endMs": 1156880,
+      "verbatim": "Testing quality, prioritize writing meaningful tests.",
+      "display": "Testing quality, prioritize writing meaningful tests.",
+      "search": "testing quality, prioritize writing meaningful tests.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:383",
+      "startMs": 1156880,
+      "endMs": 1159920,
+      "verbatim": "I again, this is is it's meaningless.",
+      "display": "I again, this is is it's meaningless.",
+      "search": "i again, this is is it's meaningless.",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:384",
+      "startMs": 1159920,
+      "endMs": 1164240,
+      "verbatim": "I mean, for the average product, not talking, let's not talk about the specialty cases.",
+      "display": "I mean, for the average product, not talking, let's not talk about the specialty cases.",
+      "search": "i mean, for the average product, not talking, let's not talk about the specialty cases.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:385",
+      "startMs": 1164240,
+      "endMs": 1180080,
+      "verbatim": "I think the best way, the best way to have a well-running project is to have is to have tests easier to write and run to test your project than to run your project itself.",
+      "display": "I think the best way, the best way to have a well-running project is to have is to have tests easier to write and run to test your project than to run your project itself.",
+      "search": "i think the best way, the best way to have a well-running project is to have is to have tests easier to write and run to test your project than to run your project itself.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:386",
+      "startMs": 1180080,
+      "endMs": 1188720,
+      "verbatim": "And I think as long as you can always have tests that drive any difficult feature, I think you'll have simply a better, you'll have a better experience.",
+      "display": "And I think as long as you can always have tests that drive any difficult feature, I think you'll have simply a better, you'll have a better experience.",
+      "search": "and i think as long as you can always have tests that drive any difficult feature, i think you'll have simply a better, you'll have a better experience.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:387",
+      "startMs": 1188720,
+      "endMs": 1190720,
+      "verbatim": "That's the only way I think it could be done.",
+      "display": "That's the only way I think it could be done.",
+      "search": "that's the only way i think it could be done.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:388",
+      "startMs": 1190720,
+      "endMs": 1193600,
+      "verbatim": "Focus on edge cases, boundaries, values, uh, all this.",
+      "display": "Focus on edge cases, boundaries, values, uh, all this.",
+      "search": "focus on edge cases, boundaries, values, uh, all this.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:389",
+      "startMs": 1193600,
+      "endMs": 1194720,
+      "verbatim": "Yep, agree with that.",
+      "display": "Yep, agree with that.",
+      "search": "yep, agree with that.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:390",
+      "startMs": 1194720,
+      "endMs": 1198400,
+      "verbatim": "Uh, exploratory testing, manual testing complements automated testing.",
+      "display": "Uh, exploratory testing, manual testing complements automated testing.",
+      "search": "uh, exploratory testing, manual testing complements automated testing.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:391",
+      "startMs": 1198400,
+      "endMs": 1200280,
+      "verbatim": "Ooh, yes.",
+      "display": "Ooh, yes.",
+      "search": "ooh, yes.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:392",
+      "startMs": 1200280,
+      "endMs": 1204120,
+      "verbatim": "Exploratory testing uncovers issues that automate tests might miss.",
+      "display": "Exploratory testing uncovers issues that automate tests might miss.",
+      "search": "exploratory testing uncovers issues that automate tests might miss.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:393",
+      "startMs": 1204120,
+      "endMs": 1205000,
+      "verbatim": "Um, it's true.",
+      "display": "Um, it's true.",
+      "search": "um, it's true.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:394",
+      "startMs": 1205000,
+      "endMs": 1206760,
+      "verbatim": "It's called that's called production, by the way.",
+      "display": "It's called that's called production, by the way.",
+      "search": "it's called that's called production, by the way.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:395",
+      "startMs": 1206840,
+      "endMs": 1209560,
+      "verbatim": "Manual testing is called production and canaries, okay?",
+      "display": "Manual testing is called production and canaries, okay?",
+      "search": "manual testing is called production and canaries, okay?",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:396",
+      "startMs": 1209560,
+      "endMs": 1212360,
+      "verbatim": "You log and you find out why things change, okay?",
+      "display": "You log and you find out why things change, okay?",
+      "search": "you log and you find out why things change, okay?",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:397",
+      "startMs": 1212360,
+      "endMs": 1213320,
+      "verbatim": "That's called production.",
+      "display": "That's called production.",
+      "search": "that's called production.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:398",
+      "startMs": 1213320,
+      "endMs": 1215880,
+      "verbatim": "Instead of just measuring coverage, consider a mutation testing.",
+      "display": "Instead of just measuring coverage, consider a mutation testing.",
+      "search": "instead of just measuring coverage, consider a mutation testing.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:399",
+      "startMs": 1215880,
+      "endMs": 1219160,
+      "verbatim": "Introduce artificial defects and check to see uh if the tests catch them.",
+      "display": "Introduce artificial defects and check to see uh if the tests catch them.",
+      "search": "introduce artificial defects and check to see uh if the tests catch them.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:400",
+      "startMs": 1219160,
+      "endMs": 1220520,
+      "verbatim": "Negative space programming.",
+      "display": "Negative space programming.",
+      "search": "negative space programming.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:401",
+      "startMs": 1220520,
+      "endMs": 1224200,
+      "verbatim": "Uh finally, my suggestion is to focus on integration tests rather than on unit tests.",
+      "display": "Uh finally, my suggestion is to focus on integration tests rather than on unit tests.",
+      "search": "uh finally, my suggestion is to focus on integration tests rather than on unit tests.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:402",
+      "startMs": 1224200,
+      "endMs": 1226040,
+      "verbatim": "This testing strategy is called testing diamond.",
+      "display": "This testing strategy is called testing diamond.",
+      "search": "this testing strategy is called testing diamond.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:403",
+      "startMs": 1226040,
+      "endMs": 1227240,
+      "verbatim": "Yeah, that's where.",
+      "display": "Yeah, that's where.",
+      "search": "yeah, that's where.",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:404",
+      "startMs": 1227240,
+      "endMs": 1229240,
+      "verbatim": "Is it isn't it testing pyramid?",
+      "display": "Is it isn't it testing pyramid?",
+      "search": "is it isn't it testing pyramid?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:405",
+      "startMs": 1229240,
+      "endMs": 1230440,
+      "verbatim": "I don't know about the diamond.",
+      "display": "I don't know about the diamond.",
+      "search": "i don't know about the diamond.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:406",
+      "startMs": 1230440,
+      "endMs": 1232920,
+      "verbatim": "I'm not sure about this whole diamond business.",
+      "display": "I'm not sure about this whole diamond business.",
+      "search": "i'm not sure about this whole diamond business.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:407",
+      "startMs": 1232920,
+      "endMs": 1235000,
+      "verbatim": "Anyways, this was actually really good.",
+      "display": "Anyways, this was actually really good.",
+      "search": "anyways, this was actually really good.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:408",
+      "startMs": 1235960,
+      "endMs": 1238760,
+      "verbatim": "I mean, I loved the thing he showed, by the way.",
+      "display": "I mean, I loved the thing he showed, by the way.",
+      "search": "i mean, i loved the thing he showed, by the way.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:409",
+      "startMs": 1238760,
+      "endMs": 1240120,
+      "verbatim": "This was fantastic.",
+      "display": "This was fantastic.",
+      "search": "this was fantastic.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:410",
+      "startMs": 1240120,
+      "endMs": 1242040,
+      "verbatim": "I loved the example.",
+      "display": "I loved the example.",
+      "search": "i loved the example.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:411",
+      "startMs": 1242040,
+      "endMs": 1243640,
+      "verbatim": "Testing the reverse funnel.",
+      "display": "Testing the reverse funnel.",
+      "search": "testing the reverse funnel.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:412",
+      "startMs": 1243640,
+      "endMs": 1246280,
+      "verbatim": "I do like integration testing, but they're also gonna be very difficult.",
+      "display": "I do like integration testing, but they're also gonna be very difficult.",
+      "search": "i do like integration testing, but they're also gonna be very difficult.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:413",
+      "startMs": 1246280,
+      "endMs": 1251960,
+      "verbatim": "Setting up your project, in integration testing has to be in the culture and thought of first.",
+      "display": "Setting up your project, in integration testing has to be in the culture and thought of first.",
+      "search": "setting up your project, in integration testing has to be in the culture and thought of first.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:414",
+      "startMs": 1251960,
+      "endMs": 1255480,
+      "verbatim": "It's so hard to go back and try to make integration testing work.",
+      "display": "It's so hard to go back and try to make integration testing work.",
+      "search": "it's so hard to go back and try to make integration testing work.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:415",
+      "startMs": 1255480,
+      "endMs": 1261880,
+      "verbatim": "I think 100% becomes popular if it lets you have the false sense of security and you don't have to review tests to actually make them meaningful fairly.",
+      "display": "I think 100% becomes popular if it lets you have the false sense of security and you don't have to review tests to actually make them meaningful fairly.",
+      "search": "i think 100% becomes popular if it lets you have the false sense of security and you don't have to review tests to actually make them meaningful fairly.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:416",
+      "startMs": 1261880,
+      "endMs": 1263960,
+      "verbatim": "Diamond, because you have more integration tests, I guess.",
+      "display": "Diamond, because you have more integration tests, I guess.",
+      "search": "diamond, because you have more integration tests, i guess.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:417",
+      "startMs": 1263960,
+      "endMs": 1267080,
+      "verbatim": "Wasn't that like supposed to be like the I thought it was always this, right?",
+      "display": "Wasn't that like supposed to be like the I thought it was always this, right?",
+      "search": "wasn't that like supposed to be like the i thought it was always this, right?",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:418",
+      "startMs": 1267080,
+      "endMs": 1275960,
+      "verbatim": "Is that you have like the tip is unit, and then you have this whole people give different names, and honestly, these names mean different things to different people.",
+      "display": "Is that you have like the tip is unit, and then you have this whole people give different names, and honestly, these names mean different things to different people.",
+      "search": "is that you have like the tip is unit, and then you have this whole people give different names, and honestly, these names mean different things to different people.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:419",
+      "startMs": 1275960,
+      "endMs": 1277240,
+      "verbatim": "You know, you have functional tests.",
+      "display": "You know, you have functional tests.",
+      "search": "you know, you have functional tests.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:420",
+      "startMs": 1277240,
+      "endMs": 1283640,
+      "verbatim": "I'm pretty sure most people cannot even tell you the difference between a functional test and an integration test or end to end.",
+      "display": "I'm pretty sure most people cannot even tell you the difference between a functional test and an integration test or end to end.",
+      "search": "i'm pretty sure most people cannot even tell you the difference between a functional test and an integration test or end to end.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:421",
+      "startMs": 1283640,
+      "endMs": 1285000,
+      "verbatim": "Where's end to end in this?",
+      "display": "Where's end to end in this?",
+      "search": "where's end to end in this?",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:422",
+      "startMs": 1285000,
+      "endMs": 1288760,
+      "verbatim": "Is functional right here, and then end to end, or is integration end to end?",
+      "display": "Is functional right here, and then end to end, or is integration end to end?",
+      "search": "is functional right here, and then end to end, or is integration end to end?",
+      "confidence": 0.733
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:423",
+      "startMs": 1288760,
+      "endMs": 1291160,
+      "verbatim": "How do most people feel about it, right?",
+      "display": "How do most people feel about it, right?",
+      "search": "how do most people feel about it, right?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:424",
+      "startMs": 1291160,
+      "endMs": 1296600,
+      "verbatim": "Most I I I think that this whole part of the triangle, most people don't have very good definitions for.",
+      "display": "Most I I I think that this whole part of the triangle, most people don't have very good definitions for.",
+      "search": "most i i i think that this whole part of the triangle, most people don't have very good definitions for.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:425",
+      "startMs": 1296600,
+      "endMs": 1300280,
+      "verbatim": "And then at the end of the day, Illuminati.",
+      "display": "And then at the end of the day, Illuminati.",
+      "search": "and then at the end of the day, illuminati.",
+      "confidence": 0.718
+    },
+    {
+      "segmentId": "youtube:S_7SE_Uzk-I:segment:426",
+      "startMs": 1300440,
+      "endMs": 1301000,
+      "verbatim": "A gen.",
+      "display": "A gen.",
+      "search": "a gen.",
+      "confidence": 0.597
+    }
+  ]
+}
