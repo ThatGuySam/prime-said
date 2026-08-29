@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:UyIiAIif5R0",
+  "platform": "youtube",
+  "platformId": "UyIiAIif5R0",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "I Was Right?!",
+  "description": "If you're on Mac or Windows, check out tuple today! And if you're on Linux, let's just say come back and check soon  Say thanks to our sponsor by checking out https://tuple.app/prime\n\nSources:\n\n- https://www.youtube.com/watch?v=87DyyMV0kCY\n- https://huggingface.co/blog/agent-intrusion-technical-timeline\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=UyIiAIif5R0",
+  "publishedAt": "2026-08-13T13:00:34.000Z",
+  "durationMs": 963000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T19:03:25.701Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T19:03:25.701Z",
+    "runId": "2026-08-29T18-59-06-968Z-214a56d0"
+  }
+}

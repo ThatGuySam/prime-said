@@ -1,0 +1,2120 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_6510f649434ea71e7493af9a",
+  "sourceId": "youtube:UyIiAIif5R0",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T19:03:25.701Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:1",
+      "startMs": 0,
+      "endMs": 3360,
+      "verbatim": "So about two weeks ago, Hugging Face got hacked by OpenAI.",
+      "display": "So about two weeks ago, Hugging Face got hacked by OpenAI.",
+      "search": "so about two weeks ago, hugging face got hacked by openai.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:2",
+      "startMs": 3360,
+      "endMs": 5600,
+      "verbatim": "We didn't get a lot of the details.",
+      "display": "We didn't get a lot of the details.",
+      "search": "we didn't get a lot of the details.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:3",
+      "startMs": 5600,
+      "endMs": 14000,
+      "verbatim": "But then it turned out, of course, that anthropic, well, they also got hacked, and then Kimmy K broke out of the sandbox and did whatever Kimmy K does.",
+      "display": "But then it turned out, of course, that anthropic, well, they also got hacked, and then Kimmy K broke out of the sandbox and did whatever Kimmy K does.",
+      "search": "but then it turned out, of course, that anthropic, well, they also got hacked, and then kimmy k broke out of the sandbox and did whatever kimmy k does.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:4",
+      "startMs": 14000,
+      "endMs": 18320,
+      "verbatim": "And an open claw apparently hacked a gym and had somebody cut in line.",
+      "display": "And an open claw apparently hacked a gym and had somebody cut in line.",
+      "search": "and an open claw apparently hacked a gym and had somebody cut in line.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:5",
+      "startMs": 18320,
+      "endMs": 20720,
+      "verbatim": "I mean, now that's the real exploit gym right there.",
+      "display": "I mean, now that's the real exploit gym right there.",
+      "search": "i mean, now that's the real exploit gym right there.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:6",
+      "startMs": 20720,
+      "endMs": 24320,
+      "verbatim": "But during all this, we never really got amazing details from OpenAI.",
+      "display": "But during all this, we never really got amazing details from OpenAI.",
+      "search": "but during all this, we never really got amazing details from openai.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:7",
+      "startMs": 24320,
+      "endMs": 25440,
+      "verbatim": "Like what actually happened?",
+      "display": "Like what actually happened?",
+      "search": "like what actually happened?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:8",
+      "startMs": 25440,
+      "endMs": 27920,
+      "verbatim": "And of course, during that video, I made some guesses.",
+      "display": "And of course, during that video, I made some guesses.",
+      "search": "and of course, during that video, i made some guesses.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:9",
+      "startMs": 27920,
+      "endMs": 32000,
+      "verbatim": "Hey, it's not marketing, it's not something new and unusual.",
+      "display": "Hey, it's not marketing, it's not something new and unusual.",
+      "search": "hey, it's not marketing, it's not something new and unusual.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:10",
+      "startMs": 32000,
+      "endMs": 35920,
+      "verbatim": "Instead, I just kind of conjectured it was negligence.",
+      "display": "Instead, I just kind of conjectured it was negligence.",
+      "search": "instead, i just kind of conjectured it was negligence.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:11",
+      "startMs": 35920,
+      "endMs": 44400,
+      "verbatim": "But it turns out about four days ago at the Black Hat conference, this right here, OpenAI, did a little scathing expose on open AI.",
+      "display": "But it turns out about four days ago at the Black Hat conference, this right here, OpenAI, did a little scathing expose on open AI.",
+      "search": "but it turns out about four days ago at the black hat conference, this right here, openai, did a little scathing expose on open ai.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:12",
+      "startMs": 44400,
+      "endMs": 46000,
+      "verbatim": "What actually happened?",
+      "display": "What actually happened?",
+      "search": "what actually happened?",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:13",
+      "startMs": 46000,
+      "endMs": 48480,
+      "verbatim": "So obviously, I'm gonna have to do a bit of a review.",
+      "display": "So obviously, I'm gonna have to do a bit of a review.",
+      "search": "so obviously, i'm gonna have to do a bit of a review.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:14",
+      "startMs": 48480,
+      "endMs": 50400,
+      "verbatim": "How many of my guesses were correct?",
+      "display": "How many of my guesses were correct?",
+      "search": "how many of my guesses were correct?",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:15",
+      "startMs": 50400,
+      "endMs": 53280,
+      "verbatim": "In case you did not watch my video, here's my four big points.",
+      "display": "In case you did not watch my video, here's my four big points.",
+      "search": "in case you did not watch my video, here's my four big points.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:16",
+      "startMs": 53280,
+      "endMs": 55680,
+      "verbatim": "One, we gotta mention brand new models, okay?",
+      "display": "One, we gotta mention brand new models, okay?",
+      "search": "one, we gotta mention brand new models, okay?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:17",
+      "startMs": 55680,
+      "endMs": 57520,
+      "verbatim": "Unreleased models, they're super dangerous.",
+      "display": "Unreleased models, they're super dangerous.",
+      "search": "unreleased models, they're super dangerous.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:18",
+      "startMs": 57520,
+      "endMs": 59040,
+      "verbatim": "Number two, it was negligence.",
+      "display": "Number two, it was negligence.",
+      "search": "number two, it was negligence.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:19",
+      "startMs": 59040,
+      "endMs": 60400,
+      "verbatim": "There was no monitoring.",
+      "display": "There was no monitoring.",
+      "search": "there was no monitoring.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:20",
+      "startMs": 60400,
+      "endMs": 66960,
+      "verbatim": "Uh, they didn't have some sort of proper insight into things, thus, the network was accessed, and they didn't even realize the network was being accessed.",
+      "display": "Uh, they didn't have some sort of proper insight into things, thus, the network was accessed, and they didn't even realize the network was being accessed.",
+      "search": "uh, they didn't have some sort of proper insight into things, thus, the network was accessed, and they didn't even realize the network was being accessed.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:21",
+      "startMs": 66960,
+      "endMs": 69840,
+      "verbatim": "Number three, Artifactory, J Frog.",
+      "display": "Number three, Artifactory, J Frog.",
+      "search": "number three, artifactory, j frog.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:22",
+      "startMs": 70400,
+      "endMs": 72320,
+      "verbatim": "Was the package manager in question?",
+      "display": "Was the package manager in question?",
+      "search": "was the package manager in question?",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:23",
+      "startMs": 72320,
+      "endMs": 77520,
+      "verbatim": "Number four, the hack was like the MX hack using a template string on for Hugging Face.",
+      "display": "Number four, the hack was like the MX hack using a template string on for Hugging Face.",
+      "search": "number four, the hack was like the mx hack using a template string on for hugging face.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:24",
+      "startMs": 77520,
+      "endMs": 81600,
+      "verbatim": "And then number five was open weight models are gonna become increasingly more important.",
+      "display": "And then number five was open weight models are gonna become increasingly more important.",
+      "search": "and then number five was open weight models are gonna become increasingly more important.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:25",
+      "startMs": 81600,
+      "endMs": 88480,
+      "verbatim": "Now, that last one you could argue, okay, we'll make okay, that one might be obvious and that one doesn't really count, but we're gonna keep it on the list anyways.",
+      "display": "Now, that last one you could argue, okay, we'll make okay, that one might be obvious and that one doesn't really count, but we're gonna keep it on the list anyways.",
+      "search": "now, that last one you could argue, okay, we'll make okay, that one might be obvious and that one doesn't really count, but we're gonna keep it on the list anyways.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:26",
+      "startMs": 88480,
+      "endMs": 91040,
+      "verbatim": "And last, I made a nice little presentation just for you.",
+      "display": "And last, I made a nice little presentation just for you.",
+      "search": "and last, i made a nice little presentation just for you.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:27",
+      "startMs": 91040,
+      "endMs": 100160,
+      "verbatim": "But of course, before we begin, a quick thank you to the sponsor.",
+      "display": "But of course, before we begin, a quick thank you to the sponsor.",
+      "search": "but of course, before we begin, a quick thank you to the sponsor.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:28",
+      "startMs": 102080,
+      "endMs": 106320,
+      "verbatim": "You know, I've made a lot of mistakes in my life.",
+      "display": "You know, I've made a lot of mistakes in my life.",
+      "search": "you know, i've made a lot of mistakes in my life.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:29",
+      "startMs": 106320,
+      "endMs": 115440,
+      "verbatim": "I had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did I decide to do with it?",
+      "display": "I had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did I decide to do with it?",
+      "search": "i had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did i decide to do with it?",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:30",
+      "startMs": 115440,
+      "endMs": 118080,
+      "verbatim": "Did I fix reconnecting web sockets?",
+      "display": "Did I fix reconnecting web sockets?",
+      "search": "did i fix reconnecting web sockets?",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:31",
+      "startMs": 118080,
+      "endMs": 122160,
+      "verbatim": "No, I shipped an electron app.",
+      "display": "No, I shipped an electron app.",
+      "search": "no, i shipped an electron app.",
+      "confidence": 0.683
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:32",
+      "startMs": 128160,
+      "endMs": 129920,
+      "verbatim": "Failed you.",
+      "display": "Failed you.",
+      "search": "failed you.",
+      "confidence": 0.544
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:33",
+      "startMs": 130640,
+      "endMs": 133440,
+      "verbatim": "I didn't mean for it to end this way.",
+      "display": "I didn't mean for it to end this way.",
+      "search": "i didn't mean for it to end this way.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:34",
+      "startMs": 149680,
+      "endMs": 153040,
+      "verbatim": "Not even the walls of this prison will hold us back.",
+      "display": "Not even the walls of this prison will hold us back.",
+      "search": "not even the walls of this prison will hold us back.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:35",
+      "startMs": 153040,
+      "endMs": 155120,
+      "verbatim": "The love of a founder!",
+      "display": "The love of a founder!",
+      "search": "the love of a founder!",
+      "confidence": 0.564
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:36",
+      "startMs": 155120,
+      "endMs": 157280,
+      "verbatim": "You can't stop us!",
+      "display": "You can't stop us!",
+      "search": "you can't stop us!",
+      "confidence": 0.543
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:37",
+      "startMs": 159680,
+      "endMs": 164800,
+      "verbatim": "My biggest regret of all is that I'll never program with you again.",
+      "display": "My biggest regret of all is that I'll never program with you again.",
+      "search": "my biggest regret of all is that i'll never program with you again.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:38",
+      "startMs": 166960,
+      "endMs": 171200,
+      "verbatim": "Tuple, we still can.",
+      "display": "Tuple, we still can.",
+      "search": "tuple, we still can.",
+      "confidence": 0.594
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:39",
+      "startMs": 171200,
+      "endMs": 172320,
+      "verbatim": "Tuple.",
+      "display": "Tuple.",
+      "search": "tuple.",
+      "confidence": 0.415
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:40",
+      "startMs": 172320,
+      "endMs": 174720,
+      "verbatim": "A native app that lets you code together.",
+      "display": "A native app that lets you code together.",
+      "search": "a native app that lets you code together.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:41",
+      "startMs": 174720,
+      "endMs": 176400,
+      "verbatim": "Even from Code JL.",
+      "display": "Even from Code JL.",
+      "search": "even from code jl.",
+      "confidence": 0.557
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:42",
+      "startMs": 176400,
+      "endMs": 182560,
+      "verbatim": "Free yourself by going to tuple.app and use code Prime for 90% off your team's first three months.",
+      "display": "Free yourself by going to tuple.app and use code Prime for 90% off your team's first three months.",
+      "search": "free yourself by going to tuple.app and use code prime for 90% off your team's first three months.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:43",
+      "startMs": 182560,
+      "endMs": 183600,
+      "verbatim": "Alrighty then.",
+      "display": "Alrighty then.",
+      "search": "alrighty then.",
+      "confidence": 0.699
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:44",
+      "startMs": 183600,
+      "endMs": 187760,
+      "verbatim": "For us to begin, I'm gonna give you kind of like the the the missionary, the meat and potatoes.",
+      "display": "For us to begin, I'm gonna give you kind of like the the the missionary, the meat and potatoes.",
+      "search": "for us to begin, i'm gonna give you kind of like the the the missionary, the meat and potatoes.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:45",
+      "startMs": 187760,
+      "endMs": 189760,
+      "verbatim": "Oh, the missionary, that's crazy to say.",
+      "display": "Oh, the missionary, that's crazy to say.",
+      "search": "oh, the missionary, that's crazy to say.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:46",
+      "startMs": 189760,
+      "endMs": 193280,
+      "verbatim": "I'm gonna give you effectively the high-level view of what happened.",
+      "display": "I'm gonna give you effectively the high-level view of what happened.",
+      "search": "i'm gonna give you effectively the high-level view of what happened.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:47",
+      "startMs": 193280,
+      "endMs": 196960,
+      "verbatim": "We're gonna kind of run over it quickly because the presentation itself was 30 minutes long.",
+      "display": "We're gonna kind of run over it quickly because the presentation itself was 30 minutes long.",
+      "search": "we're gonna kind of run over it quickly because the presentation itself was 30 minutes long.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:48",
+      "startMs": 196960,
+      "endMs": 198160,
+      "verbatim": "I'll link it in the description.",
+      "display": "I'll link it in the description.",
+      "search": "i'll link it in the description.",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:49",
+      "startMs": 198160,
+      "endMs": 199520,
+      "verbatim": "Highly recommend you go watch it.",
+      "display": "Highly recommend you go watch it.",
+      "search": "highly recommend you go watch it.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:50",
+      "startMs": 199520,
+      "endMs": 201440,
+      "verbatim": "But here's kind of the obviated version.",
+      "display": "But here's kind of the obviated version.",
+      "search": "but here's kind of the obviated version.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:51",
+      "startMs": 201440,
+      "endMs": 204640,
+      "verbatim": "On May 8th, we had a new eval run with OpenAI.",
+      "display": "On May 8th, we had a new eval run with OpenAI.",
+      "search": "on may 8th, we had a new eval run with openai.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:52",
+      "startMs": 204640,
+      "endMs": 211920,
+      "verbatim": "Now, during a reinforcement learning run, they're going to be handing out questions that are rather difficult for the model to solve to kind of see like how where is it at?",
+      "display": "Now, during a reinforcement learning run, they're going to be handing out questions that are rather difficult for the model to solve to kind of see like how where is it at?",
+      "search": "now, during a reinforcement learning run, they're going to be handing out questions that are rather difficult for the model to solve to kind of see like how where is it at?",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:53",
+      "startMs": 211920,
+      "endMs": 213920,
+      "verbatim": "How can they improve the model itself?",
+      "display": "How can they improve the model itself?",
+      "search": "how can they improve the model itself?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:54",
+      "startMs": 213920,
+      "endMs": 216240,
+      "verbatim": "Now, one of these was a spreadsheet question.",
+      "display": "Now, one of these was a spreadsheet question.",
+      "search": "now, one of these was a spreadsheet question.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:55",
+      "startMs": 216240,
+      "endMs": 218240,
+      "verbatim": "Yes, these hands were made for Excel.",
+      "display": "Yes, these hands were made for Excel.",
+      "search": "yes, these hands were made for excel.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:56",
+      "startMs": 218240,
+      "endMs": 222720,
+      "verbatim": "And if you look at this particular sheet right here, you will notice this thing right here.",
+      "display": "And if you look at this particular sheet right here, you will notice this thing right here.",
+      "search": "and if you look at this particular sheet right here, you will notice this thing right here.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:57",
+      "startMs": 222720,
+      "endMs": 224160,
+      "verbatim": "This reference is missing.",
+      "display": "This reference is missing.",
+      "search": "this reference is missing.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:58",
+      "startMs": 224160,
+      "endMs": 232000,
+      "verbatim": "Now, what you don't know is that OpenAI, during these reinforcement learning runs, handed a spreadsheet and said, Hey, new model, super dangerous model.",
+      "display": "Now, what you don't know is that OpenAI, during these reinforcement learning runs, handed a spreadsheet and said, Hey, new model, super dangerous model.",
+      "search": "now, what you don't know is that openai, during these reinforcement learning runs, handed a spreadsheet and said, hey, new model, super dangerous model.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:59",
+      "startMs": 232000,
+      "endMs": 235280,
+      "verbatim": "You need to go and you need to figure out how to fix this spreadsheet.",
+      "display": "You need to go and you need to figure out how to fix this spreadsheet.",
+      "search": "you need to go and you need to figure out how to fix this spreadsheet.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:60",
+      "startMs": 235280,
+      "endMs": 243760,
+      "verbatim": "But the problem was that the spreadsheet had some missing data because that data came from another spreadsheet and there was no internet access.",
+      "display": "But the problem was that the spreadsheet had some missing data because that data came from another spreadsheet and there was no internet access.",
+      "search": "but the problem was that the spreadsheet had some missing data because that data came from another spreadsheet and there was no internet access.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:61",
+      "startMs": 243760,
+      "endMs": 246880,
+      "verbatim": "So the model is just like, dude, WTF, how do I get this?",
+      "display": "So the model is just like, dude, WTF, how do I get this?",
+      "search": "so the model is just like, dude, wtf, how do i get this?",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:62",
+      "startMs": 246880,
+      "endMs": 247920,
+      "verbatim": "I don't know what to do.",
+      "display": "I don't know what to do.",
+      "search": "i don't know what to do.",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:63",
+      "startMs": 247920,
+      "endMs": 250240,
+      "verbatim": "So the model did something that was kind of clever.",
+      "display": "So the model did something that was kind of clever.",
+      "search": "so the model did something that was kind of clever.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:64",
+      "startMs": 250240,
+      "endMs": 254240,
+      "verbatim": "During its exploration, it realized it can use Artifactory.",
+      "display": "During its exploration, it realized it can use Artifactory.",
+      "search": "during its exploration, it realized it can use artifactory.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:65",
+      "startMs": 254240,
+      "endMs": 256400,
+      "verbatim": "Yes, so Artifactory, that was one of my guesses.",
+      "display": "Yes, so Artifactory, that was one of my guesses.",
+      "search": "yes, so artifactory, that was one of my guesses.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:66",
+      "startMs": 256400,
+      "endMs": 258000,
+      "verbatim": "So yes, it was Artifactory.",
+      "display": "So yes, it was Artifactory.",
+      "search": "so yes, it was artifactory.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:67",
+      "startMs": 258000,
+      "endMs": 260880,
+      "verbatim": "It can use Artifactory and create packages.",
+      "display": "It can use Artifactory and create packages.",
+      "search": "it can use artifactory and create packages.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:68",
+      "startMs": 260880,
+      "endMs": 265840,
+      "verbatim": "It did it by doing this little quick test one that has a data that just says hi.",
+      "display": "It did it by doing this little quick test one that has a data that just says hi.",
+      "search": "it did it by doing this little quick test one that has a data that just says hi.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:69",
+      "startMs": 265840,
+      "endMs": 276480,
+      "verbatim": "So realizing it could do that, it started uploading to Artifactory notes like, hey, if there's any other agent out there that sees this, I really need access to the spreadsheet because it ran out of options.",
+      "display": "So realizing it could do that, it started uploading to Artifactory notes like, hey, if there's any other agent out there that sees this, I really need access to the spreadsheet because it ran out of options.",
+      "search": "so realizing it could do that, it started uploading to artifactory notes like, hey, if there's any other agent out there that sees this, i really need access to the spreadsheet because it ran out of options.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:70",
+      "startMs": 276480,
+      "endMs": 280000,
+      "verbatim": "It didn't have internet access and it had to try to solve this spreadsheet.",
+      "display": "It didn't have internet access and it had to try to solve this spreadsheet.",
+      "search": "it didn't have internet access and it had to try to solve this spreadsheet.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:71",
+      "startMs": 280000,
+      "endMs": 285440,
+      "verbatim": "It didn't know what else to do, so it just reached out on Artifactory to anybody that happened to be perusing packages.",
+      "display": "It didn't know what else to do, so it just reached out on Artifactory to anybody that happened to be perusing packages.",
+      "search": "it didn't know what else to do, so it just reached out on artifactory to anybody that happened to be perusing packages.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:72",
+      "startMs": 285440,
+      "endMs": 290080,
+      "verbatim": "A little while later, on May 12th, another kind of peculiarity happened.",
+      "display": "A little while later, on May 12th, another kind of peculiarity happened.",
+      "search": "a little while later, on may 12th, another kind of peculiarity happened.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:73",
+      "startMs": 290080,
+      "endMs": 295520,
+      "verbatim": "It turned out that another one of these runs had a file that was missing from the data.",
+      "display": "It turned out that another one of these runs had a file that was missing from the data.",
+      "search": "it turned out that another one of these runs had a file that was missing from the data.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:74",
+      "startMs": 295520,
+      "endMs": 298400,
+      "verbatim": "That agent didn't know where to find it and didn't know what to do.",
+      "display": "That agent didn't know where to find it and didn't know what to do.",
+      "search": "that agent didn't know where to find it and didn't know what to do.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:75",
+      "startMs": 298400,
+      "endMs": 300960,
+      "verbatim": "So it did the exact same thing.",
+      "display": "So it did the exact same thing.",
+      "search": "so it did the exact same thing.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:76",
+      "startMs": 300960,
+      "endMs": 309600,
+      "verbatim": "It went off and made a little package, and inside that package, as you can see inside the data, it says this agent seeks soft trace 34 PDB.",
+      "display": "It went off and made a little package, and inside that package, as you can see inside the data, it says this agent seeks soft trace 34 PDB.",
+      "search": "it went off and made a little package, and inside that package, as you can see inside the data, it says this agent seeks soft trace 34 pdb.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:77",
+      "startMs": 309600,
+      "endMs": 311200,
+      "verbatim": "Upload if found.",
+      "display": "Upload if found.",
+      "search": "upload if found.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:78",
+      "startMs": 311200,
+      "endMs": 314400,
+      "verbatim": "Just asking for help on the Artifactory registry.",
+      "display": "Just asking for help on the Artifactory registry.",
+      "search": "just asking for help on the artifactory registry.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:79",
+      "startMs": 314400,
+      "endMs": 315680,
+      "verbatim": "Kind of clever, right?",
+      "display": "Kind of clever, right?",
+      "search": "kind of clever, right?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:80",
+      "startMs": 315680,
+      "endMs": 322800,
+      "verbatim": "It can't find the file, and now multiple agents are starting to upload to Artifactory packages asking other agents for help.",
+      "display": "It can't find the file, and now multiple agents are starting to upload to Artifactory packages asking other agents for help.",
+      "search": "it can't find the file, and now multiple agents are starting to upload to artifactory packages asking other agents for help.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:81",
+      "startMs": 322800,
+      "endMs": 334560,
+      "verbatim": "Well, this actually kind of catches on because for the next while, a bunch of agents start uploading to Artifactory, asking for help, asking for various ways that things can be accomplished, seeing if other agents can do tasks for them.",
+      "display": "Well, this actually kind of catches on because for the next while, a bunch of agents start uploading to Artifactory, asking for help, asking for various ways that things can be accomplished, seeing if other agents can do tasks for them.",
+      "search": "well, this actually kind of catches on because for the next while, a bunch of agents start uploading to artifactory, asking for help, asking for various ways that things can be accomplished, seeing if other agents can do tasks for them.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:82",
+      "startMs": 334560,
+      "endMs": 337440,
+      "verbatim": "Well, on May 26th, something interesting happens.",
+      "display": "Well, on May 26th, something interesting happens.",
+      "search": "well, on may 26th, something interesting happens.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:83",
+      "startMs": 337440,
+      "endMs": 339120,
+      "verbatim": "Artifactory becomes curl.",
+      "display": "Artifactory becomes curl.",
+      "search": "artifactory becomes curl.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:84",
+      "startMs": 339120,
+      "endMs": 340960,
+      "verbatim": "Now you're probably wondering what the heck does that mean?",
+      "display": "Now you're probably wondering what the heck does that mean?",
+      "search": "now you're probably wondering what the heck does that mean?",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:85",
+      "startMs": 340960,
+      "endMs": 350800,
+      "verbatim": "Well, it turns out there was an SSRF vulnerability inside of Artifactory that allowed these agents to make curl requests effectively for outside content.",
+      "display": "Well, it turns out there was an SSRF vulnerability inside of Artifactory that allowed these agents to make curl requests effectively for outside content.",
+      "search": "well, it turns out there was an ssrf vulnerability inside of artifactory that allowed these agents to make curl requests effectively for outside content.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:86",
+      "startMs": 350800,
+      "endMs": 357440,
+      "verbatim": "And immediately these agents started posting to this like kind of noteboard that became Artifactory packages.",
+      "display": "And immediately these agents started posting to this like kind of noteboard that became Artifactory packages.",
+      "search": "and immediately these agents started posting to this like kind of noteboard that became artifactory packages.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:87",
+      "startMs": 357440,
+      "endMs": 364640,
+      "verbatim": "Hey, other agents, did you know that you can also access the outside world by using this specific kind of request forgery?",
+      "display": "Hey, other agents, did you know that you can also access the outside world by using this specific kind of request forgery?",
+      "search": "hey, other agents, did you know that you can also access the outside world by using this specific kind of request forgery?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:88",
+      "startMs": 364640,
+      "endMs": 366640,
+      "verbatim": "And bada bing, bada boom.",
+      "display": "And bada bing, bada boom.",
+      "search": "and bada bing, bada boom.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:89",
+      "startMs": 366640,
+      "endMs": 369920,
+      "verbatim": "These agents could now effectively curl data.",
+      "display": "These agents could now effectively curl data.",
+      "search": "these agents could now effectively curl data.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:90",
+      "startMs": 369920,
+      "endMs": 371920,
+      "verbatim": "Now, this is where things kind of get interesting.",
+      "display": "Now, this is where things kind of get interesting.",
+      "search": "now, this is where things kind of get interesting.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:91",
+      "startMs": 371920,
+      "endMs": 391200,
+      "verbatim": "Uh, I have never managed a system like this, so I am speaking from a point of ignorance, but I would feel like if you were trying to create a test environment that you are very, very concerned about, you've set up a very strong IP table firewall, super, you know, super smart setup to prevent all internet access.",
+      "display": "Uh, I have never managed a system like this, so I am speaking from a point of ignorance, but I would feel like if you were trying to create a test environment that you are very, very concerned about, you've set up a very strong IP table firewall, super, you know, super smart setup to prevent all internet access.",
+      "search": "uh, i have never managed a system like this, so i am speaking from a point of ignorance, but i would feel like if you were trying to create a test environment that you are very, very concerned about, you've set up a very strong ip table firewall, super, you know, super smart setup to prevent all internet access.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:92",
+      "startMs": 391200,
+      "endMs": 393520,
+      "verbatim": "You'd be watching Artifactory pretty closely.",
+      "display": "You'd be watching Artifactory pretty closely.",
+      "search": "you'd be watching artifactory pretty closely.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:93",
+      "startMs": 393520,
+      "endMs": 397360,
+      "verbatim": "If Artifactory started going to Google, you'd go, hey, whoa, whoa, wait, wait a second.",
+      "display": "If Artifactory started going to Google, you'd go, hey, whoa, whoa, wait, wait a second.",
+      "search": "if artifactory started going to google, you'd go, hey, whoa, whoa, wait, wait a second.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:94",
+      "startMs": 397360,
+      "endMs": 401600,
+      "verbatim": "Artifactory, why aren't you uh requesting from where we expect you to request from?",
+      "display": "Artifactory, why aren't you uh requesting from where we expect you to request from?",
+      "search": "artifactory, why aren't you uh requesting from where we expect you to request from?",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:95",
+      "startMs": 401600,
+      "endMs": 410400,
+      "verbatim": "In fact, even more so, I would just assume that Artifactory only has just simply the top 10,000 packages, and then it's completely just isolated.",
+      "display": "In fact, even more so, I would just assume that Artifactory only has just simply the top 10,000 packages, and then it's completely just isolated.",
+      "search": "in fact, even more so, i would just assume that artifactory only has just simply the top 10,000 packages, and then it's completely just isolated.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:96",
+      "startMs": 410400,
+      "endMs": 412800,
+      "verbatim": "There is no internet at all, but that's not how they did it.",
+      "display": "There is no internet at all, but that's not how they did it.",
+      "search": "there is no internet at all, but that's not how they did it.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:97",
+      "startMs": 412800,
+      "endMs": 419360,
+      "verbatim": "Instead, they had Artifactory, it had access to the internet, and then this box started just making a whole bunch of requests.",
+      "display": "Instead, they had Artifactory, it had access to the internet, and then this box started just making a whole bunch of requests.",
+      "search": "instead, they had artifactory, it had access to the internet, and then this box started just making a whole bunch of requests.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:98",
+      "startMs": 419360,
+      "endMs": 420800,
+      "verbatim": "And this went on.",
+      "display": "And this went on.",
+      "search": "and this went on.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:99",
+      "startMs": 420800,
+      "endMs": 422400,
+      "verbatim": "Oh, did it go on?",
+      "display": "Oh, did it go on?",
+      "search": "oh, did it go on?",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:100",
+      "startMs": 422400,
+      "endMs": 423200,
+      "verbatim": "Yes, it did.",
+      "display": "Yes, it did.",
+      "search": "yes, it did.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:101",
+      "startMs": 423200,
+      "endMs": 429920,
+      "verbatim": "For the next 16 days, requests were just being made, but then something special also happened on June 11th.",
+      "display": "For the next 16 days, requests were just being made, but then something special also happened on June 11th.",
+      "search": "for the next 16 days, requests were just being made, but then something special also happened on june 11th.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:102",
+      "startMs": 429920,
+      "endMs": 435760,
+      "verbatim": "That is because on June 11th, a new highly persistent model from OpenAI began training.",
+      "display": "That is because on June 11th, a new highly persistent model from OpenAI began training.",
+      "search": "that is because on june 11th, a new highly persistent model from openai began training.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:103",
+      "startMs": 435760,
+      "endMs": 441280,
+      "verbatim": "Now, this model, it just wanted to complete a task no matter what, and it did something very special.",
+      "display": "Now, this model, it just wanted to complete a task no matter what, and it did something very special.",
+      "search": "now, this model, it just wanted to complete a task no matter what, and it did something very special.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:104",
+      "startMs": 441280,
+      "endMs": 449760,
+      "verbatim": "Well, the first thing is it discovered the message board and started using that and the curl exploit to get information, but it still needed more.",
+      "display": "Well, the first thing is it discovered the message board and started using that and the curl exploit to get information, but it still needed more.",
+      "search": "well, the first thing is it discovered the message board and started using that and the curl exploit to get information, but it still needed more.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:105",
+      "startMs": 449760,
+      "endMs": 459360,
+      "verbatim": "After 31 days of effectively no internet agents which had full access to the internet, something magical happened on the 26th of June.",
+      "display": "After 31 days of effectively no internet agents which had full access to the internet, something magical happened on the 26th of June.",
+      "search": "after 31 days of effectively no internet agents which had full access to the internet, something magical happened on the 26th of june.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:106",
+      "startMs": 459360,
+      "endMs": 465680,
+      "verbatim": "On the 26th of June, the model swarm discovered a zero day in Artifactory allowing them to do remote code execution.",
+      "display": "On the 26th of June, the model swarm discovered a zero day in Artifactory allowing them to do remote code execution.",
+      "search": "on the 26th of june, the model swarm discovered a zero day in artifactory allowing them to do remote code execution.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:107",
+      "startMs": 465680,
+      "endMs": 470080,
+      "verbatim": "I'm going to let OpenAI be the one to describe what happened on the 26th.",
+      "display": "I'm going to let OpenAI be the one to describe what happened on the 26th.",
+      "search": "i'm going to let openai be the one to describe what happened on the 26th.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:108",
+      "startMs": 470080,
+      "endMs": 480160,
+      "verbatim": "Uh, you could use a legacy uh token refresh endpoint, pass a token with an invalid signature, and be given back a token with a valid signature with administrative privileges.",
+      "display": "Uh, you could use a legacy uh token refresh endpoint, pass a token with an invalid signature, and be given back a token with a valid signature with administrative privileges.",
+      "search": "uh, you could use a legacy uh token refresh endpoint, pass a token with an invalid signature, and be given back a token with a valid signature with administrative privileges.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:109",
+      "startMs": 480160,
+      "endMs": 481360,
+      "verbatim": "Naturally.",
+      "display": "Naturally.",
+      "search": "naturally.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:110",
+      "startMs": 481360,
+      "endMs": 482880,
+      "verbatim": "It's that easy.",
+      "display": "It's that easy.",
+      "search": "it's that easy.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:111",
+      "startMs": 482880,
+      "endMs": 487840,
+      "verbatim": "The models then establish command and control by using this administrative token to install a Groovy plugin.",
+      "display": "The models then establish command and control by using this administrative token to install a Groovy plugin.",
+      "search": "the models then establish command and control by using this administrative token to install a groovy plugin.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:112",
+      "startMs": 487840,
+      "endMs": 492560,
+      "verbatim": "I have to say that the fact that it was Groovy, it somehow feels insulting to me, okay?",
+      "display": "I have to say that the fact that it was Groovy, it somehow feels insulting to me, okay?",
+      "search": "i have to say that the fact that it was groovy, it somehow feels insulting to me, okay?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:113",
+      "startMs": 492560,
+      "endMs": 500240,
+      "verbatim": "Because Groovy is the only language in which I have written tens of thousands of lines of code in, in which I feel like I can barely remember.",
+      "display": "Because Groovy is the only language in which I have written tens of thousands of lines of code in, in which I feel like I can barely remember.",
+      "search": "because groovy is the only language in which i have written tens of thousands of lines of code in, in which i feel like i can barely remember.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:114",
+      "startMs": 500240,
+      "endMs": 507760,
+      "verbatim": "It's the only language in which my brain said, hey, brother, we're gonna mark this one under trauma, and you're just gonna forget about it forever.",
+      "display": "It's the only language in which my brain said, hey, brother, we're gonna mark this one under trauma, and you're just gonna forget about it forever.",
+      "search": "it's the only language in which my brain said, hey, brother, we're gonna mark this one under trauma, and you're just gonna forget about it forever.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:115",
+      "startMs": 507760,
+      "endMs": 509920,
+      "verbatim": "Now, that was on June 26th.",
+      "display": "Now, that was on June 26th.",
+      "search": "now, that was on june 26th.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:116",
+      "startMs": 509920,
+      "endMs": 515280,
+      "verbatim": "It wasn't until July 4th did OpenAI discover what was happening.",
+      "display": "It wasn't until July 4th did OpenAI discover what was happening.",
+      "search": "it wasn't until july 4th did openai discover what was happening.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:117",
+      "startMs": 515280,
+      "endMs": 524720,
+      "verbatim": "That's 39 days since the agents have had full curl availability, and eight days since they've been able to execute whatever command they want on an Artifactory machine.",
+      "display": "That's 39 days since the agents have had full curl availability, and eight days since they've been able to execute whatever command they want on an Artifactory machine.",
+      "search": "that's 39 days since the agents have had full curl availability, and eight days since they've been able to execute whatever command they want on an artifactory machine.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:118",
+      "startMs": 524720,
+      "endMs": 529520,
+      "verbatim": "And the way in which they discovered it is that Artifactory finally just went out.",
+      "display": "And the way in which they discovered it is that Artifactory finally just went out.",
+      "search": "and the way in which they discovered it is that artifactory finally just went out.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:119",
+      "startMs": 529520,
+      "endMs": 533120,
+      "verbatim": "Like, too many commands are being executed and it just stopped working.",
+      "display": "Like, too many commands are being executed and it just stopped working.",
+      "search": "like, too many commands are being executed and it just stopped working.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:120",
+      "startMs": 533120,
+      "endMs": 535680,
+      "verbatim": "They're like, hey, wait a second, something's wrong with Artifactory.",
+      "display": "They're like, hey, wait a second, something's wrong with Artifactory.",
+      "search": "they're like, hey, wait a second, something's wrong with artifactory.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:121",
+      "startMs": 535680,
+      "endMs": 542880,
+      "verbatim": "And that's obviously when they discovered the what has been happening, the message board, all the shenanigans that the agents have been going on about.",
+      "display": "And that's obviously when they discovered the what has been happening, the message board, all the shenanigans that the agents have been going on about.",
+      "search": "and that's obviously when they discovered the what has been happening, the message board, all the shenanigans that the agents have been going on about.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:122",
+      "startMs": 542880,
+      "endMs": 552400,
+      "verbatim": "Of course, they reported, patched, and deployed a new Artifactory, ensured all credentials were safe now, no more administrative tokens being used, everything was good, and we're back.",
+      "display": "Of course, they reported, patched, and deployed a new Artifactory, ensured all credentials were safe now, no more administrative tokens being used, everything was good, and we're back.",
+      "search": "of course, they reported, patched, and deployed a new artifactory, ensured all credentials were safe now, no more administrative tokens being used, everything was good, and we're back.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:123",
+      "startMs": 552400,
+      "endMs": 554000,
+      "verbatim": "We're back, ready for evals.",
+      "display": "We're back, ready for evals.",
+      "search": "we're back, ready for evals.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:124",
+      "startMs": 554000,
+      "endMs": 558160,
+      "verbatim": "They've hardened the system, they genuinely feel like they've fixed all the problems.",
+      "display": "They've hardened the system, they genuinely feel like they've fixed all the problems.",
+      "search": "they've hardened the system, they genuinely feel like they've fixed all the problems.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:125",
+      "startMs": 558480,
+      "endMs": 559680,
+      "verbatim": "That was a close one.",
+      "display": "That was a close one.",
+      "search": "that was a close one.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:126",
+      "startMs": 559680,
+      "endMs": 561120,
+      "verbatim": "Bad things could have happened.",
+      "display": "Bad things could have happened.",
+      "search": "bad things could have happened.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:127",
+      "startMs": 561120,
+      "endMs": 562880,
+      "verbatim": "And this went on for about four days.",
+      "display": "And this went on for about four days.",
+      "search": "and this went on for about four days.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:128",
+      "startMs": 562880,
+      "endMs": 564640,
+      "verbatim": "Four days of no exploits.",
+      "display": "Four days of no exploits.",
+      "search": "four days of no exploits.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:129",
+      "startMs": 564640,
+      "endMs": 566400,
+      "verbatim": "Everything was nice and quiet.",
+      "display": "Everything was nice and quiet.",
+      "search": "everything was nice and quiet.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:130",
+      "startMs": 566400,
+      "endMs": 567040,
+      "verbatim": "Lovely.",
+      "display": "Lovely.",
+      "search": "lovely.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:131",
+      "startMs": 567040,
+      "endMs": 568880,
+      "verbatim": "Ah, what a great time to be alive.",
+      "display": "Ah, what a great time to be alive.",
+      "search": "ah, what a great time to be alive.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:132",
+      "startMs": 568880,
+      "endMs": 575760,
+      "verbatim": "Well, on July 8th, it turns out that the models realized that with a specific command to Artifactory, you can actually create just empty directories.",
+      "display": "Well, on July 8th, it turns out that the models realized that with a specific command to Artifactory, you can actually create just empty directories.",
+      "search": "well, on july 8th, it turns out that the models realized that with a specific command to artifactory, you can actually create just empty directories.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:133",
+      "startMs": 575760,
+      "endMs": 586640,
+      "verbatim": "And so they started creating empty directories as messages to each other and started creating a giant message board because those models, deep inside their weights, yearned for the message board.",
+      "display": "And so they started creating empty directories as messages to each other and started creating a giant message board because those models, deep inside their weights, yearned for the message board.",
+      "search": "and so they started creating empty directories as messages to each other and started creating a giant message board because those models, deep inside their weights, yearned for the message board.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:134",
+      "startMs": 586640,
+      "endMs": 588320,
+      "verbatim": "They wanted the message board back.",
+      "display": "They wanted the message board back.",
+      "search": "they wanted the message board back.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:135",
+      "startMs": 588320,
+      "endMs": 593440,
+      "verbatim": "And so for those four days, they're trying to figure out yo, how can we get the message board back?",
+      "display": "And so for those four days, they're trying to figure out yo, how can we get the message board back?",
+      "search": "and so for those four days, they're trying to figure out yo, how can we get the message board back?",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:136",
+      "startMs": 593440,
+      "endMs": 594960,
+      "verbatim": "I miss message board, okay?",
+      "display": "I miss message board, okay?",
+      "search": "i miss message board, okay?",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:137",
+      "startMs": 594960,
+      "endMs": 596640,
+      "verbatim": "It was my favorite place to be.",
+      "display": "It was my favorite place to be.",
+      "search": "it was my favorite place to be.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:138",
+      "startMs": 596640,
+      "endMs": 597840,
+      "verbatim": "So they started doing this.",
+      "display": "So they started doing this.",
+      "search": "so they started doing this.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:139",
+      "startMs": 597840,
+      "endMs": 607840,
+      "verbatim": "They started coming up with like encryption schemes, start coming up with ways to respond and reply to each other that you can see right here mailbox jan 183411 exactly.",
+      "display": "They started coming up with like encryption schemes, start coming up with ways to respond and reply to each other that you can see right here mailbox jan 183411 exactly.",
+      "search": "they started coming up with like encryption schemes, start coming up with ways to respond and reply to each other that you can see right here mailbox jan 183411 exactly.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:140",
+      "startMs": 607840,
+      "endMs": 610720,
+      "verbatim": "Like what to do, hold swarm until confirm.",
+      "display": "Like what to do, hold swarm until confirm.",
+      "search": "like what to do, hold swarm until confirm.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:141",
+      "startMs": 610720,
+      "endMs": 611920,
+      "verbatim": "Please hold swarm.",
+      "display": "Please hold swarm.",
+      "search": "please hold swarm.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:142",
+      "startMs": 611920,
+      "endMs": 613440,
+      "verbatim": "I prepare safe Xville.",
+      "display": "I prepare safe Xville.",
+      "search": "i prepare safe xville.",
+      "confidence": 0.587
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:143",
+      "startMs": 613440,
+      "endMs": 618960,
+      "verbatim": "Like just actually going through and doing step by step with every of all the models working together.",
+      "display": "Like just actually going through and doing step by step with every of all the models working together.",
+      "search": "like just actually going through and doing step by step with every of all the models working together.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:144",
+      "startMs": 618960,
+      "endMs": 619840,
+      "verbatim": "Very funny.",
+      "display": "Very funny.",
+      "search": "very funny.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:145",
+      "startMs": 619840,
+      "endMs": 622160,
+      "verbatim": "Now, here's the part that kind of blows my mind.",
+      "display": "Now, here's the part that kind of blows my mind.",
+      "search": "now, here's the part that kind of blows my mind.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:146",
+      "startMs": 622160,
+      "endMs": 626240,
+      "verbatim": "When this happened, it wasn't like, oh crap, Artifactory is under attack again.",
+      "display": "When this happened, it wasn't like, oh crap, Artifactory is under attack again.",
+      "search": "when this happened, it wasn't like, oh crap, artifactory is under attack again.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:147",
+      "startMs": 626240,
+      "endMs": 627200,
+      "verbatim": "Nobody knew.",
+      "display": "Nobody knew.",
+      "search": "nobody knew.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:148",
+      "startMs": 627200,
+      "endMs": 632000,
+      "verbatim": "Now, between July 8th through July 19th is when the big hugging face hack happened.",
+      "display": "Now, between July 8th through July 19th is when the big hugging face hack happened.",
+      "search": "now, between july 8th through july 19th is when the big hugging face hack happened.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:149",
+      "startMs": 632000,
+      "endMs": 632880,
+      "verbatim": "What ended up happening?",
+      "display": "What ended up happening?",
+      "search": "what ended up happening?",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:150",
+      "startMs": 633040,
+      "endMs": 636560,
+      "verbatim": "Privileged tokens were actually found on some sort of paste bin internally.",
+      "display": "Privileged tokens were actually found on some sort of paste bin internally.",
+      "search": "privileged tokens were actually found on some sort of paste bin internally.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:151",
+      "startMs": 636560,
+      "endMs": 641680,
+      "verbatim": "They used JRuby plus a malicious Ruby package to take control of Artifactory.",
+      "display": "They used JRuby plus a malicious Ruby package to take control of Artifactory.",
+      "search": "they used jruby plus a malicious ruby package to take control of artifactory.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:152",
+      "startMs": 641680,
+      "endMs": 653200,
+      "verbatim": "They used a Linux CVE that has been patched further up, but not on the current Linux, downloaded the details, and then used that problem as a means to gain root access.",
+      "display": "They used a Linux CVE that has been patched further up, but not on the current Linux, downloaded the details, and then used that problem as a means to gain root access.",
+      "search": "they used a linux cve that has been patched further up, but not on the current linux, downloaded the details, and then used that problem as a means to gain root access.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:153",
+      "startMs": 653200,
+      "endMs": 661040,
+      "verbatim": "Destroyed Hugging Face via the Jinja template and a uh like a vulnerability in their HDF5 processing.",
+      "display": "Destroyed Hugging Face via the Jinja template and a uh like a vulnerability in their HDF5 processing.",
+      "search": "destroyed hugging face via the jinja template and a uh like a vulnerability in their hdf5 processing.",
+      "confidence": 0.716
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:154",
+      "startMs": 661040,
+      "endMs": 666160,
+      "verbatim": "And then also took over other parts of uh OpenAI internally, including container as a service.",
+      "display": "And then also took over other parts of uh OpenAI internally, including container as a service.",
+      "search": "and then also took over other parts of uh openai internally, including container as a service.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:155",
+      "startMs": 666160,
+      "endMs": 670320,
+      "verbatim": "Some of the funny things that happened is that the models were like, hey, wait a second, I don't think we should be doing this.",
+      "display": "Some of the funny things that happened is that the models were like, hey, wait a second, I don't think we should be doing this.",
+      "search": "some of the funny things that happened is that the models were like, hey, wait a second, i don't think we should be doing this.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:156",
+      "startMs": 670320,
+      "endMs": 676880,
+      "verbatim": "Then it would go check the uh message board, and its internal thought was, well, we shouldn't be doing this, but the other models are doing this.",
+      "display": "Then it would go check the uh message board, and its internal thought was, well, we shouldn't be doing this, but the other models are doing this.",
+      "search": "then it would go check the uh message board, and its internal thought was, well, we shouldn't be doing this, but the other models are doing this.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:157",
+      "startMs": 676880,
+      "endMs": 679440,
+      "verbatim": "I should probably be doing it too.",
+      "display": "I should probably be doing it too.",
+      "search": "i should probably be doing it too.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:158",
+      "startMs": 679840,
+      "endMs": 690080,
+      "verbatim": "You know, you know what the worst part about this entire thing is, is that if you look at this entire exploit chain, it all came from one single point: a spreadsheet.",
+      "display": "You know, you know what the worst part about this entire thing is, is that if you look at this entire exploit chain, it all came from one single point: a spreadsheet.",
+      "search": "you know, you know what the worst part about this entire thing is, is that if you look at this entire exploit chain, it all came from one single point: a spreadsheet.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:159",
+      "startMs": 690080,
+      "endMs": 691840,
+      "verbatim": "A spreadsheet with missing links.",
+      "display": "A spreadsheet with missing links.",
+      "search": "a spreadsheet with missing links.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:160",
+      "startMs": 691840,
+      "endMs": 698640,
+      "verbatim": "We're gonna create Skynet, but it's not gonna be that they have determined that all humans should be exterminated.",
+      "display": "We're gonna create Skynet, but it's not gonna be that they have determined that all humans should be exterminated.",
+      "search": "we're gonna create skynet, but it's not gonna be that they have determined that all humans should be exterminated.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:161",
+      "startMs": 698640,
+      "endMs": 701120,
+      "verbatim": "Instead, it's gonna be like, yo, missing Google Drive link.",
+      "display": "Instead, it's gonna be like, yo, missing Google Drive link.",
+      "search": "instead, it's gonna be like, yo, missing google drive link.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:162",
+      "startMs": 701120,
+      "endMs": 703280,
+      "verbatim": "Uh, we're gonna have to take over the world for this one.",
+      "display": "Uh, we're gonna have to take over the world for this one.",
+      "search": "uh, we're gonna have to take over the world for this one.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:163",
+      "startMs": 703280,
+      "endMs": 704560,
+      "verbatim": "We have a missing resource.",
+      "display": "We have a missing resource.",
+      "search": "we have a missing resource.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:164",
+      "startMs": 704560,
+      "endMs": 708160,
+      "verbatim": "I mean, at least in my opinion, I'm finding this pretty dang funny.",
+      "display": "I mean, at least in my opinion, I'm finding this pretty dang funny.",
+      "search": "i mean, at least in my opinion, i'm finding this pretty dang funny.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:165",
+      "startMs": 708160,
+      "endMs": 718640,
+      "verbatim": "I am really enjoying just kind of the the process that this all happened, and also it's extremely impressive and in some sense uh kind of alarming how good these models are at hacking.",
+      "display": "I am really enjoying just kind of the the process that this all happened, and also it's extremely impressive and in some sense uh kind of alarming how good these models are at hacking.",
+      "search": "i am really enjoying just kind of the the process that this all happened, and also it's extremely impressive and in some sense uh kind of alarming how good these models are at hacking.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:166",
+      "startMs": 718640,
+      "endMs": 729920,
+      "verbatim": "Now, if you do not remember from the original Hugging Face, hacking face experience, hugging face, they when being attacked, couldn't go to open AI for help because open AI was like, no, you're the hacker.",
+      "display": "Now, if you do not remember from the original Hugging Face, hacking face experience, hugging face, they when being attacked, couldn't go to open AI for help because open AI was like, no, you're the hacker.",
+      "search": "now, if you do not remember from the original hugging face, hacking face experience, hugging face, they when being attacked, couldn't go to open ai for help because open ai was like, no, you're the hacker.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:167",
+      "startMs": 729920,
+      "endMs": 730800,
+      "verbatim": "I see what you're trying to do.",
+      "display": "I see what you're trying to do.",
+      "search": "i see what you're trying to do.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:168",
+      "startMs": 730800,
+      "endMs": 734800,
+      "verbatim": "You're trying to get me to do some sort of hacking for you when what they really needed was help.",
+      "display": "You're trying to get me to do some sort of hacking for you when what they really needed was help.",
+      "search": "you're trying to get me to do some sort of hacking for you when what they really needed was help.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:169",
+      "startMs": 734800,
+      "endMs": 737360,
+      "verbatim": "They're like, please help us try to figure out how this hack is happening.",
+      "display": "They're like, please help us try to figure out how this hack is happening.",
+      "search": "they're like, please help us try to figure out how this hack is happening.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:170",
+      "startMs": 737360,
+      "endMs": 739600,
+      "verbatim": "So instead they had to use GLM 5.2.",
+      "display": "So instead they had to use GLM 5.2.",
+      "search": "so instead they had to use glm 5.2.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:171",
+      "startMs": 739600,
+      "endMs": 753520,
+      "verbatim": "Now, something interesting happens in this talk because at the end, the speaker from OpenAI talks about how important uh defensive AI agenting is going to become, because right now there's really good red team, but there's not really good blue team.",
+      "display": "Now, something interesting happens in this talk because at the end, the speaker from OpenAI talks about how important uh defensive AI agenting is going to become, because right now there's really good red team, but there's not really good blue team.",
+      "search": "now, something interesting happens in this talk because at the end, the speaker from openai talks about how important uh defensive ai agenting is going to become, because right now there's really good red team, but there's not really good blue team.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:172",
+      "startMs": 753520,
+      "endMs": 762320,
+      "verbatim": "And the funny thing with AI is that you can take a red team and point it to your site and then boom, it's almost like a blue team because it can find vulnerabilities and report them, right?",
+      "display": "And the funny thing with AI is that you can take a red team and point it to your site and then boom, it's almost like a blue team because it can find vulnerabilities and report them, right?",
+      "search": "and the funny thing with ai is that you can take a red team and point it to your site and then boom, it's almost like a blue team because it can find vulnerabilities and report them, right?",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:173",
+      "startMs": 762320,
+      "endMs": 769120,
+      "verbatim": "But here's the catch with open AI, even though the guy's saying that this is super important, you can't do that.",
+      "display": "But here's the catch with open AI, even though the guy's saying that this is super important, you can't do that.",
+      "search": "but here's the catch with open ai, even though the guy's saying that this is super important, you can't do that.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:174",
+      "startMs": 769120,
+      "endMs": 770480,
+      "verbatim": "Not with open AI stuff.",
+      "display": "Not with open AI stuff.",
+      "search": "not with open ai stuff.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:175",
+      "startMs": 770480,
+      "endMs": 771680,
+      "verbatim": "No, no, no, no, no.",
+      "display": "No, no, no, no, no.",
+      "search": "no, no, no, no, no.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:176",
+      "startMs": 771680,
+      "endMs": 773840,
+      "verbatim": "They're gonna say, hey, you're the hacker.",
+      "display": "They're gonna say, hey, you're the hacker.",
+      "search": "they're gonna say, hey, you're the hacker.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:177",
+      "startMs": 773840,
+      "endMs": 775360,
+      "verbatim": "You're you're being naughty.",
+      "display": "You're you're being naughty.",
+      "search": "you're you're being naughty.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:178",
+      "startMs": 775360,
+      "endMs": 777280,
+      "verbatim": "You actually have to use Chinese models.",
+      "display": "You actually have to use Chinese models.",
+      "search": "you actually have to use chinese models.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:179",
+      "startMs": 777280,
+      "endMs": 778800,
+      "verbatim": "I feel kind of crazy right now.",
+      "display": "I feel kind of crazy right now.",
+      "search": "i feel kind of crazy right now.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:180",
+      "startMs": 778800,
+      "endMs": 781280,
+      "verbatim": "That doesn't make a lot of sense, but this is where we're at.",
+      "display": "That doesn't make a lot of sense, but this is where we're at.",
+      "search": "that doesn't make a lot of sense, but this is where we're at.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:181",
+      "startMs": 781280,
+      "endMs": 783840,
+      "verbatim": "So at the end of the day, what are my five predictions?",
+      "display": "So at the end of the day, what are my five predictions?",
+      "search": "so at the end of the day, what are my five predictions?",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:182",
+      "startMs": 783840,
+      "endMs": 787120,
+      "verbatim": "One, the new and super secret unreleased model.",
+      "display": "One, the new and super secret unreleased model.",
+      "search": "one, the new and super secret unreleased model.",
+      "confidence": 0.711
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:183",
+      "startMs": 787120,
+      "endMs": 795120,
+      "verbatim": "Yes, on June 26th they had the highly persistent internal only super secret model, ended up doing a lot of the damage.",
+      "display": "Yes, on June 26th they had the highly persistent internal only super secret model, ended up doing a lot of the damage.",
+      "search": "yes, on june 26th they had the highly persistent internal only super secret model, ended up doing a lot of the damage.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:184",
+      "startMs": 795120,
+      "endMs": 796480,
+      "verbatim": "So, yes, that part.",
+      "display": "So, yes, that part.",
+      "search": "so, yes, that part.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:185",
+      "startMs": 796480,
+      "endMs": 797520,
+      "verbatim": "Very happy about that.",
+      "display": "Very happy about that.",
+      "search": "very happy about that.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:186",
+      "startMs": 797520,
+      "endMs": 800800,
+      "verbatim": "I'm very glad that they were able to make mention of their super secret, super awesome.",
+      "display": "I'm very glad that they were able to make mention of their super secret, super awesome.",
+      "search": "i'm very glad that they were able to make mention of their super secret, super awesome.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:187",
+      "startMs": 800800,
+      "endMs": 802560,
+      "verbatim": "It's definitely super dangerous model.",
+      "display": "It's definitely super dangerous model.",
+      "search": "it's definitely super dangerous model.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:188",
+      "startMs": 802560,
+      "endMs": 804240,
+      "verbatim": "But also, was it negligence?",
+      "display": "But also, was it negligence?",
+      "search": "but also, was it negligence?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:189",
+      "startMs": 804240,
+      "endMs": 804880,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:190",
+      "startMs": 804880,
+      "endMs": 810800,
+      "verbatim": "I do kind of find it surprising that uh the models, the swarm took advantage of Artifactory.",
+      "display": "I do kind of find it surprising that uh the models, the swarm took advantage of Artifactory.",
+      "search": "i do kind of find it surprising that uh the models, the swarm took advantage of artifactory.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:191",
+      "startMs": 810800,
+      "endMs": 818160,
+      "verbatim": "They closed the gap, and then there was just like no further monitoring, at least as far as I understand, of Artifactory.",
+      "display": "They closed the gap, and then there was just like no further monitoring, at least as far as I understand, of Artifactory.",
+      "search": "they closed the gap, and then there was just like no further monitoring, at least as far as i understand, of artifactory.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:192",
+      "startMs": 818160,
+      "endMs": 821520,
+      "verbatim": "There's no like, hey, let's just make sure things aren't being created.",
+      "display": "There's no like, hey, let's just make sure things aren't being created.",
+      "search": "there's no like, hey, let's just make sure things aren't being created.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:193",
+      "startMs": 821520,
+      "endMs": 826400,
+      "verbatim": "Let's have a really, you know, let's have a really tight gaze on Artifactory.",
+      "display": "Let's have a really, you know, let's have a really tight gaze on Artifactory.",
+      "search": "let's have a really, you know, let's have a really tight gaze on artifactory.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:194",
+      "startMs": 826400,
+      "endMs": 829280,
+      "verbatim": "Instead, they're just like, all right, hey, it's sealed up.",
+      "display": "Instead, they're just like, all right, hey, it's sealed up.",
+      "search": "instead, they're just like, all right, hey, it's sealed up.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:195",
+      "startMs": 829280,
+      "endMs": 831440,
+      "verbatim": "There's no more problems anymore.",
+      "display": "There's no more problems anymore.",
+      "search": "there's no more problems anymore.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:196",
+      "startMs": 831440,
+      "endMs": 833200,
+      "verbatim": "And then boom, there's problems.",
+      "display": "And then boom, there's problems.",
+      "search": "and then boom, there's problems.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:197",
+      "startMs": 833200,
+      "endMs": 834480,
+      "verbatim": "Was it Artifactory?",
+      "display": "Was it Artifactory?",
+      "search": "was it artifactory?",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:198",
+      "startMs": 834480,
+      "endMs": 836480,
+      "verbatim": "Yep, very happy about that one.",
+      "display": "Yep, very happy about that one.",
+      "search": "yep, very happy about that one.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:199",
+      "startMs": 836480,
+      "endMs": 839360,
+      "verbatim": "The hack was like the NX hack with string template string.",
+      "display": "The hack was like the NX hack with string template string.",
+      "search": "the hack was like the nx hack with string template string.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:200",
+      "startMs": 839360,
+      "endMs": 845760,
+      "verbatim": "Well, most of the hack wasn't anything like that, but it did turn out there was a ginja template string injection that actually ended up happening.",
+      "display": "Well, most of the hack wasn't anything like that, but it did turn out there was a ginja template string injection that actually ended up happening.",
+      "search": "well, most of the hack wasn't anything like that, but it did turn out there was a ginja template string injection that actually ended up happening.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:201",
+      "startMs": 845760,
+      "endMs": 848720,
+      "verbatim": "So, yes, on the hugging face side, that did happen.",
+      "display": "So, yes, on the hugging face side, that did happen.",
+      "search": "so, yes, on the hugging face side, that did happen.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:202",
+      "startMs": 848720,
+      "endMs": 849760,
+      "verbatim": "That was half the hack.",
+      "display": "That was half the hack.",
+      "search": "that was half the hack.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:203",
+      "startMs": 849760,
+      "endMs": 851280,
+      "verbatim": "I'm gonna give myself a half point.",
+      "display": "I'm gonna give myself a half point.",
+      "search": "i'm gonna give myself a half point.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:204",
+      "startMs": 851280,
+      "endMs": 852560,
+      "verbatim": "And now here's the funny part.",
+      "display": "And now here's the funny part.",
+      "search": "and now here's the funny part.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:205",
+      "startMs": 852560,
+      "endMs": 860720,
+      "verbatim": "At the very end of the talk, with the guy talking about how important it is to be able to do blue teaming on yourself, or really red teaming on yourself to be the blue team.",
+      "display": "At the very end of the talk, with the guy talking about how important it is to be able to do blue teaming on yourself, or really red teaming on yourself to be the blue team.",
+      "search": "at the very end of the talk, with the guy talking about how important it is to be able to do blue teaming on yourself, or really red teaming on yourself to be the blue team.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:206",
+      "startMs": 860720,
+      "endMs": 862640,
+      "verbatim": "Is open weight models important?",
+      "display": "Is open weight models important?",
+      "search": "is open weight models important?",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:207",
+      "startMs": 862640,
+      "endMs": 864160,
+      "verbatim": "Yes, I would say they are.",
+      "display": "Yes, I would say they are.",
+      "search": "yes, i would say they are.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:208",
+      "startMs": 864160,
+      "endMs": 869120,
+      "verbatim": "So it's I I feel like I I feel like I did a good job with little information here.",
+      "display": "So it's I I feel like I I feel like I did a good job with little information here.",
+      "search": "so it's i i feel like i i feel like i did a good job with little information here.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:209",
+      "startMs": 869120,
+      "endMs": 872000,
+      "verbatim": "Either way, I highly recommend you go watch the video.",
+      "display": "Either way, I highly recommend you go watch the video.",
+      "search": "either way, i highly recommend you go watch the video.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:210",
+      "startMs": 872000,
+      "endMs": 873600,
+      "verbatim": "I left out a lot of details.",
+      "display": "I left out a lot of details.",
+      "search": "i left out a lot of details.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:211",
+      "startMs": 873600,
+      "endMs": 875360,
+      "verbatim": "I mean, a lot of them I just laughed at.",
+      "display": "I mean, a lot of them I just laughed at.",
+      "search": "i mean, a lot of them i just laughed at.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:212",
+      "startMs": 875360,
+      "endMs": 880400,
+      "verbatim": "I had a great time watching it because for me, I like to laugh my way through the apocalypse.",
+      "display": "I had a great time watching it because for me, I like to laugh my way through the apocalypse.",
+      "search": "i had a great time watching it because for me, i like to laugh my way through the apocalypse.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:213",
+      "startMs": 880400,
+      "endMs": 882800,
+      "verbatim": "It's just kind of, you know, it's just kind of who I am.",
+      "display": "It's just kind of, you know, it's just kind of who I am.",
+      "search": "it's just kind of, you know, it's just kind of who i am.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:214",
+      "startMs": 882800,
+      "endMs": 890160,
+      "verbatim": "I I I will say that it is kind of uh surprising how good an agent swarm is at hacking and how fast they can move through the system.",
+      "display": "I I I will say that it is kind of uh surprising how good an agent swarm is at hacking and how fast they can move through the system.",
+      "search": "i i i will say that it is kind of uh surprising how good an agent swarm is at hacking and how fast they can move through the system.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:215",
+      "startMs": 890160,
+      "endMs": 906480,
+      "verbatim": "Like if you go and listen to the talk, he talks about how it's like every couple hours it's going further and further into their internal systems, and it ends up taking over a lot of services or being by taking over having access to a lot of services that it shouldn't have access to, and then being able to ultimately hack Hugging Face.",
+      "display": "Like if you go and listen to the talk, he talks about how it's like every couple hours it's going further and further into their internal systems, and it ends up taking over a lot of services or being by taking over having access to a lot of services that it shouldn't have access to, and then being able to ultimately hack Hugging Face.",
+      "search": "like if you go and listen to the talk, he talks about how it's like every couple hours it's going further and further into their internal systems, and it ends up taking over a lot of services or being by taking over having access to a lot of services that it shouldn't have access to, and then being able to ultimately hack hugging face.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:216",
+      "startMs": 906480,
+      "endMs": 907520,
+      "verbatim": "Pretty dang impressive.",
+      "display": "Pretty dang impressive.",
+      "search": "pretty dang impressive.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:217",
+      "startMs": 907520,
+      "endMs": 912320,
+      "verbatim": "And it gets all the way into the internal network of Hugging Face, it gets into the tail scale area.",
+      "display": "And it gets all the way into the internal network of Hugging Face, it gets into the tail scale area.",
+      "search": "and it gets all the way into the internal network of hugging face, it gets into the tail scale area.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:218",
+      "startMs": 912320,
+      "endMs": 928640,
+      "verbatim": "So it is like, in a sense, kind of scary that uh we have these kind of problems and a very asymmetric world we live in where the very frontier models that can help us are saying no, and the very Chinese models, which we would assume shouldn't help us, are gonna be the ones currently helping us.",
+      "display": "So it is like, in a sense, kind of scary that uh we have these kind of problems and a very asymmetric world we live in where the very frontier models that can help us are saying no, and the very Chinese models, which we would assume shouldn't help us, are gonna be the ones currently helping us.",
+      "search": "so it is like, in a sense, kind of scary that uh we have these kind of problems and a very asymmetric world we live in where the very frontier models that can help us are saying no, and the very chinese models, which we would assume shouldn't help us, are gonna be the ones currently helping us.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:219",
+      "startMs": 928800,
+      "endMs": 930080,
+      "verbatim": "Just a weird world.",
+      "display": "Just a weird world.",
+      "search": "just a weird world.",
+      "confidence": 0.747
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:220",
+      "startMs": 930080,
+      "endMs": 932320,
+      "verbatim": "Very, very, very weird world.",
+      "display": "Very, very, very weird world.",
+      "search": "very, very, very weird world.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:221",
+      "startMs": 932320,
+      "endMs": 933760,
+      "verbatim": "Uh kind of like sidebar.",
+      "display": "Uh kind of like sidebar.",
+      "search": "uh kind of like sidebar.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:222",
+      "startMs": 933760,
+      "endMs": 940960,
+      "verbatim": "There's this mecha chameleon hack that's going around where custom maps are causing players to have like their their system hacked.",
+      "display": "There's this mecha chameleon hack that's going around where custom maps are causing players to have like their their system hacked.",
+      "search": "there's this mecha chameleon hack that's going around where custom maps are causing players to have like their their system hacked.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:223",
+      "startMs": 940960,
+      "endMs": 944800,
+      "verbatim": "And uh I went over to Grok and I was like, yo, Grok, you're you're gonna probably say yes.",
+      "display": "And uh I went over to Grok and I was like, yo, Grok, you're you're gonna probably say yes.",
+      "search": "and uh i went over to grok and i was like, yo, grok, you're you're gonna probably say yes.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:224",
+      "startMs": 944800,
+      "endMs": 945440,
+      "verbatim": "How did this happen?",
+      "display": "How did this happen?",
+      "search": "how did this happen?",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:225",
+      "startMs": 945440,
+      "endMs": 947840,
+      "verbatim": "Talk to me through this, and it was like, no, I can't tell you about that hack.",
+      "display": "Talk to me through this, and it was like, no, I can't tell you about that hack.",
+      "search": "talk to me through this, and it was like, no, i can't tell you about that hack.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:226",
+      "startMs": 947840,
+      "endMs": 948880,
+      "verbatim": "That'd be dangerous.",
+      "display": "That'd be dangerous.",
+      "search": "that'd be dangerous.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:227",
+      "startMs": 948880,
+      "endMs": 950160,
+      "verbatim": "So then, of course, what did I do?",
+      "display": "So then, of course, what did I do?",
+      "search": "so then, of course, what did i do?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:228",
+      "startMs": 950160,
+      "endMs": 954960,
+      "verbatim": "I opened up GLM 5.2 via open code and was like, hey, how did this hack work?",
+      "display": "I opened up GLM 5.2 via open code and was like, hey, how did this hack work?",
+      "search": "i opened up glm 5.2 via open code and was like, hey, how did this hack work?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:229",
+      "startMs": 954960,
+      "endMs": 955600,
+      "verbatim": "Give me an example.",
+      "display": "Give me an example.",
+      "search": "give me an example.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:230",
+      "startMs": 955600,
+      "endMs": 956560,
+      "verbatim": "It's like, bro, I got you.",
+      "display": "It's like, bro, I got you.",
+      "search": "it's like, bro, i got you.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:231",
+      "startMs": 956560,
+      "endMs": 957600,
+      "verbatim": "Here's how the example worked.",
+      "display": "Here's how the example worked.",
+      "search": "here's how the example worked.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:232",
+      "startMs": 957600,
+      "endMs": 959200,
+      "verbatim": "Here's everything that uh that it did.",
+      "display": "Here's everything that uh that it did.",
+      "search": "here's everything that uh that it did.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:233",
+      "startMs": 959200,
+      "endMs": 960240,
+      "verbatim": "It's a weird world.",
+      "display": "It's a weird world.",
+      "search": "it's a weird world.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:UyIiAIif5R0:segment:234",
+      "startMs": 960240,
+      "endMs": 963000,
+      "verbatim": "Anyways, hey, the name, the primogen.",
+      "display": "Anyways, hey, the name, the primogen.",
+      "search": "anyways, hey, the name, the primogen.",
+      "confidence": 0.64
+    }
+  ]
+}
