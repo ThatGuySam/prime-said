@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:GEkoGCFpY8c",
+  "platform": "youtube",
+  "platformId": "GEkoGCFpY8c",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Protecting Your Energy",
+  "description": "Don’t vibe code your auth. Use WorkOS: https://trm.sh/workos\n\nSources:\n\n- https://www.youtube.com/watch?v=iPUn1Fnfn0k\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=GEkoGCFpY8c",
+  "publishedAt": "2026-08-26T13:00:20.000Z",
+  "durationMs": 1371000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:40:38.927Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:40:38.927Z",
+    "runId": "2026-08-29T18-35-20-966Z-efd4ab05"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:MWvH7BRgwL8",
+  "platform": "youtube",
+  "platformId": "MWvH7BRgwL8",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "DHH Omarchy Quattro Announcement | TheStandup",
+  "description": "[Sponsor]\nSentry: Catch, trace, and fix bugs across your entire stack. Use code: prime for $100 in free sentry credits → https://trm.sh/sentry\n\nFull Episode:\nYoutube: https://www.youtube.com/watch?v=Lg2RYoA4-xE\nSpotify: https://open.spotify.com/episode/6OnDNoUW8A06lnUoVKeXOA\n\n[Description]\nDHH joins The Standup to talk about Omarchy Quattro, the new $8M Omarchy Foundation, and why he thinks 2026 is finally the year of the Linux desktop. Plus, AI agents, Linux security, developer burnout, Mac vs. Linux, and what building software looks like in the age of AI.\n\n[Chapters]\n00:00:00 - Intro\n00:01:01 - Omarchy Quattro\n00:02:35 - Sentry\n00:04:05 - Omarchy Plugins\n00:05:12 - HUGE Announcement\n00:07:43 - YEAR of the Linux Desktop (this time for real)\n00:10:41 - Overcoming battery life\n00:12:56 - Agents and Apples Eco System\n00:17:35 - What will the $8 Million do\n00:20:24 - Whos it for?\n00:21:13 - Supply chain attack solution\n00:27:46 - 1 vs 1000\n00:29:58 - QA Process\n00:38:43 - Linux is compromised\n00:41:46 - Outro\n\n[Hosts/Guests]\nPrime: https://thestanduppod.com/contributor/theprimeagen\nTeej: https://thestanduppod.com/contributor/teej-dv\nTrash: https://thestanduppod.com/contributor/trash\nDHH: https://thestanduppod.com/contributor/dhh\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\n[Socials]\nx.com/thestanduppod\ninstagram.com/thestanduppod\ntiktok.com/@thestanduppod\nfacebook.com/profile.php?id=61573286173150\n\n[Other Places to find us]\nSpotify: https://open.spotify.com/show/01A062kejnXFkJE01bjN5J\nRSS: thestanduppod.com/feed.xml\nClips: @TheStandupPodClips\nWebsite: thestanduppod.com\n\n[Tags]\nThePrimeagen, DHH, David Heinemeier Hansson, Omarchy, Omarchy Quattro, Linux, Linux desktop, year of Linux, Arch Linux, AI agents, AI coding, coding agents, software development, programming, developers, open source, Linux security, Hyprland, MacOS, Apple, Dell XPS, developer burnout, artificial intelligence, The Standup Podcast, Teej, Trash Dev, Sentry",
+  "canonicalUrl": "https://www.youtube.com/watch?v=MWvH7BRgwL8",
+  "publishedAt": "2026-08-23T13:00:14.000Z",
+  "durationMs": 2532000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:49:54.508Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:49:54.508Z",
+    "runId": "2026-08-29T18-35-20-966Z-efd4ab05"
+  }
+}
