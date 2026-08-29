@@ -92,6 +92,7 @@ describe("external data parsing", () => {
     expect(parseDownloadedAudioLanguage({
       requested_downloads: [{ vcodec: "none", language: "en-US" }],
     })).toBe("en-US");
+    expect(parseDownloadedAudioLanguage({ vcodec: "none", language: "en-US" })).toBe("en-US");
     expect(() => parseDownloadedAudioLanguage({
       requested_downloads: [{ vcodec: "none", language: "id" }],
     })).toThrow("not English");

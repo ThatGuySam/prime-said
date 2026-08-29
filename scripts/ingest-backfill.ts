@@ -342,12 +342,14 @@ export function parseParakeetOutput(value: unknown): ParakeetOutput {
 }
 
 export function parseDownloadedAudioLanguage(value: unknown): string {
-  if (!isObject(value) || !Array.isArray(value.requested_downloads)) {
-    throw new Error("yt-dlp download metadata has no requested_downloads array");
-  }
-  const requestedAudio = value.requested_downloads.find((download) =>
-    isObject(download) && download.vcodec === "none"
-  );
+  if (!isObject(value)) throw new Error("yt-dlp download metadata is not an object");
+  const requestedAudio = value.vcodec === "none"
+    ? value
+    : Array.isArray(value.requested_downloads)
+      ? value.requested_downloads.find((download) =>
+          isObject(download) && download.vcodec === "none"
+        )
+      : null;
   if (!isObject(requestedAudio)) throw new Error("yt-dlp metadata has no requested audio format");
   const language = requireString(requestedAudio, "language");
   if (!language.toLocaleLowerCase("en-US").startsWith("en")) {
