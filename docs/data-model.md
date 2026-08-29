@@ -46,6 +46,13 @@ A speaker-complete span selected for search, a curated page, a collection, or de
 - Start/end boundaries align to sentences and include small playback handles.
 - Stores normalized quote, neighboring context references, entities, phrases, topics, and confidence.
 - Can carry editorial labels but never an unsupported generated quote.
+- Stores `spokenBy`, `wordsFrom`, and `humanReview` independently. A canonical
+  non-removed quotation requires reviewed `theprimeagen` vocal-speaker
+  attribution, reviewed `speaker-original` word origin, and review scopes for
+  wording, timing, speaker, and word origin.
+- Only transcript `verbatim` or approved `display` text may substantiate the
+  displayed quote. Search-normalized text is retrieval input, not quote
+  evidence.
 
 ### Appearance
 

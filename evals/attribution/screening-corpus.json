@@ -1,0 +1,726 @@
+{
+  "schemaVersion": 1,
+  "status": "screening-unverified",
+  "purpose": "Development smoke corpus for deterministic quoted-source screening. Caption text and boundaries are machine-derived. Except for the origin sequence around code coverage 20:42, labels have not been checked against recording playback and are not gold or a held-out test.",
+  "sources": [
+    {
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "captionTrack": "en-orig auto-generated JSON3",
+      "captionSha256": "b2c5d3c46282bb17f6e47f1d90f86467c18f9c8ff4d14c4aff93879f1cac04ef",
+      "screeningMethod": "full-caption Sol Ultra pass"
+    },
+    {
+      "sourceId": "youtube:IInciWyU74U",
+      "captionTrack": "en-orig auto-generated JSON3",
+      "captionSha256": "20c799667ee357d39d886d6b3f599fecca3a7e8c8c2da62b81f9a9169cc1564d",
+      "screeningMethod": "full-caption Sol Ultra pass"
+    },
+    {
+      "sourceId": "youtube:20SkiBvylyM",
+      "captionTrack": "en-orig auto-generated JSON3",
+      "captionSha256": "da58c1e23bf49d5483baafb33f5571cd90993f9c1e6740435853c812ddbecab1",
+      "screeningMethod": "full-caption Sol Ultra pass"
+    }
+  ],
+  "cases": [
+    {
+      "caseId": "attr_dev_coverage_chat_first_person",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 119119,
+      "endMs": 130480,
+      "input": {
+        "previousText": "oh I like this",
+        "text": "in my opinion the bottom line as you can enforce thinking through something with policy Gates I don't think you can force somebody to become a good tester by saying that they need 100% coverage I think you'll get a bunch of lazy tests that get there",
+        "nextText": "okay thank you Bry I appreciate that"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.95,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Read-preface and named thank-you bracket a first-person chat opinion."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_article_claim",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 188280,
+      "endMs": 195280,
+      "input": {
+        "text": "you update the production code and no test failed it might be a bad sign you probably need to cover your code you are modifying with enough tests",
+        "nextText": "I don't know if I actually agree with the statement either"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.94,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Article claim is followed by an explicit reference to the statement."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_article_response",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 195280,
+      "endMs": 204280,
+      "input": {
+        "previousText": "you update the production code and no test failed it might be a bad sign",
+        "text": "I don't know if I actually agree with the statement either again if you update your code and no test fail I don't see how that's bad or good"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Explicit disagreement starts Prime's response."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_creator_workflow",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 497560,
+      "endMs": 518159,
+      "input": {
+        "text": "I mean that's another reason why I write test is because guess what it is a thousand times easier testing this in a test than it is trying to test it while running it and so whenever you get into this part where people aren't writing tests I often think the environment to write tests is more difficult to test and run than the thing itself"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Personal workflow rationale without a detected source-reading boundary."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_creator_argument",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 562120,
+      "endMs": 572480,
+      "input": {
+        "text": "my argument is that we should make good tests for things that are very valuable we should not make tests for the sake of making a test"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Explicit argument cue."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_creator_rejects_metric",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1006160,
+      "endMs": 1014959,
+      "input": {
+        "text": "this is why I don't like 100% code coverage is this exact same reason is that you end up writing you it hides to you the real reason what things are not being tested"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Explicit first-person rationale."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_chat_dialogue_repair",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1075280,
+      "endMs": 1075760,
+      "input": {
+        "text": "I never said",
+        "nextText": "I know you didn't say that but still people are getting this idea"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.7,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Short common phrase; useful abstention and dialogue-repair challenge."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_dialogue_response",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1075760,
+      "endMs": 1092320,
+      "input": {
+        "previousText": "I never said",
+        "text": "I know you didn't say that I I know you didn't say that but still people are getting this idea there's people that argue that 100% is good I I'd say 100% means nothing that's what I say 100% code coverage means nothing"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Direct dialogue repair followed by a position."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_article_summary",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1148440,
+      "endMs": 1157200,
+      "input": {
+        "text": "as we saw High code coverage is not enough it's a good starting point but it must not be the final goal we can indeed focus our efforts in different areas testing quality prioritize writing meaningful tests",
+        "nextText": "again this is is it's meaningless I mean for the average product"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.95,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Article summary is followed by an explicit rejection."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_preference_response",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1157200,
+      "endMs": 1190960,
+      "input": {
+        "previousText": "prioritize writing meaningful tests",
+        "text": "again this is is it's meaningless I mean for the average product not talking let's not talk about the specialty cases I think the best way the best way to have a well-running project is to have is to have tests easier to write and run to test your project than to run your project itself and I think as long as you can always have tests that drive any difficult feature I think you'll have simply a better you'll have a better experience that's the only way I think it could be done"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Strongest same-video candidate for the user's remembered testing preference."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_2042_chat",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1242559,
+      "endMs": 1243640,
+      "input": {
+        "text": "the reverse funnel",
+        "nextText": "I do like integration testing but they're also can be very difficult"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.78,
+        "reviewStatus": "user-reviewed-window",
+        "evidenceBasis": "user-playback-window-plus-auto-captions",
+        "notes": "The user verified a chat-reading then response sequence around 20:42. Exact ASR words and split remain unreviewed."
+      }
+    },
+    {
+      "caseId": "attr_dev_coverage_2042_response",
+      "split": "development",
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "startMs": 1243640,
+      "endMs": 1255559,
+      "input": {
+        "previousText": "the reverse funnel",
+        "text": "I do like integration testing but they're also can be very difficult setting up your project in integration testing has to be in the culture and thought of first it's so hard to go back and try to make integration testing work"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.94,
+        "reviewStatus": "user-reviewed-window",
+        "evidenceBasis": "user-playback-window-plus-auto-captions",
+        "notes": "Response candidate after the user-reviewed chat-reading sequence; exact boundary remains unreviewed."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_creator_building",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 22920,
+      "endMs": 37559,
+      "input": {
+        "text": "that's how I like building I don't like testing to determine my architecture but I like to make it a very um I like to make it a very uh concrete or foundational part of my development right"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.97,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Sustained first-person building preference."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_creator_drive_features",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 215799,
+      "endMs": 233720,
+      "input": {
+        "text": "I use unit test as a way to drive correctness and to implement stuff because it's fast you know what I mean it's fast and easy to do I don't use unit test to ensure like it I don't look at unit test as a way for like safety I use it as a way to drive features through right"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Repeated contrast between uses of unit tests."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_chat_merge_policy",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 233720,
+      "endMs": 237200,
+      "input": {
+        "text": "at my work a merge request gets Auto rejected if there's no test attach",
+        "nextText": "yeah see I think that's wrong too I think that that's also equally wrong"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.92,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "First-person workplace anecdote followed by an explicit judgment."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_merge_policy_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 237200,
+      "endMs": 240560,
+      "input": {
+        "previousText": "at my work a merge request gets Auto rejected if there's no test attach",
+        "text": "yeah see I think that's wrong too I think that that's also equally wrong"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Direct deictic response."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_chat_manual_testing",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 361120,
+      "endMs": 373160,
+      "input": {
+        "text": "I hate manual testing it slows uh down so so much yes I miss the things a let's see and I miss things a lot but if I'm testing the public interfaces with unit or integration test and it usually catches things I forgot about had this happen recently",
+        "nextText": "yeah absolutely so I I mean this is why I that's why I love driving implementation via uh tests"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.84,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Unmarked first-person chat candidate followed by agreement; playback remains necessary."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_driving_tests_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 373160,
+      "endMs": 381199,
+      "input": {
+        "previousText": "I miss things a lot but if I'm testing the public interfaces with unit or integration test it usually catches things",
+        "text": "yeah absolutely so I I mean this is why I that's why I love driving implementation via uh tests because I just think it's easier"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Strongest candidate at the user's 6:20 clue; the preceding message is kept separate."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_chat_product_take",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 447360,
+      "endMs": 452759,
+      "input": {
+        "previousText": "I love this take right here",
+        "text": "when I'm figuring out a product I don't want to maintain them uh while I discover and play around",
+        "nextText": "perfectly Fair absolutely same team absolutely"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Explicit deictic take opener."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_product_take_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 452759,
+      "endMs": 458400,
+      "input": {
+        "previousText": "when I'm figuring out a product I don't want to maintain them while I discover and play around",
+        "text": "perfectly Fair absolutely same team absolutely same team absolutely yeah"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Explicit agreement response."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_chat_test_everything",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 490039,
+      "endMs": 493400,
+      "input": {
+        "text": "I need to test everything because I have a hard time to decide to where to draw the line",
+        "nextText": "see I I think that that is also bad right"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.96,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "First-person chat concern followed by evaluation."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_test_everything_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 493400,
+      "endMs": 523399,
+      "input": {
+        "previousText": "I need to test everything because I have a hard time to decide where to draw the line",
+        "text": "see I I think that that is also bad right you're I think you're going to end up reaching kind of like these these shitty places where you have too many tests and they just don't make sense"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Immediate response and rationale."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_mixed_reading_repair",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 639560,
+      "endMs": 655160,
+      "input": {
+        "previousText": "I love this take right here",
+        "text": "I usually give most focus on integration tests and if there's a function that is a bit expensive complex I do develop a unit test I don't write test uh while I let's see while I just test let's see hold on I don't write test while I just testing and trying to understand how to build something sometimes I need to build something to know if it's the correct way",
+        "nextText": "yes I will even if I'm stuck on something that's hard I will write a unit test"
+      },
+      "screening": {
+        "label": "mixed",
+        "wordsFrom": "mixed",
+        "confidence": 0.9,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Likely chat text includes Prime's reading-repair interjections; exact internal boundaries need playback."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_hard_problem_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 655160,
+      "endMs": 691480,
+      "input": {
+        "previousText": "sometimes I need to build something to know if it's the correct way",
+        "text": "yes I will even if I if if I'm stuck on something that's hard I will write a unit test for me unit test is that is is driving that really annoying part of development where you have to try to like launch programs and like different things at once to know that you're doing it correct"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Direct answer followed by personal workflow."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_chat_coverage_target",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 870639,
+      "endMs": 872680,
+      "input": {
+        "text": "should the target be 80%",
+        "nextText": "the target should be no percent"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.97,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Direct question in a chat-answering sequence."
+      }
+    },
+    {
+      "caseId": "attr_dev_unit_coverage_target_response",
+      "split": "development",
+      "sourceId": "youtube:IInciWyU74U",
+      "startMs": 872680,
+      "endMs": 878920,
+      "input": {
+        "previousText": "should the target be 80%",
+        "text": "the target should be no percent if you think there's a percent that makes sense you're not doing it right"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Immediate direct answer."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_article_opening",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 34040,
+      "endMs": 49440,
+      "input": {
+        "text": "yesterday morning I asked Twitter does anyone have a good rating about fear plus programming and how being afraid to make important changes makes you a worse programmer and I feel like there's a really important line between caution A++ excellent and fear which holds you back from doing necessary work"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Near-verbatim Julia Evans article opening; no usable text-only boundary cue in the detector input."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_article_quote_first_person",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 263759,
+      "endMs": 271840,
+      "input": {
+        "text": "I know you're talking uh more psychologically but this one is one of my main reasons I believe investing in tests early is important",
+        "nextText": "I believe writing your code to be testable and thinking ahead of time of how you're going to test is very important"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Near-verbatim article blockquote demonstrates that first-person grammar is unsafe."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_article_response",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 271840,
+      "endMs": 281560,
+      "input": {
+        "previousText": "this one is one of my main reasons I believe investing in tests early is important",
+        "text": "I believe writing your code to be testable in thinking ahead of time of how you're going to test and how you're going to ensure that changes don't break things is very important"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Prime's response begins at an inferred word-level boundary inside rolling captions."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_creator_testing_approach",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 281560,
+      "endMs": 301199,
+      "input": {
+        "text": "again I have a very simple approach which is if you can't get it right first try you should test it I usually use tests as a way to drive development because if I can't get it right the first try it means I'm going to have a really long and annoying testing cycle for me to make it right"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Strongest caption match to the remembered testing preference."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_creator_not_tdd",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 301199,
+      "endMs": 312919,
+      "input": {
+        "text": "therefore I will write a test once I've written something complicated it's opposite of tdd really it's still the opposite of tdd I decide all the apis and everything beforehand and then after I get done doing it I then do the next thing"
+      },
+      "screening": {
+        "label": "creator-original",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Methodological clarification prevents a false TDD-endorsement label."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_article_confidence_claim",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 451520,
+      "endMs": 455360,
+      "input": {
+        "text": "so many people mentioned testing is a way to build confidence",
+        "nextText": "I don't think testing is a way to build confidence"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Exact article sentence followed by explicit disagreement."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_confidence_response",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 455360,
+      "endMs": 476120,
+      "input": {
+        "previousText": "testing is a way to build confidence",
+        "text": "I don't think testing is a way to build confidence I think it's a way to ensure that it hasn't broken in ways that you think it could break and that's it testing doesn't build confidence for me it maintains confidence for me and that's it"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Immediate disagreement and personal distinction."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_article_blameless",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 750959,
+      "endMs": 775760,
+      "input": {
+        "text": "tools and processes are absolutely not uh the only thing even if I have amazing Tools in QA systems and the best deploy and uh well tested uh testing code I'm still going to make mistakes sometimes and what happens when I make mistakes is really critical Etsy and Google and stripe where where I work all have blameless post-mortems this means that if you make a change that breaks something people talk about what happened by focusing on the change and the facts not blaming you",
+        "nextText": "the reason why I don't like this is that if you break things regularly people are keeping score"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "screen-source",
+        "confidence": 0.99,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Near-verbatim article paragraphs contain multiple first-person statements."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_blameless_response",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 775760,
+      "endMs": 786600,
+      "input": {
+        "previousText": "all have blameless post-mortems this means that if you make a change that breaks something people talk about the facts not blaming you",
+        "text": "the you know the the reason why I don't like this is that if you break things regularly people are counting people are keeping score people are most certainly keeping score"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.98,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-linked-source",
+        "notes": "Direct rejection of the article passage."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_chat_alcoholic",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 1350679,
+      "endMs": 1354080,
+      "input": {
+        "previousText": "someone just said",
+        "text": "I shake like an old alcoholic",
+        "nextText": "I hope I never have to hold a mic right"
+      },
+      "screening": {
+        "label": "quoted-source",
+        "wordsFrom": "twitch-chat",
+        "confidence": 0.93,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Explicit chat-report cue before a first-person quote."
+      }
+    },
+    {
+      "caseId": "attr_dev_fear_alcoholic_response",
+      "split": "development",
+      "sourceId": "youtube:20SkiBvylyM",
+      "startMs": 1355520,
+      "endMs": 1359279,
+      "input": {
+        "previousText": "someone just said I shake like an old alcoholic",
+        "text": "I hope I never have to hold a mic right"
+      },
+      "screening": {
+        "label": "response",
+        "wordsFrom": "speaker-original",
+        "confidence": 0.91,
+        "reviewStatus": "screening-unverified",
+        "evidenceBasis": "auto-captions-and-discourse",
+        "notes": "Personal response after an explicitly introduced chat quote."
+      }
+    }
+  ]
+}

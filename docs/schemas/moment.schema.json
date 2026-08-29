@@ -4,9 +4,9 @@
   "title": "Prime Said moment",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schemaVersion", "momentId", "quote", "appearances", "tags", "reviewStatus"],
+  "required": ["schemaVersion", "momentId", "quote", "appearances", "tags", "reviewStatus", "spokenBy", "wordsFrom", "humanReview"],
   "properties": {
-    "schemaVersion": { "const": 1 },
+    "schemaVersion": { "const": 2 },
     "momentId": { "type": "string", "pattern": "^m1_[A-Za-z0-9_-]+$" },
     "quote": { "type": "string", "minLength": 1 },
     "contextBefore": { "type": "string" },
@@ -16,6 +16,37 @@
     "tags": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
     "entities": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
     "reviewStatus": { "enum": ["unreviewed", "reviewed", "disputed", "removed"] },
-    "provenance": { "enum": ["human-seed", "sol-proposed", "community", "pipeline"] }
+    "provenance": { "enum": ["human-seed", "sol-proposed", "community", "pipeline"] },
+    "spokenBy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["speakerId", "status"],
+      "properties": {
+        "speakerId": { "type": ["string", "null"] },
+        "status": { "enum": ["pending", "reviewed"] }
+      }
+    },
+    "wordsFrom": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "status"],
+      "properties": {
+        "kind": { "enum": ["speaker-original", "twitch-chat", "screen-source", "quoted-person", "played-media", "mixed", "unknown"] },
+        "status": { "enum": ["pending", "reviewed"] }
+      }
+    },
+    "humanReview": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "scopes"],
+      "properties": {
+        "status": { "enum": ["pending", "reviewed"] },
+        "scopes": {
+          "type": "array",
+          "items": { "enum": ["wording", "timing", "speaker", "word-origin"] },
+          "uniqueItems": true
+        }
+      }
+    }
   }
 }

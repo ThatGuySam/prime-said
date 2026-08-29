@@ -13,6 +13,7 @@
     "check:corpus": "bun scripts/validate-corpus.ts",
     "test": "bun test",
     "assets:report": "bun scripts/report-assets.ts",
+    "eval:attribution": "bun scripts/evaluate-attribution.ts",
     "benchmark:generate": "bun scripts/generate-synthetic-vectors.ts",
     "deploy:dry-run": "bunx wrangler deploy --dry-run",
     "deploy": "bunx wrangler deploy",

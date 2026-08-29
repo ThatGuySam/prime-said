@@ -4,7 +4,16 @@
 
 The eval suite chooses transcript settings, chunking, browser embedding model, vector representation, retrieval index, fusion weights, and display boundaries. The desired outcome is not the highest abstract embedding score; it is the best Prime Said experience within iPhone, asset, and latency budgets.
 
-## Golden data layers
+## Evaluation data layers
+
+Keep three states physically separate:
+
+- `evals/candidates/` holds user memories, Sol proposals, and investigation
+  targets. Candidate text may be a paraphrase and carries no relevance grade.
+- `evals/attribution/` holds versioned screening and development cases. The
+  current caption-only corpus is not gold and is not held out.
+- `evals/gold/` holds only bounded spans reviewed against the recording for
+  wording, timing, speaker, word origin, and relevance.
 
 ### Retrieval cases
 
@@ -27,15 +36,16 @@ Hand-transcribed short spans measure word error rate, technical-term accuracy, p
 
 Scripted mobile interactions measure first useful results, model progress, no-result behavior, touch stability, player start accuracy, collection playback, and storage recovery.
 
-## Seed TDD set
+## Seed TDD candidates
 
-The initial fixture starts with the user-supplied moments:
+The initial fixture starts with user-supplied retrieval memories. The timestamp
+and remembered text are neighborhood clues, not transcript claims:
 
-| Gold label | Source | Time | Candidate queries |
-| --- | --- | ---: | --- |
-| implementation-via-test | *The Lies Of 100% Code Coverage \| Prime Reacts* | 20:42 | `driving implementation with tests`, `tests drive implementation`, `TDD`, exact known phrase |
-| unit-test-discussion | *Lets Chat About Unit Tests* | 6:20 | `testing first`, `unit tests guide development`, `how he uses tests` |
-| tests-drive-development | *Fear And Software* | 4:43 | `tests drive development`, `uses tests to develop`, `TDD without calling it TDD`, exact known phrase |
+| Source clue | Approximate note | Full-caption screening target |
+| --- | ---: | --- |
+| *The Lies Of 100% Code Coverage \| Prime Reacts* | 20:42 | Keep 20:42 as a chat-reading hard negative; review Prime's own testing preference around 19:17–19:51. |
+| *Lets Chat About Unit Tests* | 6:20 | Separate the likely chat message ending around 6:13 from Prime's “yeah, absolutely” response and Harpoon example. |
+| *Fear And Software* | 4:43 | Review the full 4:41–5:12 explanation. It contains the remembered idea and then explicitly distinguishes it from TDD. |
 
 The broad joke query `Prime secretly is a test-driven development stan` is classified as a stretch query. It is useful to measure but is not a hard MVP gate unless a browser model retrieves the target without harming literal relevance.
 
@@ -45,6 +55,40 @@ Grow the suite before tuning:
 - at least 200 before full-corpus model selection;
 - 30% literal/near-literal, 30% paraphrase, 20% topic/exploration, 10% entity/technical, 10% adversarial or expected-no-result;
 - at least 25 hand-timed transcript spans across varied audio conditions.
+
+## Attribution screening
+
+The text-only baseline derives two underlying facts before mapping to a display
+class:
+
+| Display class | Word-origin candidate | Discourse role |
+| --- | --- | --- |
+| `creator-original` | speaker-original | standalone position |
+| `quoted-source` | Twitch chat or another visible/source text | quotation or reading |
+| `response` | speaker-original | immediate reply or reaction |
+| `mixed` | multiple origins | transition inside one fixed caption span |
+| `unknown` | unresolved | abstained |
+
+Text rules are allowed to route review or suppress unsafe candidates. They are
+not allowed to establish a publishable “Prime said” attribution. In particular,
+`I`, `we`, `I think`, and `I usually` do not prove authorship because both chat
+messages and articles contain first-person language.
+
+The current 37-case corpus is cue-enriched development data selected by Sol
+Ultra and used to tune the same rules. Report it as a smoke test only. Before
+automatic screening affects publication, add recording-reviewed random and
+challenge samples, group duplicate source families, freeze the rules, and score
+a fresh held-out video/layout set.
+
+Attribution metrics, in priority order:
+
+- unsafe attribution rate: quoted or mixed source predicted as creator-original
+  or response;
+- quoted-source precision and recall;
+- creator-original/response precision;
+- coverage and abstention rate;
+- per-class precision, recall, and F1 by video;
+- word-boundary error for mixed quote-to-response spans.
 
 ## One-time Sol workflow
 

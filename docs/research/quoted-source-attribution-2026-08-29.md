@@ -1,7 +1,7 @@
 # Quoted-source attribution for Prime Said
 
 **Date:** 2026-08-29
-**Status:** Architecture recommendation complete. Recording review and detector calibration remain open.
+**Status:** Text-only screening baseline implemented. Recording review and visual/source alignment remain open.
 
 ## SBC4 decision block
 
@@ -17,7 +17,82 @@
 
 **Cut line:** Do not publish a default “Prime said” quotation unless a human-reviewed span has `spokenBy=theprimeagen` and `wordsFrom=speaker-original`. Machine labels may route review or suppress candidates, but cannot establish gold authorship.
 
-**Next step:** Redesign the seed fixture as candidate data, add span-level attribution fields and hard-negative evals, then prototype OCR/ASR alignment on the cited windows before choosing thresholds.
+**Next step:** Review the screened spans against recording audio and pixels, promote only bounded reviewed cases, and use them to calibrate build-time OCR/source-text alignment.
+
+## Implemented development baseline
+
+The first implementation is intentionally a review router, not an authorship
+judge:
+
+- `evals/candidates/tdd-seed.json` stores the user's notes as paraphrase or
+  topic clues. It contains no exact-match claim or relevance grade.
+- `evals/attribution/screening-corpus.json` contains 37 word-timed development
+  cases from full-caption Sol Ultra passes over the three seed videos: 15
+  quoted-source, 14 response, seven creator-original, and one mixed case.
+- `scripts/attribution-detector.ts` scores explicit source reports, read cues,
+  reply boundaries, stated-method cues, and reading repairs. Quote state
+  outranks first-person wording. Weak spans abstain.
+- `scripts/evaluate-attribution.ts` reports coverage, unsafe-attribution count,
+  quoted-source precision/recall, per-source results, and individual failures.
+- Canonical moment validation now rejects non-removed quotes without reviewed
+  `theprimeagen` vocal-speaker attribution, reviewed `speaker-original` word
+  origin, and all four human-review scopes. Search-normalized transcript text
+  cannot substantiate display wording.
+
+The rules were built and revised against this same cue-enriched corpus. The
+result is therefore descriptive development evidence only:
+
+| Measure | Development result |
+| --- | ---: |
+| Exact five-class labels | 34/37 (91.9%) |
+| Non-abstained coverage | 34/37 (91.9%) |
+| Quoted-source precision | 14/14 (100%) |
+| Quoted-source recall | 14/16 (87.5%) |
+| Unsafe own-word attributions | 0 |
+
+The three abstentions are all from *Fear And Software*: an uncued Julia Evans
+article opening, a first-person article blockquote, and Prime's response at an
+inferred word-level boundary. Those misses are useful. They show why text cues
+alone cannot replace source-text alignment or frame review. The 100% precision
+number is 14 tuned development predictions, not a population estimate, a
+held-out result, or permission to publish quotes automatically.
+
+All dataset text comes from YouTube's English-original auto-generated JSON3
+captions acquired with yt-dlp 2026.08.19. The corpus records the SHA-256 of each
+temporary caption artifact. Raw caption artifacts, video, and audio are not
+committed.
+
+## Full-caption findings
+
+The same-video search requested by the user found stronger testing-preference
+candidates than the approximate note locations:
+
+| Video | Caption-screened Prime response or position | Important context |
+| --- | --- | --- |
+| [Code coverage, 19:17–19:51](https://www.youtube.com/watch?v=S_7SE_Uzk-I&t=1157s) | Tests should be easier to run than the project, and difficult features should have tests that drive them. | This begins as a response to article text. The remembered 20:42 clue instead points at a chat fragment and an integration-testing response. |
+| [Unit tests, 6:13–6:56](https://www.youtube.com/watch?v=IInciWyU74U&t=373s) | He says he loves driving implementation via tests, then gives the Harpoon development cycle as the reason. | The preceding first-person passage is a likely chat message. The boundary is the initial “yeah, absolutely.” |
+| [Fear and Software, 4:41–5:12](https://www.youtube.com/watch?v=20SkiBvylyM&t=281s) | He describes a simple heuristic and says he uses tests to drive development when a task will require a long manual cycle. | He immediately calls the method “opposite of TDD,” so the isolated phrase must not become a TDD-endorsement claim. |
+
+The passes also found high-value sourced-word examples:
+
+- [*Fear And Software*, 0:34](https://www.youtube.com/watch?v=20SkiBvylyM&t=34s)
+  closely tracks the first-person opening of Julia Evans's article. No spoken
+  read cue appears in the detector input; only external source alignment catches
+  it.
+- [*Fear And Software*, 8:40](https://www.youtube.com/watch?v=20SkiBvylyM&t=520s)
+  introduces “this tweet from Uncle Bob Martin,” reads it, then begins “I
+  disagree.”
+- [Code coverage, 15:45](https://www.youtube.com/watch?v=S_7SE_Uzk-I&t=945s)
+  reads the Code4IT case list, then begins “yes, so this is where the 100% gets
+  so dangerous.”
+- [Unit tests, 7:50](https://www.youtube.com/watch?v=IInciWyU74U&t=470s)
+  names a chat user, refers to what the person typed, rereads the proposition,
+  then responds “exactly.”
+
+Two additional official-upload leads have explicit “I know you're in the chat”
+and “let me reread that” cues. They remain research leads because the snippets
+were not retained as hashed word-timed artifacts and one upload contains
+multiple voices.
 
 ## Evidence from the seed videos
 

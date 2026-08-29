@@ -64,6 +64,18 @@ interface MomentRecord extends JsonObject {
   appearances: AppearanceRecord[];
   canonicalAppearanceId?: string | null;
   reviewStatus: "unreviewed" | "reviewed" | "disputed" | "removed";
+  spokenBy: {
+    speakerId: string | null;
+    status: "pending" | "reviewed";
+  };
+  wordsFrom: {
+    kind: "speaker-original" | "twitch-chat" | "screen-source" | "quoted-person" | "played-media" | "mixed" | "unknown";
+    status: "pending" | "reviewed";
+  };
+  humanReview: {
+    status: "pending" | "reviewed";
+    scopes: Array<"wording" | "timing" | "speaker" | "word-origin">;
+  };
 }
 
 interface CollectionItem extends JsonObject {
@@ -156,6 +168,7 @@ const SCHEMA_SPECS: SchemaSpec[] = [
 
 const ALL_SCHEMA_FILES = [
   "appearance.schema.json",
+  "attribution-screening-corpus.schema.json",
   "collection.schema.json",
   "eval-case.schema.json",
   "moment.schema.json",
@@ -479,7 +492,7 @@ function transcriptContainsQuote(
     (segment) => segment.endMs > appearance.startMs && segment.startMs < appearance.endMs,
   );
 
-  return (["verbatim", "display", "search"] as const).some((field) => {
+  return (["verbatim", "display"] as const).some((field) => {
     const transcriptText = overlappingSegments.map((segment) => segment[field]).join(" ");
     return normalizeDerivableText(transcriptText).includes(normalizedQuote);
   });
@@ -581,6 +594,30 @@ function validateIntegrity(records: CanonicalRecord[], errors: string[]): void {
       });
 
       if (moment.reviewStatus !== "removed") {
+        if (moment.reviewStatus !== "reviewed") {
+          errors.push(
+            `${entry.label}/reviewStatus: canonical quotations must be reviewed or removed`,
+          );
+        }
+        if (moment.spokenBy.status !== "reviewed" || moment.spokenBy.speakerId !== "theprimeagen") {
+          errors.push(
+            `${entry.label}/spokenBy: canonical quotations require reviewed theprimeagen vocal-speaker attribution`,
+          );
+        }
+        if (moment.wordsFrom.status !== "reviewed" || moment.wordsFrom.kind !== "speaker-original") {
+          errors.push(
+            `${entry.label}/wordsFrom: canonical quotations require reviewed speaker-original word origin`,
+          );
+        }
+        const requiredReviewScopes = ["wording", "timing", "speaker", "word-origin"] as const;
+        if (
+          moment.humanReview.status !== "reviewed"
+          || requiredReviewScopes.some((scope) => !moment.humanReview.scopes.includes(scope))
+        ) {
+          errors.push(
+            `${entry.label}/humanReview: canonical quotations require wording, timing, speaker, and word-origin review`,
+          );
+        }
         if (!hasAvailableAppearance) {
           errors.push(
             `${entry.label}/appearances: a published quotation needs at least one available appearance`,

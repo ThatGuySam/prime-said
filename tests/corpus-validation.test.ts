@@ -22,6 +22,7 @@ const REQUIRED_DIRECTORIES = [
 
 const SCHEMA_FILES = [
   "appearance.schema.json",
+  "attribution-screening-corpus.schema.json",
   "collection.schema.json",
   "eval-case.schema.json",
   "moment.schema.json",
@@ -81,7 +82,7 @@ function syntheticTranscript(display = "Transcript-backed fixture quote."): Reco
 
 function syntheticMoment(quote = "Transcript-backed fixture quote."): Record<string, unknown> {
   return {
-    schemaVersion: 1,
+    schemaVersion: 2,
     momentId: "m1_fixture",
     quote,
     appearances: [
@@ -99,6 +100,18 @@ function syntheticMoment(quote = "Transcript-backed fixture quote."): Record<str
     tags: [],
     reviewStatus: "reviewed",
     provenance: "human-seed",
+    spokenBy: {
+      speakerId: "theprimeagen",
+      status: "reviewed",
+    },
+    wordsFrom: {
+      kind: "speaker-original",
+      status: "reviewed",
+    },
+    humanReview: {
+      status: "reviewed",
+      scopes: ["wording", "timing", "speaker", "word-origin"],
+    },
   };
 }
 
@@ -208,7 +221,7 @@ describe("corpus validation", () => {
     await writeFile(
       join(corpusDir, "moments", "invalid.json"),
       `${JSON.stringify({
-        schemaVersion: 1,
+        schemaVersion: 2,
         momentId: "m1_fixture",
         quote: "Synthetic validator fixture.",
         appearances: [
@@ -224,6 +237,18 @@ describe("corpus validation", () => {
         ],
         tags: [],
         reviewStatus: "unreviewed",
+        spokenBy: {
+          speakerId: null,
+          status: "pending",
+        },
+        wordsFrom: {
+          kind: "unknown",
+          status: "pending",
+        },
+        humanReview: {
+          status: "pending",
+          scopes: [],
+        },
       }, null, 2)}\n`,
     );
 
@@ -299,6 +324,30 @@ describe("corpus validation", () => {
     ]);
   });
 
+  test("does not use search-normalized text as canonical quote evidence", async () => {
+    const corpusDir = await createCorpusCopy();
+    const transcript = syntheticTranscript("Different display transcript.") as {
+      segments: Array<{ search: string }>;
+    };
+    transcript.segments[0].search = "transcript-backed fixture quote.";
+    await writeJson(
+      join(corpusDir, "sources", "youtube", "fixture.json"),
+      syntheticSource(),
+    );
+    await writeJson(
+      join(corpusDir, "transcripts", "youtube", "fixture.json"),
+      transcript,
+    );
+    await writeJson(join(corpusDir, "moments", "m1_fixture.json"), syntheticMoment());
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/moments/m1_fixture.json/quote: quote is not derivable from transcript segments overlapping an appearance",
+    ]);
+  });
+
   test("accepts a moment quote found in an overlapping transcript span", async () => {
     const corpusDir = await createCorpusCopy();
     await writeJson(
@@ -319,6 +368,63 @@ describe("corpus validation", () => {
       canonicalFilesValidated: 3,
       fixtureFilesValidated: 1,
     });
+  });
+
+  test("rejects canonical quotations without complete human attribution review", async () => {
+    const corpusDir = await createCorpusCopy();
+    const moment = syntheticMoment() as {
+      reviewStatus: string;
+      spokenBy: { speakerId: string | null; status: string };
+      wordsFrom: { kind: string; status: string };
+      humanReview: { status: string; scopes: string[] };
+    };
+    moment.reviewStatus = "unreviewed";
+    moment.spokenBy = { speakerId: null, status: "pending" };
+    moment.wordsFrom = { kind: "unknown", status: "pending" };
+    moment.humanReview = { status: "pending", scopes: [] };
+    await writeJson(
+      join(corpusDir, "sources", "youtube", "fixture.json"),
+      syntheticSource(),
+    );
+    await writeJson(
+      join(corpusDir, "transcripts", "youtube", "fixture.json"),
+      syntheticTranscript(),
+    );
+    await writeJson(join(corpusDir, "moments", "m1_fixture.json"), moment);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/moments/m1_fixture.json/humanReview: canonical quotations require wording, timing, speaker, and word-origin review",
+      "corpus/moments/m1_fixture.json/reviewStatus: canonical quotations must be reviewed or removed",
+      "corpus/moments/m1_fixture.json/spokenBy: canonical quotations require reviewed theprimeagen vocal-speaker attribution",
+      "corpus/moments/m1_fixture.json/wordsFrom: canonical quotations require reviewed speaker-original word origin",
+    ]);
+  });
+
+  test("rejects reviewed quotations whose words originated in chat", async () => {
+    const corpusDir = await createCorpusCopy();
+    const moment = syntheticMoment() as {
+      wordsFrom: { kind: string; status: string };
+    };
+    moment.wordsFrom.kind = "twitch-chat";
+    await writeJson(
+      join(corpusDir, "sources", "youtube", "fixture.json"),
+      syntheticSource(),
+    );
+    await writeJson(
+      join(corpusDir, "transcripts", "youtube", "fixture.json"),
+      syntheticTranscript(),
+    );
+    await writeJson(join(corpusDir, "moments", "m1_fixture.json"), moment);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/moments/m1_fixture.json/wordsFrom: canonical quotations require reviewed speaker-original word origin",
+    ]);
   });
 
   test("requires an available appearance for a published quotation", async () => {
