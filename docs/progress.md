@@ -8,7 +8,7 @@
 **Published candidate-data correction:** `bf83640d1e7c39da6116642c920a41a20daad35a`
 **Published attribution screening gate:** `cb54db16bf7c92441b0d439b6023671eebc64f83`
 **Review-caption data slice:** `24e6d64c882495fda72bdd62c5e219c468ab33de`
-**Transcript-review interface slice:** pending publication
+**Transcript-review interface slice:** `171b470a1fe4253950c5a879e94fe291994b0f15`
 **ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
