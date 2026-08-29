@@ -87,6 +87,25 @@ describe("external data parsing", () => {
     expect(() => parseParakeetOutput({ text: "", sentences: [] })).toThrow("empty transcript");
   });
 
+  test("trims overlap tokens excluded from Parakeet sentence text", () => {
+    const parsed = parseParakeetOutput({
+      text: "Exploratory testing.",
+      sentences: [{
+        text: " Exploratory testing.",
+        start: 1199.6,
+        end: 1204.12,
+        confidence: 0.9,
+        tokens: [
+          { text: "es", start: 1199.6, end: 1199.76, confidence: 0.3 },
+          { text: " Exploratory", start: 1200.28, end: 1201, confidence: 0.9 },
+          { text: " testing.", start: 1201, end: 1204.12, confidence: 0.9 },
+        ],
+      }],
+    });
+
+    expect(parsed.sentences[0]).toMatchObject({ start: 1200.28, end: 1204.12 });
+  });
+
   test("requires the downloaded audio track to be English", () => {
     expect(YOUTUBE_ORIGINAL_AUDIO_FORMAT).toContain("language^=en");
     expect(parseDownloadedAudioLanguage({
@@ -154,7 +173,16 @@ describe("canonical corpus conversion", () => {
     const metadata = parseSourceMetadata(METADATA);
     const parakeet = parseParakeetOutput({
       ...PARAKEET,
-      sentences: [{ ...PARAKEET.sentences[0], start: 11, end: 20 }],
+      sentences: [{
+        ...PARAKEET.sentences[0],
+        start: 11,
+        end: 20,
+        tokens: PARAKEET.sentences[0].tokens.map((token, index) => ({
+          ...token,
+          start: 16 + index,
+          end: 17 + index,
+        })),
+      }],
     });
     expect(() => buildCanonicalRecords({
       metadata,

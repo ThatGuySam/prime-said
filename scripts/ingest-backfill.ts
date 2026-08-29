@@ -312,22 +312,25 @@ export function parseParakeetOutput(value: unknown): ParakeetOutput {
     if (!isObject(sentenceValue) || !Array.isArray(sentenceValue.tokens)) {
       throw new Error(`Parakeet sentence ${sentenceIndex} is invalid`);
     }
+    const text = requireString(sentenceValue, "text");
+    const tokens = sentenceValue.tokens.map((tokenValue, tokenIndex) => {
+      if (!isObject(tokenValue)) {
+        throw new Error(`Parakeet token ${sentenceIndex}:${tokenIndex} is invalid`);
+      }
+      return {
+        text: requireString(tokenValue, "text"),
+        start: requireFiniteNumber(tokenValue, "start"),
+        end: requireFiniteNumber(tokenValue, "end"),
+        confidence: requireFiniteNumber(tokenValue, "confidence"),
+      };
+    });
+    const alignedBounds = alignSentenceBounds(text, tokens);
     const sentence: ParakeetSentence = {
-      text: requireString(sentenceValue, "text"),
-      start: requireFiniteNumber(sentenceValue, "start"),
-      end: requireFiniteNumber(sentenceValue, "end"),
+      text,
+      start: alignedBounds?.start ?? requireFiniteNumber(sentenceValue, "start"),
+      end: alignedBounds?.end ?? requireFiniteNumber(sentenceValue, "end"),
       confidence: requireFiniteNumber(sentenceValue, "confidence"),
-      tokens: sentenceValue.tokens.map((tokenValue, tokenIndex) => {
-        if (!isObject(tokenValue)) {
-          throw new Error(`Parakeet token ${sentenceIndex}:${tokenIndex} is invalid`);
-        }
-        return {
-          text: requireString(tokenValue, "text"),
-          start: requireFiniteNumber(tokenValue, "start"),
-          end: requireFiniteNumber(tokenValue, "end"),
-          confidence: requireFiniteNumber(tokenValue, "confidence"),
-        };
-      }),
+      tokens,
     };
     if (sentence.end <= sentence.start || sentence.tokens.length === 0) {
       throw new Error(`Parakeet sentence ${sentenceIndex} has invalid timing or no tokens`);
@@ -339,6 +342,26 @@ export function parseParakeetOutput(value: unknown): ParakeetOutput {
     text: typeof value.text === "string" ? value.text : sentences.map((item) => item.text).join(" "),
     sentences,
   };
+}
+
+function alignSentenceBounds(
+  sentenceText: string,
+  tokens: ParakeetToken[],
+): { start: number; end: number } | null {
+  const target = normalizeWhitespace(sentenceText);
+  for (let startIndex = 0; startIndex < tokens.length; startIndex += 1) {
+    for (let endIndex = tokens.length; endIndex > startIndex; endIndex -= 1) {
+      const candidate = normalizeWhitespace(
+        tokens.slice(startIndex, endIndex).map((token) => token.text).join(""),
+      );
+      if (candidate !== target) continue;
+      return {
+        start: tokens[startIndex]!.start,
+        end: tokens[endIndex - 1]!.end,
+      };
+    }
+  }
+  return null;
 }
 
 export function parseDownloadedAudioLanguage(value: unknown): string {
