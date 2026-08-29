@@ -1,10 +1,9 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 03:27 UTC
+**Updated:** 2026-08-29 03:38 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
-**Verified slice:** `95b356398e147e036d6a6859d5df81cfe28b03d1`
-**Verification receipt:** `451b4de9a3bca98089fb5d499e66bd3cb4fea394`
+**Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
 ## Current phase
@@ -32,12 +31,12 @@ Phase 0: repository and fixtures. All code and automated checks pass. Recording 
 | `bun run build` | Pass. One static page and one asset. Largest asset `index.html`, 1,508 bytes. Total output 1,508 bytes. |
 | `bun run deploy:dry-run` | Pass with Wrangler 4.127.1. It read one static asset; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
 | `bun run benchmark:generate -- --count 25k --seed phase0-gate-v1` | Pass. 25,000 rows, 384 dimensions, four shards, 38,400,000 bytes. Largest shard 12,582,912 bytes. Aggregate SHA-256 `97a2622d54e8dd1a4b4707c4f7705cb39b15dc3c1ae89c82515e804e37735f51`. Shard and aggregate hashes verified. |
-| `git check-ignore` on the generated manifest | Pass. `.gitignore` excludes `corpus/generated/embeddings/`. The verification corpus was moved out of the generated tree after the check and will not be committed. |
+| `git check-ignore` on the generated manifest | Pass. `.gitignore` excludes `corpus/generated/`. The verification corpus was moved out of the generated tree after the check and will not be committed. |
 | `git diff --check` | Pass. |
 
 Wrangler's `Total Upload` number is the generated Worker bundle, not the static-asset byte total. The asset report above is the deployable output measurement.
 
-Install, check, test, build, and the 25k benchmark were rerun against the verified slice. The benchmark manifest records source commit `95b356398e147e036d6a6859d5df81cfe28b03d1` with a clean source state. The Wrangler dry run passed on the staged candidate; its deployment inputs did not change before the commit. A post-commit retry was stopped by the execution environment's network-approval layer before Wrangler returned output, so the earlier successful dry run remains the recorded evidence.
+Install, check, test, build, and the 25k benchmark were rerun against local verification revision `95b356398e147e036d6a6859d5df81cfe28b03d1`. Its implementation tree is published in `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`. The benchmark manifest records the local revision with a clean source state. The Wrangler dry run passed on the staged candidate; its deployment inputs did not change before publication. A later retry was stopped by the execution environment's network-approval layer before Wrangler returned output, so the earlier successful dry run remains the recorded evidence.
 
 The benchmark generator also demonstrated its no-overwrite guard when an ignored corpus directory already existed. After that artifact was moved aside, the explicit benchmark rerun passed with the same aggregate hash.
 
@@ -53,7 +52,6 @@ Public metadata confirms that all three IDs are available videos on The PrimeTim
 
 ## Other gates not run
 
-- `git push origin main` was attempted and failed because this checkout has no GitHub credential, GitHub CLI, askpass helper, or SSH agent. The verified commits remain local on `main`.
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
 - No reference-iPhone or Android measurement.
 - No Cloudflare account deployment or native Workers Builds run.
@@ -61,4 +59,4 @@ Public metadata confirms that all three IDs are available videos on The PrimeTim
 
 ## Next checkpoint
 
-Authenticate this checkout for the canonical GitHub remote and run `git push origin main` to publish the verified commits without force. The implementation-unlocking gate remains recording review: listen to the three short windows in the seed-screening memo. In one reviewed change, add reviewed start/end span fields and a reviewed state to the fixture/gold schemas, validator, and regression tests; update `evals/gold/tdd-seed.json` and `corpus/fixtures/tdd-sources.json`; then rerun the full Phase 0 gate. If it passes, begin Phase 1 with the typed command builders, binary/hash preflight, temporary-directory isolation, and run-manifest schema described in `docs/research/phase1-toolchain-pins-2026-08-29.md`.
+Listen to the three short windows in the seed-screening memo. In one reviewed change, add reviewed start/end span fields and a reviewed state to the fixture/gold schemas, validator, and regression tests; update `evals/gold/tdd-seed.json` and `corpus/fixtures/tdd-sources.json`; then rerun the full Phase 0 gate. If it passes, begin Phase 1 with the typed command builders, binary/hash preflight, temporary-directory isolation, and run-manifest schema described in `docs/research/phase1-toolchain-pins-2026-08-29.md`.
