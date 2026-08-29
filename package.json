@@ -16,6 +16,7 @@
     "eval:attribution": "bun scripts/evaluate-attribution.ts",
     "fixture:review-captions": "bun scripts/build-review-caption-fixture.ts",
     "export:review-search": "bun scripts/export-review-search-corpus.ts",
+    "ingest:backfill": "bun scripts/ingest-backfill.ts",
     "benchmark:generate": "bun scripts/generate-synthetic-vectors.ts",
     "deploy:dry-run": "bunx wrangler deploy --dry-run",
     "deploy": "bunx wrangler deploy",
