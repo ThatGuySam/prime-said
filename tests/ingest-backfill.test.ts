@@ -106,6 +106,24 @@ describe("external data parsing", () => {
     expect(parsed.sentences[0]).toMatchObject({ start: 1200.28, end: 1204.12 });
   });
 
+  test("aligns a seam when later tokenizer text drops a short word", () => {
+    const parsed = parseParakeetOutput({
+      text: "A for Anne, B is Bet.",
+      sentences: [{
+        text: " A for Anne, B is Bet.",
+        start: 2384.52,
+        end: 2396.48,
+        confidence: 0.8,
+        tokens: [
+          { text: " is", start: 2384.52, end: 2384.68, confidence: 0.7 },
+          { text: " A for Anne, B Bet.", start: 2390.32, end: 2396.48, confidence: 0.8 },
+        ],
+      }],
+    });
+
+    expect(parsed.sentences[0]).toMatchObject({ start: 2390.32, end: 2396.48 });
+  });
+
   test("requires the downloaded audio track to be English", () => {
     expect(YOUTUBE_ORIGINAL_AUDIO_FORMAT).toContain("language^=en");
     expect(parseDownloadedAudioLanguage({

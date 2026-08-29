@@ -361,7 +361,7 @@ function alignSentenceBounds(
       };
     }
   }
-  const comparisonLength = Math.min(24, target.length);
+  const comparisonLength = Math.min(12, target.length);
   const targetPrefix = target.slice(0, comparisonLength);
   for (let startIndex = 1; startIndex < tokens.length; startIndex += 1) {
     const candidate = normalizeWhitespace(
