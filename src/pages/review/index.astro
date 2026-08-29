@@ -1,0 +1,88 @@
+---
+import "../../styles/review.css";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta
+      name="description"
+      content="A source-review preview for searching real, unreviewed YouTube auto-caption tracks."
+    />
+    <title>Caption review · Prime Said</title>
+  </head>
+  <body>
+    <main>
+      <header class="masthead">
+        <a class="wordmark" href="/" aria-label="Prime Said home"><span>PRIME</span><span>SAID</span></a>
+        <p id="data-count">Loading real caption tracks…</p>
+      </header>
+
+      <section class="search-stage">
+        <div>
+          <p class="eyebrow">Phase 0 source-review tool</p>
+          <h1>Find the words.<br />Verify the owner.</h1>
+          <p class="lede">
+            Literal search across three full YouTube auto-caption tracks. Results open the original
+            recording at the caption time.
+          </p>
+        </div>
+        <form id="search-form" role="search">
+          <label for="transcript-search">Search caption text</label>
+          <div class="search-control">
+            <input
+              id="transcript-search"
+              name="q"
+              type="search"
+              value="tests drive development"
+              autocomplete="off"
+              spellcheck="false"
+            />
+            <button type="submit">Search</button>
+          </div>
+          <div class="examples" aria-label="Example searches">
+            <span>Try</span>
+            <button type="button" data-query="driving implementation">driving implementation</button>
+            <button type="button" data-query="reverse funnel">reverse funnel</button>
+            <button type="button" data-query="100% code coverage means nothing">100% code coverage</button>
+          </div>
+        </form>
+      </section>
+
+      <aside class="warning">
+        <strong>A caption match is not an authorship claim.</strong>
+        <p>
+          Prime may be reading Twitch chat, an article, or another source. Auto captions can also be
+          wrong. Listen and inspect the screen before treating any wording as his.
+        </p>
+      </aside>
+
+      <section class="results-section" aria-labelledby="results-title">
+        <header class="results-header">
+          <div>
+            <p class="eyebrow">Auto-caption matches</p>
+            <h2 id="results-title">“tests drive development”</h2>
+          </div>
+          <p id="result-status" role="status" aria-live="polite">Loading…</p>
+        </header>
+        <div id="source-filters" class="source-filters" role="group" aria-label="Filter by source"></div>
+        <ol id="results" class="results" aria-busy="true"></ol>
+      </section>
+
+      <footer>
+        <p>
+          <strong>Data status:</strong> YouTube English auto captions, normalized for literal search,
+          unreviewed for wording, vocal speaker, and word origin.
+        </p>
+        <p>This is bounded review tooling, not the Phase 2 search product or a verified quote library.</p>
+      </footer>
+    </main>
+
+    <script>
+      import "../../scripts/review-search-interface.ts";
+    </script>
+  </body>
+</html>

@@ -6,7 +6,13 @@ The first public demo is the playful claim that Prime is secretly a test-driven-
 
 ## Status
 
-Phase 0 implementation is in progress. The repository contains a minimal static Astro scaffold, the decision-ready product and engineering specification, and the first deterministic validation and benchmark tooling. Search and ingestion are not implemented yet; progress and measured gates live in [docs/progress.md](docs/progress.md).
+Phase 0 implementation is in progress. The repository contains the static Astro scaffold, decision-ready product and engineering specification, deterministic validation and benchmark tooling, and a bounded `/review/` locator over 1,753 real YouTube auto-caption segments. The locator is source-review tooling: its literal caption matches are not verified quotations, speaker claims, or Phase 2 product search. Canonical ingestion and retrieval have not started; progress and measured gates live in [docs/progress.md](docs/progress.md).
+
+## Caption review preview
+
+The `/review/` route searches the three complete, hash-locked English auto-caption tracks used by the TDD source investigation. Every result links to the recording timestamp and keeps the machine-caption, speaker, and word-origin warnings visible. Known chat or screen-reading windows are conservatively surfaced as possible quoted sources.
+
+The checked-in [interaction GIF](docs/artifacts/prime-said-transcript-search-demo.gif) and [still preview](docs/artifacts/prime-said-transcript-search-preview.jpg) were captured from the functional review interface. They demonstrate deterministic browser search; they are not source-verification evidence.
 
 ## Non-negotiable constraints
 

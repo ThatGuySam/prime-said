@@ -8,6 +8,8 @@ node_modules/
 # Reproducible, uncommitted ingestion/build artifacts
 .cache/
 artifacts/
+!docs/artifacts/
+!docs/artifacts/**
 downloads/
 models/
 corpus/generated/

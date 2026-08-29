@@ -57,6 +57,20 @@ h1 {
   font-size: 0.875rem;
 }
 
+.review-link {
+  display: block;
+  width: fit-content;
+  margin-top: 1rem;
+  color: #f7f1e8;
+  font-weight: 700;
+  text-underline-offset: 0.2em;
+}
+
+.review-link:hover,
+.review-link:focus-visible {
+  color: #e9ad58;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

@@ -1,20 +1,25 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 05:04 UTC
+**Updated:** 2026-08-29 14:09 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
 **Published attribution research:** `44ac8354c73226949aac88324bc2928fa345402c`
 **Published candidate-data correction:** `bf83640d1e7c39da6116642c920a41a20daad35a`
 **Published attribution screening gate:** `cb54db16bf7c92441b0d439b6023671eebc64f83`
+**Review-caption data slice:** `24e6d64c882495fda72bdd62c5e219c468ab33de`
+**Transcript-review interface slice:** pending publication
+**ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
 ## Current phase
 
 Phase 0: repository and fixtures. The note/gold separation and deterministic
-attribution screening baseline are published on `main`. Recording review and
-the quoted-source attribution gate still block the manually verified TDD-span
-deliverable, so Phase 1 has not started.
+attribution screening baseline are published on `main`. A bounded review
+locator now searches all three complete, hash-locked auto-caption tracks, but
+it does not promote those captions to canonical transcripts or quotations.
+Recording review and the quoted-source attribution gate still block the
+manually verified TDD-span deliverable, so Phase 1 has not started.
 
 ## Completed work
 
@@ -44,6 +49,17 @@ deliverable, so Phase 1 has not started.
   result is 34/37 exact labels, 34/37 coverage, 14/14 quoted-source precision,
   14/16 quoted-source recall, and zero unsafe own-word attributions. These are
   not held-out or recording-reviewed accuracy measurements.
+- Added a separate, non-canonical review fixture containing 1,753 timed segments
+  from the three complete `en-orig` YouTube auto-caption tracks: 617, 410, and
+  726 segments. The builder verifies the screened caption hashes and pinned
+  source metadata before producing byte-identical output.
+- Added a static `/review/` caption locator with deterministic browser-side
+  ranking, source filters, timestamp links, context expansion, copyable source
+  links, explicit empty states, and persistent word-origin warnings. The route
+  is `noindex` and remains separate from canonical Phase 2 search.
+- Added a deterministic export used by the ChatGPT Sites preview. The checked-in
+  GIF and still were captured from the functional preview and are review aids,
+  not source-verification evidence.
 
 ## Automated Phase 0 evidence
 
@@ -77,6 +93,26 @@ The benchmark generator also demonstrated its no-overwrite guard when an ignored
 The detector numbers are tuned, cue-enriched development measurements. They
 are not recording-reviewed, held out, or estimates of full-corpus accuracy.
 
+## Transcript review preview evidence
+
+| Check | Result |
+| --- | --- |
+| Caption fixture rebuild and byte comparison | Pass. 1,753 segments reproduced byte-for-byte from the three hash-matching JSON3 tracks. Fixture SHA-256 `b8b67c530db2131ac5f55a71c9b7efadf45f992e9b27aee3456281da2bd4e085`. |
+| Review-search export and byte comparison | Pass. 1,753 windows across three sources; the repository export and Sites data are identical. SHA-256 `21583d0dff63d017507f7a4bc92a1b00eeba1d08b95b4335b992a5048dc862fd`. |
+| `bun run check` | Pass. Repository and corpus checks pass; Astro reports 0 errors, 0 warnings, and 0 hints across 24 files. |
+| `bun run test` | Pass. 53 tests, 0 failures, 144 assertions. |
+| `bun run build` | Pass. Two static pages and five assets. Largest asset `review/captions.json`, 908,967 bytes. Total output 924,787 bytes. |
+| `bun run deploy:dry-run` | Pass with Wrangler 4.127.1. It read seven files; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
+| Sites build and deployment | Pass. The final Vinext build completed; Sites version 2 reached `succeeded` at <https://prime-said-search.thatguysam.chatgpt.site>. The build warns that the bundled real-corpus client chunk exceeds 500 KiB. |
+| Functional browser flow | Pass on the desktop preview. `tests drive development` returned 12 windows; `reverse funnel` surfaced the conservative quoted-source warning at 20:42; `purple aardvark compiler` returned zero; `driving implementation` returned the 6:14 unit-test window and the correct `IInciWyU74U&t=374s` link. Context expansion and copy-source behavior worked. No app-origin browser errors or horizontal overflow were observed at a 1,348-pixel viewport. |
+| Review GIF | Seven browser-captured frames, 1,000 × 687, 532 KiB. SHA-256 `b18ac1c8b3d82bcce8dbf33159fb092d877ea3604e468a5c73aefc9b5c93a334`. |
+| Review still | Desktop preview, 112 KiB. SHA-256 `dd0c87ea3ffb50043417c7ed85b226371f37d3779d2683899f9bdf1b92958790`. |
+
+The browser flow verifies the interface against real machine captions. It does
+not verify exact recording words, vocal speaker, word origin, or relevance.
+The GIF is assembled from screenshots of the running preview, not a continuous
+screen recording.
+
 ## Source screening and open gate
 
 Public metadata confirms that all three IDs are available videos on The PrimeTime channel. YouTube's English auto-generated timed text exposed a conflict, but media playback was unavailable. These are screening findings, not verified quotes:
@@ -107,7 +143,8 @@ playback boundary has been approved from them.
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
 - No reference-iPhone or Android measurement.
 - No Cloudflare account deployment or native Workers Builds run.
-- No public deployment, account, token, paid resource, or source outreach.
+- A ChatGPT Sites preview was deployed. No Cloudflare production deployment,
+  paid resource, source outreach, or account/token handoff was performed.
 
 ## Next checkpoint
 
