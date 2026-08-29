@@ -7,7 +7,7 @@ Use this in the ChatGPT desktop app with GPT-5.6 Sol and Ultra selected. If Goal
 
 Repository identity
 
-- Expected starting commit: 7ebe3c47fbd684aa7927eaab395d86a5faeb76a0 or a descendant containing the same specification pack.
+- Expected canonical starting commit: 4fb87576370a6228549751c91478d4f6b4a5158b or a descendant.
 - Canonical remote: https://github.com/ThatGuySam/prime-said on branch main.
 - If I attached prime-said-repo.zip, extract it while preserving .git and work from the repository root.
 - Inspect git status, branches, remotes, recent commits, and the full working tree before editing.
