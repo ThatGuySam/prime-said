@@ -53,7 +53,13 @@ const forbiddenExtensions = /\.(?:aac|flac|m4a|mkv|mov|mp3|mp4|onnx|safetensors|
 
 for (const name of repositoryFiles) {
   const path = join(root, name);
-  const info = await stat(path);
+  let info;
+  try {
+    info = await stat(path);
+  } catch (error) {
+    if (error?.code === "ENOENT") continue;
+    throw error;
+  }
   if (info.size > 16 * 1024 * 1024) {
     errors.push(`${name} is ${(info.size / 1024 / 1024).toFixed(1)} MiB; repository files must stay at or below 16 MiB.`);
   }
