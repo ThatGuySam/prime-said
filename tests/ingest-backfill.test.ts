@@ -3,9 +3,11 @@ import { describe, expect, test } from "bun:test";
 import {
   buildCanonicalRecords,
   parseCliArguments,
+  parseDownloadedAudioLanguage,
   parseDiscoveryPayload,
   parseParakeetOutput,
   parseSourceMetadata,
+  YOUTUBE_ORIGINAL_AUDIO_FORMAT,
 } from "../scripts/ingest-backfill.ts";
 
 const METADATA = {
@@ -83,6 +85,16 @@ describe("external data parsing", () => {
 
   test("rejects empty Parakeet output", () => {
     expect(() => parseParakeetOutput({ text: "", sentences: [] })).toThrow("empty transcript");
+  });
+
+  test("requires the downloaded audio track to be English", () => {
+    expect(YOUTUBE_ORIGINAL_AUDIO_FORMAT).toContain("language^=en");
+    expect(parseDownloadedAudioLanguage({
+      requested_downloads: [{ vcodec: "none", language: "en-US" }],
+    })).toBe("en-US");
+    expect(() => parseDownloadedAudioLanguage({
+      requested_downloads: [{ vcodec: "none", language: "id" }],
+    })).toThrow("not English");
   });
 });
 

@@ -41,6 +41,8 @@ const MODEL_SNAPSHOT = join(
 );
 const PIPELINE_VERSION = 1;
 const MAX_BATCH_SIZE = 10;
+export const YOUTUBE_ORIGINAL_AUDIO_FORMAT =
+  "bestaudio[language^=en][abr<=160]/bestaudio[language^=en]";
 
 type JsonObject = Record<string, unknown>;
 
@@ -339,6 +341,21 @@ export function parseParakeetOutput(value: unknown): ParakeetOutput {
   };
 }
 
+export function parseDownloadedAudioLanguage(value: unknown): string {
+  if (!isObject(value) || !Array.isArray(value.requested_downloads)) {
+    throw new Error("yt-dlp download metadata has no requested_downloads array");
+  }
+  const requestedAudio = value.requested_downloads.find((download) =>
+    isObject(download) && download.vcodec === "none"
+  );
+  if (!isObject(requestedAudio)) throw new Error("yt-dlp metadata has no requested audio format");
+  const language = requireString(requestedAudio, "language");
+  if (!language.toLocaleLowerCase("en-US").startsWith("en")) {
+    throw new Error(`downloaded audio language is ${language}, not English`);
+  }
+  return language;
+}
+
 export function buildCanonicalRecords(options: {
   metadata: SourceMetadata;
   parakeet: ParakeetOutput;
@@ -527,14 +544,18 @@ async function fetchMetadata(platformId: string, paths: ToolPaths): Promise<Sour
 
 async function downloadAudio(platformId: string, workDirectory: string, paths: ToolPaths): Promise<string> {
   const existing = await findMediaFile(workDirectory);
-  if (existing) return existing;
+  if (existing) {
+    await verifyDownloadedAudioLanguage(workDirectory);
+    return existing;
+  }
   const url = `https://www.youtube.com/watch?v=${platformId}`;
   const command = [
     paths.ytDlp,
     ...ytDlpSafetyArguments(paths),
     "--no-playlist",
     "--format",
-    "bestaudio[abr<=128]/bestaudio",
+    YOUTUBE_ORIGINAL_AUDIO_FORMAT,
+    "--write-info-json",
     "--output",
     join(workDirectory, "source.%(ext)s"),
     url,
@@ -542,7 +563,14 @@ async function downloadAudio(platformId: string, workDirectory: string, paths: T
   await runStreamingCommand(command, workDirectory);
   const downloaded = await findMediaFile(workDirectory);
   if (!downloaded) throw new Error("yt-dlp completed without a downloaded audio file");
+  await verifyDownloadedAudioLanguage(workDirectory);
   return downloaded;
+}
+
+async function verifyDownloadedAudioLanguage(workDirectory: string): Promise<void> {
+  const metadataPath = join(workDirectory, "source.info.json");
+  const metadata: unknown = JSON.parse(await readFile(metadataPath, "utf8"));
+  parseDownloadedAudioLanguage(metadata);
 }
 
 async function findMediaFile(directory: string): Promise<string | null> {
