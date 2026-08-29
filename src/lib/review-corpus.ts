@@ -134,5 +134,11 @@ export function buildReviewSearchCorpus(
     generatedAt: fixture.generatedAt,
     sources,
     windows,
+    screeningSpans: screeningFixture.cases.map((screeningCase) => ({
+      sourceId: screeningCase.sourceId,
+      startMs: screeningCase.startMs,
+      endMs: screeningCase.endMs,
+      label: screeningCase.screening.label,
+    })),
   };
 }

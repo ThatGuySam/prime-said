@@ -3,7 +3,7 @@
 > **Tease:** Better search is not one score. Topic relevance, stance, and word origin fail in different ways.
 > **Lede:** Use whole-token positional BM25 for candidates, pair quoted prompts with their response spans at build time, preserve literal sourced-word searches, and keep stance and origin as explicit metadata.
 > **Why it matters:** A semantic match can be an article reading, a Twitch message, or the opposite of the proposition the user typed. Embeddings alone make those errors look more relevant.
-> **Go deeper:** The first caption-derived development screen raised explicit constraint passes from 15/20 to 20/20, but it was tuned on the same 13 queries and is not a gold, recording-reviewed, or general-corpus accuracy result.
+> **Go deeper:** The review-tool ranker now passes 23/23 explicit development constraints, up from 16/23 for the legacy scorer. It was tuned on the same 14 queries and is not a gold, held-out, or general-corpus accuracy result.
 
 **Date:** 2026-08-29
 **Scope:** Static/build-time or browser-runtime search without a generative LLM.
@@ -32,6 +32,8 @@ The same span can be relevant but unusable as evidence for a claim. The 4:48 *Fe
 
 The caption audit identified reusable challenge cases beyond the original TDD note:
 
+- *Fear And Software*, 14:51–15:07: an unrelated transition repeats the talk title “Fear Driven Development.” It contains no testing discussion and must not satisfy `tests drive development` merely because two suffix terms match.
+- *The Lies Of 100% Code Coverage*, 19:29–19:49: the early card boundary provides context, but the direct “tests that drive” wording begins in the raw caption track at about 19:41. The review result should link to the contributing caption, not the first context window.
 - *Lets Chat About Unit Tests*, 10:10–10:23: names chat users, repeats “testing after development,” then responds.
 - *Fear And Software*, 7:31–7:56: an article/source claim that testing builds confidence is followed by “I don't think testing is a way to build confidence.”
 - *Lets Chat About Unit Tests*, 3:53–4:00: a chat merge-policy statement is followed by “I think that's wrong.”
@@ -72,26 +74,27 @@ Merge overlapping intervals and near-identical same-source windows before top-k.
 
 ## Development experiment
 
-`evals/development/caption-search-regressions.json` contains 13 caption-derived queries plus one synthetic token-boundary case. It uses stable source/time spans and explicit constraints instead of pretending every unjudged result is irrelevant.
+`evals/development/caption-search-regressions.json` contains 14 retrieval queries plus one synthetic token-boundary case. Two constraints record the user's playback judgments about the unrelated 14:51 match and the later Code Coverage boundary. The rest remain caption-derived. The suite uses stable source/time spans and explicit constraints instead of pretending every unjudged result is irrelevant.
 
 The evaluated variants were:
 
-- `current`: the shipped OR-style substring scorer;
+- `legacy`: the former OR-style substring scorer;
 - `bm25-proximity`: whole-token aliases, stopword removal, BM25-style IDF/length normalization, transcript anchor coverage, phrase/proximity boosts, and 15-second duplicate collapse;
-- `bm25-proximity-origin`: the same candidate score plus build-time prompt-to-response routing and conservative origin weighting for creator-position queries.
+- `production`: the same candidate score plus build-time prompt-to-response routing, conservative origin weighting for creator-position queries, compound-query group coverage, and separate result-neighborhood/snippet selection.
 
-| Development measure | Current | BM25 + proximity | BM25 + origin/response |
+| Development measure | Legacy | BM25 + proximity | Review production |
 | --- | ---: | ---: | ---: |
-| Required hit constraints | 7/8 | 7/8 | 8/8 |
-| Response/direct-concept pairwise constraints | 5/7 | 4/7 | 7/7 |
+| Required hit constraints | 8/9 | 9/9 | 9/9 |
+| Response/direct-concept pairwise constraints | 5/8 | 4/8 | 8/8 |
 | Protected literal sourced-word queries | 3/3 | 3/3 | 3/3 |
 | Expected-no-result constraint | 0/1 | 1/1 | 1/1 |
+| User-reviewed exclusion constraint | 0/1 | 1/1 | 1/1 |
 | Whole-token boundary constraint | 0/1 | 1/1 | 1/1 |
-| Explicit constraints passed | 15/20 | 16/20 | 20/20 |
-| Quoted/mixed screening labels in creator-query top 3 | 3/21 | 4/17 | 1/18 |
+| Explicit constraints passed | 16/23 | 19/23 | 23/23 |
+| Quoted/mixed screening labels in creator-query top 3 | 3/21 | 5/18 | 2/19 |
 | Duplicate source neighborhoods | 6 | 0 | 0 |
 
-The final variant was tuned while these same failures were visible. The 20/20 result is a regression-screen result, not held-out accuracy. The cases are auto-caption-derived, concentrated in three testing-themed videos, and not reviewed against recording audio or pixels. The residual 1/18 origin-risk result also shows that prompt-to-response routing is not complete.
+The final variant was tuned while these same failures were visible. The 23/23 result is a regression-screen result, not held-out accuracy. The cases are concentrated in three testing-themed videos. Most are not reviewed against recording audio or pixels, and the two user-reviewed cases cover only topical relevance and the rough playback boundary. The residual 2/19 origin-risk result also shows that prompt-to-response routing is incomplete.
 
 ## Tiny-model options
 
@@ -109,7 +112,7 @@ Dense semantic similarity often places opposites near each other because they sh
 
 ## Decision and next gates
 
-Keep the experimental ranker out of production. The next production-ranking decision requires:
+Use this deterministic ranker in the explicitly unverified `/review/` tool. Do not call it the canonical Phase 2 search or treat its scores as verified quotation evidence. A production-ranking gate still requires:
 
 1. at least 50 frozen retrieval queries with recording-reviewed word origin and query-relative judgments;
 2. pooled judgments across every candidate ranker rather than judging one system's top results;
@@ -117,4 +120,4 @@ Keep the experimental ranker out of production. The next production-ranking deci
 4. reference-iPhone latency, memory, payload, and interaction measurements;
 5. an unsafe-origin metric reported separately from topical nDCG.
 
-Only after those gates should Prime Said choose lexical-only, lexical plus static embeddings, or a tiny encoder/reranker. The current experiment is still valuable: it gives the project deterministic failure regressions without making unsupported product claims.
+Only after those gates should Prime Said declare the lexical ranker production-ready or choose lexical plus static embeddings or a tiny encoder/reranker. The deployed review ranker remains useful because it gives source reviewers fewer obvious collisions and more accurate playback starts without making unsupported quote claims.

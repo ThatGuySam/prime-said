@@ -1,11 +1,22 @@
 import { describe, expect, test } from "bun:test";
 
+import fixtureData from "../corpus/fixtures/tdd-auto-caption-review.json";
+import screeningData from "../evals/attribution/screening-corpus.json";
 import {
-  createExperimentalRanker,
+  buildReviewSearchCorpus,
+  type AttributionScreeningFixture,
+  type ReviewCaptionFixture,
+} from "../src/lib/review-corpus.ts";
+import {
+  createTranscriptSearchIndex,
   lexicalTokens,
-  type ScreeningSpan,
-} from "../scripts/evaluate-review-retrieval.ts";
-import type { SearchCorpus } from "../src/lib/transcript-search.ts";
+  type SearchCorpus,
+} from "../src/lib/transcript-search.ts";
+
+const reviewCorpus = buildReviewSearchCorpus(
+  fixtureData as ReviewCaptionFixture,
+  screeningData as AttributionScreeningFixture,
+);
 
 const corpus: SearchCorpus = {
   schemaVersion: 1,
@@ -56,36 +67,55 @@ const corpus: SearchCorpus = {
   ],
 };
 
-const screening: ScreeningSpan[] = [
-  {
-    sourceId: "youtube:unit",
-    startMs: 0,
-    endMs: 8_000,
-    screening: { label: "quoted-source" },
-  },
-  {
-    sourceId: "youtube:unit",
-    startMs: 8_000,
-    endMs: 16_000,
-    screening: { label: "response" },
-  },
-];
-
 describe("review retrieval experiment", () => {
   test("uses whole-token aliases instead of substring matches", () => {
     expect(lexicalTokens("tests driving development")).toEqual(["test", "drive", "develop"]);
     expect(lexicalTokens("the greatest developer")).not.toContain("test");
+    expect(lexicalTokens("analysis status")).toEqual(["analysis", "status"]);
   });
 
   test("requires enough concrete query anchors", () => {
-    const rank = createExperimentalRanker(corpus, screening, { originAware: false });
-    expect(rank("testing PostgreSQL transactions")).toEqual([]);
+    const index = createTranscriptSearchIndex(corpus, { originAware: false });
+    expect(index.search("testing PostgreSQL transactions")).toEqual([]);
   });
 
   test("can route a creator-position query from a quoted prompt to its response", () => {
-    const rank = createExperimentalRanker(corpus, screening, { originAware: true });
-    const results = rank("should merge requests require tests");
+    const index = createTranscriptSearchIndex(corpus, { originAware: true });
+    const results = index.search("should merge requests require tests");
 
     expect(results[0]?.windowId).toBe("unit:8000");
+    expect(results[0]?.matchReason).toBe("response-to-source");
+  });
+
+  test("rejects the unrelated Fear title transition and centers the matching clause", () => {
+    const index = createTranscriptSearchIndex(reviewCorpus);
+    const results = index.search("tests drive development", "all", 20);
+    const coverage = results.find((result) => result.sourceId === "youtube:S_7SE_Uzk-I");
+
+    expect(
+      results.some(
+        (result) =>
+          result.sourceId === "youtube:20SkiBvylyM" &&
+          result.startMs >= 890_000 &&
+          result.startMs < 910_000,
+      ),
+    ).toBe(false);
+    expect(coverage?.startMs).toBe(1_181_520);
+    expect(coverage?.text).toContain("tests that drive");
+    expect(results.indexOf(coverage!)).toBeLessThan(8);
+  });
+
+  test("keeps compound-query coverage when creator-position words are present", () => {
+    const index = createTranscriptSearchIndex(reviewCorpus);
+    const results = index.search("does he think tests drive development", "all", 20);
+
+    expect(
+      results.some(
+        (result) =>
+          result.sourceId === "youtube:20SkiBvylyM" &&
+          result.startMs >= 890_000 &&
+          result.startMs < 910_000,
+      ),
+    ).toBe(false);
   });
 });

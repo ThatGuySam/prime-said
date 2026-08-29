@@ -19,6 +19,30 @@
       }
     },
     {
+      "caseId": "user-reviewed-tests-drive-boundary",
+      "query": "tests drive development",
+      "intent": "topic",
+      "requiredAny": {
+        "maxRank": 8,
+        "targets": [
+          { "sourceId": "youtube:S_7SE_Uzk-I", "startMs": 1181000, "endMs": 1189000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:S_7SE_Uzk-I", "startMs": 1181000, "endMs": 1189000 },
+          "lower": { "sourceId": "youtube:S_7SE_Uzk-I", "startMs": 1169000, "endMs": 1173000 }
+        }
+      ],
+      "excludedTop": {
+        "maxRank": 20,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 890000, "endMs": 910000 }
+        ]
+      },
+      "notes": "User playback review rejected the Fear Driven Development title-transition match and placed the relevant code-coverage endorsement after the 19:29 context window. Exact wording and timestamp remain unverified."
+    },
+    {
       "caseId": "claim-prime-supports-tdd",
       "query": "Prime supports test driven development",
       "intent": "claim-support",

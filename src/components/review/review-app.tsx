@@ -99,6 +99,7 @@ function screeningLabel(result: RankedSearchWindow): { label: string; detail: st
 }
 
 function matchLabel(result: RankedSearchWindow, query: string): string {
+  if (result.matchReason === "response-to-source") return "Response to matched source";
   return normalizeSearchText(result.text).includes(normalizeSearchText(query))
     ? "Exact caption wording"
     : "Caption terms";
@@ -125,11 +126,11 @@ function ResultCard({
 
   return (
     <li className="min-w-0">
-      <Card className="continuous-corner continuous-card h-full overflow-hidden shadow-[0.35rem_0.35rem_0_#171814]">
+      <Card className="continuous-corner continuous-card h-full overflow-hidden shadow-[0.35rem_0.35rem_0_#050504]">
         <CardHeader>
-          <div className="flex items-start justify-between gap-3 font-mono text-[0.66rem] font-bold uppercase text-[#65685e]">
+          <div className="flex items-start justify-between gap-3 font-mono text-[0.66rem] font-bold uppercase text-[#aaa198]">
             <div className="flex min-w-0 flex-wrap gap-2">
-              <span className="text-[#2f5bea]">{timestamp}</span>
+              <span className="text-[#7aa2ff]">{timestamp}</span>
               <span>{result.source.title}</span>
             </div>
             <Badge variant="outline">{matchLabel(result, query)}</Badge>
@@ -179,7 +180,7 @@ function ResultCard({
             </Button>
           </div>
 
-          <details className="mt-3 border-t border-[#d4cfc4] text-sm text-[#46483f]">
+          <details className="mt-3 border-t border-[#4d4841] text-sm text-[#c2bbb1]">
             <summary className="flex min-h-11 cursor-pointer items-center font-extrabold">
               Transcript context
             </summary>
@@ -201,10 +202,10 @@ function PlayerDock({ result, onClose }: { result: RankedSearchWindow; onClose: 
   const seconds = Math.floor(result.startMs / 1_000);
 
   return (
-    <Card className="continuous-corner continuous-card fixed bottom-4 right-4 z-20 w-[min(28rem,calc(100%-2rem))] overflow-hidden border-2 shadow-[0.6rem_0.6rem_0_rgb(23_24_20_/_35%)] max-[480px]:bottom-0 max-[480px]:right-0 max-[480px]:w-full max-[480px]:rounded-b-none max-[480px]:border-x-0 max-[480px]:border-b-0">
-      <CardHeader className="flex min-h-14 flex-row items-center justify-between gap-4 border-b border-[#171814] px-3 py-2">
+    <Card className="continuous-corner continuous-card fixed bottom-4 right-4 z-20 w-[min(28rem,calc(100%-2rem))] overflow-hidden border-2 shadow-[0.6rem_0.6rem_0_rgb(0_0_0_/_55%)] max-[480px]:bottom-0 max-[480px]:right-0 max-[480px]:w-full max-[480px]:rounded-b-none max-[480px]:border-x-0 max-[480px]:border-b-0">
+      <CardHeader className="flex min-h-14 flex-row items-center justify-between gap-4 border-b border-[#625d55] px-3 py-2">
         <div className="min-w-0">
-          <p className="font-mono text-[0.6rem] font-extrabold uppercase text-[#2f5bea]">Playing source</p>
+          <p className="font-mono text-[0.6rem] font-extrabold uppercase text-[#7aa2ff]">Playing source</p>
           <h2 className="truncate text-sm font-extrabold">{timestamp} · {result.source.title}</h2>
         </div>
         <Button type="button" size="icon" variant="outline" aria-label="Close video player" onClick={onClose}>
@@ -319,22 +320,22 @@ export function ReviewApp() {
   return (
     <>
       <main className="mx-auto w-[min(78rem,calc(100%-2rem))] max-[760px]:w-[min(44rem,calc(100%-1.25rem))]">
-        <header className="flex min-h-18 items-center justify-between gap-4 border-b-2 border-[#171814]">
-          <a className="flex gap-1 text-xs font-black tracking-[0.12em] text-[#171814] no-underline" href="/" aria-label="Prime Said home">
-            <span className="border-2 border-[#171814] p-2">PRIME</span>
-            <span className="border-2 border-[#171814] bg-[#d7ff36] p-2">SAID</span>
+        <header className="flex min-h-18 items-center justify-between gap-4 border-b-2 border-[#625d55]">
+          <a className="flex gap-1 text-xs font-black tracking-[0.12em] text-[#f7f1e8] no-underline" href="/" aria-label="Prime Said home">
+            <span className="border-2 border-[#f7f1e8] p-2">PRIME</span>
+            <span className="border-2 border-[#d7ff36] bg-[#d7ff36] p-2 text-[#11100f]">SAID</span>
           </a>
-          <p className="font-mono text-xs uppercase tracking-[0.08em] text-[#65685e]">Caption review</p>
+          <p className="font-mono text-xs uppercase tracking-[0.08em] text-[#aaa198]">Caption review</p>
         </header>
 
         <section className="grid grid-cols-[minmax(14rem,0.75fr)_minmax(26rem,1.25fr)] items-end gap-x-[clamp(2rem,6vw,6rem)] gap-y-6 pb-9 pt-[clamp(2.5rem,6vw,4.5rem)] max-[760px]:grid-cols-1" aria-labelledby="page-title">
           <div>
             <p className="eyebrow">Search real caption tracks</p>
             <h1 id="page-title" className="text-[clamp(2.8rem,6vw,5.5rem)] font-black leading-[0.9] tracking-[-0.065em]">Find the moment.</h1>
-            <p className="mt-4 max-w-lg text-base leading-relaxed text-[#46483f]">Search caption words, then play the recording at the matching time.</p>
+            <p className="mt-4 max-w-lg text-base leading-relaxed text-[#c2bbb1]">Search caption words, then play the recording at the matching time.</p>
           </div>
 
-          <Card className="continuous-corner continuous-card border-2 shadow-[0.5rem_0.5rem_0_#171814]">
+          <Card className="continuous-corner continuous-card border-2 shadow-[0.5rem_0.5rem_0_#050504]">
             <CardContent className="p-4">
               <form
                 role="search"
@@ -376,7 +377,7 @@ export function ReviewApp() {
                 </div>
 
                 <div className="mt-3 flex flex-wrap items-center gap-2" aria-label="Example searches">
-                  <span className="font-mono text-[0.66rem] uppercase text-[#65685e]">Try</span>
+                  <span className="font-mono text-[0.66rem] uppercase text-[#aaa198]">Try</span>
                   {EXAMPLE_QUERIES.map((example) => (
                     <Button key={example.query} type="button" size="sm" variant="outline" onClick={() => commitQuery(example.query)}>
                       {example.label}
@@ -399,18 +400,18 @@ export function ReviewApp() {
         </section>
 
         <section className="pb-12" aria-labelledby="results-title">
-          <header className="flex items-end justify-between gap-8 border-b-2 border-[#171814] py-4 max-[760px]:flex-col max-[760px]:items-start max-[760px]:gap-2">
+          <header className="flex items-end justify-between gap-8 border-b-2 border-[#625d55] py-4 max-[760px]:flex-col max-[760px]:items-start max-[760px]:gap-2">
             <div>
               <p className="eyebrow">Caption matches</p>
               <h2 id="results-title" className="max-w-[30ch] text-[clamp(1.55rem,3vw,2.6rem)] font-black leading-none tracking-[-0.045em]">
                 {activeQuery ? `“${activeQuery}”` : "Search the caption tracks"}
               </h2>
             </div>
-            <p role="status" aria-live="polite" className="font-mono text-xs uppercase text-[#65685e]">{status}</p>
+            <p role="status" aria-live="polite" className="font-mono text-xs uppercase text-[#aaa198]">{status}</p>
           </header>
 
           {corpus ? (
-            <div className="flex gap-2 overflow-x-auto border-b border-[#aaa69d] py-3" role="group" aria-label="Filter by source">
+            <div className="flex gap-2 overflow-x-auto border-b border-[#4d4841] py-3" role="group" aria-label="Filter by source">
               {sources.map((source) => (
                 <Button
                   key={source.sourceId}
@@ -430,19 +431,19 @@ export function ReviewApp() {
             {loadError ? (
               <li className="col-span-full grid min-h-52 place-content-center text-center">
                 <h3 className="font-black">Caption data unavailable.</h3>
-                <p className="mt-2 text-[#65685e]">Could not load caption data: {loadError}</p>
+                <p className="mt-2 text-[#aaa198]">Could not load caption data: {loadError}</p>
               </li>
             ) : !corpus ? (
-              <li className="col-span-full grid min-h-52 place-content-center text-center text-[#65685e]">Loading real caption tracks…</li>
+              <li className="col-span-full grid min-h-52 place-content-center text-center text-[#aaa198]">Loading real caption tracks…</li>
             ) : !activeQuery ? (
               <li className="col-span-full grid min-h-52 place-content-center text-center">
                 <h3 className="font-black">Search for a phrase or idea.</h3>
-                <p className="mt-2 text-[#65685e]">Try one of the examples above, or enter words from your notes.</p>
+                <p className="mt-2 text-[#aaa198]">Try one of the examples above, or enter words from your notes.</p>
               </li>
             ) : results.length === 0 ? (
               <li className="col-span-full grid min-h-52 place-content-center text-center">
                 <h3 className="font-black">No caption match.</h3>
-                <p className="mt-2 text-[#65685e]">Try fewer or more concrete words. This preview only searches caption text.</p>
+                <p className="mt-2 text-[#aaa198]">Try fewer or more concrete words. This preview only searches caption text.</p>
               </li>
             ) : (
               results.map((result) => (
@@ -460,8 +461,8 @@ export function ReviewApp() {
           </ol>
         </section>
 
-        <details className="mb-12 border-y border-[#aaa69d] text-sm leading-relaxed text-[#65685e]">
-          <summary className="flex min-h-14 cursor-pointer items-center font-extrabold text-[#171814]">About these results</summary>
+        <details className="mb-12 border-y border-[#4d4841] text-sm leading-relaxed text-[#aaa198]">
+          <summary className="flex min-h-14 cursor-pointer items-center font-extrabold text-[#f7f1e8]">About these results</summary>
           <div className="grid grid-cols-3 gap-6 pb-5 max-[760px]:grid-cols-1 max-[760px]:gap-3">
             <p>{corpus ? `${corpus.sources.length} real videos · ${corpus.windows.length.toLocaleString()} timed caption windows` : "Loading real caption tracks…"}</p>
             <p>YouTube English auto captions are normalized for literal browser-side search and are unreviewed for wording, vocal speaker, and word origin.</p>
