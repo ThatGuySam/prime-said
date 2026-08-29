@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:gbzLuAzhJ0c",
+  "platform": "youtube",
+  "platformId": "gbzLuAzhJ0c",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "1968 Predicted Every Modern Tech Problem | TheStandup",
+  "description": "[Sponsor]\nLinear helps teams track issues, manage projects, collaborate on docs, and ship products - and the crazy thing is their software is actually fast and a joy to use. Learn more: https://trm.sh/linear\n\nFull Episode\nYoutube: https://youtu.be/WyKKxPoSTCc\nSpotify: https://open.spotify.com/episode/1ZkmJ2Ex5M3KDWy2TeG1OA\n\n[Description]\nIn this episode of The Standup, Casey Muratori joins us to look at the fascinating parallels between 1968 tech and today. We examine the original context of \"premature optimization is the root of all evil\" and flip through the pages of Datamation from over 50 years ago. It’s a wild trip through early ray tracing, the birth of firmware, and the first mentions of virtual machines.\n\n[Chapters]\n00:00:00 - Intro\n00:02:59 - The origin of Premature optimization is the root of all evil\n00:07:30 - The effort involved in a long talk\n00:13:16 - The Root of The Root of All Evil Presentation LITE Start\n00:15:52 - Datamation Issues\n00:18:23 - New 4k Display in 1968\n00:18:51 - 1968 Comp Sci Salaries\n00:19:18 - AI taking over the world since 1968\n00:20:27 - The Cope .45\n00:21:18 - 1968 Datamining Concerns\n00:23:02 - 1968 SAAS\n00:23:32 - Software patent bill\n00:23:56 - Conway's law in print\n00:26:03 - UEFI BIOS\n00:27:06 - Virtual Machines\n00:28:54 - THE END OF OS\n00:29:55 - LBJ Stamped ASCII\n00:31:55 - COBOL Ad\n00:32:19 - Computers to win Elections\n00:32:57 - AI Lawyers\n00:33:38 - To Err Is Agentic\n00:35:53 - Flock Cameras in 1968\n00:37:48 - Dont eat in the computer room\n00:38:10 - 1.5cents per bit\n00:39:18 - A Hexadecimal Pronunciation Guide\n00:41:23 - Privacy and Freedom\n00:42:17 - How do you gruntle\n00:43:13 - Computer Technology in communist China\n00:43:44 - The First Raytraced Image\n00:45:27 - The Root of The Root of All Evil Presentation LITE End\n00:47:38 - Outro\n\n[Hosts/Guests]\nPrime: https://thestanduppod.com/contributor/theprimeagen\nTeej: https://thestanduppod.com/contributor/teej-dv\nTrash: https://thestanduppod.com/contributor/trash\nCasey: https://thestanduppod.com/contributor/cmuratori\n\n[Sources]\nDax Fraud Tweet: https://x.com/thdxr/status/2092238606987370884\nStripes Fraud Pricing Update: https://support.stripe.com/questions/updates-to-radar-pricing-(january-2027))\nCaseys BSC 2025 Talk: https://www.youtube.com/watch?v=wo84LFzx5nI\nCaseys BSC 2026 Talk: http://computerenhance.com/theroot (lots more sources here too)\nProgrammer of the Month (Edsger Dijkstra) https://www.youtube.com/watch?v=lnMnXsmxoHc\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\n[Socials]\nx.com/thestanduppod\ninstagram.com/thestanduppod\ntiktok.com/@thestanduppod\nfacebook.com/profile.php?id=61573286173150\n\n[Other Places to find us]\nSpotify: https://open.spotify.com/show/01A062kejnXFkJE01bjN5J\nRSS: thestanduppod.com/feed.xml\nClips: @TheStandupPodClips\nWebsite: thestanduppod.com\n\n[Tags]\nThePrimeagen, DHH, David Heinemeier Hansson, Omarchy, Omarchy Quattro, Linux, Linux desktop, year of Linux, Arch Linux, AI agents, AI coding, coding agents, software development, programming, developers, open source, Linux security, Hyprland, MacOS, Apple, Dell XPS, developer burnout, artificial intelligence, The Standup Podcast, Teej, Trash Dev, Sentry",
+  "canonicalUrl": "https://www.youtube.com/watch?v=gbzLuAzhJ0c",
+  "publishedAt": "2026-08-29T13:00:04.000Z",
+  "durationMs": 2884000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:22:15.020Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:22:15.020Z",
+    "runId": "2026-08-29T18-22-02-405Z-3e5c1056"
+  }
+}

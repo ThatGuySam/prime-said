@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:AFQW-b2WaRU",
+  "platform": "youtube",
+  "platformId": "AFQW-b2WaRU",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Cursor's Github Replacement",
+  "description": "Linear helps teams track issues, manage projects, collaborate on docs, and ship products - and the crazy thing is their software is actually fast and a joy to use. Learn more: https://trm.sh/linear\n\nSources:\n\n- https://cursor.com/blog/git-at-any-scale#whats-hard-about-git\n- https://github.com/git/git/commit/e83c5163316\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=AFQW-b2WaRU",
+  "publishedAt": "2026-08-28T13:00:03.000Z",
+  "durationMs": 729000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:24:51.296Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:24:51.296Z",
+    "runId": "2026-08-29T18-22-02-405Z-3e5c1056"
+  }
+}

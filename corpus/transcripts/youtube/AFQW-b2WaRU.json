@@ -1,0 +1,1454 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_ae13424bd85b83a428321c49",
+  "sourceId": "youtube:AFQW-b2WaRU",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T18:24:51.296Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:1",
+      "startMs": 0,
+      "endMs": 7280,
+      "verbatim": "Hey, did you know that the very first Git commit was an initial version of Git, the information manager from hell?",
+      "display": "Hey, did you know that the very first Git commit was an initial version of Git, the information manager from hell?",
+      "search": "hey, did you know that the very first git commit was an initial version of git, the information manager from hell?",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:2",
+      "startMs": 7280,
+      "endMs": 8000,
+      "verbatim": "Nice.",
+      "display": "Nice.",
+      "search": "nice.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:3",
+      "startMs": 8000,
+      "endMs": 13040,
+      "verbatim": "So recently some news kind of got me thinking, why is it so hard to host Git?",
+      "display": "So recently some news kind of got me thinking, why is it so hard to host Git?",
+      "search": "so recently some news kind of got me thinking, why is it so hard to host git?",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:4",
+      "startMs": 13120,
+      "endMs": 15600,
+      "verbatim": "It kinda seems like any old Git could host Git.",
+      "display": "It kinda seems like any old Git could host Git.",
+      "search": "it kinda seems like any old git could host git.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:5",
+      "startMs": 15600,
+      "endMs": 20480,
+      "verbatim": "But based on the recent GitHub numbers, uh this actually looks really, really difficult.",
+      "display": "But based on the recent GitHub numbers, uh this actually looks really, really difficult.",
+      "search": "but based on the recent github numbers, uh this actually looks really, really difficult.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:6",
+      "startMs": 20480,
+      "endMs": 22240,
+      "verbatim": "But why is it so hard?",
+      "display": "But why is it so hard?",
+      "search": "but why is it so hard?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:7",
+      "startMs": 22240,
+      "endMs": 28240,
+      "verbatim": "Because like every single engineer that has come before me, I always go, Oh, that problem?",
+      "display": "Because like every single engineer that has come before me, I always go, Oh, that problem?",
+      "search": "because like every single engineer that has come before me, i always go, oh, that problem?",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:8",
+      "startMs": 28240,
+      "endMs": 29920,
+      "verbatim": "That doesn't sound that hard.",
+      "display": "That doesn't sound that hard.",
+      "search": "that doesn't sound that hard.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:9",
+      "startMs": 29920,
+      "endMs": 31600,
+      "verbatim": "I'm pretty sure I could do it.",
+      "display": "I'm pretty sure I could do it.",
+      "search": "i'm pretty sure i could do it.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:10",
+      "startMs": 31600,
+      "endMs": 43760,
+      "verbatim": "Well, actually, to finally answer that question, Vincent right here did a write-up, and he's a 10-year veteran at GitHub now, working at Cursor, and he breaks down why is it so hard to host Git?",
+      "display": "Well, actually, to finally answer that question, Vincent right here did a write-up, and he's a 10-year veteran at GitHub now, working at Cursor, and he breaks down why is it so hard to host Git?",
+      "search": "well, actually, to finally answer that question, vincent right here did a write-up, and he's a 10-year veteran at github now, working at cursor, and he breaks down why is it so hard to host git?",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:11",
+      "startMs": 43760,
+      "endMs": 47200,
+      "verbatim": "And everybody seems to love this blog post.",
+      "display": "And everybody seems to love this blog post.",
+      "search": "and everybody seems to love this blog post.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:12",
+      "startMs": 47200,
+      "endMs": 49760,
+      "verbatim": "So let's all learn together why it's so hard to host Git.",
+      "display": "So let's all learn together why it's so hard to host Git.",
+      "search": "so let's all learn together why it's so hard to host git.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:13",
+      "startMs": 49760,
+      "endMs": 51600,
+      "verbatim": "And by the way, a little sneak preview for you.",
+      "display": "And by the way, a little sneak preview for you.",
+      "search": "and by the way, a little sneak preview for you.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:14",
+      "startMs": 51600,
+      "endMs": 55200,
+      "verbatim": "The reason why is uh because the way it is, it's really hard.",
+      "display": "The reason why is uh because the way it is, it's really hard.",
+      "search": "the reason why is uh because the way it is, it's really hard.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:15",
+      "startMs": 55200,
+      "endMs": 61760,
+      "verbatim": "Quick disclosure: I have done many a live event for Cursor, one in which I dressed up as a king, and they do give me some free tokens.",
+      "display": "Quick disclosure: I have done many a live event for Cursor, one in which I dressed up as a king, and they do give me some free tokens.",
+      "search": "quick disclosure: i have done many a live event for cursor, one in which i dressed up as a king, and they do give me some free tokens.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:16",
+      "startMs": 61760,
+      "endMs": 64560,
+      "verbatim": "But this was not a paid ask of any kind.",
+      "display": "But this was not a paid ask of any kind.",
+      "search": "but this was not a paid ask of any kind.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:17",
+      "startMs": 64560,
+      "endMs": 68320,
+      "verbatim": "I just think this blog post is super interesting, and so does everybody else.",
+      "display": "I just think this blog post is super interesting, and so does everybody else.",
+      "search": "i just think this blog post is super interesting, and so does everybody else.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:18",
+      "startMs": 68320,
+      "endMs": 71040,
+      "verbatim": "But actually, before we begin, a quick thank you from the sponsor.",
+      "display": "But actually, before we begin, a quick thank you from the sponsor.",
+      "search": "but actually, before we begin, a quick thank you from the sponsor.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:19",
+      "startMs": 71040,
+      "endMs": 75360,
+      "verbatim": "If you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "display": "If you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "search": "if you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:20",
+      "startMs": 75360,
+      "endMs": 84160,
+      "verbatim": "So often I find myself having a long brainstorming session, but at the end of it, I just have a big markdown file, and then of course at that point I've lost everything.",
+      "display": "So often I find myself having a long brainstorming session, but at the end of it, I just have a big markdown file, and then of course at that point I've lost everything.",
+      "search": "so often i find myself having a long brainstorming session, but at the end of it, i just have a big markdown file, and then of course at that point i've lost everything.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:21",
+      "startMs": 84160,
+      "endMs": 86080,
+      "verbatim": "Hey, stop doing that.",
+      "display": "Hey, stop doing that.",
+      "search": "hey, stop doing that.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:22",
+      "startMs": 86080,
+      "endMs": 89760,
+      "verbatim": "You gotta check out linear and use the linear MCP.",
+      "display": "You gotta check out linear and use the linear MCP.",
+      "search": "you gotta check out linear and use the linear mcp.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:23",
+      "startMs": 89760,
+      "endMs": 96880,
+      "verbatim": "I have a big conversation, I come up with a bunch of ideas, and at the end, I get a set of tickets that are actually all the things that I need to do.",
+      "display": "I have a big conversation, I come up with a bunch of ideas, and at the end, I get a set of tickets that are actually all the things that I need to do.",
+      "search": "i have a big conversation, i come up with a bunch of ideas, and at the end, i get a set of tickets that are actually all the things that i need to do.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:24",
+      "startMs": 96880,
+      "endMs": 105040,
+      "verbatim": "And when I don't know what to work on, I go, hey, agent, go to linear and tell me what I need to do next, and it will find exactly what I need to work on.",
+      "display": "And when I don't know what to work on, I go, hey, agent, go to linear and tell me what I need to do next, and it will find exactly what I need to work on.",
+      "search": "and when i don't know what to work on, i go, hey, agent, go to linear and tell me what i need to do next, and it will find exactly what i need to work on.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:25",
+      "startMs": 105040,
+      "endMs": 111440,
+      "verbatim": "This has been so successful for me that I'm in actual serious danger of completing a project.",
+      "display": "This has been so successful for me that I'm in actual serious danger of completing a project.",
+      "search": "this has been so successful for me that i'm in actual serious danger of completing a project.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:26",
+      "startMs": 111440,
+      "endMs": 115680,
+      "verbatim": "Go to linear.app slash terminal and get six months for free on Linear.",
+      "display": "Go to linear.app slash terminal and get six months for free on Linear.",
+      "search": "go to linear.app slash terminal and get six months for free on linear.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:27",
+      "startMs": 115680,
+      "endMs": 118640,
+      "verbatim": "Thank you for supporting the channel, and thank you, Linear, for sponsoring the video.",
+      "display": "Thank you for supporting the channel, and thank you, Linear, for sponsoring the video.",
+      "search": "thank you for supporting the channel, and thank you, linear, for sponsoring the video.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:28",
+      "startMs": 118640,
+      "endMs": 128800,
+      "verbatim": "All right, so before we begin an extremely brief explanation of how Git works, every single commit which is represented by some sort of SHA, right, is actually just a pointer to a tree.",
+      "display": "All right, so before we begin an extremely brief explanation of how Git works, every single commit which is represented by some sort of SHA, right, is actually just a pointer to a tree.",
+      "search": "all right, so before we begin an extremely brief explanation of how git works, every single commit which is represented by some sort of sha, right, is actually just a pointer to a tree.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:29",
+      "startMs": 128800,
+      "endMs": 134240,
+      "verbatim": "The tree is just a pointer to other trees at specific versions and other blobs.",
+      "display": "The tree is just a pointer to other trees at specific versions and other blobs.",
+      "search": "the tree is just a pointer to other trees at specific versions and other blobs.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:30",
+      "startMs": 134240,
+      "endMs": 136720,
+      "verbatim": "A tree is just literally a directory.",
+      "display": "A tree is just literally a directory.",
+      "search": "a tree is just literally a directory.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:31",
+      "startMs": 136720,
+      "endMs": 141200,
+      "verbatim": "Your root tree is just the root of your project, and a blob is just a file.",
+      "display": "Your root tree is just the root of your project, and a blob is just a file.",
+      "search": "your root tree is just the root of your project, and a blob is just a file.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:32",
+      "startMs": 141200,
+      "endMs": 144640,
+      "verbatim": "And you can see this by me taking my latest commit and saying ls tree.",
+      "display": "And you can see this by me taking my latest commit and saying ls tree.",
+      "search": "and you can see this by me taking my latest commit and saying ls tree.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:33",
+      "startMs": 144640,
+      "endMs": 148800,
+      "verbatim": "You'll see all the different blobs and directories within this commit.",
+      "display": "You'll see all the different blobs and directories within this commit.",
+      "search": "you'll see all the different blobs and directories within this commit.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:34",
+      "startMs": 148800,
+      "endMs": 154400,
+      "verbatim": "And I can just grab out one of these Shaws and go get show and paste it in, and it'll actually just show me the file.",
+      "display": "And I can just grab out one of these Shaws and go get show and paste it in, and it'll actually just show me the file.",
+      "search": "and i can just grab out one of these shaws and go get show and paste it in, and it'll actually just show me the file.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:35",
+      "startMs": 154400,
+      "endMs": 159920,
+      "verbatim": "Each one of these things, a commit, a tree, a blob, they're called objects inside of Git.",
+      "display": "Each one of these things, a commit, a tree, a blob, they're called objects inside of Git.",
+      "search": "each one of these things, a commit, a tree, a blob, they're called objects inside of git.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:36",
+      "startMs": 159920,
+      "endMs": 163360,
+      "verbatim": "And if you package them all together, it's called a pack file.",
+      "display": "And if you package them all together, it's called a pack file.",
+      "search": "and if you package them all together, it's called a pack file.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:37",
+      "startMs": 163360,
+      "endMs": 167840,
+      "verbatim": "It's like the minimum representation of all these different objects together.",
+      "display": "It's like the minimum representation of all these different objects together.",
+      "search": "it's like the minimum representation of all these different objects together.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:38",
+      "startMs": 167840,
+      "endMs": 177200,
+      "verbatim": "There's no guarantee in order, but it's really good to understand that to find out what blob version is inside of a commit, you have to walk everything to figure it out.",
+      "display": "There's no guarantee in order, but it's really good to understand that to find out what blob version is inside of a commit, you have to walk everything to figure it out.",
+      "search": "there's no guarantee in order, but it's really good to understand that to find out what blob version is inside of a commit, you have to walk everything to figure it out.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:39",
+      "startMs": 177200,
+      "endMs": 187360,
+      "verbatim": "So to find out what version of a file at a commit, you do actually have to walk from commit root to subdirectory to the specific blob to find out what the version is and the contents of that blob.",
+      "display": "So to find out what version of a file at a commit, you do actually have to walk from commit root to subdirectory to the specific blob to find out what the version is and the contents of that blob.",
+      "search": "so to find out what version of a file at a commit, you do actually have to walk from commit root to subdirectory to the specific blob to find out what the version is and the contents of that blob.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:40",
+      "startMs": 187360,
+      "endMs": 197760,
+      "verbatim": "And for a git server to actually work, the server itself has to communicate to clients using pack files, and clients communicate to a server using pack files.",
+      "display": "And for a git server to actually work, the server itself has to communicate to clients using pack files, and clients communicate to a server using pack files.",
+      "search": "and for a git server to actually work, the server itself has to communicate to clients using pack files, and clients communicate to a server using pack files.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:41",
+      "startMs": 197760,
+      "endMs": 206400,
+      "verbatim": "So when you do git fetch or git push or you do git pull, it's using pack files to communicate between the server and the client.",
+      "display": "So when you do git fetch or git push or you do git pull, it's using pack files to communicate between the server and the client.",
+      "search": "so when you do git fetch or git push or you do git pull, it's using pack files to communicate between the server and the client.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:42",
+      "startMs": 206400,
+      "endMs": 210800,
+      "verbatim": "Now these pack files are really what makes it super difficult to host git.",
+      "display": "Now these pack files are really what makes it super difficult to host git.",
+      "search": "now these pack files are really what makes it super difficult to host git.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:43",
+      "startMs": 210800,
+      "endMs": 214400,
+      "verbatim": "Now there has been some attempt to not use pack files.",
+      "display": "Now there has been some attempt to not use pack files.",
+      "search": "now there has been some attempt to not use pack files.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:44",
+      "startMs": 214400,
+      "endMs": 216720,
+      "verbatim": "One of them is using a KV store.",
+      "display": "One of them is using a KV store.",
+      "search": "one of them is using a kv store.",
+      "confidence": 0.744
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:45",
+      "startMs": 216720,
+      "endMs": 226800,
+      "verbatim": "I think this immediately makes sense because every single one of the sub trees, every single one of the commits, every single one of the blobs, the tags, everything, they all have a unique SHA.",
+      "display": "I think this immediately makes sense because every single one of the sub trees, every single one of the commits, every single one of the blobs, the tags, everything, they all have a unique SHA.",
+      "search": "i think this immediately makes sense because every single one of the sub trees, every single one of the commits, every single one of the blobs, the tags, everything, they all have a unique sha.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:46",
+      "startMs": 226800,
+      "endMs": 229360,
+      "verbatim": "So you could imagine you could just have a key value store.",
+      "display": "So you could imagine you could just have a key value store.",
+      "search": "so you could imagine you could just have a key value store.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:47",
+      "startMs": 229360,
+      "endMs": 231600,
+      "verbatim": "Key is the SHA, value is the item.",
+      "display": "Key is the SHA, value is the item.",
+      "search": "key is the sha, value is the item.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:48",
+      "startMs": 231600,
+      "endMs": 234640,
+      "verbatim": "Well, this animation right here shows you the exact problem.",
+      "display": "Well, this animation right here shows you the exact problem.",
+      "search": "well, this animation right here shows you the exact problem.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:49",
+      "startMs": 234640,
+      "endMs": 243680,
+      "verbatim": "If you were to go and look up things about a commit, you'd have to go back and forth between the key value store many, many times.",
+      "display": "If you were to go and look up things about a commit, you'd have to go back and forth between the key value store many, many times.",
+      "search": "if you were to go and look up things about a commit, you'd have to go back and forth between the key value store many, many times.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:50",
+      "startMs": 243680,
+      "endMs": 249120,
+      "verbatim": "And as a repository grows, you could go thousands of times just to get the contents of a commit.",
+      "display": "And as a repository grows, you could go thousands of times just to get the contents of a commit.",
+      "search": "and as a repository grows, you could go thousands of times just to get the contents of a commit.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:51",
+      "startMs": 249120,
+      "endMs": 260240,
+      "verbatim": "In fact, Google even tried this approach and tried to make it fast, but it turns out it just couldn't work out in the end, and they ultimately abandoned it because Git clone was entirely too slow.",
+      "display": "In fact, Google even tried this approach and tried to make it fast, but it turns out it just couldn't work out in the end, and they ultimately abandoned it because Git clone was entirely too slow.",
+      "search": "in fact, google even tried this approach and tried to make it fast, but it turns out it just couldn't work out in the end, and they ultimately abandoned it because git clone was entirely too slow.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:52",
+      "startMs": 260240,
+      "endMs": 271120,
+      "verbatim": "Now, of course, over the years, companies have tried various versions of being able to host Git at scale, avoiding this whole pack file dilemma, but it just never actually worked out.",
+      "display": "Now, of course, over the years, companies have tried various versions of being able to host Git at scale, avoiding this whole pack file dilemma, but it just never actually worked out.",
+      "search": "now, of course, over the years, companies have tried various versions of being able to host git at scale, avoiding this whole pack file dilemma, but it just never actually worked out.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:53",
+      "startMs": 271120,
+      "endMs": 273600,
+      "verbatim": "What's actually trying to be accomplished is pretty simple.",
+      "display": "What's actually trying to be accomplished is pretty simple.",
+      "search": "what's actually trying to be accomplished is pretty simple.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:54",
+      "startMs": 273600,
+      "endMs": 278000,
+      "verbatim": "Ideally, you want the repository to exist on many disks on many machines.",
+      "display": "Ideally, you want the repository to exist on many disks on many machines.",
+      "search": "ideally, you want the repository to exist on many disks on many machines.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:55",
+      "startMs": 278000,
+      "endMs": 281840,
+      "verbatim": "That way, just one outage doesn't accidentally destroy a repository.",
+      "display": "That way, just one outage doesn't accidentally destroy a repository.",
+      "search": "that way, just one outage doesn't accidentally destroy a repository.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:56",
+      "startMs": 281840,
+      "endMs": 283200,
+      "verbatim": "I think this makes perfect sense.",
+      "display": "I think this makes perfect sense.",
+      "search": "i think this makes perfect sense.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:57",
+      "startMs": 283200,
+      "endMs": 287200,
+      "verbatim": "Also, if you have a whole bunch of reads, you would like that to be really, really fast.",
+      "display": "Also, if you have a whole bunch of reads, you would like that to be really, really fast.",
+      "search": "also, if you have a whole bunch of reads, you would like that to be really, really fast.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:58",
+      "startMs": 287200,
+      "endMs": 296320,
+      "verbatim": "Because if you have a whole bunch of reads going to one machine, you could imagine somehow the network or the disk gets saturated, and then you just have really long wait times, i.e.",
+      "display": "Because if you have a whole bunch of reads going to one machine, you could imagine somehow the network or the disk gets saturated, and then you just have really long wait times, i.e.",
+      "search": "because if you have a whole bunch of reads going to one machine, you could imagine somehow the network or the disk gets saturated, and then you just have really long wait times, i.e.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:59",
+      "startMs": 296640,
+      "endMs": 297840,
+      "verbatim": "CI sucks.",
+      "display": "CI sucks.",
+      "search": "ci sucks.",
+      "confidence": 0.629
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:60",
+      "startMs": 297840,
+      "endMs": 305120,
+      "verbatim": "GitHub also tried to kind of do a distributed file system, but ultimately abandoned it because it, again, was just impossible with pack files.",
+      "display": "GitHub also tried to kind of do a distributed file system, but ultimately abandoned it because it, again, was just impossible with pack files.",
+      "search": "github also tried to kind of do a distributed file system, but ultimately abandoned it because it, again, was just impossible with pack files.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:61",
+      "startMs": 305120,
+      "endMs": 309920,
+      "verbatim": "But finally, somebody cracked the code, and that somebody was in fact GitHub.",
+      "display": "But finally, somebody cracked the code, and that somebody was in fact GitHub.",
+      "search": "but finally, somebody cracked the code, and that somebody was in fact github.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:62",
+      "startMs": 309920,
+      "endMs": 311920,
+      "verbatim": "They created something called Spokes.",
+      "display": "They created something called Spokes.",
+      "search": "they created something called spokes.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:63",
+      "startMs": 311920,
+      "endMs": 317520,
+      "verbatim": "Spokes was originally developed at GitHub around 2013 and it has since become the industry standard.",
+      "display": "Spokes was originally developed at GitHub around 2013 and it has since become the industry standard.",
+      "search": "spokes was originally developed at github around 2013 and it has since become the industry standard.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:64",
+      "startMs": 317520,
+      "endMs": 324400,
+      "verbatim": "Most Git hosting services use a variant of Spokes approach, application level replication for Git repositories in their architecture.",
+      "display": "Most Git hosting services use a variant of Spokes approach, application level replication for Git repositories in their architecture.",
+      "search": "most git hosting services use a variant of spokes approach, application level replication for git repositories in their architecture.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:65",
+      "startMs": 324400,
+      "endMs": 329120,
+      "verbatim": "And Spoke doesn't distribute Git itself, it works at the pack file level.",
+      "display": "And Spoke doesn't distribute Git itself, it works at the pack file level.",
+      "search": "and spoke doesn't distribute git itself, it works at the pack file level.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:66",
+      "startMs": 329120,
+      "endMs": 333360,
+      "verbatim": "It stores all the data as actual Git repositories on local NVMe disks.",
+      "display": "It stores all the data as actual Git repositories on local NVMe disks.",
+      "search": "it stores all the data as actual git repositories on local nvme disks.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:67",
+      "startMs": 333360,
+      "endMs": 337760,
+      "verbatim": "It replicates Git data, but keeps all copies consistently in sync.",
+      "display": "It replicates Git data, but keeps all copies consistently in sync.",
+      "search": "it replicates git data, but keeps all copies consistently in sync.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:68",
+      "startMs": 337760,
+      "endMs": 338160,
+      "verbatim": "Good.",
+      "display": "Good.",
+      "search": "good.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:69",
+      "startMs": 338160,
+      "endMs": 340160,
+      "verbatim": "So now we have distributed Git.",
+      "display": "So now we have distributed Git.",
+      "search": "so now we have distributed git.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:70",
+      "startMs": 340160,
+      "endMs": 342560,
+      "verbatim": "So how does Spokes actually work?",
+      "display": "So how does Spokes actually work?",
+      "search": "so how does spokes actually work?",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:71",
+      "startMs": 342560,
+      "endMs": 345520,
+      "verbatim": "So fundamentally how Spokes works is it's pretty easy.",
+      "display": "So fundamentally how Spokes works is it's pretty easy.",
+      "search": "so fundamentally how spokes works is it's pretty easy.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:72",
+      "startMs": 345520,
+      "endMs": 349600,
+      "verbatim": "There will be a minimum of three machines that contain your repository.",
+      "display": "There will be a minimum of three machines that contain your repository.",
+      "search": "there will be a minimum of three machines that contain your repository.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:73",
+      "startMs": 349600,
+      "endMs": 357040,
+      "verbatim": "When you want to read, any network request can go to any one of these machines, get off the actual contents, and bring that down.",
+      "display": "When you want to read, any network request can go to any one of these machines, get off the actual contents, and bring that down.",
+      "search": "when you want to read, any network request can go to any one of these machines, get off the actual contents, and bring that down.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:74",
+      "startMs": 357040,
+      "endMs": 370560,
+      "verbatim": "That is because they're all consistently kept in sync, which means for every repository that you actually have, it needs to have a routing table stored in a database that says, hey, here's where your three machines minimum are located.",
+      "display": "That is because they're all consistently kept in sync, which means for every repository that you actually have, it needs to have a routing table stored in a database that says, hey, here's where your three machines minimum are located.",
+      "search": "that is because they're all consistently kept in sync, which means for every repository that you actually have, it needs to have a routing table stored in a database that says, hey, here's where your three machines minimum are located.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:75",
+      "startMs": 370560,
+      "endMs": 376640,
+      "verbatim": "As your uh repository grows and as the reads grow, say from CI, you may need more replicas.",
+      "display": "As your uh repository grows and as the reads grow, say from CI, you may need more replicas.",
+      "search": "as your uh repository grows and as the reads grow, say from ci, you may need more replicas.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:76",
+      "startMs": 376640,
+      "endMs": 384560,
+      "verbatim": "But writes are a little bit different because the first thing that happens is we need to send up the actual pack files to each one of the replicas.",
+      "display": "But writes are a little bit different because the first thing that happens is we need to send up the actual pack files to each one of the replicas.",
+      "search": "but writes are a little bit different because the first thing that happens is we need to send up the actual pack files to each one of the replicas.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:77",
+      "startMs": 384560,
+      "endMs": 388320,
+      "verbatim": "After that, we need to say, hey, can you actually store this?",
+      "display": "After that, we need to say, hey, can you actually store this?",
+      "search": "after that, we need to say, hey, can you actually store this?",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:78",
+      "startMs": 388320,
+      "endMs": 389680,
+      "verbatim": "Is this pack file in sync?",
+      "display": "Is this pack file in sync?",
+      "search": "is this pack file in sync?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:79",
+      "startMs": 389680,
+      "endMs": 390800,
+      "verbatim": "Will everything actually work out?",
+      "display": "Will everything actually work out?",
+      "search": "will everything actually work out?",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:80",
+      "startMs": 390800,
+      "endMs": 392080,
+      "verbatim": "And that's the prepare stage.",
+      "display": "And that's the prepare stage.",
+      "search": "and that's the prepare stage.",
+      "confidence": 0.991
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:81",
+      "startMs": 392080,
+      "endMs": 393760,
+      "verbatim": "The next thing is called a lock stage.",
+      "display": "The next thing is called a lock stage.",
+      "search": "the next thing is called a lock stage.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:82",
+      "startMs": 393760,
+      "endMs": 401600,
+      "verbatim": "If all the things come back or the majority of the repos come back saying yes, we can do this, then we will then lock all the ones that said yes to come back.",
+      "display": "If all the things come back or the majority of the repos come back saying yes, we can do this, then we will then lock all the ones that said yes to come back.",
+      "search": "if all the things come back or the majority of the repos come back saying yes, we can do this, then we will then lock all the ones that said yes to come back.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:83",
+      "startMs": 401600,
+      "endMs": 404480,
+      "verbatim": "And then after the lock request, you do a commit.",
+      "display": "And then after the lock request, you do a commit.",
+      "search": "and then after the lock request, you do a commit.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:84",
+      "startMs": 404480,
+      "endMs": 411200,
+      "verbatim": "The commit will then finalize the actual writing of your pack file, and boom, your repository is now at a new version.",
+      "display": "The commit will then finalize the actual writing of your pack file, and boom, your repository is now at a new version.",
+      "search": "the commit will then finalize the actual writing of your pack file, and boom, your repository is now at a new version.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:85",
+      "startMs": 411200,
+      "endMs": 413520,
+      "verbatim": "This is called a three-phase commit.",
+      "display": "This is called a three-phase commit.",
+      "search": "this is called a three-phase commit.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:86",
+      "startMs": 413520,
+      "endMs": 416160,
+      "verbatim": "Now there's something I didn't know about in distributed systems.",
+      "display": "Now there's something I didn't know about in distributed systems.",
+      "search": "now there's something i didn't know about in distributed systems.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:87",
+      "startMs": 416160,
+      "endMs": 421280,
+      "verbatim": "It's called tail at scale problem, the dreaded tail at scale problem.",
+      "display": "It's called tail at scale problem, the dreaded tail at scale problem.",
+      "search": "it's called tail at scale problem, the dreaded tail at scale problem.",
+      "confidence": 0.612
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:88",
+      "startMs": 421280,
+      "endMs": 426320,
+      "verbatim": "It's actually pretty easy to understand if you just pretend we have these five repositories right here.",
+      "display": "It's actually pretty easy to understand if you just pretend we have these five repositories right here.",
+      "search": "it's actually pretty easy to understand if you just pretend we have these five repositories right here.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:89",
+      "startMs": 426320,
+      "endMs": 430400,
+      "verbatim": "Well, first off, we have to send to each one of these the pack file.",
+      "display": "Well, first off, we have to send to each one of these the pack file.",
+      "search": "well, first off, we have to send to each one of these the pack file.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:90",
+      "startMs": 430400,
+      "endMs": 434480,
+      "verbatim": "After that, we have to say, hey, can you actually like do this pack file?",
+      "display": "After that, we have to say, hey, can you actually like do this pack file?",
+      "search": "after that, we have to say, hey, can you actually like do this pack file?",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:91",
+      "startMs": 434480,
+      "endMs": 436240,
+      "verbatim": "After that, we have to then set the lock.",
+      "display": "After that, we have to then set the lock.",
+      "search": "after that, we have to then set the lock.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:92",
+      "startMs": 436240,
+      "endMs": 438080,
+      "verbatim": "And then after that, we have to commit.",
+      "display": "And then after that, we have to commit.",
+      "search": "and then after that, we have to commit.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:93",
+      "startMs": 438080,
+      "endMs": 441120,
+      "verbatim": "And we also have to wait for responses each time.",
+      "display": "And we also have to wait for responses each time.",
+      "search": "and we also have to wait for responses each time.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:94",
+      "startMs": 441120,
+      "endMs": 448320,
+      "verbatim": "Now, the problem is that if you make five requests, you're probably gonna have reasonably good performance on all five requests.",
+      "display": "Now, the problem is that if you make five requests, you're probably gonna have reasonably good performance on all five requests.",
+      "search": "now, the problem is that if you make five requests, you're probably gonna have reasonably good performance on all five requests.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:95",
+      "startMs": 448320,
+      "endMs": 455120,
+      "verbatim": "But every single time you have to make more requests, there's a higher and higher chance you're going to have bad performance.",
+      "display": "But every single time you have to make more requests, there's a higher and higher chance you're going to have bad performance.",
+      "search": "but every single time you have to make more requests, there's a higher and higher chance you're going to have bad performance.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:96",
+      "startMs": 455120,
+      "endMs": 458000,
+      "verbatim": "Now, the performance is actually really easy to calculate.",
+      "display": "Now, the performance is actually really easy to calculate.",
+      "search": "now, the performance is actually really easy to calculate.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:97",
+      "startMs": 458000,
+      "endMs": 463680,
+      "verbatim": "It's one minus the percentile to the amount of requests you're going to make.",
+      "display": "It's one minus the percentile to the amount of requests you're going to make.",
+      "search": "it's one minus the percentile to the amount of requests you're going to make.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:98",
+      "startMs": 463680,
+      "endMs": 467840,
+      "verbatim": "And this is the percentage chance that that percentile is going to happen.",
+      "display": "And this is the percentage chance that that percentile is going to happen.",
+      "search": "and this is the percentage chance that that percentile is going to happen.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:99",
+      "startMs": 467840,
+      "endMs": 487440,
+      "verbatim": "So now we had to make four requests per node for a three-phase commit to happen, which means if you had five nodes, that is 20 commits, that means you have an 18.2% chance to have a P99 slowness on one of those routes, which could be hundreds of milliseconds, potentially seconds long.",
+      "display": "So now we had to make four requests per node for a three-phase commit to happen, which means if you had five nodes, that is 20 commits, that means you have an 18.2% chance to have a P99 slowness on one of those routes, which could be hundreds of milliseconds, potentially seconds long.",
+      "search": "so now we had to make four requests per node for a three-phase commit to happen, which means if you had five nodes, that is 20 commits, that means you have an 18.2% chance to have a p99 slowness on one of those routes, which could be hundreds of milliseconds, potentially seconds long.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:100",
+      "startMs": 487440,
+      "endMs": 491280,
+      "verbatim": "And this obviously only becomes worse as the repository becomes more popular.",
+      "display": "And this obviously only becomes worse as the repository becomes more popular.",
+      "search": "and this obviously only becomes worse as the repository becomes more popular.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:101",
+      "startMs": 491280,
+      "endMs": 497360,
+      "verbatim": "So let's just take the recent Deep Seek uh repository that became the fastest start repo of all time.",
+      "display": "So let's just take the recent Deep Seek uh repository that became the fastest start repo of all time.",
+      "search": "so let's just take the recent deep seek uh repository that became the fastest start repo of all time.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:102",
+      "startMs": 497360,
+      "endMs": 501520,
+      "verbatim": "It probably has like many, many replicants.",
+      "display": "It probably has like many, many replicants.",
+      "search": "it probably has like many, many replicants.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:103",
+      "startMs": 501520,
+      "endMs": 513920,
+      "verbatim": "So that means it could potentially be doing 200 requests for a three-phase commit, which means that 86% of the time you're gonna be hitting these really bad long request paths along your three-phase commit.",
+      "display": "So that means it could potentially be doing 200 requests for a three-phase commit, which means that 86% of the time you're gonna be hitting these really bad long request paths along your three-phase commit.",
+      "search": "so that means it could potentially be doing 200 requests for a three-phase commit, which means that 86% of the time you're gonna be hitting these really bad long request paths along your three-phase commit.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:104",
+      "startMs": 513920,
+      "endMs": 517040,
+      "verbatim": "So it's pretty much guaranteed to be slow always.",
+      "display": "So it's pretty much guaranteed to be slow always.",
+      "search": "so it's pretty much guaranteed to be slow always.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:105",
+      "startMs": 517040,
+      "endMs": 519840,
+      "verbatim": "Reads super fast, writes super slow.",
+      "display": "Reads super fast, writes super slow.",
+      "search": "reads super fast, writes super slow.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:106",
+      "startMs": 519840,
+      "endMs": 521360,
+      "verbatim": "So that's the problem with spokes.",
+      "display": "So that's the problem with spokes.",
+      "search": "so that's the problem with spokes.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:107",
+      "startMs": 521360,
+      "endMs": 524160,
+      "verbatim": "This is the problem that makes things difficult to host Git.",
+      "display": "This is the problem that makes things difficult to host Git.",
+      "search": "this is the problem that makes things difficult to host git.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:108",
+      "startMs": 524160,
+      "endMs": 526240,
+      "verbatim": "And this is the industry standard.",
+      "display": "And this is the industry standard.",
+      "search": "and this is the industry standard.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:109",
+      "startMs": 526240,
+      "endMs": 529600,
+      "verbatim": "It makes reads really easy, which is great for CI.",
+      "display": "It makes reads really easy, which is great for CI.",
+      "search": "it makes reads really easy, which is great for ci.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:110",
+      "startMs": 529600,
+      "endMs": 535040,
+      "verbatim": "It's great for a lot of cases, but it makes write increasingly hard as repositories are more popular.",
+      "display": "It's great for a lot of cases, but it makes write increasingly hard as repositories are more popular.",
+      "search": "it's great for a lot of cases, but it makes write increasingly hard as repositories are more popular.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:111",
+      "startMs": 535040,
+      "endMs": 537600,
+      "verbatim": "All right, so how do we solve the scale problem?",
+      "display": "All right, so how do we solve the scale problem?",
+      "search": "all right, so how do we solve the scale problem?",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:112",
+      "startMs": 537600,
+      "endMs": 540640,
+      "verbatim": "We've identified that hosting Git is hard, right?",
+      "display": "We've identified that hosting Git is hard, right?",
+      "search": "we've identified that hosting git is hard, right?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:113",
+      "startMs": 540640,
+      "endMs": 542400,
+      "verbatim": "But how how are we gonna solve it?",
+      "display": "But how how are we gonna solve it?",
+      "search": "but how how are we gonna solve it?",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:114",
+      "startMs": 542400,
+      "endMs": 546720,
+      "verbatim": "Well, it seems like this is a recurring theme in the things I've seen.",
+      "display": "Well, it seems like this is a recurring theme in the things I've seen.",
+      "search": "well, it seems like this is a recurring theme in the things i've seen.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:115",
+      "startMs": 546720,
+      "endMs": 548320,
+      "verbatim": "The answer, S3.",
+      "display": "The answer, S3.",
+      "search": "the answer, s3.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:116",
+      "startMs": 548320,
+      "endMs": 550560,
+      "verbatim": "Well, it's actually more complicated than just S3.",
+      "display": "Well, it's actually more complicated than just S3.",
+      "search": "well, it's actually more complicated than just s3.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:117",
+      "startMs": 550560,
+      "endMs": 552080,
+      "verbatim": "It uses something called a wall.",
+      "display": "It uses something called a wall.",
+      "search": "it uses something called a wall.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:118",
+      "startMs": 552080,
+      "endMs": 556880,
+      "verbatim": "And when I say a wall, of course, I don't mean the crazy things that your uncle says on Facebook.",
+      "display": "And when I say a wall, of course, I don't mean the crazy things that your uncle says on Facebook.",
+      "search": "and when i say a wall, of course, i don't mean the crazy things that your uncle says on facebook.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:119",
+      "startMs": 556880,
+      "endMs": 557760,
+      "verbatim": "Not that wall.",
+      "display": "Not that wall.",
+      "search": "not that wall.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:120",
+      "startMs": 557760,
+      "endMs": 560320,
+      "verbatim": "What I'm actually saying is a write-ahead log.",
+      "display": "What I'm actually saying is a write-ahead log.",
+      "search": "what i'm actually saying is a write-ahead log.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:121",
+      "startMs": 560320,
+      "endMs": 568400,
+      "verbatim": "A write-ahead log is simply just all the write operations that have happened, so you can reconstruct Git from that series of writes.",
+      "display": "A write-ahead log is simply just all the write operations that have happened, so you can reconstruct Git from that series of writes.",
+      "search": "a write-ahead log is simply just all the write operations that have happened, so you can reconstruct git from that series of writes.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:122",
+      "startMs": 568400,
+      "endMs": 571600,
+      "verbatim": "Postgres uses this, Squeal Lite uses this.",
+      "display": "Postgres uses this, Squeal Lite uses this.",
+      "search": "postgres uses this, squeal lite uses this.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:123",
+      "startMs": 571600,
+      "endMs": 577920,
+      "verbatim": "So by using a write ahead log, you can imagine that all of these writes, all these pack files are being stored in this log.",
+      "display": "So by using a write ahead log, you can imagine that all of these writes, all these pack files are being stored in this log.",
+      "search": "so by using a write ahead log, you can imagine that all of these writes, all these pack files are being stored in this log.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:124",
+      "startMs": 577920,
+      "endMs": 583120,
+      "verbatim": "They're being stored in linear order, and it's actually super easy to append to because it's just like a bump allocator, right?",
+      "display": "They're being stored in linear order, and it's actually super easy to append to because it's just like a bump allocator, right?",
+      "search": "they're being stored in linear order, and it's actually super easy to append to because it's just like a bump allocator, right?",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:125",
+      "startMs": 583120,
+      "endMs": 586640,
+      "verbatim": "And for a server to come up and be able to go, okay, well, what's my git state?",
+      "display": "And for a server to come up and be able to go, okay, well, what's my git state?",
+      "search": "and for a server to come up and be able to go, okay, well, what's my git state?",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:126",
+      "startMs": 586640,
+      "endMs": 589120,
+      "verbatim": "It just simply needs to read the right log.",
+      "display": "It just simply needs to read the right log.",
+      "search": "it just simply needs to read the right log.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:127",
+      "startMs": 589120,
+      "endMs": 591760,
+      "verbatim": "And boom, that's its git state.",
+      "display": "And boom, that's its git state.",
+      "search": "and boom, that's its git state.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:128",
+      "startMs": 591760,
+      "endMs": 593680,
+      "verbatim": "So does that mean there's no consensus?",
+      "display": "So does that mean there's no consensus?",
+      "search": "so does that mean there's no consensus?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:129",
+      "startMs": 593680,
+      "endMs": 595360,
+      "verbatim": "Yeah, there's no more consensus.",
+      "display": "Yeah, there's no more consensus.",
+      "search": "yeah, there's no more consensus.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:130",
+      "startMs": 595360,
+      "endMs": 596320,
+      "verbatim": "We use S3.",
+      "display": "We use S3.",
+      "search": "we use s3.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:131",
+      "startMs": 596320,
+      "endMs": 597920,
+      "verbatim": "Well, which one's the primary node?",
+      "display": "Well, which one's the primary node?",
+      "search": "well, which one's the primary node?",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:132",
+      "startMs": 597920,
+      "endMs": 599120,
+      "verbatim": "It doesn't matter.",
+      "display": "It doesn't matter.",
+      "search": "it doesn't matter.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:133",
+      "startMs": 599120,
+      "endMs": 601520,
+      "verbatim": "Any node can serve it out.",
+      "display": "Any node can serve it out.",
+      "search": "any node can serve it out.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:134",
+      "startMs": 601520,
+      "endMs": 608800,
+      "verbatim": "Now, obviously, you don't just want to serve the same repository from random different nodes because that'd be super inefficient because each one would have to restore itself from the wall.",
+      "display": "Now, obviously, you don't just want to serve the same repository from random different nodes because that'd be super inefficient because each one would have to restore itself from the wall.",
+      "search": "now, obviously, you don't just want to serve the same repository from random different nodes because that'd be super inefficient because each one would have to restore itself from the wall.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:135",
+      "startMs": 608800,
+      "endMs": 611680,
+      "verbatim": "So they use something called rendezvous hashing.",
+      "display": "So they use something called rendezvous hashing.",
+      "search": "so they use something called rendezvous hashing.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:136",
+      "startMs": 611680,
+      "endMs": 614320,
+      "verbatim": "Now, rendezvous hashing, by the way, very French.",
+      "display": "Now, rendezvous hashing, by the way, very French.",
+      "search": "now, rendezvous hashing, by the way, very french.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:137",
+      "startMs": 617600,
+      "endMs": 627040,
+      "verbatim": "Michel is an extremely simple algorithm to allow two parties that don't know about each other to where they need to meet or where they need to rendezvous.",
+      "display": "Michel is an extremely simple algorithm to allow two parties that don't know about each other to where they need to meet or where they need to rendezvous.",
+      "search": "michel is an extremely simple algorithm to allow two parties that don't know about each other to where they need to meet or where they need to rendezvous.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:138",
+      "startMs": 627040,
+      "endMs": 635120,
+      "verbatim": "Effectively, you give it like a unique string and it will give you out servers plus a score, and whatever is the highest score is the server you take.",
+      "display": "Effectively, you give it like a unique string and it will give you out servers plus a score, and whatever is the highest score is the server you take.",
+      "search": "effectively, you give it like a unique string and it will give you out servers plus a score, and whatever is the highest score is the server you take.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:139",
+      "startMs": 635120,
+      "endMs": 636080,
+      "verbatim": "Pretty straightforward.",
+      "display": "Pretty straightforward.",
+      "search": "pretty straightforward.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:140",
+      "startMs": 636080,
+      "endMs": 643920,
+      "verbatim": "And this is continuity that effectively uses a wall on S3 to be able to store the state of Git and then to be able to restore it at any point on any machine.",
+      "display": "And this is continuity that effectively uses a wall on S3 to be able to store the state of Git and then to be able to restore it at any point on any machine.",
+      "search": "and this is continuity that effectively uses a wall on s3 to be able to store the state of git and then to be able to restore it at any point on any machine.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:141",
+      "startMs": 643920,
+      "endMs": 649280,
+      "verbatim": "There's no more needing for kind of reconciliation between two different nodes to make sure everything keeps in sync.",
+      "display": "There's no more needing for kind of reconciliation between two different nodes to make sure everything keeps in sync.",
+      "search": "there's no more needing for kind of reconciliation between two different nodes to make sure everything keeps in sync.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:142",
+      "startMs": 649280,
+      "endMs": 652240,
+      "verbatim": "No longer need to vote, hey, can this right actually happen?",
+      "display": "No longer need to vote, hey, can this right actually happen?",
+      "search": "no longer need to vote, hey, can this right actually happen?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:143",
+      "startMs": 652240,
+      "endMs": 656560,
+      "verbatim": "You don't have to have consensus, you don't have to have a whole bunch of replicas laying around.",
+      "display": "You don't have to have consensus, you don't have to have a whole bunch of replicas laying around.",
+      "search": "you don't have to have consensus, you don't have to have a whole bunch of replicas laying around.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:144",
+      "startMs": 656560,
+      "endMs": 666800,
+      "verbatim": "That means the 25 million repositories that are created every single month don't actually have to have three machines each, they can just have one, they could have zero.",
+      "display": "That means the 25 million repositories that are created every single month don't actually have to have three machines each, they can just have one, they could have zero.",
+      "search": "that means the 25 million repositories that are created every single month don't actually have to have three machines each, they can just have one, they could have zero.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:145",
+      "startMs": 666800,
+      "endMs": 675840,
+      "verbatim": "Nothing could exist because they don't need to exist because the actual state of the Git repository is up on S3 and can be restored in a matter of milliseconds.",
+      "display": "Nothing could exist because they don't need to exist because the actual state of the Git repository is up on S3 and can be restored in a matter of milliseconds.",
+      "search": "nothing could exist because they don't need to exist because the actual state of the git repository is up on s3 and can be restored in a matter of milliseconds.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:146",
+      "startMs": 675840,
+      "endMs": 679040,
+      "verbatim": "You really should go read the blog for all the technical details.",
+      "display": "You really should go read the blog for all the technical details.",
+      "search": "you really should go read the blog for all the technical details.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:147",
+      "startMs": 679040,
+      "endMs": 681040,
+      "verbatim": "It is super, super duper awesome.",
+      "display": "It is super, super duper awesome.",
+      "search": "it is super, super duper awesome.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:148",
+      "startMs": 681040,
+      "endMs": 686960,
+      "verbatim": "It even goes into like how they keep the wall log actually pretty tight because they have to do compaction.",
+      "display": "It even goes into like how they keep the wall log actually pretty tight because they have to do compaction.",
+      "search": "it even goes into like how they keep the wall log actually pretty tight because they have to do compaction.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:149",
+      "startMs": 686960,
+      "endMs": 689840,
+      "verbatim": "Also, I didn't even know there was something called compaction in Git.",
+      "display": "Also, I didn't even know there was something called compaction in Git.",
+      "search": "also, i didn't even know there was something called compaction in git.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:150",
+      "startMs": 689840,
+      "endMs": 699840,
+      "verbatim": "It effectively takes a bunch of pack files, make a big pack file, and with super duper fast NVMe storage and S3, they can do 16,000 commits per minute.",
+      "display": "It effectively takes a bunch of pack files, make a big pack file, and with super duper fast NVMe storage and S3, they can do 16,000 commits per minute.",
+      "search": "it effectively takes a bunch of pack files, make a big pack file, and with super duper fast nvme storage and s3, they can do 16,000 commits per minute.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:151",
+      "startMs": 699840,
+      "endMs": 702240,
+      "verbatim": "That's that's that's a lot of commands.",
+      "display": "That's that's that's a lot of commands.",
+      "search": "that's that's that's a lot of commands.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:152",
+      "startMs": 702240,
+      "endMs": 705520,
+      "verbatim": "Learning about the right ahead log and pack files and stuff like that.",
+      "display": "Learning about the right ahead log and pack files and stuff like that.",
+      "search": "learning about the right ahead log and pack files and stuff like that.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:153",
+      "startMs": 705760,
+      "endMs": 708240,
+      "verbatim": "This was a really amazing article.",
+      "display": "This was a really amazing article.",
+      "search": "this was a really amazing article.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:154",
+      "startMs": 708240,
+      "endMs": 711120,
+      "verbatim": "I had such a good time.",
+      "display": "I had such a good time.",
+      "search": "i had such a good time.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:155",
+      "startMs": 711120,
+      "endMs": 719360,
+      "verbatim": "I just I I feel smarter, and I also feel much more confident that, dude, I could totally do this.",
+      "display": "I just I I feel smarter, and I also feel much more confident that, dude, I could totally do this.",
+      "search": "i just i i feel smarter, and i also feel much more confident that, dude, i could totally do this.",
+      "confidence": 0.711
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:156",
+      "startMs": 719360,
+      "endMs": 720640,
+      "verbatim": "I could do this.",
+      "display": "I could do this.",
+      "search": "i could do this.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:157",
+      "startMs": 720640,
+      "endMs": 722800,
+      "verbatim": "I you know what, you know what?",
+      "display": "I you know what, you know what?",
+      "search": "i you know what, you know what?",
+      "confidence": 0.408
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:158",
+      "startMs": 722800,
+      "endMs": 725360,
+      "verbatim": "I feel like I could make that truly.",
+      "display": "I feel like I could make that truly.",
+      "search": "i feel like i could make that truly.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:159",
+      "startMs": 725360,
+      "endMs": 727280,
+      "verbatim": "The problem of confidence.",
+      "display": "The problem of confidence.",
+      "search": "the problem of confidence.",
+      "confidence": 0.645
+    },
+    {
+      "segmentId": "youtube:AFQW-b2WaRU:segment:160",
+      "startMs": 727440,
+      "endMs": 729000,
+      "verbatim": "Feel like you can do anything in gin.",
+      "display": "Feel like you can do anything in gin.",
+      "search": "feel like you can do anything in gin.",
+      "confidence": 0.702
+    }
+  ]
+}
