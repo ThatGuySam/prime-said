@@ -13,7 +13,7 @@ This is a one-time dashboard task after Phase 0 adds a working Astro build and l
 7. Configure build command `bun run build`.
 8. Configure production deploy command `bunx wrangler deploy`.
 9. Configure preview deploy command `bunx wrangler versions upload`.
-10. Add build variable `BUN_VERSION=1.2.15` until the repository intentionally upgrades it.
+10. Add build variables `BUN_VERSION=1.2.15` and `NODE_VERSION=24.18.0` until the repository intentionally upgrades them.
 11. Save and deploy; open the generated `workers.dev` URL and verify the build details/version preview.
 
 Do not add a Cloudflare API token to GitHub Actions. Native Workers Builds manages Cloudflare deployment authorization.

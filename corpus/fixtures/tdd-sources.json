@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "reviewStatus": "seed-unverified",
+  "note": "User-supplied source/timestamp seeds. Verify IDs, exact transcript, and moment boundaries during Phase 0/1 before assigning stable moment IDs.",
+  "sources": [
+    {
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "title": "The Lies Of 100% Code Coverage | Prime Reacts",
+      "timestampMs": 1242000,
+      "knownWording": "Loves driving implementation via test"
+    },
+    {
+      "sourceId": "youtube:IInciWyU74U",
+      "title": "Lets Chat About Unit Tests",
+      "timestampMs": 380000,
+      "knownWording": null
+    },
+    {
+      "sourceId": "youtube:20SkiBvylyM",
+      "title": "Fear And Software",
+      "timestampMs": 283000,
+      "knownWording": "I usually use tests as a way to Drive Development"
+    }
+  ]
+}

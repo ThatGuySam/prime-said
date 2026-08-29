@@ -36,6 +36,6 @@ Runtime and model claims come from primary yt-dlp, NVIDIA/Hugging Face, and GitH
 - [yt-dlp README and update channels](https://github.com/yt-dlp/yt-dlp/blob/master/README.md)
 - [NVIDIA Parakeet TDT 0.6B v3 model card](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)
 - [MLX Parakeet TDT 0.6B v3](https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v3)
-- [parakeet-mlx repository](https://github.com/EliFuzz/parakeet-mlx)
+- [parakeet-mlx repository](https://github.com/senstella/parakeet-mlx)
 - [GitHub Actions dependency caching](https://docs.github.com/en/actions/reference/workflows-and-actions/dependency-caching)
 - [GitHub Actions billing/cache allowance](https://docs.github.com/en/billing/concepts/product-billing/github-actions)

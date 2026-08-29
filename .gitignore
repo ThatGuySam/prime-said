@@ -10,5 +10,4 @@ node_modules/
 artifacts/
 downloads/
 models/
-corpus/generated/embeddings/
-corpus/generated/indexes/
+corpus/generated/

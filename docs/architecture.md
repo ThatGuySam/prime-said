@@ -42,7 +42,8 @@ Cloudflare Workers Builds setup:
 5. Set deploy command to `bunx wrangler deploy`.
 6. Set preview deploy command to `bunx wrangler versions upload`.
 7. Pin `BUN_VERSION=1.2.15` initially to match `package.json`; upgrade intentionally with CI.
-8. Save and deploy. Workers Builds manages its Cloudflare credential, so GitHub Actions needs no Cloudflare token.
+8. Pin `NODE_VERSION=24.18.0` to match CI and Astro 7's supported runtime.
+9. Save and deploy. Workers Builds manages its Cloudflare credential, so GitHub Actions needs no Cloudflare token.
 
 Workers Builds currently includes Bun and permits a `BUN_VERSION` override. Build and deploy commands live in the Cloudflare dashboard; do not assume custom Workers Builds settings in `wrangler.jsonc` control them.
 

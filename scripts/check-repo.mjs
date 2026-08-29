@@ -1,11 +1,15 @@
-import { readdir, readFile, stat } from "node:fs/promises";
-import { join, relative } from "node:path";
+import { execFileSync } from "node:child_process";
+import { readFile, stat } from "node:fs/promises";
+import { join } from "node:path";
 
 const root = join(import.meta.dirname, "..");
 const required = [
   "README.md",
   "DATA_NOTICE.md",
+  "bun.lock",
+  "astro.config.ts",
   "wrangler.jsonc",
+  "src/pages/index.astro",
   "docs/prd.md",
   "docs/architecture.md",
   "docs/data-model.md",
@@ -15,7 +19,8 @@ const required = [
   "docs/ux.md",
   "docs/seo-attribution-takedown.md",
   "docs/implementation-plan.md",
-  "docs/sol-ultra-handoff.md"
+  "docs/sol-ultra-handoff.md",
+  "docs/progress.md"
 ];
 
 const errors = [];
@@ -27,23 +32,31 @@ for (const path of required) {
   }
 }
 
-async function walk(directory) {
-  const entries = await readdir(directory, { withFileTypes: true });
-  const files = [];
-  for (const entry of entries) {
-    if ([".git", "node_modules", "dist", ".cache"].includes(entry.name)) continue;
-    const path = join(directory, entry.name);
-    if (entry.isDirectory()) files.push(...await walk(path));
-    else files.push(path);
-  }
-  return files;
-}
+const repositoryFiles = execFileSync(
+  "git",
+  ["ls-files", "--cached", "--others", "--exclude-standard", "-z"],
+  { cwd: root, encoding: "utf8" },
+).split("\0").filter(Boolean);
 
-for (const path of await walk(root)) {
-  const name = relative(root, path);
+const forbiddenPaths = [
+  /^\.astro\//,
+  /^\.wrangler\//,
+  /^artifacts\//,
+  /^dist\//,
+  /^downloads\//,
+  /^models\//,
+  /^corpus\/generated\//,
+];
+const forbiddenExtensions = /\.(?:aac|flac|m4a|mkv|mov|mp3|mp4|onnx|safetensors|wav|webm)$/i;
+
+for (const name of repositoryFiles) {
+  const path = join(root, name);
   const info = await stat(path);
   if (info.size > 16 * 1024 * 1024) {
-    errors.push(`${name} is ${(info.size / 1024 / 1024).toFixed(1)} MiB; hosted assets must be sharded to 16 MiB or less.`);
+    errors.push(`${name} is ${(info.size / 1024 / 1024).toFixed(1)} MiB; repository files must stay at or below 16 MiB.`);
+  }
+  if (forbiddenPaths.some((pattern) => pattern.test(name)) || forbiddenExtensions.test(name)) {
+    errors.push(`Forbidden generated, model, or media artifact in repository: ${name}`);
   }
   if (name.endsWith(".json")) {
     try {

@@ -5,8 +5,26 @@
   "type": "module",
   "packageManager": "bun@1.2.15",
   "scripts": {
-    "check": "bun scripts/check-repo.mjs",
+    "dev": "astro dev",
+    "build": "astro build && bun scripts/report-assets.ts",
+    "preview": "astro preview",
+    "check": "bun run check:repo && bun run check:corpus && astro check",
+    "check:repo": "bun scripts/check-repo.mjs",
+    "check:corpus": "bun scripts/validate-corpus.ts",
+    "test": "bun test",
+    "assets:report": "bun scripts/report-assets.ts",
+    "benchmark:generate": "bun scripts/generate-synthetic-vectors.ts",
+    "deploy:dry-run": "bunx wrangler deploy --dry-run",
     "deploy": "bunx wrangler deploy",
     "deploy:preview": "bunx wrangler versions upload"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@types/bun": "1.2.15",
+    "ajv": "8.20.0",
+    "ajv-formats": "3.0.1",
+    "astro": "7.2.9",
+    "typescript": "5.9.3",
+    "wrangler": "4.127.1"
   }
 }

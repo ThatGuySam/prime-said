@@ -6,7 +6,7 @@ The first public demo is the playful claim that Prime is secretly a test-driven-
 
 ## Status
 
-This repository currently contains the decision-ready product and engineering specification. Implementation starts with the vertical slice in [docs/implementation-plan.md](docs/implementation-plan.md).
+Phase 0 implementation is in progress. The repository contains a minimal static Astro scaffold, the decision-ready product and engineering specification, and the first deterministic validation and benchmark tooling. Search and ingestion are not implemented yet; progress and measured gates live in [docs/progress.md](docs/progress.md).
 
 ## Non-negotiable constraints
 
@@ -39,10 +39,14 @@ This repository currently contains the decision-ready product and engineering sp
 ## Quick checks
 
 ```sh
+bun install --frozen-lockfile
 bun run check
+bun run test
+bun run build
+bun run deploy:dry-run
 ```
 
-The root [`wrangler.jsonc`](wrangler.jsonc) is the production contract for a future Astro `dist/` build. Cloudflare's native Git integration should use `bun run build` and `bunx wrangler deploy` after the implementation adds the Astro build script and lockfile.
+The root [`wrangler.jsonc`](wrangler.jsonc) publishes Astro's static `dist/` output through Workers Static Assets. Cloudflare's native Git integration uses `bun run build` and `bunx wrangler deploy`; GitHub Actions does not hold a Cloudflare deployment token.
 
 ## Licensing
 
