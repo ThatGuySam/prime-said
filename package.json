@@ -1,0 +1,12 @@
+{
+  "name": "prime-said",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.2.15",
+  "scripts": {
+    "check": "bun scripts/check-repo.mjs",
+    "deploy": "bunx wrangler deploy",
+    "deploy:preview": "bunx wrangler versions upload"
+  }
+}

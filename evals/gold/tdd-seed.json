@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "status": "seed-unverified",
+  "note": "User-supplied source/timestamp seeds. Verify IDs, exact transcript, and moment boundaries during Phase 0/1 before assigning stable moment IDs.",
+  "sources": [
+    {
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "title": "The Lies Of 100% Code Coverage | Prime Reacts",
+      "timestampMs": 1242000,
+      "knownWording": "Loves driving implementation via test"
+    },
+    {
+      "sourceId": "youtube:IInciWyU74U",
+      "title": "Lets Chat About Unit Tests",
+      "timestampMs": 380000,
+      "knownWording": null
+    },
+    {
+      "sourceId": "youtube:20SkiBvylyM",
+      "title": "Fear And Software",
+      "timestampMs": 283000,
+      "knownWording": "I usually use tests as a way to Drive Development"
+    }
+  ],
+  "cases": [
+    {
+      "caseId": "tdd-exact-tests-drive-development",
+      "query": "I usually use tests as a way to drive development",
+      "queryClass": "near-exact",
+      "judgments": [{ "target": "youtube:20SkiBvylyM@283000", "relevance": 3 }],
+      "provenance": "human-seed",
+      "reviewStatus": "seed-unverified"
+    },
+    {
+      "caseId": "tdd-paraphrase-development",
+      "query": "uses tests to drive development",
+      "queryClass": "paraphrase",
+      "judgments": [
+        { "target": "youtube:20SkiBvylyM@283000", "relevance": 3 },
+        { "target": "youtube:S_7SE_Uzk-I@1242000", "relevance": 2 }
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "seed-unverified"
+    },
+    {
+      "caseId": "tdd-topic-testing-first",
+      "query": "testing first guides the implementation",
+      "queryClass": "topic",
+      "judgments": [
+        { "target": "youtube:S_7SE_Uzk-I@1242000", "relevance": 3 },
+        { "target": "youtube:20SkiBvylyM@283000", "relevance": 2 },
+        { "target": "youtube:IInciWyU74U@380000", "relevance": 1 }
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "seed-unverified"
+    },
+    {
+      "caseId": "tdd-stretch-stan",
+      "query": "Prime secretly is a test-driven development stan",
+      "queryClass": "stretch",
+      "judgments": [
+        { "target": "youtube:S_7SE_Uzk-I@1242000", "relevance": 2 },
+        { "target": "youtube:20SkiBvylyM@283000", "relevance": 2 }
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "seed-unverified",
+      "notes": "Measure but do not make an MVP hard gate; resolving the characterization may exceed a small embedding model."
+    }
+  ]
+}

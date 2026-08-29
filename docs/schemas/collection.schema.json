@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/collection.schema.json",
+  "title": "Prime Said collection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "collectionId", "title", "items"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "collectionId": { "type": "string" },
+    "title": { "type": "string", "minLength": 1, "maxLength": 120 },
+    "note": { "type": "string", "maxLength": 1000 },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 100,
+      "items": {
+        "type": "object",
+        "required": ["momentId"],
+        "properties": {
+          "momentId": { "type": "string" },
+          "preferredAppearanceId": { "type": ["string", "null"] },
+          "trimStartMs": { "type": ["integer", "null"], "minimum": 0 },
+          "trimEndMs": { "type": ["integer", "null"], "minimum": 1 },
+          "note": { "type": "string", "maxLength": 280 }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

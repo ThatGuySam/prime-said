@@ -1,0 +1,8 @@
+{
+  "bun": "1.2.15",
+  "denoPurpose": "yt-dlp EJS runtime only",
+  "parakeetModel": "mlx-community/parakeet-tdt-0.6b-v3",
+  "parakeetBaseModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "ytDlpPolicy": "Pin the last verified official nightly in the implementation lockfile; retry latest nightly and official master only on classified extraction failure.",
+  "notes": "Pin exact Deno, yt-dlp, model revision, and Python/MLX package versions in the first ingestion implementation PR after a known-good end-to-end transcript is produced."
+}

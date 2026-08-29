@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/appearance.schema.json",
+  "title": "Prime Said appearance",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["appearanceId", "sourceId", "startMs", "endMs", "kind", "matchConfidence"],
+  "properties": {
+    "appearanceId": { "type": "string", "pattern": "^a1_[A-Za-z0-9_-]+$" },
+    "sourceId": { "type": "string" },
+    "startMs": { "type": "integer", "minimum": 0 },
+    "endMs": { "type": "integer", "minimum": 1 },
+    "kind": { "enum": ["full-context", "excerpt", "mirror", "compilation", "unknown"] },
+    "matchConfidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "directUrl": { "type": "string", "format": "uri" },
+    "available": { "type": "boolean" },
+    "evidence": { "type": "array", "items": { "enum": ["platform-id", "transcript-shingle", "audio-fingerprint", "manual"] }, "uniqueItems": true }
+  }
+}

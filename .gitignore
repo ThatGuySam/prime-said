@@ -1,0 +1,14 @@
+dist/
+.astro/
+node_modules/
+.wrangler/
+.DS_Store
+*.log
+
+# Reproducible, uncommitted ingestion/build artifacts
+.cache/
+artifacts/
+downloads/
+models/
+corpus/generated/embeddings/
+corpus/generated/indexes/

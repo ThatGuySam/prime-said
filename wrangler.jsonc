@@ -1,0 +1,8 @@
+{
+  // The Cloudflare dashboard Worker name must match this value exactly.
+  "name": "prime-said",
+  "compatibility_date": "2026-08-29",
+  "assets": {
+    "directory": "./dist"
+  }
+}

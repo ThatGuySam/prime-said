@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/source.schema.json",
+  "title": "Prime Said source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "sourceId", "platform", "platformId", "channel", "title", "canonicalUrl", "durationMs", "availability", "provenance"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "sourceId": { "type": "string", "pattern": "^[a-z]+:.+$" },
+    "platform": { "enum": ["youtube", "twitch"] },
+    "platformId": { "type": "string", "minLength": 1 },
+    "channel": {
+      "type": "object",
+      "required": ["id", "name", "category"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "category": { "enum": ["creator-official", "host-official", "approved-third-party"] }
+      },
+      "additionalProperties": false
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "description": { "type": "string" },
+    "canonicalUrl": { "type": "string", "format": "uri" },
+    "publishedAt": { "type": ["string", "null"], "format": "date-time" },
+    "durationMs": { "type": "integer", "minimum": 1 },
+    "availability": { "enum": ["available", "private", "deleted", "region-limited", "embed-disabled", "unknown"] },
+    "lastCheckedAt": { "type": ["string", "null"], "format": "date-time" },
+    "mediaFingerprint": { "type": ["string", "null"] },
+    "provenance": {
+      "type": "object",
+      "required": ["allowListId", "discoveredAt"],
+      "properties": {
+        "allowListId": { "type": "string" },
+        "discoveredAt": { "type": "string", "format": "date-time" },
+        "runId": { "type": "string" },
+        "contribution": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/moment.schema.json",
+  "title": "Prime Said moment",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "momentId", "quote", "appearances", "tags", "reviewStatus"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "momentId": { "type": "string", "pattern": "^m1_[A-Za-z0-9_-]+$" },
+    "quote": { "type": "string", "minLength": 1 },
+    "contextBefore": { "type": "string" },
+    "contextAfter": { "type": "string" },
+    "appearances": { "type": "array", "minItems": 1, "items": { "$ref": "appearance.schema.json" } },
+    "canonicalAppearanceId": { "type": ["string", "null"] },
+    "tags": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "entities": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "reviewStatus": { "enum": ["unreviewed", "reviewed", "disputed", "removed"] },
+    "provenance": { "enum": ["human-seed", "sol-proposed", "community", "pipeline"] }
+  }
+}

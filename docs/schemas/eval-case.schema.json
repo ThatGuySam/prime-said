@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/eval-case.schema.json",
+  "title": "Prime Said retrieval eval case",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["caseId", "query", "queryClass", "judgments", "provenance", "reviewStatus"],
+  "properties": {
+    "caseId": { "type": "string" },
+    "query": { "type": "string", "minLength": 1 },
+    "queryClass": { "enum": ["exact", "near-exact", "paraphrase", "topic", "entity", "stretch", "expected-no-result"] },
+    "judgments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["target", "relevance"],
+        "properties": {
+          "target": { "type": "string" },
+          "relevance": { "type": "integer", "minimum": 0, "maximum": 3 },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "requiredConcepts": { "type": "array", "items": { "type": "string" } },
+    "excludedConcepts": { "type": "array", "items": { "type": "string" } },
+    "provenance": { "enum": ["human-seed", "sol-proposed", "community", "failure-regression"] },
+    "reviewStatus": { "enum": ["seed-unverified", "reviewed", "rejected"] },
+    "notes": { "type": "string" }
+  }
+}
