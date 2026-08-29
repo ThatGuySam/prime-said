@@ -113,12 +113,28 @@ describe("canonical corpus conversion", () => {
         display: "Hello TypeScript.",
         search: "hello typescript.",
         confidence: 0.9,
-        words: [
-          { text: " Hello", startMs: 1_250, endMs: 1_750, confidence: 0.8 },
-          { text: " TypeScript.", startMs: 1_750, endMs: 3_500, confidence: 0.95 },
-        ],
       },
     ]);
+  });
+
+  test("keeps sentence timestamps when model tokens have zero duration", () => {
+    const metadata = parseSourceMetadata(METADATA);
+    const parakeet = parseParakeetOutput({
+      ...PARAKEET,
+      sentences: [{
+        ...PARAKEET.sentences[0],
+        tokens: [{ text: " token", start: 1.5, end: 1.5, duration: 0, confidence: 0.8 }],
+      }],
+    });
+    const records = buildCanonicalRecords({
+      metadata,
+      parakeet,
+      generatedAt: "2026-08-29T12:00:00.000Z",
+      runId: "fixture-run",
+      runtime: "parakeet-mlx 0.5.1",
+    });
+
+    expect(records.transcript.segments[0]).not.toHaveProperty("words");
   });
 
   test("rejects transcript timestamps beyond the source duration", () => {

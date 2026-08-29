@@ -149,12 +149,6 @@ interface CanonicalTranscript extends JsonObject {
     display: string;
     search: string;
     confidence: number;
-    words: Array<{
-      text: string;
-      startMs: number;
-      endMs: number;
-      confidence: number;
-    }>;
   }>;
 }
 
@@ -361,25 +355,6 @@ export function buildCanonicalRecords(options: {
       throw new Error(`sentence ${index} violates transcript timing invariants`);
     }
     previousEndMs = endMs;
-    let previousWordEndMs = startMs;
-    const words = sentence.tokens.map((token, tokenIndex) => {
-      const wordStartMs = Math.round(token.start * 1_000);
-      const wordEndMs = Math.round(token.end * 1_000);
-      if (
-        wordStartMs < previousWordEndMs
-        || wordEndMs > endMs
-        || wordEndMs <= wordStartMs
-      ) {
-        throw new Error(`token ${index}:${tokenIndex} falls outside its sentence`);
-      }
-      previousWordEndMs = wordEndMs;
-      return {
-        text: token.text,
-        startMs: wordStartMs,
-        endMs: wordEndMs,
-        confidence: clampConfidence(token.confidence),
-      };
-    });
     const verbatim = normalizeWhitespace(sentence.text);
     return {
       segmentId: `youtube:${options.metadata.platformId}:segment:${index + 1}`,
@@ -389,7 +364,6 @@ export function buildCanonicalRecords(options: {
       display: verbatim,
       search: normalizeSearchText(verbatim),
       confidence: clampConfidence(sentence.confidence),
-      words,
     };
   });
   const transcriptDigest = createHash("sha256")
