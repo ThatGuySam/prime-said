@@ -89,16 +89,16 @@ describe("external data parsing", () => {
 
   test("trims overlap tokens excluded from Parakeet sentence text", () => {
     const parsed = parseParakeetOutput({
-      text: "Exploratory testing.",
+      text: "Exploratory testing uncovers issues.",
       sentences: [{
-        text: " Exploratory testing.",
+        text: " Exploratory testing uncovers issues.",
         start: 1199.6,
         end: 1204.12,
         confidence: 0.9,
         tokens: [
           { text: "es", start: 1199.6, end: 1199.76, confidence: 0.3 },
           { text: " Exploratory", start: 1200.28, end: 1201, confidence: 0.9 },
-          { text: " testing.", start: 1201, end: 1204.12, confidence: 0.9 },
+          { text: " testing uncovers issu.", start: 1201, end: 1204.12, confidence: 0.9 },
         ],
       }],
     });

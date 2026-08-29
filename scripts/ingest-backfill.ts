@@ -361,6 +361,18 @@ function alignSentenceBounds(
       };
     }
   }
+  const comparisonLength = Math.min(24, target.length);
+  const targetPrefix = target.slice(0, comparisonLength);
+  for (let startIndex = 1; startIndex < tokens.length; startIndex += 1) {
+    const candidate = normalizeWhitespace(
+      tokens.slice(startIndex).map((token) => token.text).join(""),
+    );
+    if (candidate.slice(0, comparisonLength) !== targetPrefix) continue;
+    return {
+      start: tokens[startIndex]!.start,
+      end: tokens[tokens.length - 1]!.end,
+    };
+  }
   return null;
 }
 
