@@ -1,0 +1,1490 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_23c39b7a3c954dbbb8417f2e",
+  "sourceId": "youtube:2g63UXaynaA",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T18:54:36.774Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:1",
+      "startMs": 0,
+      "endMs": 18000,
+      "verbatim": "Hey, you know how TypeScript is uh it's a language in which is not really actually executed, JavaScript is, and so TypeScript is a language in which is transpiled, interpreted, and just in time compiled language that executes in usually an environment such as V8 or JavaScript Core or Quick.js Fabrice, huh?",
+      "display": "Hey, you know how TypeScript is uh it's a language in which is not really actually executed, JavaScript is, and so TypeScript is a language in which is transpiled, interpreted, and just in time compiled language that executes in usually an environment such as V8 or JavaScript Core or Quick.js Fabrice, huh?",
+      "search": "hey, you know how typescript is uh it's a language in which is not really actually executed, javascript is, and so typescript is a language in which is transpiled, interpreted, and just in time compiled language that executes in usually an environment such as v8 or javascript core or quick.js fabrice, huh?",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:2",
+      "startMs": 18000,
+      "endMs": 19760,
+      "verbatim": "Recipient of programmer of the month.",
+      "display": "Recipient of programmer of the month.",
+      "search": "recipient of programmer of the month.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:3",
+      "startMs": 19760,
+      "endMs": 31680,
+      "verbatim": "Anywho, what if, just hear me out here, what if instead of having TypeScript be a transpiled language, what if you could have it be a compiled language?",
+      "display": "Anywho, what if, just hear me out here, what if instead of having TypeScript be a transpiled language, what if you could have it be a compiled language?",
+      "search": "anywho, what if, just hear me out here, what if instead of having typescript be a transpiled language, what if you could have it be a compiled language?",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:4",
+      "startMs": 31680,
+      "endMs": 32320,
+      "verbatim": "Huh?",
+      "display": "Huh?",
+      "search": "huh?",
+      "confidence": 0.557
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:5",
+      "startMs": 32560,
+      "endMs": 41600,
+      "verbatim": "Sounds tantalizing, sounds delightful, sounds actually like Electron could stop eating one gigabyte of my memory, is what that actually sounds like.",
+      "display": "Sounds tantalizing, sounds delightful, sounds actually like Electron could stop eating one gigabyte of my memory, is what that actually sounds like.",
+      "search": "sounds tantalizing, sounds delightful, sounds actually like electron could stop eating one gigabyte of my memory, is what that actually sounds like.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:6",
+      "startMs": 41600,
+      "endMs": 46720,
+      "verbatim": "Well, hey, if you look right here, script C, that's exactly what it does.",
+      "display": "Well, hey, if you look right here, script C, that's exactly what it does.",
+      "search": "well, hey, if you look right here, script c, that's exactly what it does.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:7",
+      "startMs": 46720,
+      "endMs": 58960,
+      "verbatim": "It actually takes TypeScript and produces either a debuggable C backend or L L V M I R, and bada bing bada boom, a little bit of clanging and we got ourselves a binary, a static one too.",
+      "display": "It actually takes TypeScript and produces either a debuggable C backend or L L V M I R, and bada bing bada boom, a little bit of clanging and we got ourselves a binary, a static one too.",
+      "search": "it actually takes typescript and produces either a debuggable c backend or l l v m i r, and bada bing bada boom, a little bit of clanging and we got ourselves a binary, a static one too.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:8",
+      "startMs": 58960,
+      "endMs": 61600,
+      "verbatim": "So of course, I couldn't resist the temptation.",
+      "display": "So of course, I couldn't resist the temptation.",
+      "search": "so of course, i couldn't resist the temptation.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:9",
+      "startMs": 61600,
+      "endMs": 73920,
+      "verbatim": "I had to do a little bit of testing, produced a little bit of graphs, and the results, they were actually pretty interesting, and there's actually a really good reason why this thing exists and why I think it actually could be quite useful.",
+      "display": "I had to do a little bit of testing, produced a little bit of graphs, and the results, they were actually pretty interesting, and there's actually a really good reason why this thing exists and why I think it actually could be quite useful.",
+      "search": "i had to do a little bit of testing, produced a little bit of graphs, and the results, they were actually pretty interesting, and there's actually a really good reason why this thing exists and why i think it actually could be quite useful.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:10",
+      "startMs": 73920,
+      "endMs": 82160,
+      "verbatim": "And at the end of the day, you know, you probably have known me for a little bit and known that I don't necessarily love the TypeScript slash JavaScript ecosystem.",
+      "display": "And at the end of the day, you know, you probably have known me for a little bit and known that I don't necessarily love the TypeScript slash JavaScript ecosystem.",
+      "search": "and at the end of the day, you know, you probably have known me for a little bit and known that i don't necessarily love the typescript slash javascript ecosystem.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:11",
+      "startMs": 82160,
+      "endMs": 95120,
+      "verbatim": "It's it's somewhat of a dumpster fire, but hey, anything that could reduce memory in today's day and age where AI has effectively just destroyed all pricing sounds like quite the lovely invention.",
+      "display": "It's it's somewhat of a dumpster fire, but hey, anything that could reduce memory in today's day and age where AI has effectively just destroyed all pricing sounds like quite the lovely invention.",
+      "search": "it's it's somewhat of a dumpster fire, but hey, anything that could reduce memory in today's day and age where ai has effectively just destroyed all pricing sounds like quite the lovely invention.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:12",
+      "startMs": 95120,
+      "endMs": 97280,
+      "verbatim": "So I figured we just had to take a look at it.",
+      "display": "So I figured we just had to take a look at it.",
+      "search": "so i figured we just had to take a look at it.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:13",
+      "startMs": 97280,
+      "endMs": 103520,
+      "verbatim": "And I thought you might be kind of excited about this, because hey, is this gonna make your server significantly faster?",
+      "display": "And I thought you might be kind of excited about this, because hey, is this gonna make your server significantly faster?",
+      "search": "and i thought you might be kind of excited about this, because hey, is this gonna make your server significantly faster?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:14",
+      "startMs": 103520,
+      "endMs": 104320,
+      "verbatim": "Maybe.",
+      "display": "Maybe.",
+      "search": "maybe.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:15",
+      "startMs": 104320,
+      "endMs": 107760,
+      "verbatim": "But of course, before we begin, a quick thank you from the sponsors.",
+      "display": "But of course, before we begin, a quick thank you from the sponsors.",
+      "search": "but of course, before we begin, a quick thank you from the sponsors.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:16",
+      "startMs": 107760,
+      "endMs": 114400,
+      "verbatim": "The next 100 billion commits are coming faster than anyone has expected, and that means that your CI, it needs to be blazingly fast.",
+      "display": "The next 100 billion commits are coming faster than anyone has expected, and that means that your CI, it needs to be blazingly fast.",
+      "search": "the next 100 billion commits are coming faster than anyone has expected, and that means that your ci, it needs to be blazingly fast.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:17",
+      "startMs": 114400,
+      "endMs": 121520,
+      "verbatim": "Namespace optimizes for fast coding, testing, and build environments across Windows, Linux, and Mac.",
+      "display": "Namespace optimizes for fast coding, testing, and build environments across Windows, Linux, and Mac.",
+      "search": "namespace optimizes for fast coding, testing, and build environments across windows, linux, and mac.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:18",
+      "startMs": 121520,
+      "endMs": 122320,
+      "verbatim": "Mac.",
+      "display": "Mac.",
+      "search": "mac.",
+      "confidence": 0.412
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:19",
+      "startMs": 122560,
+      "endMs": 124400,
+      "verbatim": "They even have Mac?",
+      "display": "They even have Mac?",
+      "search": "they even have mac?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:20",
+      "startMs": 124400,
+      "endMs": 126240,
+      "verbatim": "That is their singular focus.",
+      "display": "That is their singular focus.",
+      "search": "that is their singular focus.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:21",
+      "startMs": 126240,
+      "endMs": 134400,
+      "verbatim": "And that focus runs down to the metal because they design and deploy their own server racks around the world, which runs their GitHub action runners.",
+      "display": "And that focus runs down to the metal because they design and deploy their own server racks around the world, which runs their GitHub action runners.",
+      "search": "and that focus runs down to the metal because they design and deploy their own server racks around the world, which runs their github action runners.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:22",
+      "startMs": 134400,
+      "endMs": 139200,
+      "verbatim": "You can remote desktop or even SSH in, and you know I love SSH.",
+      "display": "You can remote desktop or even SSH in, and you know I love SSH.",
+      "search": "you can remote desktop or even ssh in, and you know i love ssh.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:23",
+      "startMs": 139200,
+      "endMs": 141360,
+      "verbatim": "And debug why a test is failing.",
+      "display": "And debug why a test is failing.",
+      "search": "and debug why a test is failing.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:24",
+      "startMs": 141360,
+      "endMs": 144160,
+      "verbatim": "You or your agent can optimize performance issues.",
+      "display": "You or your agent can optimize performance issues.",
+      "search": "you or your agent can optimize performance issues.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:25",
+      "startMs": 144160,
+      "endMs": 153840,
+      "verbatim": "Namespace is trusted by 11 Labs, Ramp, Warp, Vanta, Framer, Z, Foul, Sierra, Whisperflow, DuckDB, even Ghostie uses them.",
+      "display": "Namespace is trusted by 11 Labs, Ramp, Warp, Vanta, Framer, Z, Foul, Sierra, Whisperflow, DuckDB, even Ghostie uses them.",
+      "search": "namespace is trusted by 11 labs, ramp, warp, vanta, framer, z, foul, sierra, whisperflow, duckdb, even ghostie uses them.",
+      "confidence": 0.651
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:26",
+      "startMs": 153840,
+      "endMs": 156880,
+      "verbatim": "You should try it out today at namespace.so.",
+      "display": "You should try it out today at namespace.so.",
+      "search": "you should try it out today at namespace.so.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:27",
+      "startMs": 156880,
+      "endMs": 158800,
+      "verbatim": "All right, welcome back, hooligans.",
+      "display": "All right, welcome back, hooligans.",
+      "search": "all right, welcome back, hooligans.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:28",
+      "startMs": 158800,
+      "endMs": 168480,
+      "verbatim": "So for this, I decided to make quick three experiments just to kind of showcase where I think it's really powerful, and then a fourth experiment that really shows that not everything that glitters is gold.",
+      "display": "So for this, I decided to make quick three experiments just to kind of showcase where I think it's really powerful, and then a fourth experiment that really shows that not everything that glitters is gold.",
+      "search": "so for this, i decided to make quick three experiments just to kind of showcase where i think it's really powerful, and then a fourth experiment that really shows that not everything that glitters is gold.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:29",
+      "startMs": 168480,
+      "endMs": 172080,
+      "verbatim": "So the first three experiments, the first one is the minimum memory test.",
+      "display": "So the first three experiments, the first one is the minimum memory test.",
+      "search": "so the first three experiments, the first one is the minimum memory test.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:30",
+      "startMs": 172080,
+      "endMs": 184400,
+      "verbatim": "Now, for those that don't know, if you just literally write out while true and you launch node, it's gonna use something like 40 to 80 gights.",
+      "display": "Now, for those that don't know, if you just literally write out while true and you launch node, it's gonna use something like 40 to 80 gights.",
+      "search": "now, for those that don't know, if you just literally write out while true and you launch node, it's gonna use something like 40 to 80 gights.",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:31",
+      "startMs": 194880,
+      "endMs": 196320,
+      "verbatim": "Depending on the version.",
+      "display": "Depending on the version.",
+      "search": "depending on the version.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:32",
+      "startMs": 196320,
+      "endMs": 201120,
+      "verbatim": "If you launch bun, it's gonna be smaller, but still it uses a lot of memory.",
+      "display": "If you launch bun, it's gonna be smaller, but still it uses a lot of memory.",
+      "search": "if you launch bun, it's gonna be smaller, but still it uses a lot of memory.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:33",
+      "startMs": 201120,
+      "endMs": 202960,
+      "verbatim": "And so it's kind of a fun experiment.",
+      "display": "And so it's kind of a fun experiment.",
+      "search": "and so it's kind of a fun experiment.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:34",
+      "startMs": 202960,
+      "endMs": 207120,
+      "verbatim": "What does something like Script C do where they can strip away a lot of bun?",
+      "display": "What does something like Script C do where they can strip away a lot of bun?",
+      "search": "what does something like script c do where they can strip away a lot of bun?",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:35",
+      "startMs": 207120,
+      "endMs": 209600,
+      "verbatim": "Are you gonna actually see like a pretty small program?",
+      "display": "Are you gonna actually see like a pretty small program?",
+      "search": "are you gonna actually see like a pretty small program?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:36",
+      "startMs": 209600,
+      "endMs": 210480,
+      "verbatim": "Maybe.",
+      "display": "Maybe.",
+      "search": "maybe.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:37",
+      "startMs": 210480,
+      "endMs": 216960,
+      "verbatim": "The second test is pretty obvious, is now instead of just a little bit of memory, let's allocate a million objects.",
+      "display": "The second test is pretty obvious, is now instead of just a little bit of memory, let's allocate a million objects.",
+      "search": "the second test is pretty obvious, is now instead of just a little bit of memory, let's allocate a million objects.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:38",
+      "startMs": 216960,
+      "endMs": 217920,
+      "verbatim": "What does that do?",
+      "display": "What does that do?",
+      "search": "what does that do?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:39",
+      "startMs": 217920,
+      "endMs": 220320,
+      "verbatim": "Does that make us have just a little bit of memory?",
+      "display": "Does that make us have just a little bit of memory?",
+      "search": "does that make us have just a little bit of memory?",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:40",
+      "startMs": 220320,
+      "endMs": 221680,
+      "verbatim": "Do we have a lot of bit of memory?",
+      "display": "Do we have a lot of bit of memory?",
+      "search": "do we have a lot of bit of memory?",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:41",
+      "startMs": 221680,
+      "endMs": 224320,
+      "verbatim": "Is there actually a substantial difference between the two?",
+      "display": "Is there actually a substantial difference between the two?",
+      "search": "is there actually a substantial difference between the two?",
+      "confidence": 0.988
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:42",
+      "startMs": 224320,
+      "endMs": 225040,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:43",
+      "startMs": 225040,
+      "endMs": 235920,
+      "verbatim": "The third test is actually a startup time test where I start a server, have a single endpoint, start a little listening, and until I can make a TCP connection to it, it's not considered started.",
+      "display": "The third test is actually a startup time test where I start a server, have a single endpoint, start a little listening, and until I can make a TCP connection to it, it's not considered started.",
+      "search": "the third test is actually a startup time test where i start a server, have a single endpoint, start a little listening, and until i can make a tcp connection to it, it's not considered started.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:44",
+      "startMs": 235920,
+      "endMs": 242640,
+      "verbatim": "And so I just do this as fast as I can and see how long does each one of these different environments take to launch.",
+      "display": "And so I just do this as fast as I can and see how long does each one of these different environments take to launch.",
+      "search": "and so i just do this as fast as i can and see how long does each one of these different environments take to launch.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:45",
+      "startMs": 242640,
+      "endMs": 246400,
+      "verbatim": "And of course, the different environments are Node, Bun, and Script C.",
+      "display": "And of course, the different environments are Node, Bun, and Script C.",
+      "search": "and of course, the different environments are node, bun, and script c.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:46",
+      "startMs": 246400,
+      "endMs": 252560,
+      "verbatim": "Now, the reason why I chose these three particular tests is because I think it's going to highlight where Script C is going to shine the most.",
+      "display": "Now, the reason why I chose these three particular tests is because I think it's going to highlight where Script C is going to shine the most.",
+      "search": "now, the reason why i chose these three particular tests is because i think it's going to highlight where script c is going to shine the most.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:47",
+      "startMs": 252560,
+      "endMs": 255520,
+      "verbatim": "And if you don't understand why, well, this is from Vercel Labs.",
+      "display": "And if you don't understand why, well, this is from Vercel Labs.",
+      "search": "and if you don't understand why, well, this is from vercel labs.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:48",
+      "startMs": 255520,
+      "endMs": 258720,
+      "verbatim": "Now you can imagine that Vercel, they make a lot of requests, okay?",
+      "display": "Now you can imagine that Vercel, they make a lot of requests, okay?",
+      "search": "now you can imagine that vercel, they make a lot of requests, okay?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:49",
+      "startMs": 258720,
+      "endMs": 260160,
+      "verbatim": "A lot of things happen.",
+      "display": "A lot of things happen.",
+      "search": "a lot of things happen.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:50",
+      "startMs": 260160,
+      "endMs": 272640,
+      "verbatim": "If you can improve startup time in Vercel land, those extra 50, 60, 100 milliseconds that you would be paying in other environments, this could dramatically make a large difference, which I think we can all agree.",
+      "display": "If you can improve startup time in Vercel land, those extra 50, 60, 100 milliseconds that you would be paying in other environments, this could dramatically make a large difference, which I think we can all agree.",
+      "search": "if you can improve startup time in vercel land, those extra 50, 60, 100 milliseconds that you would be paying in other environments, this could dramatically make a large difference, which i think we can all agree.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:51",
+      "startMs": 272640,
+      "endMs": 280800,
+      "verbatim": "Also, memory, if you could dramatically reduce memory, again, one could imagine that this would make a huge, huge difference.",
+      "display": "Also, memory, if you could dramatically reduce memory, again, one could imagine that this would make a huge, huge difference.",
+      "search": "also, memory, if you could dramatically reduce memory, again, one could imagine that this would make a huge, huge difference.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:52",
+      "startMs": 280800,
+      "endMs": 289680,
+      "verbatim": "But here's the thing: I didn't just want tests that only kind of favor the startup of uh, say, a serverless environment.",
+      "display": "But here's the thing: I didn't just want tests that only kind of favor the startup of uh, say, a serverless environment.",
+      "search": "but here's the thing: i didn't just want tests that only kind of favor the startup of uh, say, a serverless environment.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:53",
+      "startMs": 289680,
+      "endMs": 292000,
+      "verbatim": "I also wanted a test that was a little bit wonky.",
+      "display": "I also wanted a test that was a little bit wonky.",
+      "search": "i also wanted a test that was a little bit wonky.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:54",
+      "startMs": 292000,
+      "endMs": 292960,
+      "verbatim": "So I created this one.",
+      "display": "So I created this one.",
+      "search": "so i created this one.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:55",
+      "startMs": 292960,
+      "endMs": 304560,
+      "verbatim": "This is actually a hydration from an old test, which is uh one of the my old performance videos, which would create a game that would run at 60 ticks per second, and player one and player two would spawn in.",
+      "display": "This is actually a hydration from an old test, which is uh one of the my old performance videos, which would create a game that would run at 60 ticks per second, and player one and player two would spawn in.",
+      "search": "this is actually a hydration from an old test, which is uh one of the my old performance videos, which would create a game that would run at 60 ticks per second, and player one and player two would spawn in.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:56",
+      "startMs": 304560,
+      "endMs": 306320,
+      "verbatim": "They're both WebSocket connections.",
+      "display": "They're both WebSocket connections.",
+      "search": "they're both websocket connections.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:57",
+      "startMs": 306320,
+      "endMs": 317680,
+      "verbatim": "Then there's a game tick in the background using set timeout zero or set timeout however much time it needs to sleep to be able to maintain effectively 60 ticks per second on the server, and it plays through the game.",
+      "display": "Then there's a game tick in the background using set timeout zero or set timeout however much time it needs to sleep to be able to maintain effectively 60 ticks per second on the server, and it plays through the game.",
+      "search": "then there's a game tick in the background using set timeout zero or set timeout however much time it needs to sleep to be able to maintain effectively 60 ticks per second on the server, and it plays through the game.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:58",
+      "startMs": 317680,
+      "endMs": 323680,
+      "verbatim": "Now, as you can see in this beautiful animation, player one won because player one shot faster than player two.",
+      "display": "Now, as you can see in this beautiful animation, player one won because player one shot faster than player two.",
+      "search": "now, as you can see in this beautiful animation, player one won because player one shot faster than player two.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:59",
+      "startMs": 323680,
+      "endMs": 325120,
+      "verbatim": "It's a very simple game.",
+      "display": "It's a very simple game.",
+      "search": "it's a very simple game.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:60",
+      "startMs": 325120,
+      "endMs": 331760,
+      "verbatim": "Bullets collide with each other, almost nothing actually is happening, but it's kind of this fun experiment to run on.",
+      "display": "Bullets collide with each other, almost nothing actually is happening, but it's kind of this fun experiment to run on.",
+      "search": "bullets collide with each other, almost nothing actually is happening, but it's kind of this fun experiment to run on.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:61",
+      "startMs": 331760,
+      "endMs": 338560,
+      "verbatim": "Now, this is obviously a very unusual test case for TypeScript or JavaScript because this is not the average thing people are making.",
+      "display": "Now, this is obviously a very unusual test case for TypeScript or JavaScript because this is not the average thing people are making.",
+      "search": "now, this is obviously a very unusual test case for typescript or javascript because this is not the average thing people are making.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:62",
+      "startMs": 338560,
+      "endMs": 350240,
+      "verbatim": "The average thing people are making is a site that calls out to a couple other things, such as Redis or a database or wherever, and then aggregates that information, maybe does something with React and then hands it back.",
+      "display": "The average thing people are making is a site that calls out to a couple other things, such as Redis or a database or wherever, and then aggregates that information, maybe does something with React and then hands it back.",
+      "search": "the average thing people are making is a site that calls out to a couple other things, such as redis or a database or wherever, and then aggregates that information, maybe does something with react and then hands it back.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:63",
+      "startMs": 350240,
+      "endMs": 359600,
+      "verbatim": "So for each one of the three first tests, I ran them several times and then I said, Okay, hey, put yourself into P10, P25, P50, P75, P90, and P99.",
+      "display": "So for each one of the three first tests, I ran them several times and then I said, Okay, hey, put yourself into P10, P25, P50, P75, P90, and P99.",
+      "search": "so for each one of the three first tests, i ran them several times and then i said, okay, hey, put yourself into p10, p25, p50, p75, p90, and p99.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:64",
+      "startMs": 359600,
+      "endMs": 363280,
+      "verbatim": "Some beautiful quantiles, and I want you to show me kind of where the memory's at.",
+      "display": "Some beautiful quantiles, and I want you to show me kind of where the memory's at.",
+      "search": "some beautiful quantiles, and i want you to show me kind of where the memory's at.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:65",
+      "startMs": 363280,
+      "endMs": 372240,
+      "verbatim": "As you can see with the minimum memory test, this one, of course, is the one where I allocate nothing and just simply start up and then take a memory snapshot using VMRSS.",
+      "display": "As you can see with the minimum memory test, this one, of course, is the one where I allocate nothing and just simply start up and then take a memory snapshot using VMRSS.",
+      "search": "as you can see with the minimum memory test, this one, of course, is the one where i allocate nothing and just simply start up and then take a memory snapshot using vmrss.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:66",
+      "startMs": 372240,
+      "endMs": 377200,
+      "verbatim": "As you can see, node in the kind of best case, the P10 takes about 70 megabytes.",
+      "display": "As you can see, node in the kind of best case, the P10 takes about 70 megabytes.",
+      "search": "as you can see, node in the kind of best case, the p10 takes about 70 megabytes.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:67",
+      "startMs": 377200,
+      "endMs": 379680,
+      "verbatim": "Now, of course, this is gonna be node 26.",
+      "display": "Now, of course, this is gonna be node 26.",
+      "search": "now, of course, this is gonna be node 26.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:68",
+      "startMs": 379680,
+      "endMs": 384720,
+      "verbatim": "It would be a lot different if you're using something like node 22, but nonetheless, this is where it's at.",
+      "display": "It would be a lot different if you're using something like node 22, but nonetheless, this is where it's at.",
+      "search": "it would be a lot different if you're using something like node 22, but nonetheless, this is where it's at.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:69",
+      "startMs": 384720,
+      "endMs": 389680,
+      "verbatim": "Bun is 40 megabytes, but script C, 2.2 megabytes.",
+      "display": "Bun is 40 megabytes, but script C, 2.2 megabytes.",
+      "search": "bun is 40 megabytes, but script c, 2.2 megabytes.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:70",
+      "startMs": 389680,
+      "endMs": 391360,
+      "verbatim": "Actually, pretty dang good.",
+      "display": "Actually, pretty dang good.",
+      "search": "actually, pretty dang good.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:71",
+      "startMs": 391360,
+      "endMs": 393040,
+      "verbatim": "Like this makes a lot of sense.",
+      "display": "Like this makes a lot of sense.",
+      "search": "like this makes a lot of sense.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:72",
+      "startMs": 393040,
+      "endMs": 394000,
+      "verbatim": "This is fantastic.",
+      "display": "This is fantastic.",
+      "search": "this is fantastic.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:73",
+      "startMs": 394000,
+      "endMs": 395280,
+      "verbatim": "This is what you'd want to see.",
+      "display": "This is what you'd want to see.",
+      "search": "this is what you'd want to see.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:74",
+      "startMs": 395280,
+      "endMs": 398400,
+      "verbatim": "And this pattern effectively holds true throughout the whole thing.",
+      "display": "And this pattern effectively holds true throughout the whole thing.",
+      "search": "and this pattern effectively holds true throughout the whole thing.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:75",
+      "startMs": 398400,
+      "endMs": 410160,
+      "verbatim": "The P99 for Node is almost the exact same amount of memory, the P99 for Bun and the P99 for uh script C, almost all identical, pretty much right around in the exact same area.",
+      "display": "The P99 for Node is almost the exact same amount of memory, the P99 for Bun and the P99 for uh script C, almost all identical, pretty much right around in the exact same area.",
+      "search": "the p99 for node is almost the exact same amount of memory, the p99 for bun and the p99 for uh script c, almost all identical, pretty much right around in the exact same area.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:76",
+      "startMs": 410160,
+      "endMs": 416080,
+      "verbatim": "The same test, except for the one where I create a million of those objects, this is where things actually get pretty dang interesting.",
+      "display": "The same test, except for the one where I create a million of those objects, this is where things actually get pretty dang interesting.",
+      "search": "the same test, except for the one where i create a million of those objects, this is where things actually get pretty dang interesting.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:77",
+      "startMs": 416080,
+      "endMs": 420560,
+      "verbatim": "If we look at Node, it's 259 megabytes in the smallest.",
+      "display": "If we look at Node, it's 259 megabytes in the smallest.",
+      "search": "if we look at node, it's 259 megabytes in the smallest.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:78",
+      "startMs": 420560,
+      "endMs": 422640,
+      "verbatim": "And of course, at the 99, it's 265.",
+      "display": "And of course, at the 99, it's 265.",
+      "search": "and of course, at the 99, it's 265.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:79",
+      "startMs": 422640,
+      "endMs": 425120,
+      "verbatim": "So not a lot of change between any of the percentiles.",
+      "display": "So not a lot of change between any of the percentiles.",
+      "search": "so not a lot of change between any of the percentiles.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:80",
+      "startMs": 425120,
+      "endMs": 430080,
+      "verbatim": "Everything seems to be about the same, but it's script C only 88 megabytes.",
+      "display": "Everything seems to be about the same, but it's script C only 88 megabytes.",
+      "search": "everything seems to be about the same, but it's script c only 88 megabytes.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:81",
+      "startMs": 430080,
+      "endMs": 432880,
+      "verbatim": "Now that seems really, really low, right?",
+      "display": "Now that seems really, really low, right?",
+      "search": "now that seems really, really low, right?",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:82",
+      "startMs": 432880,
+      "endMs": 439520,
+      "verbatim": "Well, that's because with script C, what it can do is it can actually compile based on the TypeScript definitions.",
+      "display": "Well, that's because with script C, what it can do is it can actually compile based on the TypeScript definitions.",
+      "search": "well, that's because with script c, what it can do is it can actually compile based on the typescript definitions.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:83",
+      "startMs": 439520,
+      "endMs": 443760,
+      "verbatim": "It could actually represent your types as C structs.",
+      "display": "It could actually represent your types as C structs.",
+      "search": "it could actually represent your types as c structs.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:84",
+      "startMs": 443760,
+      "endMs": 448400,
+      "verbatim": "So if we actually look at the JavaScript code, I don't know, you know, I asked the LLM to generate it, okay?",
+      "display": "So if we actually look at the JavaScript code, I don't know, you know, I asked the LLM to generate it, okay?",
+      "search": "so if we actually look at the javascript code, i don't know, you know, i asked the llm to generate it, okay?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:85",
+      "startMs": 448480,
+      "endMs": 450800,
+      "verbatim": "It just shows this as the way it generates, I don't know.",
+      "display": "It just shows this as the way it generates, I don't know.",
+      "search": "it just shows this as the way it generates, i don't know.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:86",
+      "startMs": 450800,
+      "endMs": 451600,
+      "verbatim": "Crazy, whatever.",
+      "display": "Crazy, whatever.",
+      "search": "crazy, whatever.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:87",
+      "startMs": 451600,
+      "endMs": 452720,
+      "verbatim": "It doesn't really matter.",
+      "display": "It doesn't really matter.",
+      "search": "it doesn't really matter.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:88",
+      "startMs": 452720,
+      "endMs": 457200,
+      "verbatim": "Anyways, this is the code that was written for the TypeScript item.",
+      "display": "Anyways, this is the code that was written for the TypeScript item.",
+      "search": "anyways, this is the code that was written for the typescript item.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:89",
+      "startMs": 457200,
+      "endMs": 459680,
+      "verbatim": "It's obviously pushing in one of these particles.",
+      "display": "It's obviously pushing in one of these particles.",
+      "search": "it's obviously pushing in one of these particles.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:90",
+      "startMs": 459680,
+      "endMs": 463680,
+      "verbatim": "If we go to out, you can see right here that out is a type particle.",
+      "display": "If we go to out, you can see right here that out is a type particle.",
+      "search": "if we go to out, you can see right here that out is a type particle.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:91",
+      "startMs": 463680,
+      "endMs": 468480,
+      "verbatim": "If you go to particle, you can see right here that particle is this beautiful thing right here, okay?",
+      "display": "If you go to particle, you can see right here that particle is this beautiful thing right here, okay?",
+      "search": "if you go to particle, you can see right here that particle is this beautiful thing right here, okay?",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:92",
+      "startMs": 468480,
+      "endMs": 472560,
+      "verbatim": "Now what makes things interesting is actually looking at this inside of the C code.",
+      "display": "Now what makes things interesting is actually looking at this inside of the C code.",
+      "search": "now what makes things interesting is actually looking at this inside of the c code.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:93",
+      "startMs": 472560,
+      "endMs": 480000,
+      "verbatim": "As you can see, it's the exact same effectively set of properties, except for now they are defined with real types.",
+      "display": "As you can see, it's the exact same effectively set of properties, except for now they are defined with real types.",
+      "search": "as you can see, it's the exact same effectively set of properties, except for now they are defined with real types.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:94",
+      "startMs": 480000,
+      "endMs": 490080,
+      "verbatim": "Since this thing doesn't have a cycle, since this struct is effectively used and defined well, you're gonna get something that looks like this, which means that you're actually getting a really optimal use case.",
+      "display": "Since this thing doesn't have a cycle, since this struct is effectively used and defined well, you're gonna get something that looks like this, which means that you're actually getting a really optimal use case.",
+      "search": "since this thing doesn't have a cycle, since this struct is effectively used and defined well, you're gonna get something that looks like this, which means that you're actually getting a really optimal use case.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:95",
+      "startMs": 490080,
+      "endMs": 492400,
+      "verbatim": "You're actually getting memory that's not crazy.",
+      "display": "You're actually getting memory that's not crazy.",
+      "search": "you're actually getting memory that's not crazy.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:96",
+      "startMs": 492400,
+      "endMs": 494480,
+      "verbatim": "The only unusual thing is this right here.",
+      "display": "The only unusual thing is this right here.",
+      "search": "the only unusual thing is this right here.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:97",
+      "startMs": 494480,
+      "endMs": 500320,
+      "verbatim": "Turns out that it actually uses reference counting underneath the hood as opposed to garbage collection.",
+      "display": "Turns out that it actually uses reference counting underneath the hood as opposed to garbage collection.",
+      "search": "turns out that it actually uses reference counting underneath the hood as opposed to garbage collection.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:98",
+      "startMs": 500320,
+      "endMs": 503200,
+      "verbatim": "Hey, that's I guess that's pretty neat.",
+      "display": "Hey, that's I guess that's pretty neat.",
+      "search": "hey, that's i guess that's pretty neat.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:99",
+      "startMs": 503200,
+      "endMs": 509920,
+      "verbatim": "And that's why you see the difference here is because the type that is defined becomes an actual struct of only size 72.",
+      "display": "And that's why you see the difference here is because the type that is defined becomes an actual struct of only size 72.",
+      "search": "and that's why you see the difference here is because the type that is defined becomes an actual struct of only size 72.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:100",
+      "startMs": 509920,
+      "endMs": 514480,
+      "verbatim": "Whereas with V8, it's 140 bytes effectively for that struct.",
+      "display": "Whereas with V8, it's 140 bytes effectively for that struct.",
+      "search": "whereas with v8, it's 140 bytes effectively for that struct.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:101",
+      "startMs": 514480,
+      "endMs": 517920,
+      "verbatim": "That could be a little bit different depending on the versions, blah, blah, blah, blah, blah.",
+      "display": "That could be a little bit different depending on the versions, blah, blah, blah, blah, blah.",
+      "search": "that could be a little bit different depending on the versions, blah, blah, blah, blah, blah.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:102",
+      "startMs": 517920,
+      "endMs": 522400,
+      "verbatim": "But that's kind of like what the assumed or kind of calculated amount of bytes is.",
+      "display": "But that's kind of like what the assumed or kind of calculated amount of bytes is.",
+      "search": "but that's kind of like what the assumed or kind of calculated amount of bytes is.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:103",
+      "startMs": 522400,
+      "endMs": 525840,
+      "verbatim": "For something like JavaScript core, it could be 88 bytes.",
+      "display": "For something like JavaScript core, it could be 88 bytes.",
+      "search": "for something like javascript core, it could be 88 bytes.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:104",
+      "startMs": 525840,
+      "endMs": 531040,
+      "verbatim": "So it's a little bit smaller, but nonetheless, as you can see, the C representation is significantly better.",
+      "display": "So it's a little bit smaller, but nonetheless, as you can see, the C representation is significantly better.",
+      "search": "so it's a little bit smaller, but nonetheless, as you can see, the c representation is significantly better.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:105",
+      "startMs": 531040,
+      "endMs": 533920,
+      "verbatim": "And that obviously bears itself out in these graphs.",
+      "display": "And that obviously bears itself out in these graphs.",
+      "search": "and that obviously bears itself out in these graphs.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:106",
+      "startMs": 533920,
+      "endMs": 540560,
+      "verbatim": "You see that the memory used is 88 megabytes versus 176 for bun and 260 for node.",
+      "display": "You see that the memory used is 88 megabytes versus 176 for bun and 260 for node.",
+      "search": "you see that the memory used is 88 megabytes versus 176 for bun and 260 for node.",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:107",
+      "startMs": 540560,
+      "endMs": 542080,
+      "verbatim": "VA loves that memory, okay?",
+      "display": "VA loves that memory, okay?",
+      "search": "va loves that memory, okay?",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:108",
+      "startMs": 542080,
+      "endMs": 544720,
+      "verbatim": "VA just it wants all the memory in the universe.",
+      "display": "VA just it wants all the memory in the universe.",
+      "search": "va just it wants all the memory in the universe.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:109",
+      "startMs": 544720,
+      "endMs": 561920,
+      "verbatim": "I know that script C isn't something that's like meant to be used to replace Electron apps or anything, but there is something that at least is minimally interesting in the fact that maybe one day, deep into the future, Electron apps can quit using like one to 10 gigabytes of my system memory, every single one of them.",
+      "display": "I know that script C isn't something that's like meant to be used to replace Electron apps or anything, but there is something that at least is minimally interesting in the fact that maybe one day, deep into the future, Electron apps can quit using like one to 10 gigabytes of my system memory, every single one of them.",
+      "search": "i know that script c isn't something that's like meant to be used to replace electron apps or anything, but there is something that at least is minimally interesting in the fact that maybe one day, deep into the future, electron apps can quit using like one to 10 gigabytes of my system memory, every single one of them.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:110",
+      "startMs": 561920,
+      "endMs": 567280,
+      "verbatim": "There is a future that this could actually be pretty, pretty sweet to stop destroying everything that I love.",
+      "display": "There is a future that this could actually be pretty, pretty sweet to stop destroying everything that I love.",
+      "search": "there is a future that this could actually be pretty, pretty sweet to stop destroying everything that i love.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:111",
+      "startMs": 567280,
+      "endMs": 569520,
+      "verbatim": "You understand why I hate you, TypeScript, right?",
+      "display": "You understand why I hate you, TypeScript, right?",
+      "search": "you understand why i hate you, typescript, right?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:112",
+      "startMs": 569520,
+      "endMs": 571600,
+      "verbatim": "The more interesting one is this startup time.",
+      "display": "The more interesting one is this startup time.",
+      "search": "the more interesting one is this startup time.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:113",
+      "startMs": 571600,
+      "endMs": 577840,
+      "verbatim": "So remember, with the startup time, we start a server and we wait until we can do a TCP connection to that server.",
+      "display": "So remember, with the startup time, we start a server and we wait until we can do a TCP connection to that server.",
+      "search": "so remember, with the startup time, we start a server and we wait until we can do a tcp connection to that server.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:114",
+      "startMs": 577840,
+      "endMs": 585120,
+      "verbatim": "When it comes to Node, it takes about 56 milliseconds for it to start up, create a server, and for us to connect to.",
+      "display": "When it comes to Node, it takes about 56 milliseconds for it to start up, create a server, and for us to connect to.",
+      "search": "when it comes to node, it takes about 56 milliseconds for it to start up, create a server, and for us to connect to.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:115",
+      "startMs": 585120,
+      "endMs": 589760,
+      "verbatim": "When it comes to bun, that's about 15.8 milliseconds, significantly faster.",
+      "display": "When it comes to bun, that's about 15.8 milliseconds, significantly faster.",
+      "search": "when it comes to bun, that's about 15.8 milliseconds, significantly faster.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:116",
+      "startMs": 589760,
+      "endMs": 593040,
+      "verbatim": "But with script C, it's only 2.3 milliseconds.",
+      "display": "But with script C, it's only 2.3 milliseconds.",
+      "search": "but with script c, it's only 2.3 milliseconds.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:117",
+      "startMs": 593040,
+      "endMs": 597920,
+      "verbatim": "Now you can imagine that since this is created by Forcel, you can see why this is so appealing.",
+      "display": "Now you can imagine that since this is created by Forcel, you can see why this is so appealing.",
+      "search": "now you can imagine that since this is created by forcel, you can see why this is so appealing.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:118",
+      "startMs": 597920,
+      "endMs": 608800,
+      "verbatim": "You could imagine a world in which these things are compiled and, you know, behind the scenes, and now they're going from say tens of milliseconds down to just like ones of milliseconds.",
+      "display": "You could imagine a world in which these things are compiled and, you know, behind the scenes, and now they're going from say tens of milliseconds down to just like ones of milliseconds.",
+      "search": "you could imagine a world in which these things are compiled and, you know, behind the scenes, and now they're going from say tens of milliseconds down to just like ones of milliseconds.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:119",
+      "startMs": 608800,
+      "endMs": 609840,
+      "verbatim": "That's a big difference.",
+      "display": "That's a big difference.",
+      "search": "that's a big difference.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:120",
+      "startMs": 609840,
+      "endMs": 612160,
+      "verbatim": "That actually makes cold starts significantly better.",
+      "display": "That actually makes cold starts significantly better.",
+      "search": "that actually makes cold starts significantly better.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:121",
+      "startMs": 612160,
+      "endMs": 615920,
+      "verbatim": "Now, the program that we are running obviously is really small, can be statically compiled.",
+      "display": "Now, the program that we are running obviously is really small, can be statically compiled.",
+      "search": "now, the program that we are running obviously is really small, can be statically compiled.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:122",
+      "startMs": 615920,
+      "endMs": 622400,
+      "verbatim": "This will look different, I assume, with actual, like real applications, but it was pretty cool to see this.",
+      "display": "This will look different, I assume, with actual, like real applications, but it was pretty cool to see this.",
+      "search": "this will look different, i assume, with actual, like real applications, but it was pretty cool to see this.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:123",
+      "startMs": 622400,
+      "endMs": 625600,
+      "verbatim": "Now you're probably wondering, well, what about the shoot game?",
+      "display": "Now you're probably wondering, well, what about the shoot game?",
+      "search": "now you're probably wondering, well, what about the shoot game?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:124",
+      "startMs": 625600,
+      "endMs": 627360,
+      "verbatim": "Yeah, what about the shoe game with the people?",
+      "display": "Yeah, what about the shoe game with the people?",
+      "search": "yeah, what about the shoe game with the people?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:125",
+      "startMs": 627360,
+      "endMs": 630480,
+      "verbatim": "They are shooting each other, and like, well, what was the result of that one?",
+      "display": "They are shooting each other, and like, well, what was the result of that one?",
+      "search": "they are shooting each other, and like, well, what was the result of that one?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:126",
+      "startMs": 630480,
+      "endMs": 632640,
+      "verbatim": "Because that one was way different than the rest of the test.",
+      "display": "Because that one was way different than the rest of the test.",
+      "search": "because that one was way different than the rest of the test.",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:127",
+      "startMs": 632640,
+      "endMs": 634480,
+      "verbatim": "It's not some simple little memory test.",
+      "display": "It's not some simple little memory test.",
+      "search": "it's not some simple little memory test.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:128",
+      "startMs": 634480,
+      "endMs": 638720,
+      "verbatim": "Well, you're right, it wasn't a simple memory test, but we did turn it into a memory test.",
+      "display": "Well, you're right, it wasn't a simple memory test, but we did turn it into a memory test.",
+      "search": "well, you're right, it wasn't a simple memory test, but we did turn it into a memory test.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:129",
+      "startMs": 638720,
+      "endMs": 647120,
+      "verbatim": "As far as the performance goes, they all kind of performed the same, whether it was, you know, 1600 concurrent games, 1200 concurrent games.",
+      "display": "As far as the performance goes, they all kind of performed the same, whether it was, you know, 1600 concurrent games, 1200 concurrent games.",
+      "search": "as far as the performance goes, they all kind of performed the same, whether it was, you know, 1600 concurrent games, 1200 concurrent games.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:130",
+      "startMs": 647120,
+      "endMs": 648480,
+      "verbatim": "I didn't really get a strong read.",
+      "display": "I didn't really get a strong read.",
+      "search": "i didn't really get a strong read.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:131",
+      "startMs": 648480,
+      "endMs": 651920,
+      "verbatim": "Now I could have done some things to probably make this show up a little bit better.",
+      "display": "Now I could have done some things to probably make this show up a little bit better.",
+      "search": "now i could have done some things to probably make this show up a little bit better.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:132",
+      "startMs": 651920,
+      "endMs": 656560,
+      "verbatim": "Probably could have isolated it down to like a single CPU and really reduced the amount of available memory.",
+      "display": "Probably could have isolated it down to like a single CPU and really reduced the amount of available memory.",
+      "search": "probably could have isolated it down to like a single cpu and really reduced the amount of available memory.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:133",
+      "startMs": 656560,
+      "endMs": 660960,
+      "verbatim": "And maybe that would have made node much slower and then bun and then script C, but you know what?",
+      "display": "And maybe that would have made node much slower and then bun and then script C, but you know what?",
+      "search": "and maybe that would have made node much slower and then bun and then script c, but you know what?",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:134",
+      "startMs": 660960,
+      "endMs": 664640,
+      "verbatim": "Just running it on my laptop, I didn't see much difference as far as like performance goes.",
+      "display": "Just running it on my laptop, I didn't see much difference as far as like performance goes.",
+      "search": "just running it on my laptop, i didn't see much difference as far as like performance goes.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:135",
+      "startMs": 664640,
+      "endMs": 666080,
+      "verbatim": "They all were the same.",
+      "display": "They all were the same.",
+      "search": "they all were the same.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:136",
+      "startMs": 666080,
+      "endMs": 668240,
+      "verbatim": "It's actually the memory that's pretty wild.",
+      "display": "It's actually the memory that's pretty wild.",
+      "search": "it's actually the memory that's pretty wild.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:137",
+      "startMs": 668240,
+      "endMs": 674640,
+      "verbatim": "So the three basic tests we did here is that we had 800 concurrent games, 1200 concurrent games, and 1600 concurrent games.",
+      "display": "So the three basic tests we did here is that we had 800 concurrent games, 1200 concurrent games, and 1600 concurrent games.",
+      "search": "so the three basic tests we did here is that we had 800 concurrent games, 1200 concurrent games, and 1600 concurrent games.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:138",
+      "startMs": 674640,
+      "endMs": 687600,
+      "verbatim": "Using VMRSS, you can see that node, even in like the 50th percentile, used 170 megs for 800 concurrent games, 222 megs for 1200, and 228 for 1600.",
+      "display": "Using VMRSS, you can see that node, even in like the 50th percentile, used 170 megs for 800 concurrent games, 222 megs for 1200, and 228 for 1600.",
+      "search": "using vmrss, you can see that node, even in like the 50th percentile, used 170 megs for 800 concurrent games, 222 megs for 1200, and 228 for 1600.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:139",
+      "startMs": 687600,
+      "endMs": 688640,
+      "verbatim": "Not very good.",
+      "display": "Not very good.",
+      "search": "not very good.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:140",
+      "startMs": 688640,
+      "endMs": 694480,
+      "verbatim": "If you look at Bun, Bun's 131 to 132 to 140, okay, a little bit more consistent.",
+      "display": "If you look at Bun, Bun's 131 to 132 to 140, okay, a little bit more consistent.",
+      "search": "if you look at bun, bun's 131 to 132 to 140, okay, a little bit more consistent.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:141",
+      "startMs": 694480,
+      "endMs": 697760,
+      "verbatim": "But it's actually, look at this script C only 30 megs during that.",
+      "display": "But it's actually, look at this script C only 30 megs during that.",
+      "search": "but it's actually, look at this script c only 30 megs during that.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:142",
+      "startMs": 697760,
+      "endMs": 701840,
+      "verbatim": "So it actually is something that is, you know, better.",
+      "display": "So it actually is something that is, you know, better.",
+      "search": "so it actually is something that is, you know, better.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:143",
+      "startMs": 701840,
+      "endMs": 706640,
+      "verbatim": "44 for 1200 concurrent games and 58 for 1600 concurrent games.",
+      "display": "44 for 1200 concurrent games and 58 for 1600 concurrent games.",
+      "search": "44 for 1200 concurrent games and 58 for 1600 concurrent games.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:144",
+      "startMs": 706640,
+      "endMs": 708960,
+      "verbatim": "It honestly, not that bad.",
+      "display": "It honestly, not that bad.",
+      "search": "it honestly, not that bad.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:145",
+      "startMs": 708960,
+      "endMs": 710960,
+      "verbatim": "Anyways, it was a lot of fun playing with this.",
+      "display": "Anyways, it was a lot of fun playing with this.",
+      "search": "anyways, it was a lot of fun playing with this.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:146",
+      "startMs": 710960,
+      "endMs": 714400,
+      "verbatim": "I'm not actually sure if it is any sort of production ready type stuff.",
+      "display": "I'm not actually sure if it is any sort of production ready type stuff.",
+      "search": "i'm not actually sure if it is any sort of production ready type stuff.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:147",
+      "startMs": 714400,
+      "endMs": 721600,
+      "verbatim": "I'm not telling you to go and run over and throw all your crap on there for an instantaneous memory savings, but it is kind of interesting.",
+      "display": "I'm not telling you to go and run over and throw all your crap on there for an instantaneous memory savings, but it is kind of interesting.",
+      "search": "i'm not telling you to go and run over and throw all your crap on there for an instantaneous memory savings, but it is kind of interesting.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:148",
+      "startMs": 721600,
+      "endMs": 729360,
+      "verbatim": "Like, minimally, this is something that is pretty cool, and maybe at some point Electron will finally stop sucking butt.",
+      "display": "Like, minimally, this is something that is pretty cool, and maybe at some point Electron will finally stop sucking butt.",
+      "search": "like, minimally, this is something that is pretty cool, and maybe at some point electron will finally stop sucking butt.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:149",
+      "startMs": 729360,
+      "endMs": 731680,
+      "verbatim": "Just two cheeks.",
+      "display": "Just two cheeks.",
+      "search": "just two cheeks.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:150",
+      "startMs": 731680,
+      "endMs": 732800,
+      "verbatim": "Electron.",
+      "display": "Electron.",
+      "search": "electron.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:151",
+      "startMs": 732800,
+      "endMs": 735120,
+      "verbatim": "Hey, is that an Electron app right there?",
+      "display": "Hey, is that an Electron app right there?",
+      "search": "hey, is that an electron app right there?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:152",
+      "startMs": 735120,
+      "endMs": 737200,
+      "verbatim": "Yeah, I didn't like my memory either.",
+      "display": "Yeah, I didn't like my memory either.",
+      "search": "yeah, i didn't like my memory either.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:153",
+      "startMs": 737280,
+      "endMs": 743200,
+      "verbatim": "There was a boss one time at Netflix who was famous for saying, you gotta use all the memory that you're given.",
+      "display": "There was a boss one time at Netflix who was famous for saying, you gotta use all the memory that you're given.",
+      "search": "there was a boss one time at netflix who was famous for saying, you gotta use all the memory that you're given.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:154",
+      "startMs": 743680,
+      "endMs": 744400,
+      "verbatim": "That was said.",
+      "display": "That was said.",
+      "search": "that was said.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:155",
+      "startMs": 744400,
+      "endMs": 751360,
+      "verbatim": "Like it was some version of that where instead of saving the memory, we had to use all the memory on television devices.",
+      "display": "Like it was some version of that where instead of saving the memory, we had to use all the memory on television devices.",
+      "search": "like it was some version of that where instead of saving the memory, we had to use all the memory on television devices.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:156",
+      "startMs": 751360,
+      "endMs": 756080,
+      "verbatim": "Yeah, well, needless to say, it turns out using memory was actually really bad.",
+      "display": "Yeah, well, needless to say, it turns out using memory was actually really bad.",
+      "search": "yeah, well, needless to say, it turns out using memory was actually really bad.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:157",
+      "startMs": 756080,
+      "endMs": 757360,
+      "verbatim": "The name?",
+      "display": "The name?",
+      "search": "the name?",
+      "confidence": 0.401
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:158",
+      "startMs": 757840,
+      "endMs": 759040,
+      "verbatim": "Is it pretty cool.",
+      "display": "Is it pretty cool.",
+      "search": "is it pretty cool.",
+      "confidence": 0.691
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:159",
+      "startMs": 759040,
+      "endMs": 759440,
+      "verbatim": "Hey.",
+      "display": "Hey.",
+      "search": "hey.",
+      "confidence": 0.426
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:160",
+      "startMs": 759440,
+      "endMs": 760480,
+      "verbatim": "Vercell, I'll give you one.",
+      "display": "Vercell, I'll give you one.",
+      "search": "vercell, i'll give you one.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:161",
+      "startMs": 760480,
+      "endMs": 762960,
+      "verbatim": "I did not like zero that language you created.",
+      "display": "I did not like zero that language you created.",
+      "search": "i did not like zero that language you created.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:162",
+      "startMs": 762960,
+      "endMs": 764240,
+      "verbatim": "At least I made fun of it.",
+      "display": "At least I made fun of it.",
+      "search": "at least i made fun of it.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:163",
+      "startMs": 764240,
+      "endMs": 770960,
+      "verbatim": "Uh sorry if it hurts your feelings, but this one, this one, hey, it's at least a cool direction.",
+      "display": "Uh sorry if it hurts your feelings, but this one, this one, hey, it's at least a cool direction.",
+      "search": "uh sorry if it hurts your feelings, but this one, this one, hey, it's at least a cool direction.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:2g63UXaynaA:segment:164",
+      "startMs": 772080,
+      "endMs": 772960,
+      "verbatim": "A gen.",
+      "display": "A gen.",
+      "search": "a gen.",
+      "confidence": 0.558
+    }
+  ]
+}

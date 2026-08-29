@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:1DhZkZ_q4Qg",
+  "platform": "youtube",
+  "platformId": "1DhZkZ_q4Qg",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "You probably have Malware",
+  "description": "Sentry: Catch, trace, and fix bugs across your entire stack. Use code: prime for $100 in free sentry credits → https://trm.sh/sentry\n\n## Sources:\n\n- https://khaelkugler.com/blogs/meccha_chameleon.html\n\n## Topics:\n\n- Package Manager vulnerabilities \n- Hacks in Games\n- Hiding Hacks\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=1DhZkZ_q4Qg",
+  "publishedAt": "2026-08-17T13:30:23.000Z",
+  "durationMs": 605000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:56:52.162Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:56:52.162Z",
+    "runId": "2026-08-29T18-51-16-113Z-d3f7decb"
+  }
+}

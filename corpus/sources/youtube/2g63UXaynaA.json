@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:2g63UXaynaA",
+  "platform": "youtube",
+  "platformId": "2g63UXaynaA",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "I tried Compiled Typescript",
+  "description": "Namespace is actually the fastest way to run your GitHub Actions. And a drop-in replacement. → https://trm.sh/namespace\n\nSources:\n\n- https://github.com/vercel-labs/scriptc\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=2g63UXaynaA",
+  "publishedAt": "2026-08-19T13:00:24.000Z",
+  "durationMs": 773000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:54:36.774Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:54:36.774Z",
+    "runId": "2026-08-29T18-51-16-113Z-d3f7decb"
+  }
+}

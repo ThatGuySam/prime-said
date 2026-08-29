@@ -1,0 +1,1328 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_d778b4dedbd9e2984d4d3d0c",
+  "sourceId": "youtube:1DhZkZ_q4Qg",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T18:56:52.162Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:1",
+      "startMs": 0,
+      "endMs": 6000,
+      "verbatim": "Now, this channel doesn't often get into gaming because the last time I did gaming, well, it did not end too well.",
+      "display": "Now, this channel doesn't often get into gaming because the last time I did gaming, well, it did not end too well.",
+      "search": "now, this channel doesn't often get into gaming because the last time i did gaming, well, it did not end too well.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:2",
+      "startMs": 6000,
+      "endMs": 10640,
+      "verbatim": "But it turns out that there is a game out right now that had a massive hack to it.",
+      "display": "But it turns out that there is a game out right now that had a massive hack to it.",
+      "search": "but it turns out that there is a game out right now that had a massive hack to it.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:3",
+      "startMs": 10640,
+      "endMs": 17920,
+      "verbatim": "And the funny part about the this hack is that it actually reminds me of a different hack that has just recently happened to Notepad.",
+      "display": "And the funny part about the this hack is that it actually reminds me of a different hack that has just recently happened to Notepad.",
+      "search": "and the funny part about the this hack is that it actually reminds me of a different hack that has just recently happened to notepad.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:4",
+      "startMs": 17920,
+      "endMs": 22480,
+      "verbatim": "For those that are not familiar, the game we are talking about is Mecha Chameleon.",
+      "display": "For those that are not familiar, the game we are talking about is Mecha Chameleon.",
+      "search": "for those that are not familiar, the game we are talking about is mecha chameleon.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:5",
+      "startMs": 22480,
+      "endMs": 33360,
+      "verbatim": "And of course, Mecha Chameleon is a game in which you attempt to hide in plain sight by coloring your body and all that to look like the surroundings and see who can really actually hide the longest.",
+      "display": "And of course, Mecha Chameleon is a game in which you attempt to hide in plain sight by coloring your body and all that to look like the surroundings and see who can really actually hide the longest.",
+      "search": "and of course, mecha chameleon is a game in which you attempt to hide in plain sight by coloring your body and all that to look like the surroundings and see who can really actually hide the longest.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:6",
+      "startMs": 33360,
+      "endMs": 36480,
+      "verbatim": "And of course, this game just blew up in popularity.",
+      "display": "And of course, this game just blew up in popularity.",
+      "search": "and of course, this game just blew up in popularity.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:7",
+      "startMs": 36480,
+      "endMs": 37680,
+      "verbatim": "Everybody wanted to play it.",
+      "display": "Everybody wanted to play it.",
+      "search": "everybody wanted to play it.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:8",
+      "startMs": 37760,
+      "endMs": 39360,
+      "verbatim": "Seems like a very fun streaming game.",
+      "display": "Seems like a very fun streaming game.",
+      "search": "seems like a very fun streaming game.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:9",
+      "startMs": 39360,
+      "endMs": 45520,
+      "verbatim": "It's kind of like among us style in which people can get together and laugh and all that and have fun and friendship.",
+      "display": "It's kind of like among us style in which people can get together and laugh and all that and have fun and friendship.",
+      "search": "it's kind of like among us style in which people can get together and laugh and all that and have fun and friendship.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:10",
+      "startMs": 45520,
+      "endMs": 47520,
+      "verbatim": "I don't know anything about that.",
+      "display": "I don't know anything about that.",
+      "search": "i don't know anything about that.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:11",
+      "startMs": 50640,
+      "endMs": 57440,
+      "verbatim": "Anyways, the game continued to have such popularity because one of the aspects of the game is that user-generated content was allowed.",
+      "display": "Anyways, the game continued to have such popularity because one of the aspects of the game is that user-generated content was allowed.",
+      "search": "anyways, the game continued to have such popularity because one of the aspects of the game is that user-generated content was allowed.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:12",
+      "startMs": 57440,
+      "endMs": 61440,
+      "verbatim": "Users could make their own levels, and of course, people could play those levels.",
+      "display": "Users could make their own levels, and of course, people could play those levels.",
+      "search": "users could make their own levels, and of course, people could play those levels.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:13",
+      "startMs": 61440,
+      "endMs": 64000,
+      "verbatim": "Now, this is how the hack happened.",
+      "display": "Now, this is how the hack happened.",
+      "search": "now, this is how the hack happened.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:14",
+      "startMs": 64000,
+      "endMs": 65360,
+      "verbatim": "Can you believe it?",
+      "display": "Can you believe it?",
+      "search": "can you believe it?",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:15",
+      "startMs": 65360,
+      "endMs": 69840,
+      "verbatim": "Effectively, a package manager for a game hacked everybody.",
+      "display": "Effectively, a package manager for a game hacked everybody.",
+      "search": "effectively, a package manager for a game hacked everybody.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:16",
+      "startMs": 69840,
+      "endMs": 74480,
+      "verbatim": "They're bad in TypeScript, they're bad in Rust, and they're bad in Mecha Chameleon.",
+      "display": "They're bad in TypeScript, they're bad in Rust, and they're bad in Mecha Chameleon.",
+      "search": "they're bad in typescript, they're bad in rust, and they're bad in mecha chameleon.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:17",
+      "startMs": 74480,
+      "endMs": 78080,
+      "verbatim": "So we're gonna go over this most excellent blog by Kale Cugler.",
+      "display": "So we're gonna go over this most excellent blog by Kale Cugler.",
+      "search": "so we're gonna go over this most excellent blog by kale cugler.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:18",
+      "startMs": 78080,
+      "endMs": 82000,
+      "verbatim": "It's a two-click remote execution for this game.",
+      "display": "It's a two-click remote execution for this game.",
+      "search": "it's a two-click remote execution for this game.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:19",
+      "startMs": 82000,
+      "endMs": 83840,
+      "verbatim": "This is our future, by the way.",
+      "display": "This is our future, by the way.",
+      "search": "this is our future, by the way.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:20",
+      "startMs": 83840,
+      "endMs": 85520,
+      "verbatim": "Nothing's safe, okay?",
+      "display": "Nothing's safe, okay?",
+      "search": "nothing's safe, okay?",
+      "confidence": 0.698
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:21",
+      "startMs": 85520,
+      "endMs": 88160,
+      "verbatim": "You just you just you can't go on the internet anymore, okay?",
+      "display": "You just you just you can't go on the internet anymore, okay?",
+      "search": "you just you just you can't go on the internet anymore, okay?",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:22",
+      "startMs": 88160,
+      "endMs": 88960,
+      "verbatim": "It's disallowed.",
+      "display": "It's disallowed.",
+      "search": "it's disallowed.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:23",
+      "startMs": 88960,
+      "endMs": 89680,
+      "verbatim": "It's not.",
+      "display": "It's not.",
+      "search": "it's not.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:24",
+      "startMs": 89680,
+      "endMs": 91920,
+      "verbatim": "We're I'm in fact, I'm calling it today.",
+      "display": "We're I'm in fact, I'm calling it today.",
+      "search": "we're i'm in fact, i'm calling it today.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:25",
+      "startMs": 91920,
+      "endMs": 93040,
+      "verbatim": "We're canceling the internet.",
+      "display": "We're canceling the internet.",
+      "search": "we're canceling the internet.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:26",
+      "startMs": 93040,
+      "endMs": 96400,
+      "verbatim": "Before we cancel the internet, quick thank you from the sponsor.",
+      "display": "Before we cancel the internet, quick thank you from the sponsor.",
+      "search": "before we cancel the internet, quick thank you from the sponsor.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:27",
+      "startMs": 96960,
+      "endMs": 101200,
+      "verbatim": "Hey Brian, don't forget, scrum plannings later.",
+      "display": "Hey Brian, don't forget, scrum plannings later.",
+      "search": "hey brian, don't forget, scrum plannings later.",
+      "confidence": 0.522
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:28",
+      "startMs": 128240,
+      "endMs": 131280,
+      "verbatim": "We've decided to put you on call.",
+      "display": "We've decided to put you on call.",
+      "search": "we've decided to put you on call.",
+      "confidence": 0.719
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:29",
+      "startMs": 135920,
+      "endMs": 138240,
+      "verbatim": "I can't do I can't do on call.",
+      "display": "I can't do I can't do on call.",
+      "search": "i can't do i can't do on call.",
+      "confidence": 0.683
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:30",
+      "startMs": 139680,
+      "endMs": 142160,
+      "verbatim": "You're on call?",
+      "display": "You're on call?",
+      "search": "you're on call?",
+      "confidence": 0.428
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:31",
+      "startMs": 142240,
+      "endMs": 145360,
+      "verbatim": "Well, what are you saying?",
+      "display": "Well, what are you saying?",
+      "search": "well, what are you saying?",
+      "confidence": 0.478
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:32",
+      "startMs": 145360,
+      "endMs": 148400,
+      "verbatim": "With sentry, on call is so much fun.",
+      "display": "With sentry, on call is so much fun.",
+      "search": "with sentry, on call is so much fun.",
+      "confidence": 0.643
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:33",
+      "startMs": 148400,
+      "endMs": 155440,
+      "verbatim": "It has all of our errors, logs, spans, metrics, replays, and even releases in one spot.",
+      "display": "It has all of our errors, logs, spans, metrics, replays, and even releases in one spot.",
+      "search": "it has all of our errors, logs, spans, metrics, replays, and even releases in one spot.",
+      "confidence": 0.694
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:34",
+      "startMs": 155440,
+      "endMs": 158800,
+      "verbatim": "It has all the context we need to solve any bug.",
+      "display": "It has all the context we need to solve any bug.",
+      "search": "it has all the context we need to solve any bug.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:35",
+      "startMs": 158800,
+      "endMs": 162000,
+      "verbatim": "Even if half the time sentry beats me to the fix anyway.",
+      "display": "Even if half the time sentry beats me to the fix anyway.",
+      "search": "even if half the time sentry beats me to the fix anyway.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:36",
+      "startMs": 162000,
+      "endMs": 166080,
+      "verbatim": "Just because software development's torture doesn't mean on call has to be.",
+      "display": "Just because software development's torture doesn't mean on call has to be.",
+      "search": "just because software development's torture doesn't mean on call has to be.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:37",
+      "startMs": 166080,
+      "endMs": 167440,
+      "verbatim": "Well, that's amazing.",
+      "display": "Well, that's amazing.",
+      "search": "well, that's amazing.",
+      "confidence": 0.699
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:38",
+      "startMs": 167440,
+      "endMs": 169440,
+      "verbatim": "Does Sentry also attend my meetings?",
+      "display": "Does Sentry also attend my meetings?",
+      "search": "does sentry also attend my meetings?",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:39",
+      "startMs": 169680,
+      "endMs": 171280,
+      "verbatim": "That's the best part.",
+      "display": "That's the best part.",
+      "search": "that's the best part.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:40",
+      "startMs": 171280,
+      "endMs": 171920,
+      "verbatim": "No!",
+      "display": "No!",
+      "search": "no!",
+      "confidence": 0.48
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:41",
+      "startMs": 171920,
+      "endMs": 175600,
+      "verbatim": "Sentry can't actually make on-call fun, but it can make it less scary.",
+      "display": "Sentry can't actually make on-call fun, but it can make it less scary.",
+      "search": "sentry can't actually make on-call fun, but it can make it less scary.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:42",
+      "startMs": 175600,
+      "endMs": 179680,
+      "verbatim": "Everything you need to fix real issues in one place.",
+      "display": "Everything you need to fix real issues in one place.",
+      "search": "everything you need to fix real issues in one place.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:43",
+      "startMs": 179680,
+      "endMs": 181040,
+      "verbatim": "Buckaroo.",
+      "display": "Buckaroo.",
+      "search": "buckaroo.",
+      "confidence": 0.737
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:44",
+      "startMs": 181040,
+      "endMs": 182320,
+      "verbatim": "Got that 6 p.m.",
+      "display": "Got that 6 p.m.",
+      "search": "got that 6 p.m.",
+      "confidence": 0.558
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:45",
+      "startMs": 182400,
+      "endMs": 183680,
+      "verbatim": "post mortem planning.",
+      "display": "post mortem planning.",
+      "search": "post mortem planning.",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:46",
+      "startMs": 183680,
+      "endMs": 185680,
+      "verbatim": "Don't forget.",
+      "display": "Don't forget.",
+      "search": "don't forget.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:47",
+      "startMs": 185680,
+      "endMs": 186800,
+      "verbatim": "Alright, welcome back.",
+      "display": "Alright, welcome back.",
+      "search": "alright, welcome back.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:48",
+      "startMs": 186800,
+      "endMs": 191920,
+      "verbatim": "Now to understand how this hack works, you first have to understand a little bit about how you can generate custom maps.",
+      "display": "Now to understand how this hack works, you first have to understand a little bit about how you can generate custom maps.",
+      "search": "now to understand how this hack works, you first have to understand a little bit about how you can generate custom maps.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:49",
+      "startMs": 191920,
+      "endMs": 196080,
+      "verbatim": "Now, the thing about Mecha Chameleon is that you don't have to mod the game to add new maps.",
+      "display": "Now, the thing about Mecha Chameleon is that you don't have to mod the game to add new maps.",
+      "search": "now, the thing about mecha chameleon is that you don't have to mod the game to add new maps.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:50",
+      "startMs": 196080,
+      "endMs": 202800,
+      "verbatim": "Instead, you can just create a new Unreal Engine 5 map and you can put it in, you can package it all together in a dot pack file.",
+      "display": "Instead, you can just create a new Unreal Engine 5 map and you can put it in, you can package it all together in a dot pack file.",
+      "search": "instead, you can just create a new unreal engine 5 map and you can put it in, you can package it all together in a dot pack file.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:51",
+      "startMs": 202800,
+      "endMs": 206960,
+      "verbatim": "Now I don't know what exactly a dot pack file is, but it's an Unreal Engine specific item.",
+      "display": "Now I don't know what exactly a dot pack file is, but it's an Unreal Engine specific item.",
+      "search": "now i don't know what exactly a dot pack file is, but it's an unreal engine specific item.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:52",
+      "startMs": 206960,
+      "endMs": 211440,
+      "verbatim": "And then you can upload it to the Steam's official workshop for others to play.",
+      "display": "And then you can upload it to the Steam's official workshop for others to play.",
+      "search": "and then you can upload it to the steam's official workshop for others to play.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:53",
+      "startMs": 211440,
+      "endMs": 213360,
+      "verbatim": "Now, what's a workshop?",
+      "display": "Now, what's a workshop?",
+      "search": "now, what's a workshop?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:54",
+      "startMs": 213360,
+      "endMs": 220560,
+      "verbatim": "It turns out a workshop is really just arbitrary file delivery because Steam workshop items such as maps are essentially just folders.",
+      "display": "It turns out a workshop is really just arbitrary file delivery because Steam workshop items such as maps are essentially just folders.",
+      "search": "it turns out a workshop is really just arbitrary file delivery because steam workshop items such as maps are essentially just folders.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:55",
+      "startMs": 220560,
+      "endMs": 225680,
+      "verbatim": "That means you can upload or put in whatever you want into a workshop item.",
+      "display": "That means you can upload or put in whatever you want into a workshop item.",
+      "search": "that means you can upload or put in whatever you want into a workshop item.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:56",
+      "startMs": 225680,
+      "endMs": 239760,
+      "verbatim": "Now, if you check out Steam's official documentation and you're looking at uploaded entries from item authors, these workshop items, it does warn you that your submission tool should accept just the file formats that your game client expects to load.",
+      "display": "Now, if you check out Steam's official documentation and you're looking at uploaded entries from item authors, these workshop items, it does warn you that your submission tool should accept just the file formats that your game client expects to load.",
+      "search": "now, if you check out steam's official documentation and you're looking at uploaded entries from item authors, these workshop items, it does warn you that your submission tool should accept just the file formats that your game client expects to load.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:57",
+      "startMs": 239760,
+      "endMs": 245360,
+      "verbatim": "Now, in the case of Mecha Chameleon, it turns out they just, well, they just accepted everything.",
+      "display": "Now, in the case of Mecha Chameleon, it turns out they just, well, they just accepted everything.",
+      "search": "now, in the case of mecha chameleon, it turns out they just, well, they just accepted everything.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:58",
+      "startMs": 245360,
+      "endMs": 249600,
+      "verbatim": "But accepting everything itself doesn't actually pose any sort of immediate risk.",
+      "display": "But accepting everything itself doesn't actually pose any sort of immediate risk.",
+      "search": "but accepting everything itself doesn't actually pose any sort of immediate risk.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:59",
+      "startMs": 249600,
+      "endMs": 261360,
+      "verbatim": "That means your workshop item can have a beautiful map, it can have textures and audios, it can have preview images, and it could have very destructive or credentials stealing bat files, all a part of the workshop item.",
+      "display": "That means your workshop item can have a beautiful map, it can have textures and audios, it can have preview images, and it could have very destructive or credentials stealing bat files, all a part of the workshop item.",
+      "search": "that means your workshop item can have a beautiful map, it can have textures and audios, it can have preview images, and it could have very destructive or credentials stealing bat files, all a part of the workshop item.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:60",
+      "startMs": 261360,
+      "endMs": 264560,
+      "verbatim": "And this just will go onto anybody's computer that downloads it.",
+      "display": "And this just will go onto anybody's computer that downloads it.",
+      "search": "and this just will go onto anybody's computer that downloads it.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:61",
+      "startMs": 264560,
+      "endMs": 266800,
+      "verbatim": "Now, none of this explains exactly how the hack works.",
+      "display": "Now, none of this explains exactly how the hack works.",
+      "search": "now, none of this explains exactly how the hack works.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:62",
+      "startMs": 266800,
+      "endMs": 268480,
+      "verbatim": "So let's actually go through the real part.",
+      "display": "So let's actually go through the real part.",
+      "search": "so let's actually go through the real part.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:63",
+      "startMs": 268480,
+      "endMs": 281040,
+      "verbatim": "So now when a lobby starts and the custom map is selected, those that don't have the map are prompted with the window that says, Hey, you gotta download this custom map.",
+      "display": "So now when a lobby starts and the custom map is selected, those that don't have the map are prompted with the window that says, Hey, you gotta download this custom map.",
+      "search": "so now when a lobby starts and the custom map is selected, those that don't have the map are prompted with the window that says, hey, you gotta download this custom map.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:64",
+      "startMs": 281040,
+      "endMs": 285920,
+      "verbatim": "So of course, you go to the custom map, you press the subscribe button, bam!",
+      "display": "So of course, you go to the custom map, you press the subscribe button, bam!",
+      "search": "so of course, you go to the custom map, you press the subscribe button, bam!",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:65",
+      "startMs": 285920,
+      "endMs": 288320,
+      "verbatim": "And just like that, you get yourself hacked.",
+      "display": "And just like that, you get yourself hacked.",
+      "search": "and just like that, you get yourself hacked.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:66",
+      "startMs": 288320,
+      "endMs": 290080,
+      "verbatim": "Yes, actually, that is the moment.",
+      "display": "Yes, actually, that is the moment.",
+      "search": "yes, actually, that is the moment.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:67",
+      "startMs": 290080,
+      "endMs": 292720,
+      "verbatim": "Right then and there, that is actually how you get hacked.",
+      "display": "Right then and there, that is actually how you get hacked.",
+      "search": "right then and there, that is actually how you get hacked.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:68",
+      "startMs": 292720,
+      "endMs": 302320,
+      "verbatim": "Now, when it comes to Unreal Engine, which by the way, I don't have any experience in this, so I'm not deeply familiar, but it turns out there's all these different events that you can actually hook into.",
+      "display": "Now, when it comes to Unreal Engine, which by the way, I don't have any experience in this, so I'm not deeply familiar, but it turns out there's all these different events that you can actually hook into.",
+      "search": "now, when it comes to unreal engine, which by the way, i don't have any experience in this, so i'm not deeply familiar, but it turns out there's all these different events that you can actually hook into.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:69",
+      "startMs": 302320,
+      "endMs": 304480,
+      "verbatim": "And one of those events is Begin Play.",
+      "display": "And one of those events is Begin Play.",
+      "search": "and one of those events is begin play.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:70",
+      "startMs": 304480,
+      "endMs": 307920,
+      "verbatim": "Now, something that Begin Play can do is launch a URL.",
+      "display": "Now, something that Begin Play can do is launch a URL.",
+      "search": "now, something that begin play can do is launch a url.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:71",
+      "startMs": 307920,
+      "endMs": 311520,
+      "verbatim": "And now you're probably immediately thinking, wait a second, launch a URL.",
+      "display": "And now you're probably immediately thinking, wait a second, launch a URL.",
+      "search": "and now you're probably immediately thinking, wait a second, launch a url.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:72",
+      "startMs": 311520,
+      "endMs": 313680,
+      "verbatim": "This kind of sounds like that one hack.",
+      "display": "This kind of sounds like that one hack.",
+      "search": "this kind of sounds like that one hack.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:73",
+      "startMs": 313680,
+      "endMs": 316080,
+      "verbatim": "Yes, it actually sounds exactly like that one hack.",
+      "display": "Yes, it actually sounds exactly like that one hack.",
+      "search": "yes, it actually sounds exactly like that one hack.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:74",
+      "startMs": 316080,
+      "endMs": 321520,
+      "verbatim": "That one hack, of course, is when Windows Notepad had a markdown RCE.",
+      "display": "That one hack, of course, is when Windows Notepad had a markdown RCE.",
+      "search": "that one hack, of course, is when windows notepad had a markdown rce.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:75",
+      "startMs": 321520,
+      "endMs": 329440,
+      "verbatim": "Yes, Notepad, if you did not know, actually ended up changing for like the first time in 20 years, and they immediately made it exploitable.",
+      "display": "Yes, Notepad, if you did not know, actually ended up changing for like the first time in 20 years, and they immediately made it exploitable.",
+      "search": "yes, notepad, if you did not know, actually ended up changing for like the first time in 20 years, and they immediately made it exploitable.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:76",
+      "startMs": 329440,
+      "endMs": 333280,
+      "verbatim": "Now, if you do not know the exploit for Windows Notepad, it was actually pretty simple.",
+      "display": "Now, if you do not know the exploit for Windows Notepad, it was actually pretty simple.",
+      "search": "now, if you do not know the exploit for windows notepad, it was actually pretty simple.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:77",
+      "startMs": 333280,
+      "endMs": 339280,
+      "verbatim": "You would go to a notepad, you would open it up, it happened to be a markdown, and look at that, look at that beautiful little link right there.",
+      "display": "You would go to a notepad, you would open it up, it happened to be a markdown, and look at that, look at that beautiful little link right there.",
+      "search": "you would go to a notepad, you would open it up, it happened to be a markdown, and look at that, look at that beautiful little link right there.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:78",
+      "startMs": 339280,
+      "endMs": 342000,
+      "verbatim": "Well, you're gonna go and you're gonna wanna go click that link, right?",
+      "display": "Well, you're gonna go and you're gonna wanna go click that link, right?",
+      "search": "well, you're gonna go and you're gonna wanna go click that link, right?",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:79",
+      "startMs": 342000,
+      "endMs": 346720,
+      "verbatim": "Well, it turns out the link doesn't contain an HTTP address.",
+      "display": "Well, it turns out the link doesn't contain an HTTP address.",
+      "search": "well, it turns out the link doesn't contain an http address.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:80",
+      "startMs": 346720,
+      "endMs": 350720,
+      "verbatim": "Instead, it contains a file, a URI file.",
+      "display": "Instead, it contains a file, a URI file.",
+      "search": "instead, it contains a file, a uri file.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:81",
+      "startMs": 350720,
+      "endMs": 351920,
+      "verbatim": "Beautiful, right?",
+      "display": "Beautiful, right?",
+      "search": "beautiful, right?",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:82",
+      "startMs": 351920,
+      "endMs": 357120,
+      "verbatim": "Well, it turns out that if you clicked on a link, it would just open anything.",
+      "display": "Well, it turns out that if you clicked on a link, it would just open anything.",
+      "search": "well, it turns out that if you clicked on a link, it would just open anything.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:83",
+      "startMs": 357120,
+      "endMs": 364400,
+      "verbatim": "Now, naturally, this was actually rather difficult to exploit because you had to get some sort of malicious program onto the computer first.",
+      "display": "Now, naturally, this was actually rather difficult to exploit because you had to get some sort of malicious program onto the computer first.",
+      "search": "now, naturally, this was actually rather difficult to exploit because you had to get some sort of malicious program onto the computer first.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:84",
+      "startMs": 364400,
+      "endMs": 366000,
+      "verbatim": "And then by clicking the link.",
+      "display": "And then by clicking the link.",
+      "search": "and then by clicking the link.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:85",
+      "startMs": 366000,
+      "endMs": 372800,
+      "verbatim": "So it's kind of like this two-step process, get malicious package, and then get somebody to link, you could take advantage of the Windows system.",
+      "display": "So it's kind of like this two-step process, get malicious package, and then get somebody to link, you could take advantage of the Windows system.",
+      "search": "so it's kind of like this two-step process, get malicious package, and then get somebody to link, you could take advantage of the windows system.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:86",
+      "startMs": 372800,
+      "endMs": 379760,
+      "verbatim": "Now, of course, the Mecha Chameleon one uses this exact same vulnerability, but it was a bit more sinister.",
+      "display": "Now, of course, the Mecha Chameleon one uses this exact same vulnerability, but it was a bit more sinister.",
+      "search": "now, of course, the mecha chameleon one uses this exact same vulnerability, but it was a bit more sinister.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:87",
+      "startMs": 379760,
+      "endMs": 385360,
+      "verbatim": "So now when you see this, this open URL, you can immediately understand where this is going.",
+      "display": "So now when you see this, this open URL, you can immediately understand where this is going.",
+      "search": "so now when you see this, this open url, you can immediately understand where this is going.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:88",
+      "startMs": 385360,
+      "endMs": 389520,
+      "verbatim": "Yes, in fact, the underlying method is almost identical.",
+      "display": "Yes, in fact, the underlying method is almost identical.",
+      "search": "yes, in fact, the underlying method is almost identical.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:89",
+      "startMs": 389520,
+      "endMs": 393440,
+      "verbatim": "It turns out it ends up opening shell executew.",
+      "display": "It turns out it ends up opening shell executew.",
+      "search": "it turns out it ends up opening shell executew.",
+      "confidence": 0.659
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:90",
+      "startMs": 393440,
+      "endMs": 399680,
+      "verbatim": "So whatever you hand it, if you hand it a file URI, it will just open that up now.",
+      "display": "So whatever you hand it, if you hand it a file URI, it will just open that up now.",
+      "search": "so whatever you hand it, if you hand it a file uri, it will just open that up now.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:91",
+      "startMs": 399680,
+      "endMs": 408080,
+      "verbatim": "Remember just a little bit ago when I told you about how these Steam Workshop items, they're just folders and you can put whatever you want inside of that.",
+      "display": "Remember just a little bit ago when I told you about how these Steam Workshop items, they're just folders and you can put whatever you want inside of that.",
+      "search": "remember just a little bit ago when i told you about how these steam workshop items, they're just folders and you can put whatever you want inside of that.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:92",
+      "startMs": 408080,
+      "endMs": 408640,
+      "verbatim": "Remember that?",
+      "display": "Remember that?",
+      "search": "remember that?",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:93",
+      "startMs": 408800,
+      "endMs": 409760,
+      "verbatim": "It was just a moment ago.",
+      "display": "It was just a moment ago.",
+      "search": "it was just a moment ago.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:94",
+      "startMs": 409760,
+      "endMs": 410640,
+      "verbatim": "How did you forget?",
+      "display": "How did you forget?",
+      "search": "how did you forget?",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:95",
+      "startMs": 410640,
+      "endMs": 414640,
+      "verbatim": "By the way, for those that use real operating systems, we call these directories.",
+      "display": "By the way, for those that use real operating systems, we call these directories.",
+      "search": "by the way, for those that use real operating systems, we call these directories.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:96",
+      "startMs": 414640,
+      "endMs": 416560,
+      "verbatim": "But on Windows, Wind blows.",
+      "display": "But on Windows, Wind blows.",
+      "search": "but on windows, wind blows.",
+      "confidence": 0.64
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:97",
+      "startMs": 416560,
+      "endMs": 418160,
+      "verbatim": "Am I right, boys?",
+      "display": "Am I right, boys?",
+      "search": "am i right, boys?",
+      "confidence": 0.685
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:98",
+      "startMs": 418160,
+      "endMs": 424960,
+      "verbatim": "They call them folders, you know, because you put files in folders, manila folders, actually, specifically.",
+      "display": "They call them folders, you know, because you put files in folders, manila folders, actually, specifically.",
+      "search": "they call them folders, you know, because you put files in folders, manila folders, actually, specifically.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:99",
+      "startMs": 424960,
+      "endMs": 431920,
+      "verbatim": "And then you put those in a box that's a hard drive, and then you put them on the top shelf of your garage, never to look at them again.",
+      "display": "And then you put those in a box that's a hard drive, and then you put them on the top shelf of your garage, never to look at them again.",
+      "search": "and then you put those in a box that's a hard drive, and then you put them on the top shelf of your garage, never to look at them again.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:100",
+      "startMs": 431920,
+      "endMs": 438480,
+      "verbatim": "So by using a folder, you can upload bat files or exe files to do whatever you want to do.",
+      "display": "So by using a folder, you can upload bat files or exe files to do whatever you want to do.",
+      "search": "so by using a folder, you can upload bat files or exe files to do whatever you want to do.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:101",
+      "startMs": 438480,
+      "endMs": 448320,
+      "verbatim": "And then with the begin play event that gets executed the moment your map gets loaded into Mecha Chameleon, hey, no restart needed, just go and download it there, Bucko.",
+      "display": "And then with the begin play event that gets executed the moment your map gets loaded into Mecha Chameleon, hey, no restart needed, just go and download it there, Bucko.",
+      "search": "and then with the begin play event that gets executed the moment your map gets loaded into mecha chameleon, hey, no restart needed, just go and download it there, bucko.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:102",
+      "startMs": 448320,
+      "endMs": 458880,
+      "verbatim": "The moment that executes, bada bing, bada boom, it can open any arbitrary file on your system, which happens to be a file that it just got done downloading, and bam, you're taking advantage of, okay, son?",
+      "display": "The moment that executes, bada bing, bada boom, it can open any arbitrary file on your system, which happens to be a file that it just got done downloading, and bam, you're taking advantage of, okay, son?",
+      "search": "the moment that executes, bada bing, bada boom, it can open any arbitrary file on your system, which happens to be a file that it just got done downloading, and bam, you're taking advantage of, okay, son?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:103",
+      "startMs": 458880,
+      "endMs": 460000,
+      "verbatim": "You just got wrecked.",
+      "display": "You just got wrecked.",
+      "search": "you just got wrecked.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:104",
+      "startMs": 460000,
+      "endMs": 462880,
+      "verbatim": "And if you go through Kale's blog, that's exactly what you see.",
+      "display": "And if you go through Kale's blog, that's exactly what you see.",
+      "search": "and if you go through kale's blog, that's exactly what you see.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:105",
+      "startMs": 462880,
+      "endMs": 466160,
+      "verbatim": "He ends up just simply doing a nice little who am I.",
+      "display": "He ends up just simply doing a nice little who am I.",
+      "search": "he ends up just simply doing a nice little who am i.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:106",
+      "startMs": 466160,
+      "endMs": 469600,
+      "verbatim": "You know, honestly, like who who who who am I?",
+      "display": "You know, honestly, like who who who who am I?",
+      "search": "you know, honestly, like who who who who am i?",
+      "confidence": 0.64
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:107",
+      "startMs": 470720,
+      "endMs": 471360,
+      "verbatim": "The name?",
+      "display": "The name?",
+      "search": "the name?",
+      "confidence": 0.625
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:108",
+      "startMs": 475840,
+      "endMs": 476320,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.471
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:109",
+      "startMs": 476320,
+      "endMs": 486480,
+      "verbatim": "Now I think something that is actually a lot more dangerous and people just need to know about, and the reason really why I wanted to do this video is that there's a lot of indie games out there that allow custom user content.",
+      "display": "Now I think something that is actually a lot more dangerous and people just need to know about, and the reason really why I wanted to do this video is that there's a lot of indie games out there that allow custom user content.",
+      "search": "now i think something that is actually a lot more dangerous and people just need to know about, and the reason really why i wanted to do this video is that there's a lot of indie games out there that allow custom user content.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:110",
+      "startMs": 486480,
+      "endMs": 497200,
+      "verbatim": "And just like Mecha Chameleon, that was a mega popular game, there's a lot of these games that probably contain identical exploits, which means you should be a little bit more careful.",
+      "display": "And just like Mecha Chameleon, that was a mega popular game, there's a lot of these games that probably contain identical exploits, which means you should be a little bit more careful.",
+      "search": "and just like mecha chameleon, that was a mega popular game, there's a lot of these games that probably contain identical exploits, which means you should be a little bit more careful.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:111",
+      "startMs": 497200,
+      "endMs": 500240,
+      "verbatim": "Now you wouldn't install an NPM package, would you?",
+      "display": "Now you wouldn't install an NPM package, would you?",
+      "search": "now you wouldn't install an npm package, would you?",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:112",
+      "startMs": 500240,
+      "endMs": 501440,
+      "verbatim": "That's because you're a developer.",
+      "display": "That's because you're a developer.",
+      "search": "that's because you're a developer.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:113",
+      "startMs": 501520,
+      "endMs": 503760,
+      "verbatim": "You're very, very, very, very smart.",
+      "display": "You're very, very, very, very smart.",
+      "search": "you're very, very, very, very smart.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:114",
+      "startMs": 503760,
+      "endMs": 515040,
+      "verbatim": "But what you don't realize is that installing an NPM package could potentially execute a post script if you don't have a post-install script if you don't have all the security and things set up for that not to happen.",
+      "display": "But what you don't realize is that installing an NPM package could potentially execute a post script if you don't have a post-install script if you don't have all the security and things set up for that not to happen.",
+      "search": "but what you don't realize is that installing an npm package could potentially execute a post script if you don't have a post-install script if you don't have all the security and things set up for that not to happen.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:115",
+      "startMs": 515040,
+      "endMs": 519280,
+      "verbatim": "And that is how a lot of these worms, these shahalud worms, have been going about.",
+      "display": "And that is how a lot of these worms, these shahalud worms, have been going about.",
+      "search": "and that is how a lot of these worms, these shahalud worms, have been going about.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:116",
+      "startMs": 519280,
+      "endMs": 524400,
+      "verbatim": "Now, it turns out that exact same style of exploit is happening with games.",
+      "display": "Now, it turns out that exact same style of exploit is happening with games.",
+      "search": "now, it turns out that exact same style of exploit is happening with games.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:117",
+      "startMs": 524400,
+      "endMs": 528000,
+      "verbatim": "So really the PSA is that you're gonna get hacked.",
+      "display": "So really the PSA is that you're gonna get hacked.",
+      "search": "so really the psa is that you're gonna get hacked.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:118",
+      "startMs": 528000,
+      "endMs": 530400,
+      "verbatim": "You're gonna just stop downloading again.",
+      "display": "You're gonna just stop downloading again.",
+      "search": "you're gonna just stop downloading again.",
+      "confidence": 0.7
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:119",
+      "startMs": 530400,
+      "endMs": 531760,
+      "verbatim": "The internet, I'm calling it.",
+      "display": "The internet, I'm calling it.",
+      "search": "the internet, i'm calling it.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:120",
+      "startMs": 531760,
+      "endMs": 532640,
+      "verbatim": "We're turning it off.",
+      "display": "We're turning it off.",
+      "search": "we're turning it off.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:121",
+      "startMs": 532640,
+      "endMs": 533040,
+      "verbatim": "We're done.",
+      "display": "We're done.",
+      "search": "we're done.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:122",
+      "startMs": 533040,
+      "endMs": 534560,
+      "verbatim": "We're returning to monkey, okay?",
+      "display": "We're returning to monkey, okay?",
+      "search": "we're returning to monkey, okay?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:123",
+      "startMs": 534560,
+      "endMs": 535520,
+      "verbatim": "No more of this crap.",
+      "display": "No more of this crap.",
+      "search": "no more of this crap.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:124",
+      "startMs": 535520,
+      "endMs": 541200,
+      "verbatim": "But the real, the actually the real takeaway is that agents kind of are scary, right?",
+      "display": "But the real, the actually the real takeaway is that agents kind of are scary, right?",
+      "search": "but the real, the actually the real takeaway is that agents kind of are scary, right?",
+      "confidence": 0.724
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:125",
+      "startMs": 541200,
+      "endMs": 546320,
+      "verbatim": "You're downloading and putting things on your machine at a rate in which you've never been able to put on before, okay?",
+      "display": "You're downloading and putting things on your machine at a rate in which you've never been able to put on before, okay?",
+      "search": "you're downloading and putting things on your machine at a rate in which you've never been able to put on before, okay?",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:126",
+      "startMs": 546320,
+      "endMs": 549200,
+      "verbatim": "You think installing NPM modules was like bad.",
+      "display": "You think installing NPM modules was like bad.",
+      "search": "you think installing npm modules was like bad.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:127",
+      "startMs": 549200,
+      "endMs": 551280,
+      "verbatim": "Now you got agents putting who knows what.",
+      "display": "Now you got agents putting who knows what.",
+      "search": "now you got agents putting who knows what.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:128",
+      "startMs": 551280,
+      "endMs": 555840,
+      "verbatim": "We have skills in which have hidden HTML, which can take advantage of your system.",
+      "display": "We have skills in which have hidden HTML, which can take advantage of your system.",
+      "search": "we have skills in which have hidden html, which can take advantage of your system.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:129",
+      "startMs": 555840,
+      "endMs": 558480,
+      "verbatim": "You have all sorts of ways to get prompt injected.",
+      "display": "You have all sorts of ways to get prompt injected.",
+      "search": "you have all sorts of ways to get prompt injected.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:130",
+      "startMs": 558480,
+      "endMs": 560800,
+      "verbatim": "You know, so just hey, be careful out there.",
+      "display": "You know, so just hey, be careful out there.",
+      "search": "you know, so just hey, be careful out there.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:131",
+      "startMs": 560800,
+      "endMs": 568080,
+      "verbatim": "Understand what's happening, understand what's being downloaded, and just remember just because a bunch of people use something does not mean it's safe.",
+      "display": "Understand what's happening, understand what's being downloaded, and just remember just because a bunch of people use something does not mean it's safe.",
+      "search": "understand what's happening, understand what's being downloaded, and just remember just because a bunch of people use something does not mean it's safe.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:132",
+      "startMs": 568080,
+      "endMs": 570880,
+      "verbatim": "Just like Mecha Chameleon, one of the hottest games out there.",
+      "display": "Just like Mecha Chameleon, one of the hottest games out there.",
+      "search": "just like mecha chameleon, one of the hottest games out there.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:133",
+      "startMs": 570880,
+      "endMs": 575200,
+      "verbatim": "Turns out it just had a massive vulnerability in which who knows what information was taken.",
+      "display": "Turns out it just had a massive vulnerability in which who knows what information was taken.",
+      "search": "turns out it just had a massive vulnerability in which who knows what information was taken.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:134",
+      "startMs": 575200,
+      "endMs": 577200,
+      "verbatim": "Also, I'd like to do a special shout out.",
+      "display": "Also, I'd like to do a special shout out.",
+      "search": "also, i'd like to do a special shout out.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:135",
+      "startMs": 577200,
+      "endMs": 579760,
+      "verbatim": "Uh, at the end of this blog, which by the way, you should go read.",
+      "display": "Uh, at the end of this blog, which by the way, you should go read.",
+      "search": "uh, at the end of this blog, which by the way, you should go read.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:136",
+      "startMs": 579760,
+      "endMs": 581440,
+      "verbatim": "It's a very excellent blog.",
+      "display": "It's a very excellent blog.",
+      "search": "it's a very excellent blog.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:137",
+      "startMs": 581440,
+      "endMs": 585920,
+      "verbatim": "Uh, he says doing security research like this is often a thankless job.",
+      "display": "Uh, he says doing security research like this is often a thankless job.",
+      "search": "uh, he says doing security research like this is often a thankless job.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:138",
+      "startMs": 585920,
+      "endMs": 587680,
+      "verbatim": "So this goes out to you, Kale.",
+      "display": "So this goes out to you, Kale.",
+      "search": "so this goes out to you, kale.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:139",
+      "startMs": 587680,
+      "endMs": 589520,
+      "verbatim": "Really appreciated the blog.",
+      "display": "Really appreciated the blog.",
+      "search": "really appreciated the blog.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:140",
+      "startMs": 589520,
+      "endMs": 590720,
+      "verbatim": "Awesome write up.",
+      "display": "Awesome write up.",
+      "search": "awesome write up.",
+      "confidence": 0.733
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:141",
+      "startMs": 590720,
+      "endMs": 592800,
+      "verbatim": "The name is the Primogen.",
+      "display": "The name is the Primogen.",
+      "search": "the name is the primogen.",
+      "confidence": 0.611
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:142",
+      "startMs": 592800,
+      "endMs": 594640,
+      "verbatim": "Okay, that's not what it looks like.",
+      "display": "Okay, that's not what it looks like.",
+      "search": "okay, that's not what it looks like.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:143",
+      "startMs": 594640,
+      "endMs": 595920,
+      "verbatim": "Okay, that's not what it looks like.",
+      "display": "Okay, that's not what it looks like.",
+      "search": "okay, that's not what it looks like.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:144",
+      "startMs": 595920,
+      "endMs": 601120,
+      "verbatim": "What I was going to show you, okay, I didn't mean for this to happen, but what I was gonna show you is that I can draw really straight lines.",
+      "display": "What I was going to show you, okay, I didn't mean for this to happen, but what I was gonna show you is that I can draw really straight lines.",
+      "search": "what i was going to show you, okay, i didn't mean for this to happen, but what i was gonna show you is that i can draw really straight lines.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:145",
+      "startMs": 601120,
+      "endMs": 603920,
+      "verbatim": "I bet I'd be pretty good at Mecha Chameleon, okay?",
+      "display": "I bet I'd be pretty good at Mecha Chameleon, okay?",
+      "search": "i bet i'd be pretty good at mecha chameleon, okay?",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:1DhZkZ_q4Qg:segment:146",
+      "startMs": 603920,
+      "endMs": 604960,
+      "verbatim": "A gen.",
+      "display": "A gen.",
+      "search": "a gen.",
+      "confidence": 0.517
+    }
+  ]
+}
