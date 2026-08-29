@@ -99,6 +99,24 @@ function screeningLabel(result: RankedSearchWindow): { label: string; detail: st
   };
 }
 
+function resolveSupercutReferences(
+  corpus: SearchCorpus,
+  references: ReturnType<typeof decodeSupercut>,
+): RankedSearchWindow[] {
+  return references.flatMap((reference) => {
+    const source = corpus.sources.find((candidate) => candidate.sourceId === reference.sourceId);
+    const windowMatch = source
+      ? corpus.windows.find(
+          (candidate) =>
+            candidate.sourceId === source.sourceId &&
+            candidate.startMs === reference.startMs &&
+            candidate.endMs === reference.endMs,
+        )
+      : null;
+    return source && windowMatch ? [{ ...windowMatch, source, score: 0 }] : [];
+  });
+}
+
 function ResultCard({
   result,
   query,
@@ -413,11 +431,7 @@ export function ReviewApp() {
         const url = new URL(window.location.href);
         const initialQuery = url.searchParams.get("q") ?? DEFAULT_QUERY;
         const references = decodeSupercut(new URLSearchParams(url.hash.slice(1)).get(SUPERCUT_PARAM));
-        const hydratedClips = references.flatMap((reference) => {
-          const source = loadedCorpus.sources.find((candidate) => candidate.sourceId === reference.sourceId);
-          const windowMatch = source ? loadedCorpus.windows.find((candidate) => candidate.sourceId === source.sourceId && candidate.startMs === reference.startMs && candidate.endMs === reference.endMs) : null;
-          return source && windowMatch ? [{ ...windowMatch, source, score: 0 }] : [];
-        });
+        const hydratedClips = resolveSupercutReferences(loadedCorpus, references);
         setCorpus(loadedCorpus);
         setDraftQuery(initialQuery);
         setActiveQuery(initialQuery);
@@ -430,6 +444,23 @@ export function ReviewApp() {
     void loadCorpus();
     return () => controller.abort();
   }, []);
+
+  useEffect(() => {
+    if (!corpus) return;
+
+    function restoreSupercutFromUrl() {
+      const references = decodeSupercut(new URLSearchParams(window.location.hash.slice(1)).get(SUPERCUT_PARAM));
+      setSelectedClips(resolveSupercutReferences(corpus!, references));
+      setSupercutOpen(false);
+    }
+
+    window.addEventListener("hashchange", restoreSupercutFromUrl);
+    window.addEventListener("popstate", restoreSupercutFromUrl);
+    return () => {
+      window.removeEventListener("hashchange", restoreSupercutFromUrl);
+      window.removeEventListener("popstate", restoreSupercutFromUrl);
+    };
+  }, [corpus]);
 
   const results = useMemo(() => (corpus ? searchTranscriptCorpus(corpus, activeQuery) : []), [activeQuery, corpus]);
 
