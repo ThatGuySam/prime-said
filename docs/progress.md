@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 19:24 UTC
+**Updated:** 2026-08-29 19:59 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -13,6 +13,8 @@
 **Published retrieval regressions:** `25802c62091f5eabe89b8ea26322c35b729d992f`
 **Published shadcn review interface:** `899f5e3821a898360ae1d54b7e3819df2b729e24`
 **Published deterministic review ranker and dark interface:** `a5ca2963fada0827f0110603f8f8ae7cca0e3a0b`
+**Published hierarchy and supercut prototype:** `3809c3ac8b6df98578513fb816cb17caf669cc52`
+**Published fragment-navigation correction:** `877718597dcbcd681f9cf0e34bf949a377663d2e`
 **ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
@@ -30,10 +32,25 @@ Phase 0 or Phase 1 gate claim. This turn did not run Apple Silicon
 transcription or measure timestamp drift against recording-reviewed spans.
 
 The deployed review interface is now a React island assembled from local
-shadcn primitives. It preserves native search and URL state, source filtering,
-origin warnings, context, clipboard links, and the single-player invariant.
+shadcn primitives. It preserves native search and URL state, origin warnings,
+context, clipboard links, and on-demand playback.
 Continuous curves use CSS `corner-shape: superellipse(2)` where supported and
 retain ordinary `border-radius` as the fallback.
+
+The latest hierarchy pass removes source-filter chips, eyebrows, example
+chips, thumbnails, duplicate play controls, and visible secondary actions.
+Wide screens now use a three-column quote grid, with two- and one-column
+fallbacks. Source/time, quote, native selection, one Play action, and Details
+are the visible card anatomy; provenance, context, and copy actions remain
+available through progressive disclosure.
+
+The review-only supercut prototype stores ordered source IDs and exact
+start/end milliseconds in a versioned, checksummed `r1` URL fragment. It is
+not the canonical stable-moment collection format. Playback creates no iframe
+before an explicit gesture, then uses one active iframe plus at most one warm
+standby; reduced-data preference uses one. Autoplay is best effort and a
+visible Next control remains the fallback. No gapless-playback or audiovisual
+smoothness claim is made.
 
 A deterministic retrieval development screen now captures topic, stance,
 word-origin, morphology, no-result, boundary, exclusion, and
@@ -93,6 +110,11 @@ reference-iPhone latency gate has passed.
 - Added progressive superellipse styling with a baseline rounded-corner
   fallback and documented both the browser-support boundary and retrieval
   experiment in dated research memos.
+- Re-audited the review hierarchy, reduced each collapsed result to five
+  visible parts, and moved supporting evidence behind one Details disclosure.
+- Added native ordered clip selection, checksummed URL-fragment sharing,
+  reload/back-forward restoration, and a two-slot warm-standby supercut
+  playback prototype with a manual Next fallback.
 
 ## Automated Phase 0 evidence
 
@@ -185,6 +207,24 @@ The retrieval figures were tuned and measured on the same caption-derived
 development cases. They are not held-out relevance accuracy, recording-review
 accuracy, authorship accuracy, or evidence that the deterministic ranker meets
 the mobile performance gate.
+
+## Three-up hierarchy and supercut prototype evidence
+
+| Check | Result |
+| --- | --- |
+| `bun run test` | Pass. 75 tests, 0 failures, 188 assertions across ten files. |
+| `bun run check` | Pass. Repository and corpus validation pass; Astro reports 0 errors, 0 warnings, and 0 hints across 38 files. |
+| Clean `bun run build` | Pass. Two pages and seven reported assets. Largest asset `review/captions.json`, 912,310 bytes; total output 1,202,372 bytes. Review island 62,384 bytes; renderer 180,598 bytes. |
+| `bun run deploy:dry-run` | Pass with Wrangler 4.127.1. It read nine files; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
+| Cloudflare native Git deployment | Pass. The public page references `review-app.B6KCpdxk.js`, `client.BApSHwD7.js`, and `index.Xc4MhlRq.css`, exactly matching the clean build from published revision `877718597dcbcd681f9cf0e34bf949a377663d2e`. |
+| Three-up desktop layout | Pass in Chromium at 1,363 × 936. The first row contains three 427-pixel cards at the same vertical position with zero horizontal overflow. No reference-phone or zoom claim. |
+| URL cut state | Pass. Two ordered source ranges produced a checksummed `r1` fragment, survived a full reload, and restored after same-tab fragment navigation. The search query remained intact and no iframe existed before Play. |
+| Supercut player structure | Pass. The two-clip live prototype created one accessible active iframe and one `aria-hidden` warm standby. The visible Next control advanced to clip two, reduced the DOM to one iframe, and became disabled on the last clip. Embed URLs contained the selected start/end ranges. |
+| Browser logs | No app-origin warning or error was observed. Extension-origin metadata errors were excluded. |
+
+These checks verify DOM state, URL restoration, player-slot structure, and
+manual handoff. They do not verify YouTube autoplay permission, audio, visual
+continuity, seek precision, or device performance.
 
 ## Source screening and open gate
 
