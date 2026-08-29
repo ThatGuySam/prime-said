@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 15:15 UTC
+**Updated:** 2026-08-29 15:22 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -9,6 +9,7 @@
 **Published attribution screening gate:** `cb54db16bf7c92441b0d439b6023671eebc64f83`
 **Review-caption data slice:** `24e6d64c882495fda72bdd62c5e219c468ab33de`
 **Transcript-review interface slice:** `171b470a1fe4253950c5a879e94fe291994b0f15`
+**Published compact review interface:** `820a738950296b3557c283ca9ab5198271b7f597`
 **ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
@@ -21,7 +22,7 @@ it does not promote those captions to canonical transcripts or quotations.
 Recording review and the quoted-source attribution gate still block the
 manually verified TDD-span deliverable, so Phase 1 has not started.
 
-The current implementation candidate makes the review locator compact and
+The deployed interface makes the review locator compact and
 quote-first, moves results into a two-column desktop/one-column mobile layout,
 adds lazy YouTube thumbnails, and uses one docked player so a second selection
 replaces rather than overlaps the first. Search reset is explicit, source-copy
@@ -30,9 +31,9 @@ progressive disclosure.
 
 A deterministic related-word experiment found the real 4:48 testing-preference
 window for the paraphrase `testing guides coding`. It was not retained in the
-production candidate: `AGENTS.md` requires the golden retrieval suite and an
+published interface: `AGENTS.md` requires the golden retrieval suite and an
 average-or-worse iPhone latency benchmark for ranking changes, and neither gate
-is available. The deployed candidate therefore keeps the existing literal
+is available. The deployed interface therefore keeps the existing literal
 caption ranking and does not claim semantic retrieval.
 
 ## Completed work
@@ -127,7 +128,7 @@ not verify exact recording words, vocal speaker, word origin, or relevance.
 The GIF is assembled from screenshots of the running preview, not a continuous
 screen recording.
 
-## Compact review-interface candidate
+## Published compact review interface
 
 | Check | Result |
 | --- | --- |
@@ -135,13 +136,15 @@ screen recording.
 | `bun test` | Pass. 53 tests, 0 failures, 144 assertions. |
 | `bun run build` | Pass. Two static pages and five assets. Largest asset `review/captions.json`, 908,967 bytes. Total output 930,149 bytes. |
 | `wrangler deploy --dry-run` | Pass with Wrangler 4.127.1. It read seven files; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
-| Local interaction browser check | Not run. This environment did not expose the local preview to the cloud browser. Interaction verification remains pending on the public Cloudflare build. |
+| Cloudflare native Git deployment | Pass. The public page references `index.BzzRMnZx.css` and `index.astro_astro_type_script_index_0_lang.CYTBtMCT.js`, exactly matching the verified local build. |
+| Public functional browser flow | Pass at a 1,348-pixel desktop viewport. The real corpus returned 12 windows for `tests drive development`; the two-column grid had no horizontal overflow; `reverse funnel` returned the 20:42 chat/response warning; context disclosed the unreviewed boundary; copy returned the timestamped YouTube URL; and clear removed the query, showed the reset state, and focused the empty field. No app-origin browser errors were observed. |
+| Single-player invariant | Pass. Two result selections each left exactly one iframe; the second replaced the first source and timestamp. Closing the dock removed the iframe. The embed URL and start seconds were verified, but audiovisual playback was not confirmed because the cloud browser did not render YouTube media pixels. |
 
-The existing Cloudflare Workers static deployment is visible at
+The published Cloudflare Workers static deployment is visible at
 <https://prime-said.samcarlton.workers.dev/review/> and is connected to
-`ThatGuySam/prime-said` `main`. The user supplied the provider and live-page
-screenshots. The compact candidate has not yet been published or observed on
-that URL.
+`ThatGuySam/prime-said` `main`. GitHub accepted the commit as a one-commit
+fast-forward from `1bc9bd3b54aefce8916fffed5a233c26b4aea206`; the live asset
+names confirm that Cloudflare served its exact verified build output.
 
 ## Source screening and open gate
 
