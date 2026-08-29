@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 03:38 UTC
+**Updated:** 2026-08-29 04:09 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -8,7 +8,7 @@
 
 ## Current phase
 
-Phase 0: repository and fixtures. All code and automated checks pass. Recording review still blocks the manually verified TDD-span deliverable, so Phase 1 has not started.
+Phase 0: repository and fixtures. All code and automated checks pass. Recording review and the newly identified quoted-source attribution requirement block the manually verified TDD-span deliverable, so Phase 1 has not started.
 
 ## Completed work
 
@@ -20,6 +20,7 @@ Phase 0: repository and fixtures. All code and automated checks pass. Recording 
 - Added production asset reporting for count, largest file, total bytes, the 16 MiB file ceiling, and the 5,000-file ceiling.
 - Updated CI to use immutable action revisions, pin Node 24.18.0 and Bun 1.2.15, install from the frozen lockfile, check, test, build, and run the Wrangler dry run.
 - Recorded current runtime pins, Phase 1 toolchain candidates, and the TDD auto-caption screening in `docs/research/`.
+- Recorded a deterministic quoted-source attribution design in `docs/research/quoted-source-attribution-2026-08-29.md`. It separates vocal speaker from word origin, treats the user's remembered wording as search intent rather than transcript evidence, and recommends build-time OCR/ASR alignment with abstention.
 
 ## Automated Phase 0 evidence
 
@@ -50,6 +51,8 @@ Public metadata confirms that all three IDs are available videos on The PrimeTim
 
 `docs/research/tdd-seed-screening-2026-08-29.md` has the exact review windows and links. A person must listen to the recordings, correct the source-to-wording assignment, and approve citation/playback boundaries. Until then, Phase 0 is not fully complete and no timestamp-drift claim is valid.
 
+The user then reviewed the 20:42 code-coverage recording and identified Prime reading Twitch chat before responding. That origin judgment makes the span a valuable hard negative, not a creator-authored quotation. The exact quoted wording and response boundary remain unverified. Independent Sol Ultra passes also confirmed that ASR alone cannot resolve this authorship distinction and found additional source-reading candidates for the future attribution eval.
+
 ## Other gates not run
 
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
@@ -59,4 +62,4 @@ Public metadata confirms that all three IDs are available videos on The PrimeTim
 
 ## Next checkpoint
 
-Listen to the three short windows in the seed-screening memo. In one reviewed change, add reviewed start/end span fields and a reviewed state to the fixture/gold schemas, validator, and regression tests; update `evals/gold/tdd-seed.json` and `corpus/fixtures/tdd-sources.json`; then rerun the full Phase 0 gate. If it passes, begin Phase 1 with the typed command builders, binary/hash preflight, temporary-directory isolation, and run-manifest schema described in `docs/research/phase1-toolchain-pins-2026-08-29.md`.
+Implement the candidate/gold separation and span-level `spokenBy`/`wordsFrom` review model recommended in `docs/research/quoted-source-attribution-2026-08-29.md`. Listen to the three short windows in the seed-screening memo, record exact boundaries and origin, and retain 20:42 as a quoted-chat hard negative. Then rerun the full Phase 0 gate. If it passes, begin Phase 1 with the typed command builders, binary/hash preflight, temporary-directory isolation, and run-manifest schema described in `docs/research/phase1-toolchain-pins-2026-08-29.md`.
