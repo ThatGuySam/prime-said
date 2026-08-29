@@ -128,7 +128,7 @@ afterEach(async () => {
 });
 
 describe("corpus validation", () => {
-  test("accepts the Phase 0 layout and unverified seed fixture", async () => {
+  test("accepts the Phase 0 layout and unverified candidate fixture", async () => {
     const result = await validateCorpus({ rootDir: REPOSITORY_ROOT });
 
     expect(result).toEqual({
@@ -370,20 +370,20 @@ describe("corpus validation", () => {
     ]);
   });
 
-  test("rejects drift from the seed-unverified gold fixture", async () => {
+  test("rejects drift from the candidate-unverified source fixture", async () => {
     const corpusDir = await createCorpusCopy();
     const fixturePath = join(corpusDir, "fixtures", "tdd-sources.json");
     const fixture = JSON.parse(await readFile(fixturePath, "utf8")) as {
-      sources: Array<{ timestampMs: number }>;
+      sources: Array<{ approximateTimestampMs: number }>;
     };
-    fixture.sources[0].timestampMs += 1;
+    fixture.sources[0].approximateTimestampMs += 1;
     await writeFile(fixturePath, `${JSON.stringify(fixture, null, 2)}\n`);
 
     const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
 
     expect(result.ok).toBe(false);
     expect(result.errors).toEqual([
-      "corpus/fixtures/tdd-sources.json: fixture drifted from evals/gold/tdd-seed.json; keep it seed-unverified until source metadata and timestamp spans are reviewed",
+      "corpus/fixtures/tdd-sources.json: fixture drifted from evals/candidates/tdd-seed.json; keep it candidate-unverified until source metadata and attribution spans are reviewed",
     ]);
   });
 

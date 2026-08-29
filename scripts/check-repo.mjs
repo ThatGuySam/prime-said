@@ -20,7 +20,9 @@ const required = [
   "docs/seo-attribution-takedown.md",
   "docs/implementation-plan.md",
   "docs/sol-ultra-handoff.md",
-  "docs/progress.md"
+  "docs/progress.md",
+  "evals/candidates/tdd-seed.json",
+  "evals/gold/README.md"
 ];
 
 const errors = [];

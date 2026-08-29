@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "status": "candidate-unverified",
+  "note": "User notes are approximate retrieval clues, not transcripts or relevance judgments. Search each named video for Prime's own testing preference, including surrounding and full-video captions, then review the recording before promotion to evals/gold.",
+  "sources": [
+    {
+      "sourceId": "youtube:S_7SE_Uzk-I",
+      "title": "The Lies Of 100% Code Coverage | Prime Reacts",
+      "approximateTimestampMs": 1242000,
+      "rememberedIntent": {
+        "text": "Loves driving implementation via test",
+        "fidelity": "paraphrase",
+        "provenance": "user-note"
+      },
+      "reviewInstructions": "The noted 20:42 window contains a chat-reading failure mode. Keep it as an attribution hard negative and search earlier captions in the same video for Prime's own testing preference."
+    },
+    {
+      "sourceId": "youtube:IInciWyU74U",
+      "title": "Lets Chat About Unit Tests",
+      "approximateTimestampMs": 380000,
+      "rememberedIntent": {
+        "text": null,
+        "fidelity": "topic-only",
+        "provenance": "user-note"
+      },
+      "reviewInstructions": "Use the timestamp as a neighborhood clue. Separate any preceding chat message from Prime's response before extracting a candidate quote."
+    },
+    {
+      "sourceId": "youtube:20SkiBvylyM",
+      "title": "Fear And Software",
+      "approximateTimestampMs": 283000,
+      "rememberedIntent": {
+        "text": "I usually use tests as a way to Drive Development",
+        "fidelity": "paraphrase",
+        "provenance": "user-note"
+      },
+      "reviewInstructions": "Find the testing-preference passage in the surrounding captions, but do not treat the remembered capitalization, wording, or timestamp as exact."
+    }
+  ],
+  "cases": [
+    {
+      "caseId": "tdd-memory-tests-drive-development",
+      "query": "I usually use tests as a way to drive development",
+      "queryClass": "paraphrase",
+      "candidateTargets": ["youtube:20SkiBvylyM@around-283000"],
+      "provenance": "human-seed",
+      "reviewStatus": "candidate-unverified",
+      "notes": "Remembered wording is a search query only. It is not an exact or near-exact transcript claim."
+    },
+    {
+      "caseId": "tdd-paraphrase-development",
+      "query": "uses tests to drive development",
+      "queryClass": "paraphrase",
+      "candidateTargets": [
+        "youtube:20SkiBvylyM@around-283000",
+        "youtube:S_7SE_Uzk-I@same-video-search"
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "candidate-unverified",
+      "notes": "Candidate targets are investigation leads, not graded relevance judgments."
+    },
+    {
+      "caseId": "tdd-topic-testing-first",
+      "query": "testing first guides the implementation",
+      "queryClass": "topic",
+      "candidateTargets": [
+        "youtube:S_7SE_Uzk-I@same-video-search",
+        "youtube:20SkiBvylyM@around-283000",
+        "youtube:IInciWyU74U@around-380000"
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "candidate-unverified"
+    },
+    {
+      "caseId": "tdd-stretch-stan",
+      "query": "Prime secretly is a test-driven development stan",
+      "queryClass": "stretch",
+      "candidateTargets": [
+        "youtube:S_7SE_Uzk-I@same-video-search",
+        "youtube:20SkiBvylyM@around-283000"
+      ],
+      "provenance": "human-seed",
+      "reviewStatus": "candidate-unverified",
+      "notes": "Measure only after source review. The characterization may conflict with the speaker's stated distinction from TDD."
+    }
+  ]
+}

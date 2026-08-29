@@ -40,7 +40,7 @@ Implement only Phase 0 from `docs/implementation-plan.md`:
 1. Scaffold Astro with Bun and a committed lockfile.
 2. Preserve and validate root `wrangler.jsonc` for `dist/` Workers Static Assets.
 3. Add corpus directories, schema validator, unit-test setup, and build asset-limit check.
-4. Materialize the three TDD source fixtures from `evals/gold/tdd-seed.json` without inventing transcript text.
+4. Materialize the three TDD source clues from `evals/candidates/tdd-seed.json` without treating remembered intent as transcript text.
 5. Add a deterministic synthetic benchmark generator for 25k/100k/225k/450k 384-dimensional vectors; do not commit generated vectors.
 6. Make `bun run check`, tests, Astro build, and Wrangler dry-run pass.
 7. Update documentation only where implementation facts require it.

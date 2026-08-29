@@ -78,18 +78,23 @@ interface CollectionRecord extends JsonObject {
   items: CollectionItem[];
 }
 
-interface TddSeedSource extends JsonObject {
+interface TddCandidateSource extends JsonObject {
   sourceId: string;
   title: string;
-  timestampMs: number;
-  knownWording: string | null;
+  approximateTimestampMs: number;
+  rememberedIntent: {
+    text: string | null;
+    fidelity: "paraphrase" | "topic-only";
+    provenance: "user-note";
+  };
+  reviewInstructions: string;
 }
 
-interface TddGold extends JsonObject {
+interface TddCandidates extends JsonObject {
   schemaVersion: number;
-  status: "seed-unverified";
+  status: "candidate-unverified";
   note: string;
-  sources: TddSeedSource[];
+  sources: TddCandidateSource[];
   cases: JsonObject[];
 }
 
@@ -97,6 +102,8 @@ export interface CorpusValidationOptions {
   rootDir?: string;
   corpusDir?: string;
   fixturePath?: string;
+  candidatePath?: string;
+  // Compatibility alias for callers from the Phase 0 scaffold.
   goldPath?: string;
   schemaDir?: string;
 }
@@ -156,19 +163,27 @@ const ALL_SCHEMA_FILES = [
   "transcript.schema.json",
 ] as const;
 
-const EVAL_CASE_SCHEMA_ID = "https://prime-said.example/schemas/eval-case.schema.json";
-
 const TDD_SOURCE_PROPERTIES = {
   sourceId: { type: "string", pattern: "^youtube:.+$" },
   title: { type: "string", minLength: 1 },
-  timestampMs: { type: "integer", minimum: 0 },
-  knownWording: { type: ["string", "null"] },
+  approximateTimestampMs: { type: "integer", minimum: 0 },
+  rememberedIntent: {
+    type: "object",
+    additionalProperties: false,
+    required: ["text", "fidelity", "provenance"],
+    properties: {
+      text: { type: ["string", "null"] },
+      fidelity: { enum: ["paraphrase", "topic-only"] },
+      provenance: { const: "user-note" },
+    },
+  },
+  reviewInstructions: { type: "string", minLength: 1 },
 } as const;
 
 const TDD_SOURCE_SCHEMA = {
   type: "object",
   additionalProperties: false,
-  required: ["sourceId", "title", "timestampMs", "knownWording"],
+  required: ["sourceId", "title", "approximateTimestampMs", "rememberedIntent", "reviewInstructions"],
   properties: TDD_SOURCE_PROPERTIES,
 } as const;
 
@@ -179,8 +194,8 @@ const TDD_FIXTURE_SCHEMA = {
   additionalProperties: false,
   required: ["schemaVersion", "reviewStatus", "note", "sources"],
   properties: {
-    schemaVersion: { const: 1 },
-    reviewStatus: { const: "seed-unverified" },
+    schemaVersion: { const: 2 },
+    reviewStatus: { const: "candidate-unverified" },
     note: { type: "string", minLength: 1 },
     sources: {
       type: "array",
@@ -191,15 +206,15 @@ const TDD_FIXTURE_SCHEMA = {
   },
 } as const;
 
-const TDD_GOLD_SCHEMA = {
+const TDD_CANDIDATE_SCHEMA = {
   $schema: "https://json-schema.org/draft/2020-12/schema",
-  $id: "https://prime-said.example/schemas/tdd-gold-seed.schema.json",
+  $id: "https://prime-said.example/schemas/tdd-candidate-seed.schema.json",
   type: "object",
   additionalProperties: false,
   required: ["schemaVersion", "status", "note", "sources", "cases"],
   properties: {
-    schemaVersion: { const: 1 },
-    status: { const: "seed-unverified" },
+    schemaVersion: { const: 2 },
+    status: { const: "candidate-unverified" },
     note: { type: "string", minLength: 1 },
     sources: {
       type: "array",
@@ -210,7 +225,24 @@ const TDD_GOLD_SCHEMA = {
     cases: {
       type: "array",
       minItems: 1,
-      items: { $ref: EVAL_CASE_SCHEMA_ID },
+      items: {
+        type: "object",
+        additionalProperties: false,
+        required: ["caseId", "query", "queryClass", "candidateTargets", "provenance", "reviewStatus"],
+        properties: {
+          caseId: { type: "string", minLength: 1 },
+          query: { type: "string", minLength: 1 },
+          queryClass: { enum: ["paraphrase", "topic", "stretch"] },
+          candidateTargets: {
+            type: "array",
+            minItems: 1,
+            items: { type: "string", minLength: 1 },
+          },
+          provenance: { const: "human-seed" },
+          reviewStatus: { const: "candidate-unverified" },
+          notes: { type: "string", minLength: 1 },
+        },
+      },
     },
   },
 } as const;
@@ -334,7 +366,7 @@ async function createAjv(
 
   try {
     ajv.addSchema(TDD_FIXTURE_SCHEMA);
-    ajv.addSchema(TDD_GOLD_SCHEMA);
+    ajv.addSchema(TDD_CANDIDATE_SCHEMA);
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     errors.push(`TDD fixture schemas: cannot register schema: ${message}`);
@@ -610,44 +642,44 @@ function validateIntegrity(records: CanonicalRecord[], errors: string[]): void {
 
 async function validateTddFixture(
   fixturePath: string,
-  goldPath: string,
+  candidatePath: string,
   corpusDir: string,
   ajv: Ajv2020,
   errors: string[],
 ): Promise<number> {
   const fixtureLabel = corpusLabel(corpusDir, fixturePath);
   const fixture = await readJson(fixturePath, fixtureLabel, errors);
-  const gold = await readJson(goldPath, "evals/gold/tdd-seed.json", errors);
-  if (fixture === undefined || gold === undefined) return 0;
+  const candidates = await readJson(candidatePath, "evals/candidates/tdd-seed.json", errors);
+  if (fixture === undefined || candidates === undefined) return 0;
 
   const fixtureValidator = requiredValidator(
     ajv,
     String(TDD_FIXTURE_SCHEMA.$id),
     errors,
   );
-  const goldValidator = requiredValidator(ajv, String(TDD_GOLD_SCHEMA.$id), errors);
-  if (!fixtureValidator || !goldValidator) return 0;
+  const candidateValidator = requiredValidator(ajv, String(TDD_CANDIDATE_SCHEMA.$id), errors);
+  if (!fixtureValidator || !candidateValidator) return 0;
 
   if (!fixtureValidator(fixture)) {
     appendSchemaErrors(errors, fixtureLabel, fixtureValidator.errors);
     return 1;
   }
-  if (!goldValidator(gold)) {
-    appendSchemaErrors(errors, "evals/gold/tdd-seed.json", goldValidator.errors);
+  if (!candidateValidator(candidates)) {
+    appendSchemaErrors(errors, "evals/candidates/tdd-seed.json", candidateValidator.errors);
     return 1;
   }
 
-  const typedGold = gold as TddGold;
+  const typedCandidates = candidates as TddCandidates;
   const expectedFixture = {
-    schemaVersion: typedGold.schemaVersion,
-    reviewStatus: typedGold.status,
-    note: typedGold.note,
-    sources: typedGold.sources,
+    schemaVersion: typedCandidates.schemaVersion,
+    reviewStatus: typedCandidates.status,
+    note: typedCandidates.note,
+    sources: typedCandidates.sources,
   };
 
   if (!isDeepStrictEqual(fixture, expectedFixture)) {
     errors.push(
-      `${fixtureLabel}: fixture drifted from evals/gold/tdd-seed.json; keep it seed-unverified until source metadata and timestamp spans are reviewed`,
+      `${fixtureLabel}: fixture drifted from evals/candidates/tdd-seed.json; keep it candidate-unverified until source metadata and attribution spans are reviewed`,
     );
   }
 
@@ -661,7 +693,11 @@ export async function validateCorpus(
   const corpusDir = resolve(options.corpusDir ?? join(rootDir, "corpus"));
   const schemaDir = resolve(options.schemaDir ?? join(rootDir, "docs", "schemas"));
   const fixturePath = resolve(options.fixturePath ?? join(corpusDir, "fixtures", "tdd-sources.json"));
-  const goldPath = resolve(options.goldPath ?? join(rootDir, "evals", "gold", "tdd-seed.json"));
+  const candidatePath = resolve(
+    options.candidatePath
+      ?? options.goldPath
+      ?? join(rootDir, "evals", "candidates", "tdd-seed.json"),
+  );
   const errors: string[] = [];
 
   await validateLayout(corpusDir, errors);
@@ -728,7 +764,7 @@ export async function validateCorpus(
   validateIntegrity(canonicalRecords, errors);
   const fixtureFilesValidated = await validateTddFixture(
     fixturePath,
-    goldPath,
+    candidatePath,
     corpusDir,
     ajv,
     errors,
