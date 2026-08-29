@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prime-said.example/schemas/review-caption-corpus.schema.json",
+  "title": "Prime Said unreviewed caption-review corpus",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "status",
+    "captionTrack",
+    "generatedAt",
+    "notice",
+    "sources"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "status": { "const": "screening-unverified" },
+    "captionTrack": { "const": "en-orig auto-generated JSON3" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "notice": { "type": "string", "minLength": 80 },
+    "sources": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sourceId",
+          "platformId",
+          "title",
+          "channel",
+          "canonicalUrl",
+          "publishedAt",
+          "durationMs",
+          "captionSha256",
+          "wordingStatus",
+          "speakerStatus",
+          "wordOriginStatus",
+          "segments"
+        ],
+        "properties": {
+          "sourceId": { "type": "string", "pattern": "^youtube:.+$" },
+          "platformId": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "channel": { "type": "string", "minLength": 1 },
+          "canonicalUrl": { "type": "string", "format": "uri" },
+          "publishedAt": { "type": ["string", "null"], "format": "date-time" },
+          "durationMs": { "type": "integer", "minimum": 1 },
+          "captionSha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "wordingStatus": { "const": "machine-generated-unreviewed" },
+          "speakerStatus": { "const": "unknown" },
+          "wordOriginStatus": { "const": "unknown" },
+          "segments": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["segmentId", "startMs", "endMs", "text", "search"],
+              "properties": {
+                "segmentId": { "type": "string", "minLength": 1 },
+                "startMs": { "type": "integer", "minimum": 0 },
+                "endMs": { "type": "integer", "minimum": 1 },
+                "text": { "type": "string", "minLength": 1 },
+                "search": { "type": "string", "minLength": 1 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -26,6 +26,7 @@ const SCHEMA_FILES = [
   "collection.schema.json",
   "eval-case.schema.json",
   "moment.schema.json",
+  "review-caption-corpus.schema.json",
   "source.schema.json",
   "transcript.schema.json",
 ] as const;
@@ -131,6 +132,10 @@ async function createCorpusCopy(): Promise<string> {
     join(REPOSITORY_ROOT, "corpus", "fixtures", "tdd-sources.json"),
     join(corpusDir, "fixtures", "tdd-sources.json"),
   );
+  await copyFile(
+    join(REPOSITORY_ROOT, "corpus", "fixtures", "tdd-auto-caption-review.json"),
+    join(corpusDir, "fixtures", "tdd-auto-caption-review.json"),
+  );
 
   return corpusDir;
 }
@@ -148,7 +153,7 @@ describe("corpus validation", () => {
       ok: true,
       errors: [],
       canonicalFilesValidated: 0,
-      fixtureFilesValidated: 1,
+      fixtureFilesValidated: 2,
     });
   });
 
@@ -162,6 +167,97 @@ describe("corpus validation", () => {
 
     expect(result.ok).toBe(false);
     expect(result.errors).toContain("corpus/: cannot read directory: ENOTDIR");
+  });
+
+  test("rejects promotion of the auto-caption review fixture to verified status", async () => {
+    const corpusDir = await createCorpusCopy();
+    const reviewPath = join(corpusDir, "fixtures", "tdd-auto-caption-review.json");
+    const review = JSON.parse(await readFile(reviewPath, "utf8")) as { status: string };
+    review.status = "reviewed";
+    await writeJson(reviewPath, review);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/fixtures/tdd-auto-caption-review.json/status: must be equal to constant",
+    ]);
+  });
+
+  test("rejects caption data whose source hash drifts from the screened track", async () => {
+    const corpusDir = await createCorpusCopy();
+    const reviewPath = join(corpusDir, "fixtures", "tdd-auto-caption-review.json");
+    const review = JSON.parse(await readFile(reviewPath, "utf8")) as {
+      sources: Array<{ captionSha256: string }>;
+    };
+    review.sources[0].captionSha256 = "0".repeat(64);
+    await writeJson(reviewPath, review);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/fixtures/tdd-auto-caption-review.json/sources/0/captionSha256: hash does not match the attribution screening corpus",
+    ]);
+  });
+
+  test("rejects review metadata that drifts from the pinned source contract", async () => {
+    const corpusDir = await createCorpusCopy();
+    const reviewPath = join(corpusDir, "fixtures", "tdd-auto-caption-review.json");
+    const review = JSON.parse(await readFile(reviewPath, "utf8")) as {
+      sources: Array<{ canonicalUrl: string }>;
+    };
+    review.sources[0].canonicalUrl = "https://www.youtube.com/watch?v=wrong-source";
+    await writeJson(reviewPath, review);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/fixtures/tdd-auto-caption-review.json/sources/0/canonicalUrl: does not match the pinned review contract",
+    ]);
+  });
+
+  test("reports malformed attribution dependencies instead of throwing", async () => {
+    const corpusDir = await createCorpusCopy();
+    const temporaryRoot = dirname(corpusDir);
+    const attributionPath = join(temporaryRoot, "screening-corpus.json");
+    const attribution = JSON.parse(
+      await readFile(
+        join(REPOSITORY_ROOT, "evals", "attribution", "screening-corpus.json"),
+        "utf8",
+      ),
+    ) as Record<string, unknown>;
+    delete attribution.sources;
+    await writeJson(attributionPath, attribution);
+
+    const result = await validateCorpus({
+      rootDir: REPOSITORY_ROOT,
+      corpusDir,
+      attributionScreeningPath: attributionPath,
+    });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toContain(
+      "evals/attribution/screening-corpus.json/sources: must have required property 'sources'",
+    );
+  });
+
+  test("rejects auto-caption timing beyond the bounded source tolerance", async () => {
+    const corpusDir = await createCorpusCopy();
+    const reviewPath = join(corpusDir, "fixtures", "tdd-auto-caption-review.json");
+    const review = JSON.parse(await readFile(reviewPath, "utf8")) as {
+      sources: Array<{ durationMs: number; segments: Array<{ endMs: number }> }>;
+    };
+    review.sources[0].segments.at(-1)!.endMs = review.sources[0].durationMs + 5_001;
+    await writeJson(reviewPath, review);
+
+    const result = await validateCorpus({ rootDir: REPOSITORY_ROOT, corpusDir });
+
+    expect(result.ok).toBe(false);
+    expect(result.errors).toEqual([
+      "corpus/fixtures/tdd-auto-caption-review.json/sources/0/segments/616/endMs: 1306001 exceeds source duration plus caption tolerance 1306000",
+    ]);
   });
 
   test("reports JSON Schema violations with a stable file and field path", async () => {
@@ -366,7 +462,7 @@ describe("corpus validation", () => {
       ok: true,
       errors: [],
       canonicalFilesValidated: 3,
-      fixtureFilesValidated: 1,
+      fixtureFilesValidated: 2,
     });
   });
 
@@ -505,7 +601,7 @@ describe("corpus validation", () => {
       ok: true,
       errors: [],
       canonicalFilesValidated: 0,
-      fixtureFilesValidated: 1,
+      fixtureFilesValidated: 2,
     });
   });
 

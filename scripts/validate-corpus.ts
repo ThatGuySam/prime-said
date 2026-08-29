@@ -6,6 +6,8 @@ import { fileURLToPath } from "node:url";
 import Ajv2020, { type ErrorObject, type ValidateFunction } from "ajv/dist/2020.js";
 import addFormats from "ajv-formats";
 
+import { REVIEW_CAPTION_SOURCES } from "./review-caption-source-contract.ts";
+
 type JsonObject = Record<string, unknown>;
 
 type CanonicalKind = "source" | "transcript" | "moment" | "collection";
@@ -110,11 +112,46 @@ interface TddCandidates extends JsonObject {
   cases: JsonObject[];
 }
 
+interface ReviewCaptionSegment extends JsonObject {
+  segmentId: string;
+  startMs: number;
+  endMs: number;
+  text: string;
+  search: string;
+}
+
+interface ReviewCaptionSource extends JsonObject {
+  sourceId: string;
+  platformId: string;
+  title: string;
+  channel: string;
+  canonicalUrl: string;
+  publishedAt: string | null;
+  durationMs: number;
+  captionSha256: string;
+  segments: ReviewCaptionSegment[];
+}
+
+interface ReviewCaptionCorpus extends JsonObject {
+  sources: ReviewCaptionSource[];
+}
+
+interface AttributionScreeningSource extends JsonObject {
+  sourceId: string;
+  captionSha256: string;
+}
+
+interface AttributionScreeningCorpus extends JsonObject {
+  sources: AttributionScreeningSource[];
+}
+
 export interface CorpusValidationOptions {
   rootDir?: string;
   corpusDir?: string;
   fixturePath?: string;
   candidatePath?: string;
+  reviewFixturePath?: string;
+  attributionScreeningPath?: string;
   // Compatibility alias for callers from the Phase 0 scaffold.
   goldPath?: string;
   schemaDir?: string;
@@ -172,6 +209,7 @@ const ALL_SCHEMA_FILES = [
   "collection.schema.json",
   "eval-case.schema.json",
   "moment.schema.json",
+  "review-caption-corpus.schema.json",
   "source.schema.json",
   "transcript.schema.json",
 ] as const;
@@ -723,6 +761,149 @@ async function validateTddFixture(
   return 1;
 }
 
+async function validateReviewCaptionFixture(
+  reviewFixturePath: string,
+  tddFixturePath: string,
+  attributionScreeningPath: string,
+  corpusDir: string,
+  ajv: Ajv2020,
+  errors: string[],
+): Promise<number> {
+  const reviewLabel = corpusLabel(corpusDir, reviewFixturePath);
+  const reviewFixture = await readJson(reviewFixturePath, reviewLabel, errors);
+  const tddFixture = await readJson(tddFixturePath, corpusLabel(corpusDir, tddFixturePath), errors);
+  const attribution = await readJson(
+    attributionScreeningPath,
+    "evals/attribution/screening-corpus.json",
+    errors,
+  );
+  if (reviewFixture === undefined || tddFixture === undefined || attribution === undefined) return 0;
+
+  const reviewValidator = requiredValidator(
+    ajv,
+    "https://prime-said.example/schemas/review-caption-corpus.schema.json",
+    errors,
+  );
+  const tddValidator = requiredValidator(ajv, String(TDD_FIXTURE_SCHEMA.$id), errors);
+  const attributionValidator = requiredValidator(
+    ajv,
+    "https://prime-said.example/schemas/attribution-screening-corpus.schema.json",
+    errors,
+  );
+  if (!reviewValidator || !tddValidator || !attributionValidator) return 0;
+
+  let inputsValid = true;
+  if (!reviewValidator(reviewFixture)) {
+    appendSchemaErrors(errors, reviewLabel, reviewValidator.errors);
+    inputsValid = false;
+  }
+  if (!tddValidator(tddFixture)) {
+    appendSchemaErrors(errors, corpusLabel(corpusDir, tddFixturePath), tddValidator.errors);
+    inputsValid = false;
+  }
+  if (!attributionValidator(attribution)) {
+    appendSchemaErrors(
+      errors,
+      "evals/attribution/screening-corpus.json",
+      attributionValidator.errors,
+    );
+    inputsValid = false;
+  }
+  if (!inputsValid) {
+    return 1;
+  }
+
+  const review = reviewFixture as ReviewCaptionCorpus;
+  const candidates = tddFixture as { sources: TddCandidateSource[] };
+  const screening = attribution as AttributionScreeningCorpus;
+  const expectedCandidates = new Map(
+    candidates.sources.map((source) => [source.sourceId, source]),
+  );
+  const expectedHashes = new Map(
+    screening.sources.map((source) => [source.sourceId, source.captionSha256]),
+  );
+  const expectedMetadata = new Map<string, (typeof REVIEW_CAPTION_SOURCES)[number]>(
+    REVIEW_CAPTION_SOURCES.map((source) => [source.sourceId, source]),
+  );
+  const seenSourceIds = new Set<string>();
+  const seenSegmentIds = new Set<string>();
+
+  review.sources.forEach((source, sourceIndex) => {
+    const sourceLabel = `${reviewLabel}/sources/${sourceIndex}`;
+    const expectedSource = expectedCandidates.get(source.sourceId);
+    const metadata = expectedMetadata.get(source.sourceId);
+    if (seenSourceIds.has(source.sourceId)) {
+      errors.push(`${sourceLabel}/sourceId: duplicate source ${source.sourceId}`);
+    }
+    seenSourceIds.add(source.sourceId);
+
+    if (!expectedSource) {
+      errors.push(`${sourceLabel}/sourceId: source is not one of the three Phase 0 candidates`);
+    } else if (source.title !== expectedSource.title) {
+      errors.push(`${sourceLabel}/title: title does not match the Phase 0 candidate fixture`);
+    }
+    if (source.sourceId !== `youtube:${source.platformId}`) {
+      errors.push(`${sourceLabel}/sourceId: expected youtube:${source.platformId}`);
+    }
+    if (!metadata) {
+      errors.push(`${sourceLabel}/sourceId: source is absent from the pinned review contract`);
+    } else {
+      if (source.platformId !== metadata.platformId) {
+        errors.push(`${sourceLabel}/platformId: does not match the pinned review contract`);
+      }
+      if (source.channel !== metadata.channel) {
+        errors.push(`${sourceLabel}/channel: does not match the pinned review contract`);
+      }
+      if (source.canonicalUrl !== metadata.canonicalUrl) {
+        errors.push(`${sourceLabel}/canonicalUrl: does not match the pinned review contract`);
+      }
+      if (source.publishedAt !== metadata.publishedAt) {
+        errors.push(`${sourceLabel}/publishedAt: does not match the pinned review contract`);
+      }
+      if (source.durationMs !== metadata.durationMs) {
+        errors.push(`${sourceLabel}/durationMs: does not match the pinned review contract`);
+      }
+    }
+    if (source.captionSha256 !== expectedHashes.get(source.sourceId)) {
+      errors.push(`${sourceLabel}/captionSha256: hash does not match the attribution screening corpus`);
+    }
+
+    let previousStart = -1;
+    let previousEnd = -1;
+    source.segments.forEach((segment, segmentIndex) => {
+      const segmentLabel = `${sourceLabel}/segments/${segmentIndex}`;
+      if (seenSegmentIds.has(segment.segmentId)) {
+        errors.push(`${segmentLabel}/segmentId: duplicate segment ID ${segment.segmentId}`);
+      }
+      seenSegmentIds.add(segment.segmentId);
+      if (segment.endMs <= segment.startMs) {
+        errors.push(`${segmentLabel}: endMs must be greater than startMs`);
+      }
+      if (segment.startMs < previousStart || segment.endMs < previousEnd) {
+        errors.push(`${segmentLabel}: timestamps must be monotonic`);
+      }
+      if (segment.endMs > source.durationMs + 5_000) {
+        errors.push(
+          `${segmentLabel}/endMs: ${segment.endMs} exceeds source duration plus caption tolerance ${source.durationMs + 5_000}`,
+        );
+      }
+      if (segment.search !== segment.text.toLocaleLowerCase("en-US")) {
+        errors.push(`${segmentLabel}/search: must be the case-folded caption text`);
+      }
+      previousStart = segment.startMs;
+      previousEnd = segment.endMs;
+    });
+  });
+
+  const expectedIds = candidates.sources.map((source) => source.sourceId);
+  const actualIds = review.sources.map((source) => source.sourceId);
+  if (!isDeepStrictEqual(actualIds, expectedIds)) {
+    errors.push(`${reviewLabel}/sources: source order must match the Phase 0 candidate fixture`);
+  }
+
+  return 1;
+}
+
 export async function validateCorpus(
   options: CorpusValidationOptions = {},
 ): Promise<CorpusValidationResult> {
@@ -734,6 +915,14 @@ export async function validateCorpus(
     options.candidatePath
       ?? options.goldPath
       ?? join(rootDir, "evals", "candidates", "tdd-seed.json"),
+  );
+  const reviewFixturePath = resolve(
+    options.reviewFixturePath
+      ?? join(corpusDir, "fixtures", "tdd-auto-caption-review.json"),
+  );
+  const attributionScreeningPath = resolve(
+    options.attributionScreeningPath
+      ?? join(rootDir, "evals", "attribution", "screening-corpus.json"),
   );
   const errors: string[] = [];
 
@@ -764,7 +953,7 @@ export async function validateCorpus(
   let canonicalFilesValidated = 0;
 
   for (const file of allCorpusJson) {
-    if (resolve(file) === fixturePath) continue;
+    if (resolve(file) === fixturePath || resolve(file) === reviewFixturePath) continue;
 
     const relativePath = slashPath(relative(corpusDir, file));
     const topDirectory = relativePath.split("/", 1)[0];
@@ -799,13 +988,22 @@ export async function validateCorpus(
   }
 
   validateIntegrity(canonicalRecords, errors);
-  const fixtureFilesValidated = await validateTddFixture(
+  const tddFixtureFilesValidated = await validateTddFixture(
     fixturePath,
     candidatePath,
     corpusDir,
     ajv,
     errors,
   );
+  const reviewFixtureFilesValidated = await validateReviewCaptionFixture(
+    reviewFixturePath,
+    fixturePath,
+    attributionScreeningPath,
+    corpusDir,
+    ajv,
+    errors,
+  );
+  const fixtureFilesValidated = tddFixtureFilesValidated + reviewFixtureFilesValidated;
 
   const sortedErrors = errors.sort(compareStrings);
   return {
