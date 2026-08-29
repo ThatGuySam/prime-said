@@ -1,0 +1,2615 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_b78caedbc6561290286570af",
+  "sourceId": "youtube:IInciWyU74U",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-29T18:01:45.704Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:1",
+      "startMs": 160,
+      "endMs": 4080,
+      "verbatim": "Well, hey, I love Dave's content, but his delivery sounds so condescending.",
+      "display": "Well, hey, I love Dave's content, but his delivery sounds so condescending.",
+      "search": "well, hey, i love dave's content, but his delivery sounds so condescending.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:2",
+      "startMs": 4080,
+      "endMs": 7120,
+      "verbatim": "See, the problem is that I don't really buy most of his content.",
+      "display": "See, the problem is that I don't really buy most of his content.",
+      "search": "see, the problem is that i don't really buy most of his content.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:3",
+      "startMs": 7120,
+      "endMs": 10880,
+      "verbatim": "Like test-driven development is great when you have a black box.",
+      "display": "Like test-driven development is great when you have a black box.",
+      "search": "like test-driven development is great when you have a black box.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:4",
+      "startMs": 11040,
+      "endMs": 22560,
+      "verbatim": "Way better version of development as this is that you build something, you throw that something away, you learn from it, you throw it away, and then you build it again and you make tests that are effective, right?",
+      "display": "Way better version of development as this is that you build something, you throw that something away, you learn from it, you throw it away, and then you build it again and you make tests that are effective, right?",
+      "search": "way better version of development as this is that you build something, you throw that something away, you learn from it, you throw it away, and then you build it again and you make tests that are effective, right?",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:5",
+      "startMs": 22720,
+      "endMs": 23920,
+      "verbatim": "That's how I like building.",
+      "display": "That's how I like building.",
+      "search": "that's how i like building.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:6",
+      "startMs": 23920,
+      "endMs": 36640,
+      "verbatim": "I don't like testing to determine my architecture, but I like to make it a very, um, I like to make it a very uh uh concrete or foundational part of my development.",
+      "display": "I don't like testing to determine my architecture, but I like to make it a very, um, I like to make it a very uh uh concrete or foundational part of my development.",
+      "search": "i don't like testing to determine my architecture, but i like to make it a very, um, i like to make it a very uh uh concrete or foundational part of my development.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:7",
+      "startMs": 36640,
+      "endMs": 37280,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:8",
+      "startMs": 37280,
+      "endMs": 41920,
+      "verbatim": "Uh that's why, again, that's why uh Harpoon 2, Harpoon 1, pretty much no tests.",
+      "display": "Uh that's why, again, that's why uh Harpoon 2, Harpoon 1, pretty much no tests.",
+      "search": "uh that's why, again, that's why uh harpoon 2, harpoon 1, pretty much no tests.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:9",
+      "startMs": 41920,
+      "endMs": 42640,
+      "verbatim": "I was exploring.",
+      "display": "I was exploring.",
+      "search": "i was exploring.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:10",
+      "startMs": 42640,
+      "endMs": 44560,
+      "verbatim": "I was just trying to understand what I was trying to build.",
+      "display": "I was just trying to understand what I was trying to build.",
+      "search": "i was just trying to understand what i was trying to build.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:11",
+      "startMs": 44560,
+      "endMs": 47120,
+      "verbatim": "Harpoon 2, yeah, it's gonna be good.",
+      "display": "Harpoon 2, yeah, it's gonna be good.",
+      "search": "harpoon 2, yeah, it's gonna be good.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:12",
+      "startMs": 47120,
+      "endMs": 48320,
+      "verbatim": "We got everything working.",
+      "display": "We got everything working.",
+      "search": "we got everything working.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:13",
+      "startMs": 48320,
+      "endMs": 52640,
+      "verbatim": "I really made sure that we had some good tests so I wasn't just me making shit up.",
+      "display": "I really made sure that we had some good tests so I wasn't just me making shit up.",
+      "search": "i really made sure that we had some good tests so i wasn't just me making shit up.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:14",
+      "startMs": 52640,
+      "endMs": 53600,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:15",
+      "startMs": 53600,
+      "endMs": 56320,
+      "verbatim": "But I really like test build once.",
+      "display": "But I really like test build once.",
+      "search": "but i really like test build once.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:16",
+      "startMs": 56320,
+      "endMs": 58720,
+      "verbatim": "And notice that I threw away all of Harpoon.",
+      "display": "And notice that I threw away all of Harpoon.",
+      "search": "and notice that i threw away all of harpoon.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:17",
+      "startMs": 58720,
+      "endMs": 60240,
+      "verbatim": "I did not even look at it once.",
+      "display": "I did not even look at it once.",
+      "search": "i did not even look at it once.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:18",
+      "startMs": 60240,
+      "endMs": 62960,
+      "verbatim": "Because once you start, no unit testing is not bullshit.",
+      "display": "Because once you start, no unit testing is not bullshit.",
+      "search": "because once you start, no unit testing is not bullshit.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:19",
+      "startMs": 62960,
+      "endMs": 64720,
+      "verbatim": "There's plenty of great reasons to unit test.",
+      "display": "There's plenty of great reasons to unit test.",
+      "search": "there's plenty of great reasons to unit test.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:20",
+      "startMs": 64720,
+      "endMs": 70320,
+      "verbatim": "Whenever I hear unit testing is bullshit, what I think you are is a crud slash UI developer, and that's it.",
+      "display": "Whenever I hear unit testing is bullshit, what I think you are is a crud slash UI developer, and that's it.",
+      "search": "whenever i hear unit testing is bullshit, what i think you are is a crud slash ui developer, and that's it.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:21",
+      "startMs": 70320,
+      "endMs": 72080,
+      "verbatim": "You've never developed anything hard.",
+      "display": "You've never developed anything hard.",
+      "search": "you've never developed anything hard.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:22",
+      "startMs": 72080,
+      "endMs": 73840,
+      "verbatim": "Get wrecked, shambles.",
+      "display": "Get wrecked, shambles.",
+      "search": "get wrecked, shambles.",
+      "confidence": 0.677
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:23",
+      "startMs": 73840,
+      "endMs": 74160,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:24",
+      "startMs": 74160,
+      "endMs": 80000,
+      "verbatim": "When you say unit testing is not uh is not difficult, you've clearly never done really complex dynamic algorithms.",
+      "display": "When you say unit testing is not uh is not difficult, you've clearly never done really complex dynamic algorithms.",
+      "search": "when you say unit testing is not uh is not difficult, you've clearly never done really complex dynamic algorithms.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:25",
+      "startMs": 80000,
+      "endMs": 80400,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:26",
+      "startMs": 80400,
+      "endMs": 84800,
+      "verbatim": "Dynamic programming is not easy, and it's very good to have testing for that.",
+      "display": "Dynamic programming is not easy, and it's very good to have testing for that.",
+      "search": "dynamic programming is not easy, and it's very good to have testing for that.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:27",
+      "startMs": 84800,
+      "endMs": 87120,
+      "verbatim": "Pseudo apt install, gid.",
+      "display": "Pseudo apt install, gid.",
+      "search": "pseudo apt install, gid.",
+      "confidence": 0.564
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:28",
+      "startMs": 87120,
+      "endMs": 88160,
+      "verbatim": "Get it wrecked.",
+      "display": "Get it wrecked.",
+      "search": "get it wrecked.",
+      "confidence": 0.592
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:29",
+      "startMs": 88160,
+      "endMs": 88560,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.706
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:30",
+      "startMs": 88560,
+      "endMs": 90400,
+      "verbatim": "100% coverage is shit.",
+      "display": "100% coverage is shit.",
+      "search": "100% coverage is shit.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:31",
+      "startMs": 90400,
+      "endMs": 91040,
+      "verbatim": "Absolutely.",
+      "display": "Absolutely.",
+      "search": "absolutely.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:32",
+      "startMs": 91040,
+      "endMs": 92720,
+      "verbatim": "Hands down, absolutely.",
+      "display": "Hands down, absolutely.",
+      "search": "hands down, absolutely.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:33",
+      "startMs": 92960,
+      "endMs": 94960,
+      "verbatim": "No, you get wrecked, kid.",
+      "display": "No, you get wrecked, kid.",
+      "search": "no, you get wrecked, kid.",
+      "confidence": 0.701
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:34",
+      "startMs": 94960,
+      "endMs": 95840,
+      "verbatim": "No, real talk.",
+      "display": "No, real talk.",
+      "search": "no, real talk.",
+      "confidence": 0.641
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:35",
+      "startMs": 95840,
+      "endMs": 98160,
+      "verbatim": "Like, unit testing, unit testing makes no sense.",
+      "display": "Like, unit testing, unit testing makes no sense.",
+      "search": "like, unit testing, unit testing makes no sense.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:36",
+      "startMs": 98160,
+      "endMs": 101600,
+      "verbatim": "When people say it's like, uh, you absolutely don't need to do that.",
+      "display": "When people say it's like, uh, you absolutely don't need to do that.",
+      "search": "when people say it's like, uh, you absolutely don't need to do that.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:37",
+      "startMs": 101600,
+      "endMs": 103840,
+      "verbatim": "Um, you can't refactor untested code.",
+      "display": "Um, you can't refactor untested code.",
+      "search": "um, you can't refactor untested code.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:38",
+      "startMs": 103840,
+      "endMs": 105360,
+      "verbatim": "Uh you're just moving shit around.",
+      "display": "Uh you're just moving shit around.",
+      "search": "uh you're just moving shit around.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:39",
+      "startMs": 105360,
+      "endMs": 110800,
+      "verbatim": "But yeah, but but unit tests when you refactor code, naturally, a bunch of them break also.",
+      "display": "But yeah, but but unit tests when you refactor code, naturally, a bunch of them break also.",
+      "search": "but yeah, but but unit tests when you refactor code, naturally, a bunch of them break also.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:40",
+      "startMs": 110800,
+      "endMs": 111360,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.555
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:41",
+      "startMs": 111360,
+      "endMs": 113840,
+      "verbatim": "Uh, I do like stable API testing.",
+      "display": "Uh, I do like stable API testing.",
+      "search": "uh, i do like stable api testing.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:42",
+      "startMs": 113840,
+      "endMs": 116880,
+      "verbatim": "I think it's really, really good to do stable API testing.",
+      "display": "I think it's really, really good to do stable API testing.",
+      "search": "i think it's really, really good to do stable api testing.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:43",
+      "startMs": 116880,
+      "endMs": 121920,
+      "verbatim": "The hard part is that you don't test it for if conditions you know secretly inside of your code, right?",
+      "display": "The hard part is that you don't test it for if conditions you know secretly inside of your code, right?",
+      "search": "the hard part is that you don't test it for if conditions you know secretly inside of your code, right?",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:44",
+      "startMs": 121920,
+      "endMs": 123600,
+      "verbatim": "You have to treat it like a black box.",
+      "display": "You have to treat it like a black box.",
+      "search": "you have to treat it like a black box.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:45",
+      "startMs": 123600,
+      "endMs": 133440,
+      "verbatim": "But unit testing can be very, very, very, very, very, very, very, very beneficial if and only if you have something that's a very constrained algorithm.",
+      "display": "But unit testing can be very, very, very, very, very, very, very, very beneficial if and only if you have something that's a very constrained algorithm.",
+      "search": "but unit testing can be very, very, very, very, very, very, very, very beneficial if and only if you have something that's a very constrained algorithm.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:46",
+      "startMs": 133440,
+      "endMs": 134560,
+      "verbatim": "Here's a good example.",
+      "display": "Here's a good example.",
+      "search": "here's a good example.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:47",
+      "startMs": 134560,
+      "endMs": 139120,
+      "verbatim": "Um, if I had to go and build uh, like here, this is from Netflix.",
+      "display": "Um, if I had to go and build uh, like here, this is from Netflix.",
+      "search": "um, if i had to go and build uh, like here, this is from netflix.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:48",
+      "startMs": 139120,
+      "endMs": 141280,
+      "verbatim": "This is something I've had to do at Netflix.",
+      "display": "This is something I've had to do at Netflix.",
+      "search": "this is something i've had to do at netflix.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:49",
+      "startMs": 141280,
+      "endMs": 160800,
+      "verbatim": "I had to build a video sync player that would take in video frames as quickly as possible and pretend to play them and check for dropped frames and how dropped frames would affect everything, and like build an infrastructure to high play uh video like at 12 15x normal speed as fast as possible and test for any any problems in within the pipeline.",
+      "display": "I had to build a video sync player that would take in video frames as quickly as possible and pretend to play them and check for dropped frames and how dropped frames would affect everything, and like build an infrastructure to high play uh video like at 12 15x normal speed as fast as possible and test for any any problems in within the pipeline.",
+      "search": "i had to build a video sync player that would take in video frames as quickly as possible and pretend to play them and check for dropped frames and how dropped frames would affect everything, and like build an infrastructure to high play uh video like at 12 15x normal speed as fast as possible and test for any any problems in within the pipeline.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:50",
+      "startMs": 160800,
+      "endMs": 161840,
+      "verbatim": "And guess what?",
+      "display": "And guess what?",
+      "search": "and guess what?",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:51",
+      "startMs": 161840,
+      "endMs": 166880,
+      "verbatim": "That like moving and playing videos, there was even nanoseconds that would spill out.",
+      "display": "That like moving and playing videos, there was even nanoseconds that would spill out.",
+      "search": "that like moving and playing videos, there was even nanoseconds that would spill out.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:52",
+      "startMs": 166880,
+      "endMs": 173360,
+      "verbatim": "Nanoseconds caused uh caused uh uh like drift, and so like that's how hard those things were.",
+      "display": "Nanoseconds caused uh caused uh uh like drift, and so like that's how hard those things were.",
+      "search": "nanoseconds caused uh caused uh uh like drift, and so like that's how hard those things were.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:53",
+      "startMs": 173360,
+      "endMs": 174720,
+      "verbatim": "I know I saw that Tiffy.",
+      "display": "I know I saw that Tiffy.",
+      "search": "i know i saw that tiffy.",
+      "confidence": 0.744
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:54",
+      "startMs": 174720,
+      "endMs": 177280,
+      "verbatim": "Um, and so that was like a real, real thing.",
+      "display": "Um, and so that was like a real, real thing.",
+      "search": "um, and so that was like a real, real thing.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:55",
+      "startMs": 177280,
+      "endMs": 178560,
+      "verbatim": "What data structure did I use?",
+      "display": "What data structure did I use?",
+      "search": "what data structure did i use?",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:56",
+      "startMs": 178560,
+      "endMs": 179680,
+      "verbatim": "Uh dynamic programming.",
+      "display": "Uh dynamic programming.",
+      "search": "uh dynamic programming.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:57",
+      "startMs": 179680,
+      "endMs": 181360,
+      "verbatim": "It was just a dynamic programming problem.",
+      "display": "It was just a dynamic programming problem.",
+      "search": "it was just a dynamic programming problem.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:58",
+      "startMs": 181360,
+      "endMs": 183920,
+      "verbatim": "I kept track of everything and had I kept a spill.",
+      "display": "I kept track of everything and had I kept a spill.",
+      "search": "i kept track of everything and had i kept a spill.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:59",
+      "startMs": 183920,
+      "endMs": 186080,
+      "verbatim": "I had to keep track of spill from nanoseconds.",
+      "display": "I had to keep track of spill from nanoseconds.",
+      "search": "i had to keep track of spill from nanoseconds.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:60",
+      "startMs": 186080,
+      "endMs": 193680,
+      "verbatim": "It was super fun, but I had to create unit tests for that because it was extremely hard to get right, and it was extremely hard to actually test.",
+      "display": "It was super fun, but I had to create unit tests for that because it was extremely hard to get right, and it was extremely hard to actually test.",
+      "search": "it was super fun, but i had to create unit tests for that because it was extremely hard to get right, and it was extremely hard to actually test.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:61",
+      "startMs": 193680,
+      "endMs": 208800,
+      "verbatim": "Because if I wanted to test it, I had to like launch Netflix, run my program to start shoving things through, and then make sure that my sync was doing the right thing, and it was getting like, you know, you would get how many thousands upon thousands of 10,000 frames?",
+      "display": "Because if I wanted to test it, I had to like launch Netflix, run my program to start shoving things through, and then make sure that my sync was doing the right thing, and it was getting like, you know, you would get how many thousands upon thousands of 10,000 frames?",
+      "search": "because if i wanted to test it, i had to like launch netflix, run my program to start shoving things through, and then make sure that my sync was doing the right thing, and it was getting like, you know, you would get how many thousands upon thousands of 10,000 frames?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:62",
+      "startMs": 208800,
+      "endMs": 212160,
+      "verbatim": "And so it's like, how could you ever do that in any real sense?",
+      "display": "And so it's like, how could you ever do that in any real sense?",
+      "search": "and so it's like, how could you ever do that in any real sense?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:63",
+      "startMs": 212160,
+      "endMs": 213200,
+      "verbatim": "Unit test it.",
+      "display": "Unit test it.",
+      "search": "unit test it.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:64",
+      "startMs": 213200,
+      "endMs": 215760,
+      "verbatim": "It makes a thousand times more sense.",
+      "display": "It makes a thousand times more sense.",
+      "search": "it makes a thousand times more sense.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:65",
+      "startMs": 215760,
+      "endMs": 221440,
+      "verbatim": "I use unit test as a way to drive correctness and to implement stuff because it's fast.",
+      "display": "I use unit test as a way to drive correctness and to implement stuff because it's fast.",
+      "search": "i use unit test as a way to drive correctness and to implement stuff because it's fast.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:66",
+      "startMs": 221440,
+      "endMs": 222480,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:67",
+      "startMs": 222480,
+      "endMs": 224400,
+      "verbatim": "It's fast and easy to do.",
+      "display": "It's fast and easy to do.",
+      "search": "it's fast and easy to do.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:68",
+      "startMs": 224400,
+      "endMs": 229920,
+      "verbatim": "I don't use unit test to ensure, like it, I don't look at unit test as a way for like safety.",
+      "display": "I don't use unit test to ensure, like it, I don't look at unit test as a way for like safety.",
+      "search": "i don't use unit test to ensure, like it, i don't look at unit test as a way for like safety.",
+      "confidence": 0.745
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:69",
+      "startMs": 229920,
+      "endMs": 232880,
+      "verbatim": "I use it as a way to drive features through.",
+      "display": "I use it as a way to drive features through.",
+      "search": "i use it as a way to drive features through.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:70",
+      "startMs": 232880,
+      "endMs": 233600,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.6
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:71",
+      "startMs": 233600,
+      "endMs": 237200,
+      "verbatim": "At my work, a merge request gets auto-rejected if there's no test attached.",
+      "display": "At my work, a merge request gets auto-rejected if there's no test attached.",
+      "search": "at my work, a merge request gets auto-rejected if there's no test attached.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:72",
+      "startMs": 237200,
+      "endMs": 238880,
+      "verbatim": "Yeah, see, I think that's wrong too.",
+      "display": "Yeah, see, I think that's wrong too.",
+      "search": "yeah, see, i think that's wrong too.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:73",
+      "startMs": 238880,
+      "endMs": 240560,
+      "verbatim": "I think that that's also equally wrong.",
+      "display": "I think that that's also equally wrong.",
+      "search": "i think that that's also equally wrong.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:74",
+      "startMs": 240560,
+      "endMs": 242880,
+      "verbatim": "I only manually test while drinking my milk.",
+      "display": "I only manually test while drinking my milk.",
+      "search": "i only manually test while drinking my milk.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:75",
+      "startMs": 242880,
+      "endMs": 244000,
+      "verbatim": "Damn.",
+      "display": "Damn.",
+      "search": "damn.",
+      "confidence": 0.571
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:76",
+      "startMs": 244000,
+      "endMs": 246160,
+      "verbatim": "I also watch Netflix at 20 to 30 speed.",
+      "display": "I also watch Netflix at 20 to 30 speed.",
+      "search": "i also watch netflix at 20 to 30 speed.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:77",
+      "startMs": 246160,
+      "endMs": 251040,
+      "verbatim": "It's actually really hard to play video every single frame at 20, 20x.",
+      "display": "It's actually really hard to play video every single frame at 20, 20x.",
+      "search": "it's actually really hard to play video every single frame at 20, 20x.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:78",
+      "startMs": 251040,
+      "endMs": 252640,
+      "verbatim": "Like that's a really hard problem.",
+      "display": "Like that's a really hard problem.",
+      "search": "like that's a really hard problem.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:79",
+      "startMs": 252640,
+      "endMs": 260160,
+      "verbatim": "If you're playing, like say you're at 60 frames a second video, 50 frames a second audio, that's 110 frames per second.",
+      "display": "If you're playing, like say you're at 60 frames a second video, 50 frames a second audio, that's 110 frames per second.",
+      "search": "if you're playing, like say you're at 60 frames a second video, 50 frames a second audio, that's 110 frames per second.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:80",
+      "startMs": 260160,
+      "endMs": 265680,
+      "verbatim": "So 20x, you know, that's 2200 frames that you have to shove through.",
+      "display": "So 20x, you know, that's 2200 frames that you have to shove through.",
+      "search": "so 20x, you know, that's 2200 frames that you have to shove through.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:81",
+      "startMs": 265680,
+      "endMs": 267360,
+      "verbatim": "Like it's actually extremely difficult.",
+      "display": "Like it's actually extremely difficult.",
+      "search": "like it's actually extremely difficult.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:82",
+      "startMs": 267360,
+      "endMs": 269920,
+      "verbatim": "That's why when you fast forward, it's chunky, right?",
+      "display": "That's why when you fast forward, it's chunky, right?",
+      "search": "that's why when you fast forward, it's chunky, right?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:83",
+      "startMs": 269920,
+      "endMs": 271840,
+      "verbatim": "They kind of you have to swim.",
+      "display": "They kind of you have to swim.",
+      "search": "they kind of you have to swim.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:84",
+      "startMs": 271840,
+      "endMs": 274400,
+      "verbatim": "You have to like go to the next chunk.",
+      "display": "You have to like go to the next chunk.",
+      "search": "you have to like go to the next chunk.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:85",
+      "startMs": 274400,
+      "endMs": 277040,
+      "verbatim": "And that's why whenever you hit a place, sometimes there's a pause.",
+      "display": "And that's why whenever you hit a place, sometimes there's a pause.",
+      "search": "and that's why whenever you hit a place, sometimes there's a pause.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:86",
+      "startMs": 277040,
+      "endMs": 286160,
+      "verbatim": "Because, you know, if you have a bunch of videos sent down, you have to like fast forward correctly through, like grabbing, you know, these iframes and ensuring the gops, right?",
+      "display": "Because, you know, if you have a bunch of videos sent down, you have to like fast forward correctly through, like grabbing, you know, these iframes and ensuring the gops, right?",
+      "search": "because, you know, if you have a bunch of videos sent down, you have to like fast forward correctly through, like grabbing, you know, these iframes and ensuring the gops, right?",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:87",
+      "startMs": 286160,
+      "endMs": 287680,
+      "verbatim": "You have to get the gops all correct.",
+      "display": "You have to get the gops all correct.",
+      "search": "you have to get the gops all correct.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:88",
+      "startMs": 287680,
+      "endMs": 288960,
+      "verbatim": "It's very, very difficult.",
+      "display": "It's very, very difficult.",
+      "search": "it's very, very difficult.",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:89",
+      "startMs": 288960,
+      "endMs": 292640,
+      "verbatim": "All right, I think one of the uh main problems of with unity testing, okay.",
+      "display": "All right, I think one of the uh main problems of with unity testing, okay.",
+      "search": "all right, i think one of the uh main problems of with unity testing, okay.",
+      "confidence": 0.659
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:90",
+      "startMs": 292640,
+      "endMs": 299440,
+      "verbatim": "Well, calm down is that folks don't suggest to remove uh some code in uh in the code reviews uh because more tests equals good.",
+      "display": "Well, calm down is that folks don't suggest to remove uh some code in uh in the code reviews uh because more tests equals good.",
+      "search": "well, calm down is that folks don't suggest to remove uh some code in uh in the code reviews uh because more tests equals good.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:91",
+      "startMs": 299440,
+      "endMs": 300400,
+      "verbatim": "I do agree with this take.",
+      "display": "I do agree with this take.",
+      "search": "i do agree with this take.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:92",
+      "startMs": 300400,
+      "endMs": 301760,
+      "verbatim": "I like this take actually quite a bit.",
+      "display": "I like this take actually quite a bit.",
+      "search": "i like this take actually quite a bit.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:93",
+      "startMs": 301760,
+      "endMs": 308480,
+      "verbatim": "Eventually you can get to a state where you have so many tests that they are difficult to maintain and break at every single uh character uh change you make.",
+      "display": "Eventually you can get to a state where you have so many tests that they are difficult to maintain and break at every single uh character uh change you make.",
+      "search": "eventually you can get to a state where you have so many tests that they are difficult to maintain and break at every single uh character uh change you make.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:94",
+      "startMs": 308480,
+      "endMs": 309280,
+      "verbatim": "Yeah, absolutely.",
+      "display": "Yeah, absolutely.",
+      "search": "yeah, absolutely.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:95",
+      "startMs": 309280,
+      "endMs": 320640,
+      "verbatim": "There's some the problem is that when you get too low on your unit testing, you reach a point where when you change even small interfaces, things are just breaking all over the place.",
+      "display": "There's some the problem is that when you get too low on your unit testing, you reach a point where when you change even small interfaces, things are just breaking all over the place.",
+      "search": "there's some the problem is that when you get too low on your unit testing, you reach a point where when you change even small interfaces, things are just breaking all over the place.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:96",
+      "startMs": 320640,
+      "endMs": 325360,
+      "verbatim": "You gotta be careful about exactly where you have your units and what things you think you're testing.",
+      "display": "You gotta be careful about exactly where you have your units and what things you think you're testing.",
+      "search": "you gotta be careful about exactly where you have your units and what things you think you're testing.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:97",
+      "startMs": 325360,
+      "endMs": 328000,
+      "verbatim": "I try to really uh hold on, sorry.",
+      "display": "I try to really uh hold on, sorry.",
+      "search": "i try to really uh hold on, sorry.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:98",
+      "startMs": 328000,
+      "endMs": 329520,
+      "verbatim": "This is just absurd.",
+      "display": "This is just absurd.",
+      "search": "this is just absurd.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:99",
+      "startMs": 329600,
+      "endMs": 330400,
+      "verbatim": "Okay, that's it.",
+      "display": "Okay, that's it.",
+      "search": "okay, that's it.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:100",
+      "startMs": 330400,
+      "endMs": 331600,
+      "verbatim": "We're putting them on the big board.",
+      "display": "We're putting them on the big board.",
+      "search": "we're putting them on the big board.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:101",
+      "startMs": 331600,
+      "endMs": 332960,
+      "verbatim": "You're getting on blast, buddy.",
+      "display": "You're getting on blast, buddy.",
+      "search": "you're getting on blast, buddy.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:102",
+      "startMs": 332960,
+      "endMs": 336720,
+      "verbatim": "I hope you I hope you got I hope you got some good messages behind you.",
+      "display": "I hope you I hope you got I hope you got some good messages behind you.",
+      "search": "i hope you i hope you got i hope you got some good messages behind you.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:103",
+      "startMs": 336720,
+      "endMs": 338080,
+      "verbatim": "Okay, you're lucky.",
+      "display": "Okay, you're lucky.",
+      "search": "okay, you're lucky.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:104",
+      "startMs": 338080,
+      "endMs": 340720,
+      "verbatim": "You're lucky you have good chat history.",
+      "display": "You're lucky you have good chat history.",
+      "search": "you're lucky you have good chat history.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:105",
+      "startMs": 340720,
+      "endMs": 341280,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.556
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:106",
+      "startMs": 341280,
+      "endMs": 342880,
+      "verbatim": "You're lucky you have good chat history.",
+      "display": "You're lucky you have good chat history.",
+      "search": "you're lucky you have good chat history.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:107",
+      "startMs": 342880,
+      "endMs": 346000,
+      "verbatim": "You almost just got kicked right out of the startup, buddy.",
+      "display": "You almost just got kicked right out of the startup, buddy.",
+      "search": "you almost just got kicked right out of the startup, buddy.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:108",
+      "startMs": 346000,
+      "endMs": 349120,
+      "verbatim": "Easy for you to say when you have teach ghost coding for your unit test.",
+      "display": "Easy for you to say when you have teach ghost coding for your unit test.",
+      "search": "easy for you to say when you have teach ghost coding for your unit test.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:109",
+      "startMs": 349120,
+      "endMs": 350000,
+      "verbatim": "Yeah, absolutely.",
+      "display": "Yeah, absolutely.",
+      "search": "yeah, absolutely.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:110",
+      "startMs": 350000,
+      "endMs": 353440,
+      "verbatim": "Test coverage is great for testing if you're testing if your tests execute.",
+      "display": "Test coverage is great for testing if you're testing if your tests execute.",
+      "search": "test coverage is great for testing if you're testing if your tests execute.",
+      "confidence": 0.673
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:111",
+      "startMs": 353840,
+      "endMs": 355760,
+      "verbatim": "How dare you challenge a Netflix engineer?",
+      "display": "How dare you challenge a Netflix engineer?",
+      "search": "how dare you challenge a netflix engineer?",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:112",
+      "startMs": 355760,
+      "endMs": 356000,
+      "verbatim": "No.",
+      "display": "No.",
+      "search": "no.",
+      "confidence": 0.712
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:113",
+      "startMs": 356000,
+      "endMs": 359120,
+      "verbatim": "It's just stupid to say you can do anything in some smart a small period of time.",
+      "display": "It's just stupid to say you can do anything in some smart a small period of time.",
+      "search": "it's just stupid to say you can do anything in some smart a small period of time.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:114",
+      "startMs": 359120,
+      "endMs": 361040,
+      "verbatim": "It's it's a very complicated feature.",
+      "display": "It's it's a very complicated feature.",
+      "search": "it's it's a very complicated feature.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:115",
+      "startMs": 361040,
+      "endMs": 362240,
+      "verbatim": "I hate manual testing.",
+      "display": "I hate manual testing.",
+      "search": "i hate manual testing.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:116",
+      "startMs": 362240,
+      "endMs": 363920,
+      "verbatim": "It slows uh down so so much.",
+      "display": "It slows uh down so so much.",
+      "search": "it slows uh down so so much.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:117",
+      "startMs": 363920,
+      "endMs": 366960,
+      "verbatim": "Yes, I miss the things a uh let's see, and I miss things a lot.",
+      "display": "Yes, I miss the things a uh let's see, and I miss things a lot.",
+      "search": "yes, i miss the things a uh let's see, and i miss things a lot.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:118",
+      "startMs": 366960,
+      "endMs": 372000,
+      "verbatim": "But if I'm testing the public interfaces with unit or integration test, then it usually catches the things I forgot about.",
+      "display": "But if I'm testing the public interfaces with unit or integration test, then it usually catches the things I forgot about.",
+      "search": "but if i'm testing the public interfaces with unit or integration test, then it usually catches the things i forgot about.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:119",
+      "startMs": 372000,
+      "endMs": 373120,
+      "verbatim": "Had this happen recently.",
+      "display": "Had this happen recently.",
+      "search": "had this happen recently.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:120",
+      "startMs": 373120,
+      "endMs": 374080,
+      "verbatim": "Yeah, absolutely.",
+      "display": "Yeah, absolutely.",
+      "search": "yeah, absolutely.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:121",
+      "startMs": 374080,
+      "endMs": 381200,
+      "verbatim": "So I I mean this is why I that's why I love driving implementation via uh tests because I just think it's easier.",
+      "display": "So I I mean this is why I that's why I love driving implementation via uh tests because I just think it's easier.",
+      "search": "so i i mean this is why i that's why i love driving implementation via uh tests because i just think it's easier.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:122",
+      "startMs": 381200,
+      "endMs": 394960,
+      "verbatim": "Like while I was developing Harpoon over the charity stream, I actually finally just was I got pissed off because I kept launching, making Harpoon, launching a Vim instance, closing it down, reopening it, having the new Harpoon, requiring it in, trying to do the operation.",
+      "display": "Like while I was developing Harpoon over the charity stream, I actually finally just was I got pissed off because I kept launching, making Harpoon, launching a Vim instance, closing it down, reopening it, having the new Harpoon, requiring it in, trying to do the operation.",
+      "search": "like while i was developing harpoon over the charity stream, i actually finally just was i got pissed off because i kept launching, making harpoon, launching a vim instance, closing it down, reopening it, having the new harpoon, requiring it in, trying to do the operation.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:123",
+      "startMs": 394960,
+      "endMs": 397040,
+      "verbatim": "I was like, okay, dude, this is just ridiculous.",
+      "display": "I was like, okay, dude, this is just ridiculous.",
+      "search": "i was like, okay, dude, this is just ridiculous.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:124",
+      "startMs": 397040,
+      "endMs": 398000,
+      "verbatim": "You know what I need to do?",
+      "display": "You know what I need to do?",
+      "search": "you know what i need to do?",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:125",
+      "startMs": 398000,
+      "endMs": 399520,
+      "verbatim": "I just need to be able to go like this, right?",
+      "display": "I just need to be able to go like this, right?",
+      "search": "i just need to be able to go like this, right?",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:126",
+      "startMs": 399520,
+      "endMs": 406800,
+      "verbatim": "I need to be able to just take a test, create a file, create a buffer, take my file, sync it, expect it to be there, right?",
+      "display": "I need to be able to just take a test, create a file, create a buffer, take my file, sync it, expect it to be there, right?",
+      "search": "i need to be able to just take a test, create a file, create a buffer, take my file, sync it, expect it to be there, right?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:127",
+      "startMs": 406800,
+      "endMs": 411680,
+      "verbatim": "Like I can't, dude, crazy to be able to think about anything else, right?",
+      "display": "Like I can't, dude, crazy to be able to think about anything else, right?",
+      "search": "like i can't, dude, crazy to be able to think about anything else, right?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:128",
+      "startMs": 411680,
+      "endMs": 412560,
+      "verbatim": "It's just crazy.",
+      "display": "It's just crazy.",
+      "search": "it's just crazy.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:129",
+      "startMs": 412560,
+      "endMs": 415280,
+      "verbatim": "I love driving uh implementation via that.",
+      "display": "I love driving uh implementation via that.",
+      "search": "i love driving uh implementation via that.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:130",
+      "startMs": 415280,
+      "endMs": 416240,
+      "verbatim": "It's very, very good.",
+      "display": "It's very, very good.",
+      "search": "it's very, very good.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:131",
+      "startMs": 416240,
+      "endMs": 420560,
+      "verbatim": "Wait, are you uh not a public interface to Chad Gibbody uh Google?",
+      "display": "Wait, are you uh not a public interface to Chad Gibbody uh Google?",
+      "search": "wait, are you uh not a public interface to chad gibbody uh google?",
+      "confidence": 0.618
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:132",
+      "startMs": 420560,
+      "endMs": 421440,
+      "verbatim": "$5 a month?",
+      "display": "$5 a month?",
+      "search": "$5 a month?",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:133",
+      "startMs": 421440,
+      "endMs": 422080,
+      "verbatim": "What is this?",
+      "display": "What is this?",
+      "search": "what is this?",
+      "confidence": 0.988
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:134",
+      "startMs": 422080,
+      "endMs": 423600,
+      "verbatim": "Don't write bugs, no need for testing.",
+      "display": "Don't write bugs, no need for testing.",
+      "search": "don't write bugs, no need for testing.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:135",
+      "startMs": 423600,
+      "endMs": 424080,
+      "verbatim": "Yeah, that's fair.",
+      "display": "Yeah, that's fair.",
+      "search": "yeah, that's fair.",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:136",
+      "startMs": 424080,
+      "endMs": 425520,
+      "verbatim": "What is Harpoon, the greatest thing ever?",
+      "display": "What is Harpoon, the greatest thing ever?",
+      "search": "what is harpoon, the greatest thing ever?",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:137",
+      "startMs": 425520,
+      "endMs": 427440,
+      "verbatim": "Since NetBeans?",
+      "display": "Since NetBeans?",
+      "search": "since netbeans?",
+      "confidence": 0.502
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:138",
+      "startMs": 427440,
+      "endMs": 429360,
+      "verbatim": "Alright, uh let's let's keep on going.",
+      "display": "Alright, uh let's let's keep on going.",
+      "search": "alright, uh let's let's keep on going.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:139",
+      "startMs": 429360,
+      "endMs": 430320,
+      "verbatim": "I like that little chat though.",
+      "display": "I like that little chat though.",
+      "search": "i like that little chat though.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:140",
+      "startMs": 430320,
+      "endMs": 431280,
+      "verbatim": "That was a good chat.",
+      "display": "That was a good chat.",
+      "search": "that was a good chat.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:141",
+      "startMs": 431280,
+      "endMs": 435680,
+      "verbatim": "Before I end this, does anyone have a hardline stance hating unit tests?",
+      "display": "Before I end this, does anyone have a hardline stance hating unit tests?",
+      "search": "before i end this, does anyone have a hardline stance hating unit tests?",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:142",
+      "startMs": 435680,
+      "endMs": 436800,
+      "verbatim": "All right, why?",
+      "display": "All right, why?",
+      "search": "all right, why?",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:143",
+      "startMs": 436800,
+      "endMs": 440640,
+      "verbatim": "Can someone give me a reason why you have a hardline hate unit tests?",
+      "display": "Can someone give me a reason why you have a hardline hate unit tests?",
+      "search": "can someone give me a reason why you have a hardline hate unit tests?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:144",
+      "startMs": 440640,
+      "endMs": 445040,
+      "verbatim": "And how much of your hating unit tests is because Theo says so.",
+      "display": "And how much of your hating unit tests is because Theo says so.",
+      "search": "and how much of your hating unit tests is because theo says so.",
+      "confidence": 0.737
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:145",
+      "startMs": 445040,
+      "endMs": 445840,
+      "verbatim": "This is fine.",
+      "display": "This is fine.",
+      "search": "this is fine.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:146",
+      "startMs": 445840,
+      "endMs": 447360,
+      "verbatim": "Okay, so I love this take right here.",
+      "display": "Okay, so I love this take right here.",
+      "search": "okay, so i love this take right here.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:147",
+      "startMs": 447360,
+      "endMs": 452800,
+      "verbatim": "When I'm figuring out a product, I don't want to maintain them uh while I discover and play around.",
+      "display": "When I'm figuring out a product, I don't want to maintain them uh while I discover and play around.",
+      "search": "when i'm figuring out a product, i don't want to maintain them uh while i discover and play around.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:148",
+      "startMs": 452800,
+      "endMs": 454080,
+      "verbatim": "Perfectly fair.",
+      "display": "Perfectly fair.",
+      "search": "perfectly fair.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:149",
+      "startMs": 454560,
+      "endMs": 455920,
+      "verbatim": "Absolutely same team.",
+      "display": "Absolutely same team.",
+      "search": "absolutely same team.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:150",
+      "startMs": 455920,
+      "endMs": 457040,
+      "verbatim": "Absolutely same team.",
+      "display": "Absolutely same team.",
+      "search": "absolutely same team.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:151",
+      "startMs": 457040,
+      "endMs": 457920,
+      "verbatim": "Absolutely.",
+      "display": "Absolutely.",
+      "search": "absolutely.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:152",
+      "startMs": 457920,
+      "endMs": 459280,
+      "verbatim": "Yeah, okay, this is also fair.",
+      "display": "Yeah, okay, this is also fair.",
+      "search": "yeah, okay, this is also fair.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:153",
+      "startMs": 459280,
+      "endMs": 460880,
+      "verbatim": "I I struggle with that too, right?",
+      "display": "I I struggle with that too, right?",
+      "search": "i i struggle with that too, right?",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:154",
+      "startMs": 460880,
+      "endMs": 463280,
+      "verbatim": "What is worth testing versus what is not worth testing?",
+      "display": "What is worth testing versus what is not worth testing?",
+      "search": "what is worth testing versus what is not worth testing?",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:155",
+      "startMs": 463280,
+      "endMs": 466080,
+      "verbatim": "What if I uh what if I have a different?",
+      "display": "What if I uh what if I have a different?",
+      "search": "what if i uh what if i have a different?",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:156",
+      "startMs": 466080,
+      "endMs": 467280,
+      "verbatim": "I don't have a unit test.",
+      "display": "I don't have a unit test.",
+      "search": "i don't have a unit test.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:157",
+      "startMs": 467280,
+      "endMs": 470560,
+      "verbatim": "Okay, I hate that they imply and somehow, okay.",
+      "display": "Okay, I hate that they imply and somehow, okay.",
+      "search": "okay, i hate that they imply and somehow, okay.",
+      "confidence": 0.705
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:158",
+      "startMs": 470560,
+      "endMs": 474240,
+      "verbatim": "First off, you gotta take another spin at English, Spyro.",
+      "display": "First off, you gotta take another spin at English, Spyro.",
+      "search": "first off, you gotta take another spin at english, spyro.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:159",
+      "startMs": 474240,
+      "endMs": 475360,
+      "verbatim": "I know you better than this.",
+      "display": "I know you better than this.",
+      "search": "i know you better than this.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:160",
+      "startMs": 475360,
+      "endMs": 476800,
+      "verbatim": "I know you can type properly.",
+      "display": "I know you can type properly.",
+      "search": "i know you can type properly.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:161",
+      "startMs": 476800,
+      "endMs": 479760,
+      "verbatim": "Whatever you just said there was confusing.",
+      "display": "Whatever you just said there was confusing.",
+      "search": "whatever you just said there was confusing.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:162",
+      "startMs": 479760,
+      "endMs": 483680,
+      "verbatim": "Uh, you know the most about the problem you are trying to solve after you've solved it.",
+      "display": "Uh, you know the most about the problem you are trying to solve after you've solved it.",
+      "search": "uh, you know the most about the problem you are trying to solve after you've solved it.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:163",
+      "startMs": 483680,
+      "endMs": 484160,
+      "verbatim": "Exactly.",
+      "display": "Exactly.",
+      "search": "exactly.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:164",
+      "startMs": 484160,
+      "endMs": 487440,
+      "verbatim": "That's why I do like the write it once and throw it away.",
+      "display": "That's why I do like the write it once and throw it away.",
+      "search": "that's why i do like the write it once and throw it away.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:165",
+      "startMs": 487440,
+      "endMs": 489920,
+      "verbatim": "I do like the write it once, throw it away approach.",
+      "display": "I do like the write it once, throw it away approach.",
+      "search": "i do like the write it once, throw it away approach.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:166",
+      "startMs": 489920,
+      "endMs": 493360,
+      "verbatim": "I need to test everything because I have a hard time to decide to where to draw the line.",
+      "display": "I need to test everything because I have a hard time to decide to where to draw the line.",
+      "search": "i need to test everything because i have a hard time to decide to where to draw the line.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:167",
+      "startMs": 493360,
+      "endMs": 496240,
+      "verbatim": "See, I think that that is also bad, right?",
+      "display": "See, I think that that is also bad, right?",
+      "search": "see, i think that that is also bad, right?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:168",
+      "startMs": 496240,
+      "endMs": 502640,
+      "verbatim": "You're I think you're gonna end up reaching kind of like these shitty places where you have too many tests and they just don't make sense.",
+      "display": "You're I think you're gonna end up reaching kind of like these shitty places where you have too many tests and they just don't make sense.",
+      "search": "you're i think you're gonna end up reaching kind of like these shitty places where you have too many tests and they just don't make sense.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:169",
+      "startMs": 502640,
+      "endMs": 507360,
+      "verbatim": "And when you need to make a change because you didn't really know your product, you like ruin half your tests.",
+      "display": "And when you need to make a change because you didn't really know your product, you like ruin half your tests.",
+      "search": "and when you need to make a change because you didn't really know your product, you like ruin half your tests.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:170",
+      "startMs": 507360,
+      "endMs": 517200,
+      "verbatim": "You really have to I I I think the thing is is that I think why most people don't like unit tests is because they've been forced to write unit tests for everything.",
+      "display": "You really have to I I I think the thing is is that I think why most people don't like unit tests is because they've been forced to write unit tests for everything.",
+      "search": "you really have to i i i think the thing is is that i think why most people don't like unit tests is because they've been forced to write unit tests for everything.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:171",
+      "startMs": 517200,
+      "endMs": 523280,
+      "verbatim": "And because you're forced to write unit tests, you end up writing a bunch of stupid ass unit tests.",
+      "display": "And because you're forced to write unit tests, you end up writing a bunch of stupid ass unit tests.",
+      "search": "and because you're forced to write unit tests, you end up writing a bunch of stupid ass unit tests.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:172",
+      "startMs": 523280,
+      "endMs": 525680,
+      "verbatim": "For personal projects, do you suggest writing unit tests?",
+      "display": "For personal projects, do you suggest writing unit tests?",
+      "search": "for personal projects, do you suggest writing unit tests?",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:173",
+      "startMs": 525680,
+      "endMs": 527120,
+      "verbatim": "Not right away, and it depends.",
+      "display": "Not right away, and it depends.",
+      "search": "not right away, and it depends.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:174",
+      "startMs": 527120,
+      "endMs": 529680,
+      "verbatim": "Again, always it dude, this is such a huge depends.",
+      "display": "Again, always it dude, this is such a huge depends.",
+      "search": "again, always it dude, this is such a huge depends.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:175",
+      "startMs": 529680,
+      "endMs": 533680,
+      "verbatim": "If you're just doing like a crud app, you probably don't have to worry about it.",
+      "display": "If you're just doing like a crud app, you probably don't have to worry about it.",
+      "search": "if you're just doing like a crud app, you probably don't have to worry about it.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:176",
+      "startMs": 533680,
+      "endMs": 535280,
+      "verbatim": "Real talk, do you have to worry about it?",
+      "display": "Real talk, do you have to worry about it?",
+      "search": "real talk, do you have to worry about it?",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:177",
+      "startMs": 535280,
+      "endMs": 538480,
+      "verbatim": "If you're just building a little website to do something, you don't have to worry about it.",
+      "display": "If you're just building a little website to do something, you don't have to worry about it.",
+      "search": "if you're just building a little website to do something, you don't have to worry about it.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:178",
+      "startMs": 538480,
+      "endMs": 539840,
+      "verbatim": "Here's something that I'm about to do.",
+      "display": "Here's something that I'm about to do.",
+      "search": "here's something that i'm about to do.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:179",
+      "startMs": 539840,
+      "endMs": 544640,
+      "verbatim": "My next project in Vim after I finish off Harpoon 2 is going to be APM.",
+      "display": "My next project in Vim after I finish off Harpoon 2 is going to be APM.",
+      "search": "my next project in vim after i finish off harpoon 2 is going to be apm.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:180",
+      "startMs": 544640,
+      "endMs": 550240,
+      "verbatim": "There is no way for you to listen to Vim motions and know what motion was just executed.",
+      "display": "There is no way for you to listen to Vim motions and know what motion was just executed.",
+      "search": "there is no way for you to listen to vim motions and know what motion was just executed.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:181",
+      "startMs": 550240,
+      "endMs": 556000,
+      "verbatim": "That means I have to see the incoming stream of keys and determine what is the state of Vim.",
+      "display": "That means I have to see the incoming stream of keys and determine what is the state of Vim.",
+      "search": "that means i have to see the incoming stream of keys and determine what is the state of vim.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:182",
+      "startMs": 556000,
+      "endMs": 556960,
+      "verbatim": "Are we in insert mode?",
+      "display": "Are we in insert mode?",
+      "search": "are we in insert mode?",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:183",
+      "startMs": 556960,
+      "endMs": 558000,
+      "verbatim": "Are we in visual mode?",
+      "display": "Are we in visual mode?",
+      "search": "are we in visual mode?",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:184",
+      "startMs": 558000,
+      "endMs": 560800,
+      "verbatim": "Are we in uh whatever blah blah blah mode?",
+      "display": "Are we in uh whatever blah blah blah mode?",
+      "search": "are we in uh whatever blah blah blah mode?",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:185",
+      "startMs": 560800,
+      "endMs": 565680,
+      "verbatim": "Therefore, when keys are executed, I have to like discover the motion you are creating.",
+      "display": "Therefore, when keys are executed, I have to like discover the motion you are creating.",
+      "search": "therefore, when keys are executed, i have to like discover the motion you are creating.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:186",
+      "startMs": 565680,
+      "endMs": 569040,
+      "verbatim": "Do you realize how difficult that would be to create without unit test?",
+      "display": "Do you realize how difficult that would be to create without unit test?",
+      "search": "do you realize how difficult that would be to create without unit test?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:187",
+      "startMs": 569040,
+      "endMs": 572880,
+      "verbatim": "That is a very simple and obvious thing you're gonna want to unit test.",
+      "display": "That is a very simple and obvious thing you're gonna want to unit test.",
+      "search": "that is a very simple and obvious thing you're gonna want to unit test.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:188",
+      "startMs": 572880,
+      "endMs": 579280,
+      "verbatim": "The engine to capture keys and to correctly identify, that is like a black box of all time.",
+      "display": "The engine to capture keys and to correctly identify, that is like a black box of all time.",
+      "search": "the engine to capture keys and to correctly identify, that is like a black box of all time.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:189",
+      "startMs": 579280,
+      "endMs": 584320,
+      "verbatim": "It is literally just like here is a black box, here's a string of keys, what happened?",
+      "display": "It is literally just like here is a black box, here's a string of keys, what happened?",
+      "search": "it is literally just like here is a black box, here's a string of keys, what happened?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:190",
+      "startMs": 584320,
+      "endMs": 586400,
+      "verbatim": "Output better be this, input better be this.",
+      "display": "Output better be this, input better be this.",
+      "search": "output better be this, input better be this.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:191",
+      "startMs": 586400,
+      "endMs": 588480,
+      "verbatim": "This is like perfect black box.",
+      "display": "This is like perfect black box.",
+      "search": "this is like perfect black box.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:192",
+      "startMs": 588480,
+      "endMs": 590480,
+      "verbatim": "This I mean, this is unit testing to a T.",
+      "display": "This I mean, this is unit testing to a T.",
+      "search": "this i mean, this is unit testing to a t.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:193",
+      "startMs": 590480,
+      "endMs": 591120,
+      "verbatim": "What is good?",
+      "display": "What is good?",
+      "search": "what is good?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:194",
+      "startMs": 591120,
+      "endMs": 595040,
+      "verbatim": "Because to A, to make that correct is really, really hard.",
+      "display": "Because to A, to make that correct is really, really hard.",
+      "search": "because to a, to make that correct is really, really hard.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:195",
+      "startMs": 595040,
+      "endMs": 597600,
+      "verbatim": "B, to test it is really, really hard.",
+      "display": "B, to test it is really, really hard.",
+      "search": "b, to test it is really, really hard.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:196",
+      "startMs": 597600,
+      "endMs": 600800,
+      "verbatim": "Manually testing that would be a nightmare.",
+      "display": "Manually testing that would be a nightmare.",
+      "search": "manually testing that would be a nightmare.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:197",
+      "startMs": 600800,
+      "endMs": 608080,
+      "verbatim": "And C, since the input and the output will be known, it is super, super, super simple.",
+      "display": "And C, since the input and the output will be known, it is super, super, super simple.",
+      "search": "and c, since the input and the output will be known, it is super, super, super simple.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:198",
+      "startMs": 608080,
+      "endMs": 611600,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:199",
+      "startMs": 611600,
+      "endMs": 614400,
+      "verbatim": "So that's kind of how I look at it, right?",
+      "display": "So that's kind of how I look at it, right?",
+      "search": "so that's kind of how i look at it, right?",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:200",
+      "startMs": 614640,
+      "endMs": 615120,
+      "verbatim": "Winchester.",
+      "display": "Winchester.",
+      "search": "winchester.",
+      "confidence": 0.68
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:201",
+      "startMs": 615360,
+      "endMs": 617360,
+      "verbatim": "Winchester usually has some pretty good takes in here.",
+      "display": "Winchester usually has some pretty good takes in here.",
+      "search": "winchester usually has some pretty good takes in here.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:202",
+      "startMs": 617360,
+      "endMs": 619200,
+      "verbatim": "Uh Ted, testing after development.",
+      "display": "Uh Ted, testing after development.",
+      "search": "uh ted, testing after development.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:203",
+      "startMs": 619200,
+      "endMs": 621200,
+      "verbatim": "I'm a big fan of testing after development.",
+      "display": "I'm a big fan of testing after development.",
+      "search": "i'm a big fan of testing after development.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:204",
+      "startMs": 621200,
+      "endMs": 622800,
+      "verbatim": "Uh, Jordan, I think I answered yours.",
+      "display": "Uh, Jordan, I think I answered yours.",
+      "search": "uh, jordan, i think i answered yours.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:205",
+      "startMs": 622800,
+      "endMs": 626960,
+      "verbatim": "Like, I to me it's just like find a problem that you can make that makes sense to test.",
+      "display": "Like, I to me it's just like find a problem that you can make that makes sense to test.",
+      "search": "like, i to me it's just like find a problem that you can make that makes sense to test.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:206",
+      "startMs": 626960,
+      "endMs": 630320,
+      "verbatim": "Like, that is uh to me, that's obvious.",
+      "display": "Like, that is uh to me, that's obvious.",
+      "search": "like, that is uh to me, that's obvious.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:207",
+      "startMs": 630320,
+      "endMs": 633120,
+      "verbatim": "Um, it's obvious that you'd want to unit test it.",
+      "display": "Um, it's obvious that you'd want to unit test it.",
+      "search": "um, it's obvious that you'd want to unit test it.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:208",
+      "startMs": 633120,
+      "endMs": 634000,
+      "verbatim": "I have a different take.",
+      "display": "I have a different take.",
+      "search": "i have a different take.",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:209",
+      "startMs": 634000,
+      "endMs": 637840,
+      "verbatim": "I hate what unit tests imply, and they are easy to manage poorly.",
+      "display": "I hate what unit tests imply, and they are easy to manage poorly.",
+      "search": "i hate what unit tests imply, and they are easy to manage poorly.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:210",
+      "startMs": 637840,
+      "endMs": 639200,
+      "verbatim": "Yes, agreed.",
+      "display": "Yes, agreed.",
+      "search": "yes, agreed.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:211",
+      "startMs": 639200,
+      "endMs": 645360,
+      "verbatim": "Uh I usually give most focus on integration tests, and if there's a function that is a bit expensive/slash complex, I do develop a unit test.",
+      "display": "Uh I usually give most focus on integration tests, and if there's a function that is a bit expensive/slash complex, I do develop a unit test.",
+      "search": "uh i usually give most focus on integration tests, and if there's a function that is a bit expensive/slash complex, i do develop a unit test.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:212",
+      "startMs": 645360,
+      "endMs": 648640,
+      "verbatim": "I don't write tests uh while I let's see, while I just test it.",
+      "display": "I don't write tests uh while I let's see, while I just test it.",
+      "search": "i don't write tests uh while i let's see, while i just test it.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:213",
+      "startMs": 648640,
+      "endMs": 649280,
+      "verbatim": "Let's see, hold on.",
+      "display": "Let's see, hold on.",
+      "search": "let's see, hold on.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:214",
+      "startMs": 649280,
+      "endMs": 652560,
+      "verbatim": "I don't write tests while I just testing and trying to understand how to build something.",
+      "display": "I don't write tests while I just testing and trying to understand how to build something.",
+      "search": "i don't write tests while i just testing and trying to understand how to build something.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:215",
+      "startMs": 652560,
+      "endMs": 655200,
+      "verbatim": "Sometimes I need to build something to know if it's the correct way.",
+      "display": "Sometimes I need to build something to know if it's the correct way.",
+      "search": "sometimes i need to build something to know if it's the correct way.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:216",
+      "startMs": 655200,
+      "endMs": 655600,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:217",
+      "startMs": 655600,
+      "endMs": 660640,
+      "verbatim": "I will even if I if if I'm stuck on something that's hard, I will write a unit test.",
+      "display": "I will even if I if if I'm stuck on something that's hard, I will write a unit test.",
+      "search": "i will even if i if if i'm stuck on something that's hard, i will write a unit test.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:218",
+      "startMs": 660640,
+      "endMs": 670320,
+      "verbatim": "For me, unit test is that is is driving that really annoying part of development where you have to try to like launch programs and like different things at once to know that you're doing it correct.",
+      "display": "For me, unit test is that is is driving that really annoying part of development where you have to try to like launch programs and like different things at once to know that you're doing it correct.",
+      "search": "for me, unit test is that is is driving that really annoying part of development where you have to try to like launch programs and like different things at once to know that you're doing it correct.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:219",
+      "startMs": 670320,
+      "endMs": 681440,
+      "verbatim": "So for me, it's like if I can cut that time from 20 seconds plus context shifting to 20 milliseconds, absolute win every single time.",
+      "display": "So for me, it's like if I can cut that time from 20 seconds plus context shifting to 20 milliseconds, absolute win every single time.",
+      "search": "so for me, it's like if i can cut that time from 20 seconds plus context shifting to 20 milliseconds, absolute win every single time.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:220",
+      "startMs": 681440,
+      "endMs": 688000,
+      "verbatim": "Even if it takes me an hour, that amount of like not having to do that cycle saves so much time.",
+      "display": "Even if it takes me an hour, that amount of like not having to do that cycle saves so much time.",
+      "search": "even if it takes me an hour, that amount of like not having to do that cycle saves so much time.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:221",
+      "startMs": 688000,
+      "endMs": 691280,
+      "verbatim": "It just saves so much time.",
+      "display": "It just saves so much time.",
+      "search": "it just saves so much time.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:222",
+      "startMs": 691280,
+      "endMs": 693920,
+      "verbatim": "Forced test coverage is usually accompanied with really bad tests.",
+      "display": "Forced test coverage is usually accompanied with really bad tests.",
+      "search": "forced test coverage is usually accompanied with really bad tests.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:223",
+      "startMs": 693920,
+      "endMs": 694880,
+      "verbatim": "Absolutely, absolutely.",
+      "display": "Absolutely, absolutely.",
+      "search": "absolutely, absolutely.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:224",
+      "startMs": 694880,
+      "endMs": 700000,
+      "verbatim": "So this is where I think I think this is where all the hate of unit tests really come from is people are forced to write unit tests.",
+      "display": "So this is where I think I think this is where all the hate of unit tests really come from is people are forced to write unit tests.",
+      "search": "so this is where i think i think this is where all the hate of unit tests really come from is people are forced to write unit tests.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:225",
+      "startMs": 700000,
+      "endMs": 708080,
+      "verbatim": "I think it's 100% the case is that if you're not forced to write unit tests, you will write them for what makes sense for you.",
+      "display": "I think it's 100% the case is that if you're not forced to write unit tests, you will write them for what makes sense for you.",
+      "search": "i think it's 100% the case is that if you're not forced to write unit tests, you will write them for what makes sense for you.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:226",
+      "startMs": 708080,
+      "endMs": 710240,
+      "verbatim": "Those cycle, yeah, those cycles need to be shared.",
+      "display": "Those cycle, yeah, those cycles need to be shared.",
+      "search": "those cycle, yeah, those cycles need to be shared.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:227",
+      "startMs": 710240,
+      "endMs": 715280,
+      "verbatim": "Exactly, exactly, because then you do then then you get that, you get that multiplier effect.",
+      "display": "Exactly, exactly, because then you do then then you get that, you get that multiplier effect.",
+      "search": "exactly, exactly, because then you do then then you get that, you get that multiplier effect.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:228",
+      "startMs": 715280,
+      "endMs": 716320,
+      "verbatim": "Build fails, yeah.",
+      "display": "Build fails, yeah.",
+      "search": "build fails, yeah.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:229",
+      "startMs": 716320,
+      "endMs": 720160,
+      "verbatim": "Uh, in some domains, you're uh you let's see you're forced to have 100%.",
+      "display": "Uh, in some domains, you're uh you let's see you're forced to have 100%.",
+      "search": "uh, in some domains, you're uh you let's see you're forced to have 100%.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:230",
+      "startMs": 720160,
+      "endMs": 721760,
+      "verbatim": "Yeah, it's not real though.",
+      "display": "Yeah, it's not real though.",
+      "search": "yeah, it's not real though.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:231",
+      "startMs": 721760,
+      "endMs": 725200,
+      "verbatim": "I always give here here's a really simple example of why that's fake, okay?",
+      "display": "I always give here here's a really simple example of why that's fake, okay?",
+      "search": "i always give here here's a really simple example of why that's fake, okay?",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:232",
+      "startMs": 725200,
+      "endMs": 727040,
+      "verbatim": "We're gonna write some Lua for a second, okay?",
+      "display": "We're gonna write some Lua for a second, okay?",
+      "search": "we're gonna write some lua for a second, okay?",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:233",
+      "startMs": 727040,
+      "endMs": 730960,
+      "verbatim": "I'm gonna write it in TypeScript, even though I'm in a Lua file, because it just makes more sense, alright?",
+      "display": "I'm gonna write it in TypeScript, even though I'm in a Lua file, because it just makes more sense, alright?",
+      "search": "i'm gonna write it in typescript, even though i'm in a lua file, because it just makes more sense, alright?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:234",
+      "startMs": 730960,
+      "endMs": 733840,
+      "verbatim": "Const foo equals this, all right?",
+      "display": "Const foo equals this, all right?",
+      "search": "const foo equals this, all right?",
+      "confidence": 0.602
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:235",
+      "startMs": 733840,
+      "endMs": 736880,
+      "verbatim": "Um let's see, add, right?",
+      "display": "Um let's see, add, right?",
+      "search": "um let's see, add, right?",
+      "confidence": 0.587
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:236",
+      "startMs": 736880,
+      "endMs": 738560,
+      "verbatim": "It's gonna take in an R, right?",
+      "display": "It's gonna take in an R, right?",
+      "search": "it's gonna take in an r, right?",
+      "confidence": 0.681
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:237",
+      "startMs": 738640,
+      "endMs": 747680,
+      "verbatim": "That's a number array, and it's gonna return R, um let's see, R uh 0 plus R1, and it's gonna return a number, right?",
+      "display": "That's a number array, and it's gonna return R, um let's see, R uh 0 plus R1, and it's gonna return a number, right?",
+      "search": "that's a number array, and it's gonna return r, um let's see, r uh 0 plus r1, and it's gonna return a number, right?",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:238",
+      "startMs": 748720,
+      "endMs": 754000,
+      "verbatim": "I can easily get 100% on this, and I would not have tested NAN.",
+      "display": "I can easily get 100% on this, and I would not have tested NAN.",
+      "search": "i can easily get 100% on this, and i would not have tested nan.",
+      "confidence": 0.703
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:239",
+      "startMs": 754000,
+      "endMs": 754640,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.497
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:240",
+      "startMs": 754640,
+      "endMs": 758000,
+      "verbatim": "Like, how simple is that to test NAND, right?",
+      "display": "Like, how simple is that to test NAND, right?",
+      "search": "like, how simple is that to test nand, right?",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:241",
+      "startMs": 761840,
+      "endMs": 762640,
+      "verbatim": "Boom.",
+      "display": "Boom.",
+      "search": "boom.",
+      "confidence": 0.624
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:242",
+      "startMs": 762640,
+      "endMs": 764560,
+      "verbatim": "100% test coverage!",
+      "display": "100% test coverage!",
+      "search": "100% test coverage!",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:243",
+      "startMs": 764560,
+      "endMs": 766560,
+      "verbatim": "Ah shit!",
+      "display": "Ah shit!",
+      "search": "ah shit!",
+      "confidence": 0.263
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:244",
+      "startMs": 766720,
+      "endMs": 767120,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.61
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:245",
+      "startMs": 767120,
+      "endMs": 769120,
+      "verbatim": "Like, is it even real?",
+      "display": "Like, is it even real?",
+      "search": "like, is it even real?",
+      "confidence": 0.612
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:246",
+      "startMs": 770880,
+      "endMs": 771600,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.572
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:247",
+      "startMs": 771600,
+      "endMs": 775120,
+      "verbatim": "That's the problem about 100% test coverage, is it's not real.",
+      "display": "That's the problem about 100% test coverage, is it's not real.",
+      "search": "that's the problem about 100% test coverage, is it's not real.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:248",
+      "startMs": 775120,
+      "endMs": 776080,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:249",
+      "startMs": 776080,
+      "endMs": 779520,
+      "verbatim": "It's not real.",
+      "display": "It's not real.",
+      "search": "it's not real.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:250",
+      "startMs": 779520,
+      "endMs": 787120,
+      "verbatim": "That's why 100 test 100% test coverage is not inherently more safe than 80%.",
+      "display": "That's why 100 test 100% test coverage is not inherently more safe than 80%.",
+      "search": "that's why 100 test 100% test coverage is not inherently more safe than 80%.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:251",
+      "startMs": 787120,
+      "endMs": 791280,
+      "verbatim": "Property-based uh testing, it can be annoying.",
+      "display": "Property-based uh testing, it can be annoying.",
+      "search": "property-based uh testing, it can be annoying.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:252",
+      "startMs": 791280,
+      "endMs": 795840,
+      "verbatim": "I mean, it's no different than interface-based testing when you have to refactor something if you don't have a proper interface.",
+      "display": "I mean, it's no different than interface-based testing when you have to refactor something if you don't have a proper interface.",
+      "search": "i mean, it's no different than interface-based testing when you have to refactor something if you don't have a proper interface.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:253",
+      "startMs": 795840,
+      "endMs": 799840,
+      "verbatim": "If you don't have a stable interface, it's just as annoying, right?",
+      "display": "If you don't have a stable interface, it's just as annoying, right?",
+      "search": "if you don't have a stable interface, it's just as annoying, right?",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:254",
+      "startMs": 800080,
+      "endMs": 801760,
+      "verbatim": "Yeah, I agree with this.",
+      "display": "Yeah, I agree with this.",
+      "search": "yeah, i agree with this.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:255",
+      "startMs": 801760,
+      "endMs": 806480,
+      "verbatim": "The biggest issue I see is developers not leveraging other types of tests, e.g., integration, ETU.",
+      "display": "The biggest issue I see is developers not leveraging other types of tests, e.g., integration, ETU.",
+      "search": "the biggest issue i see is developers not leveraging other types of tests, e.g., integration, etu.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:256",
+      "startMs": 806480,
+      "endMs": 810720,
+      "verbatim": "Yeah, I do like, I do like integration, but they can be really hard to set up too.",
+      "display": "Yeah, I do like, I do like integration, but they can be really hard to set up too.",
+      "search": "yeah, i do like, i do like integration, but they can be really hard to set up too.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:257",
+      "startMs": 810720,
+      "endMs": 811360,
+      "verbatim": "You know?",
+      "display": "You know?",
+      "search": "you know?",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:258",
+      "startMs": 811360,
+      "endMs": 813840,
+      "verbatim": "So you also, I mean, integration and it depends.",
+      "display": "So you also, I mean, integration and it depends.",
+      "search": "so you also, i mean, integration and it depends.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:259",
+      "startMs": 813840,
+      "endMs": 819360,
+      "verbatim": "Like end-to-end tests can also fail sporadically depending on how big your client is and how many services you're using.",
+      "display": "Like end-to-end tests can also fail sporadically depending on how big your client is and how many services you're using.",
+      "search": "like end-to-end tests can also fail sporadically depending on how big your client is and how many services you're using.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:260",
+      "startMs": 819360,
+      "endMs": 825360,
+      "verbatim": "Is it all and then you also have this entire there's a lot of complications with end-to-end that aren't often talked about.",
+      "display": "Is it all and then you also have this entire there's a lot of complications with end-to-end that aren't often talked about.",
+      "search": "is it all and then you also have this entire there's a lot of complications with end-to-end that aren't often talked about.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:261",
+      "startMs": 825360,
+      "endMs": 839040,
+      "verbatim": "Like another big thing is let's say you have an end-to-end test and you need it to run in staging, you also have to have all your microservices that you're using potentially in staging as well.",
+      "display": "Like another big thing is let's say you have an end-to-end test and you need it to run in staging, you also have to have all your microservices that you're using potentially in staging as well.",
+      "search": "like another big thing is let's say you have an end-to-end test and you need it to run in staging, you also have to have all your microservices that you're using potentially in staging as well.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:262",
+      "startMs": 839040,
+      "endMs": 843280,
+      "verbatim": "That adds like a whole nother layer of complexity.",
+      "display": "That adds like a whole nother layer of complexity.",
+      "search": "that adds like a whole nother layer of complexity.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:263",
+      "startMs": 843520,
+      "endMs": 844720,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:264",
+      "startMs": 844720,
+      "endMs": 849520,
+      "verbatim": "It's it's it's just it's not simple, right?",
+      "display": "It's it's it's just it's not simple, right?",
+      "search": "it's it's it's just it's not simple, right?",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:265",
+      "startMs": 849520,
+      "endMs": 851440,
+      "verbatim": "It's not easy.",
+      "display": "It's not easy.",
+      "search": "it's not easy.",
+      "confidence": 0.697
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:266",
+      "startMs": 851440,
+      "endMs": 854640,
+      "verbatim": "ETE can uh ETE can be very difficult.",
+      "display": "ETE can uh ETE can be very difficult.",
+      "search": "ete can uh ete can be very difficult.",
+      "confidence": 0.572
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:267",
+      "startMs": 855040,
+      "endMs": 861920,
+      "verbatim": "So I I don't, you know, I don't I don't fully support any one of those, but I do like the idea of them all, if that makes sense.",
+      "display": "So I I don't, you know, I don't I don't fully support any one of those, but I do like the idea of them all, if that makes sense.",
+      "search": "so i i don't, you know, i don't i don't fully support any one of those, but i do like the idea of them all, if that makes sense.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:268",
+      "startMs": 862240,
+      "endMs": 864480,
+      "verbatim": "Integration tastes take uh long after write.",
+      "display": "Integration tastes take uh long after write.",
+      "search": "integration tastes take uh long after write.",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:269",
+      "startMs": 864480,
+      "endMs": 866320,
+      "verbatim": "Yeah, they can be very, very difficult.",
+      "display": "Yeah, they can be very, very difficult.",
+      "search": "yeah, they can be very, very difficult.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:270",
+      "startMs": 866320,
+      "endMs": 868640,
+      "verbatim": "Uh so you don't want to overdo integration testing.",
+      "display": "Uh so you don't want to overdo integration testing.",
+      "search": "uh so you don't want to overdo integration testing.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:271",
+      "startMs": 868640,
+      "endMs": 870480,
+      "verbatim": "You want to try to minimize that.",
+      "display": "You want to try to minimize that.",
+      "search": "you want to try to minimize that.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:272",
+      "startMs": 870480,
+      "endMs": 872080,
+      "verbatim": "Should the target be 80%?",
+      "display": "Should the target be 80%?",
+      "search": "should the target be 80%?",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:273",
+      "startMs": 872480,
+      "endMs": 875040,
+      "verbatim": "The target should be no percent.",
+      "display": "The target should be no percent.",
+      "search": "the target should be no percent.",
+      "confidence": 0.697
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:274",
+      "startMs": 875440,
+      "endMs": 878960,
+      "verbatim": "If you think there's a percent that makes sense, you're not doing it right.",
+      "display": "If you think there's a percent that makes sense, you're not doing it right.",
+      "search": "if you think there's a percent that makes sense, you're not doing it right.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:275",
+      "startMs": 878960,
+      "endMs": 881680,
+      "verbatim": "I love this song, by the way.",
+      "display": "I love this song, by the way.",
+      "search": "i love this song, by the way.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:276",
+      "startMs": 881680,
+      "endMs": 882560,
+      "verbatim": "Alright, people.",
+      "display": "Alright, people.",
+      "search": "alright, people.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:277",
+      "startMs": 882560,
+      "endMs": 883920,
+      "verbatim": "That's enough that.",
+      "display": "That's enough that.",
+      "search": "that's enough that.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:278",
+      "startMs": 886800,
+      "endMs": 887520,
+      "verbatim": "This is good.",
+      "display": "This is good.",
+      "search": "this is good.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:279",
+      "startMs": 887520,
+      "endMs": 890000,
+      "verbatim": "Hey, this is a good talk about unit testing.",
+      "display": "Hey, this is a good talk about unit testing.",
+      "search": "hey, this is a good talk about unit testing.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:280",
+      "startMs": 890240,
+      "endMs": 891280,
+      "verbatim": "Good talk.",
+      "display": "Good talk.",
+      "search": "good talk.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:281",
+      "startMs": 891440,
+      "endMs": 892080,
+      "verbatim": "Good talk.",
+      "display": "Good talk.",
+      "search": "good talk.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:282",
+      "startMs": 892080,
+      "endMs": 894320,
+      "verbatim": "I liked your guys' questions.",
+      "display": "I liked your guys' questions.",
+      "search": "i liked your guys' questions.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:283",
+      "startMs": 894320,
+      "endMs": 894880,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.587
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:284",
+      "startMs": 894880,
+      "endMs": 896640,
+      "verbatim": "I liked your guys' thoughts.",
+      "display": "I liked your guys' thoughts.",
+      "search": "i liked your guys' thoughts.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:285",
+      "startMs": 896640,
+      "endMs": 898800,
+      "verbatim": "Like and subscribe.",
+      "display": "Like and subscribe.",
+      "search": "like and subscribe.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:286",
+      "startMs": 898960,
+      "endMs": 899920,
+      "verbatim": "These nuts.",
+      "display": "These nuts.",
+      "search": "these nuts.",
+      "confidence": 0.488
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:287",
+      "startMs": 899920,
+      "endMs": 900880,
+      "verbatim": "Oh, god.",
+      "display": "Oh, god.",
+      "search": "oh, god.",
+      "confidence": 0.152
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:288",
+      "startMs": 901440,
+      "endMs": 902400,
+      "verbatim": "Oh, Jen.",
+      "display": "Oh, Jen.",
+      "search": "oh, jen.",
+      "confidence": 0.449
+    },
+    {
+      "segmentId": "youtube:IInciWyU74U:segment:289",
+      "startMs": 903200,
+      "endMs": 904960,
+      "verbatim": "The name is the P unit of Jen",
+      "display": "The name is the P unit of Jen",
+      "search": "the name is the p unit of jen",
+      "confidence": 0.609
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:IInciWyU74U",
+  "platform": "youtube",
+  "platformId": "IInciWyU74U",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Lets Chat About Unit Tests",
+  "description": "Recorded live on twitch, GET IN \n\nhttps://twitch.tv/ThePrimeagen\n\nMY MAIN YT CHANNEL: Has well edited engineering videos\nhttps://youtube.com/ThePrimeagen\n\nDiscord\nhttps://discord.gg/ThePrimeagen\n\n\nHave something for me to read or react to?: https://www.reddit.com/r/ThePrimeagenReact/\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\nHey I am sponsored by Turso, an edge database.  I think they are pretty neet.  Give them a try for free and if you want you can get a decent amount off (the free tier is the best (better than planetscale or any other))\nhttps://turso.tech/deeznuts",
+  "canonicalUrl": "https://www.youtube.com/watch?v=IInciWyU74U",
+  "publishedAt": "2023-11-10T14:00:20.000Z",
+  "durationMs": 905000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-29T18:01:45.704Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-29T18:01:45.704Z",
+    "runId": "2026-08-29T17-58-19-977Z-c6f3de91"
+  }
+}
