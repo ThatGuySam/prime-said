@@ -1,6 +1,6 @@
 # Implementation progress
 
-**Updated:** 2026-08-29 18:26 UTC
+**Updated:** 2026-08-29 19:24 UTC
 **Branch:** `main`
 **Starting commit:** `7da26ba09eca71816a3ff077579f62f8c849036b`
 **Published Phase 0 slice:** `f7ebba6aa6c347e1a38137689d460e9a013d3b3c`
@@ -12,6 +12,7 @@
 **Published compact review interface:** `820a738950296b3557c283ca9ab5198271b7f597`
 **Published retrieval regressions:** `25802c62091f5eabe89b8ea26322c35b729d992f`
 **Published shadcn review interface:** `899f5e3821a898360ae1d54b7e3819df2b729e24`
+**Published deterministic review ranker and dark interface:** `a5ca2963fada0827f0110603f8f8ae7cca0e3a0b`
 **ChatGPT Sites preview:** <https://prime-said-search.thatguysam.chatgpt.site> (version 2 deployment succeeded)
 **Required ancestor:** `4fb87576370a6228549751c91478d4f6b4a5158b`, verified with `git merge-base --is-ancestor`
 
@@ -23,7 +24,7 @@ complete, hash-locked auto-caption tracks, but it does not promote those
 captions to canonical transcripts or verified quotations.
 
 Later-phase ingestion implementation has also landed on `main`: the backfill
-runner and three source/transcript pairs now produce six canonical files that
+runner and ten source/transcript pairs now produce 20 canonical files that
 pass schema and corpus validation. This is implementation progress, not a
 Phase 0 or Phase 1 gate claim. This turn did not run Apple Silicon
 transcription or measure timestamp drift against recording-reviewed spans.
@@ -35,11 +36,12 @@ Continuous curves use CSS `corner-shape: superellipse(2)` where supported and
 retain ordinary `border-radius` as the fallback.
 
 A deterministic retrieval development screen now captures topic, stance,
-word-origin, morphology, no-result, and duplicate-neighborhood regressions.
-The strongest experimental ranker passed all 20 explicit constraints, up from
-15/20 for the deployed ranker. It remains an offline, same-set-tuned experiment:
-the production ranker was not changed because the frozen recording-reviewed
-gold set and reference-iPhone latency gate are still open.
+word-origin, morphology, no-result, boundary, exclusion, and
+duplicate-neighborhood regressions. The review tool now uses the strongest
+deterministic candidate: it passed all 23 same-set development constraints, up
+from 16/23 for the legacy scorer. This is a safer reviewer locator, not a claim
+that canonical Phase 2 search, the frozen recording-reviewed gold set, or the
+reference-iPhone latency gate has passed.
 
 ## Completed work
 
@@ -167,19 +169,21 @@ names confirm that Cloudflare served its exact verified build output.
 | Check | Result |
 | --- | --- |
 | `bun install --frozen-lockfile` | Pass. 374 installs across 508 packages; the lockfile and worktree did not change. |
-| `bun run check` | Pass. Repository checks, six canonical files, and two fixtures pass; Astro reports 0 errors, 0 warnings, and 0 hints across 36 files. |
-| `bun test` | Pass. 69 tests, 0 failures, and 173 assertions across nine files. |
-| `bun run eval:review-retrieval` | Pass as a descriptive development screen. The deployed ranker passed 7/8 required hits, 5/7 pairwise preferences, 3/3 literals, 0/1 no-result, and 0/1 whole-token constraints, with three origin-risk results and six duplicate neighborhoods. BM25 plus proximity passed 7/8, 4/7, 3/3, 1/1, and 1/1, with four origin-risk results and no duplicates. BM25 plus proximity and origin routing passed 8/8, 7/7, 3/3, 1/1, and 1/1, with one origin-risk result and no duplicates. |
-| `bun run build` | Pass. Two static pages and seven assets. Largest asset `review/captions.json`, 908,967 bytes; total output 1,189,308 bytes. The review island is 53,100 bytes and its renderer is 180,598 bytes. |
-| `bun run deploy:dry-run` | Not completed. The execution environment cancelled the network approval before Wrangler returned; no pass is claimed for this revision. |
-| Cloudflare native Git deployment | Pass. The public page references `review-app.BfPBMODA.js`, `client.BApSHwD7.js`, and `index.Bp9tKl64.css`, exactly matching the verified build from published commit `899f5e3821a898360ae1d54b7e3819df2b729e24`. |
-| Public functional browser flow | Pass in Chromium at a 1,363-pixel desktop viewport. The real corpus returned 12 windows for `tests drive development`; expanded context exposed the later “opposite of TDD” qualification. `reverse funnel` returned one 20:42 chat/response case. Copy produced the exact timestamped YouTube URL; clear removed query state and restored focus. No horizontal overflow or app-origin browser errors were observed. |
-| Single-player invariant | Pass. Selecting 4:40 and then 0:04 kept exactly one iframe and replaced its source and start time. Closing the dock removed the iframe. Audiovisual playback was not claimed. |
+| `bun run check` | Pass after rebasing onto the ten-source corpus. Repository checks, 20 canonical files, and two fixtures pass; Astro reports 0 errors, 0 warnings, and 0 hints across 36 files. |
+| `bun test` | Pass. 72 tests, 0 failures, and 182 assertions across nine files. |
+| `bun run eval:review-retrieval` | Pass as a descriptive development screen. The legacy scorer passed 8/9 required hits, 5/8 pairwise preferences, 3/3 literals, 0/1 no-result, 0/1 exclusion, and 0/1 whole-token constraints. BM25 plus proximity passed 9/9, 4/8, 3/3, 1/1, 1/1, and 1/1. The deployed deterministic ranker passed 9/9, 8/8, 3/3, 1/1, 1/1, and 1/1, with two origin-risk results among 19 inspected top-three results and no duplicate neighborhoods. |
+| User-reviewed boundary regressions | Pass. `tests drive development` excludes the unrelated *Fear And Software* 14:51 title transition from the first 20 results and links the Code Coverage endorsement result to the raw caption beginning at 19:41.520. Exact wording and timestamp remain unverified. |
+| Desktop ranker timing | Descriptive local measurement only: 1,753-window index build 32.853 ms; 100 warm searches across four queries averaged 3.745 ms each. No phone or reference-device claim. |
+| `bun run build` | Pass. Two static pages and seven reported assets. Largest asset `review/captions.json`, 912,310 bytes; total output 1,197,905 bytes. The review island is 57,122 bytes and its renderer is 180,598 bytes. |
+| `bun run deploy:dry-run` | Pass with Wrangler 4.127.1. It read nine files; generated Worker upload is 0.31 KiB, 0.22 KiB gzip; no bindings. |
+| Cloudflare native Git deployment | Pass. The public page references `review-app.DfyJK7k8.js`, `client.BApSHwD7.js`, and `index.Bt9Hozmv.css`, exactly matching the verified build from published commit `a5ca2963fada0827f0110603f8f8ae7cca0e3a0b`. |
+| Public functional browser flow | Pass in Chromium at a 1,348-pixel desktop viewport. The real corpus returned 12 windows for `tests drive development`; 14:51 was absent; the Code Coverage result was 19:41; the document computed `color-scheme: dark` with `rgb(17, 16, 15)` body background; and there was no horizontal overflow or app-origin browser error. |
+| Single-player invariant | Pass for the corrected Code Coverage result. Selecting 19:41 created exactly one iframe with source `S_7SE_Uzk-I` and start second 1,181. Audiovisual playback was not claimed. |
 | Superellipse progressive enhancement | Pass in the measured Chromium browser. A result card computed to `corner-shape: squircle` and `border-radius: 20px`. Other engines and devices were not measured. |
 
 The retrieval figures were tuned and measured on the same caption-derived
 development cases. They are not held-out relevance accuracy, recording-review
-accuracy, authorship accuracy, or evidence that the experimental ranker meets
+accuracy, authorship accuracy, or evidence that the deterministic ranker meets
 the mobile performance gate.
 
 ## Source screening and open gate
@@ -211,10 +215,9 @@ playback boundary has been approved from them.
 
 - No Apple Silicon Parakeet transcription or timestamp drift measurement.
 - No reference-iPhone or Android measurement.
-- Cloudflare's native Git integration deployed the exact published shadcn
-  build. The direct Wrangler dry run for this revision was interrupted by the
-  execution environment before Wrangler returned output; no direct account/API
-  deployment or paid resource operation was performed.
+- Cloudflare's native Git integration deployed the exact published deterministic
+  ranker and dark interface build. The Wrangler dry run passed; no direct
+  account/API deployment or paid resource operation was performed.
 - A ChatGPT Sites preview was deployed. No source outreach or account/token
   handoff was performed.
 
