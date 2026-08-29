@@ -25,14 +25,17 @@
 
 Order matters:
 
-1. transcript excerpt in readable type;
-2. source/timestamp metadata and match explanation;
-3. lightweight player placeholder or thumbnail treatment;
-4. actions: Play, Copy source, Save, More context, Alternates.
+1. explicit collection selection;
+2. linked source/timestamp metadata;
+3. transcript excerpt in readable type;
+4. one Play action;
+5. a Details disclosure for context, provenance, and secondary source actions.
 
 The excerpt should normally contain one to three complete sentences. If a sentence is long, center the matched span and use typographic ellipses at omitted boundaries. Highlight exact lexical matches only. A semantic match may show a label such as “related meaning,” not fabricated highlighted words.
 
-The player is created only after Play. If it fails, the timestamp source link remains the primary recovery path.
+The player is created only after Play. Search cards do not carry a thumbnail or
+duplicate play affordance. If playback fails, the linked source/timestamp row
+remains the primary recovery path.
 
 ## Preventing delayed layout shifts
 
@@ -64,13 +67,22 @@ Save is local-first and instantaneous. The collection drawer shows ordered quote
 Supercut playback is an orchestrated playlist of original embeds, not a rendered derivative video:
 
 - one user gesture starts the sequence;
-- preload only metadata/placeholder for the next item; avoid multiple live iframes;
+- the review-only prototype may keep one active iframe and one warm standby
+  after that gesture; reduced-data preference disables the standby;
+- the standby loads the embed shell and cues the next range, but this is not a
+  claim that YouTube media bytes are buffered;
 - attempt permitted autoplay for the next item, but always show a large Next button;
 - mark unavailable items and continue;
 - expose total and per-source attribution;
 - do not promise gapless playback.
 
-The first prototype uses a compressed, checksummed, versioned URL payload containing stable moment IDs and optional trims. If normal collections exceed a 1,800-character URL target, add a manifest-backed code later.
+Canonical collections use a compressed, checksummed, versioned URL payload
+containing stable moment IDs and optional trims. Until recording-reviewed
+moments exist, the `/review/` prototype uses a distinct `r1` fragment payload
+containing ordered corpus source IDs plus start/end milliseconds. It is a
+review range snapshot, not the canonical collection format. If normal
+collections exceed a 1,800-character URL target, add a manifest-backed code
+later.
 
 ## Search history and privacy
 
@@ -109,7 +121,9 @@ Curated moment/topic/supercut pages share the result card visual language but ad
 
 ## Responsive behavior
 
-Mobile uses a single-column quote-first list. Wider screens may use a two-column layout, but source/quote scanning order must remain clear. Do not use a dense thumbnail grid as the primary search presentation.
+Mobile uses a single-column quote-first list, intermediate screens use two
+columns, and wide desktop screens use three. The three-column layout omits
+thumbnails and secondary actions so source/quote scanning order remains clear.
 
 ## UX acceptance tests
 

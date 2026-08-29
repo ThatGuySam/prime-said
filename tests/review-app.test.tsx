@@ -11,9 +11,10 @@ describe("review app static shell", () => {
     expect(html).toContain('data-slot="card"');
     expect(html).toContain('data-slot="button"');
     expect(html).toContain('data-slot="input"');
-    expect(html).toContain('data-slot="alert"');
     expect(html).toContain("bg-[#1c1b18]");
-    expect(html).toContain("not an authorship or endorsement claim");
+    expect(html).toContain("About caption accuracy");
+    expect(html).toContain("grid-cols-3");
+    expect(html).not.toContain("Caption review");
     expect(html).not.toContain("<iframe");
   });
 });
