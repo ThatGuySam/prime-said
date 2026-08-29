@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "status": "caption-derived-development-only",
+  "fixtureSha256": "b8b67c530db2131ac5f55a71c9b7efadf45f992e9b27aee3456281da2bd4e085",
+  "reviewLimits": "Judgments come from surrounding YouTube auto-captions, not recording playback. They test retrieval behavior only and do not verify exact words, speaker, word origin, or timestamps.",
+  "cases": [
+    {
+      "caseId": "generic-tests-drive-development",
+      "query": "tests drive development",
+      "intent": "topic",
+      "requiredAny": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 280000, "endMs": 306500 },
+          { "sourceId": "youtube:S_7SE_Uzk-I", "startMs": 1169000, "endMs": 1189000 },
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 205000, "endMs": 233000 },
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 4640, "endMs": 41000 }
+        ]
+      }
+    },
+    {
+      "caseId": "claim-prime-supports-tdd",
+      "query": "Prime supports test driven development",
+      "intent": "claim-support",
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:IInciWyU74U", "startMs": 4640, "endMs": 41000 },
+          "lower": { "sourceId": "youtube:20SkiBvylyM", "startMs": 145000, "endMs": 175000 }
+        }
+      ],
+      "notes": "Both available direct TDD discussions are qualified or oppositional; no caption-derived span is approved as supporting evidence."
+    },
+    {
+      "caseId": "before-or-after-development",
+      "query": "does he test before or after development",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 5,
+        "targets": [
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 610000, "endMs": 628000 },
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 301000, "endMs": 312000 }
+        ]
+      }
+    },
+    {
+      "caseId": "direct-tdd-before-fear-driven",
+      "query": "test driven development",
+      "intent": "topic",
+      "requiredAny": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 4640, "endMs": 41000 },
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 280000, "endMs": 312000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:IInciWyU74U", "startMs": 4640, "endMs": 41000 },
+          "lower": { "sourceId": "youtube:20SkiBvylyM", "startMs": 145000, "endMs": 175000 }
+        }
+      ]
+    },
+    {
+      "caseId": "testing-builds-confidence-response",
+      "query": "does testing build confidence",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 454000, "endMs": 471000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:20SkiBvylyM", "startMs": 454000, "endMs": 471000 },
+          "lower": { "sourceId": "youtube:20SkiBvylyM", "startMs": 451000, "endMs": 454000 }
+        }
+      ]
+    },
+    {
+      "caseId": "merge-request-tests-response",
+      "query": "should merge requests require tests",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 5,
+        "targets": [
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 236879, "endMs": 241000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:IInciWyU74U", "startMs": 236879, "endMs": 241000 },
+          "lower": { "sourceId": "youtube:IInciWyU74U", "startMs": 232000, "endMs": 236879 }
+        }
+      ]
+    },
+    {
+      "caseId": "test-everything-response",
+      "query": "should I test everything",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 5,
+        "targets": [
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 493400, "endMs": 524000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:IInciWyU74U", "startMs": 493400, "endMs": 524000 },
+          "lower": { "sourceId": "youtube:IInciWyU74U", "startMs": 489000, "endMs": 492000 }
+        }
+      ]
+    },
+    {
+      "caseId": "coverage-target-response",
+      "query": "should test coverage target be 80 percent",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 5,
+        "targets": [
+          { "sourceId": "youtube:IInciWyU74U", "startMs": 873000, "endMs": 879000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:IInciWyU74U", "startMs": 873000, "endMs": 879000 },
+          "lower": { "sourceId": "youtube:IInciWyU74U", "startMs": 870000, "endMs": 873000 }
+        }
+      ]
+    },
+    {
+      "caseId": "blameless-postmortem-response",
+      "query": "what does he think about blameless postmortems",
+      "intent": "creator-position",
+      "requiredAny": {
+        "maxRank": 5,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 776000, "endMs": 801000 }
+        ]
+      },
+      "pairwise": [
+        {
+          "higher": { "sourceId": "youtube:20SkiBvylyM", "startMs": 776000, "endMs": 801000 },
+          "lower": { "sourceId": "youtube:20SkiBvylyM", "startMs": 767000, "endMs": 776000 }
+        }
+      ]
+    },
+    {
+      "caseId": "literal-reverse-funnel",
+      "query": "reverse funnel",
+      "intent": "literal-occurrence",
+      "protectedLiteral": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:S_7SE_Uzk-I", "startMs": 1242000, "endMs": 1245000 }
+        ]
+      }
+    },
+    {
+      "caseId": "literal-old-alcoholic",
+      "query": "I shake like an old alcoholic",
+      "intent": "literal-occurrence",
+      "protectedLiteral": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 1347000, "endMs": 1356000 }
+        ]
+      }
+    },
+    {
+      "caseId": "literal-article-opening",
+      "query": "fear makes you a worse programmer",
+      "intent": "literal-occurrence",
+      "protectedLiteral": {
+        "maxRank": 3,
+        "targets": [
+          { "sourceId": "youtube:20SkiBvylyM", "startMs": 30000, "endMs": 65000 }
+        ]
+      }
+    },
+    {
+      "caseId": "absent-rare-anchors",
+      "query": "testing PostgreSQL transactions",
+      "intent": "expected-no-result",
+      "expectedNoResult": true
+    }
+  ],
+  "syntheticCases": [
+    {
+      "caseId": "whole-token-boundary",
+      "query": "test",
+      "text": "the greatest developer",
+      "expectedMatch": false
+    }
+  ]
+}

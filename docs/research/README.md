@@ -5,6 +5,9 @@
 | [Cloudflare Workers assets](cloudflare-workers-assets-2026-08-29.md) | Hosting, native Git builds, Bun, and file budgets |
 | [Ingestion tooling](ingestion-tooling-2026-08-29.md) | yt-dlp/Deno policy, Parakeet, and Actions caching |
 | [Transcript search](transcript-search-2026-08-29.md) | Hybrid retrieval, pivots, and stable async UX |
+| [Non-generative transcript retrieval](non-generative-transcript-retrieval-2026-08-29.md) | Separate relevance, stance, and origin; caption-derived regression experiment |
+| [Quoted-source attribution](quoted-source-attribution-2026-08-29.md) | Build-time source alignment, abstention, and review cut line |
+| [Shadcn and CSS superellipse](shadcn-superellipse-2026-08-29.md) | One static React island and progressive continuous-corner styling |
 | [Performance estimate](performance-estimate-2026-08-29.md) | Corpus scale, vector memory, and benchmark plan |
 | [Sol Ultra workflow](sol-ultra-workflow-2026-08-29.md) | Long-running implementation, delegation, checkpoints, and verification |
 | [Phase 0 runtime versions](phase0-runtime-versions-2026-08-29.md) | Current Astro, Wrangler, Bun, and dry-run behavior |

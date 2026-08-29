@@ -12,6 +12,9 @@ Keep three states physically separate:
   targets. Candidate text may be a paraphrase and carries no relevance grade.
 - `evals/attribution/` holds versioned screening and development cases. The
   current caption-only corpus is not gold and is not held out.
+- `evals/development/` holds explicit caption-derived retrieval regressions.
+  These constraints may be tuned in the same change and must not be reported as
+  held-out accuracy or promoted to production-ranking evidence.
 - `evals/gold/` holds only bounded spans reviewed against the recording for
   wording, timing, speaker, word origin, and relevance.
 
@@ -27,6 +30,12 @@ Each case contains:
 - notes explaining user intent;
 - provenance (`human-seed`, `Sol-proposed`, `community`, `failure-regression`);
 - human review status.
+
+The first `caption-search-regressions.json` suite uses stable source/time spans
+and required-hit, pairwise, protected-literal, expected-no-result, and token-
+boundary constraints. That is more truthful than assigning relevance zero to
+every unpooled result. Once candidate top-k pools have been reviewed, add graded
+relevance and nDCG without removing the explicit failure constraints.
 
 ### Transcript cases
 
