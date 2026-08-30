@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:L_JgETH8zKM",
+  "platform": "youtube",
+  "platformId": "L_JgETH8zKM",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Worst Advice Ever",
+  "description": "Linear helps teams track issues, manage projects, collaborate on docs, and ship products - and the crazy thing is their software is actually fast and a joy to use. Learn more: https://trm.sh/linear\n\n## Sources\n\n- https://x.com/handotdev/status/2077075378859020690\n\n## Topics Covered\n\n- Hustle Porn\n- Grindset Mentality\n- Mistakes you don’t have to make\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=L_JgETH8zKM",
+  "publishedAt": "2026-07-23T14:21:12.000Z",
+  "durationMs": 562000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:27:01.146Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:27:01.146Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

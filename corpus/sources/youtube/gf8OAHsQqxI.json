@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:gf8OAHsQqxI",
+  "platform": "youtube",
+  "platformId": "gf8OAHsQqxI",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Open Sauce 2026 | TheStandup",
+  "description": "[Sponsor]\nLinear helps teams track issues, manage projects, collaborate on docs, and ship products - and the crazy thing is their software is actually fast and a joy to use. Learn more: https://trm.sh/linear\n\nFull Episode:\nYoutube: https://www.youtube.com/watch?v=W9PZ0vPibWk\nSpotify: https://open.spotify.com/episode/7IA3Jj4AFjCMUtEiBcIDqf\n\n[Description]\nThePrimeagen return from two very different conferences: Better Software Conference in Sweden and Open Sauce in California. They discuss why modern software feels broken, the developers trying to fix it, and the chaotic world of Open Sauce packed with science YouTubers, homemade machines, dangerous experiments, rockets, robots, and wildly ambitious projects built in garages and backyards.\n\n[Chapters]\n00:00:00 - Intro\n00:00:23 - Open Sauce\n00:02:39 - Linear\n00:03:27 - Back to Open Sauce\n00:08:52 - What we did at Opensauce\n00:16:32 - The false start\n00:20:32 - LibMelee and more event talk\n00:28:11 - Oversights\n00:29:50 - Outro\n\n[Hosts/Guests]\nPrime: https://thestanduppod.com/contributor/theprimeagen\nTrash: https://thestanduppod.com/contributor/trash\nCasey: https://thestanduppod.com/contributor/cmuratori\nBeginbot: https://thestanduppod.com/contributor/beginbot\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\n[Socials]\nx.com/thestanduppod\ninstagram.com/thestanduppod\ntiktok.com/@thestanduppod\nfacebook.com/profile.php?id=61573286173150\n\n[Other Places to find us]\nSpotify: https://open.spotify.com/show/01A062kejnXFkJE01bjN5J\nRSS: thestanduppod.com/feed.xml\nClips: @TheStandupPodClips\nWebsite: thestanduppod.com\n\n[Tags]\n#Microsoft layoffs, #Xbox layoffs, #Xbox, #Microsoft gaming, #id Software, #id Tech, #Doom engine, #game engine development, #Unreal Engine, #Unreal Engine 5, #game dev, #game development, #game programming, #engine programming, #Casey Muratori, #ThePrimeagen, #The Standup, #Some Coding Guy, #Netflix, #Netflix engineering, #Game Pass, #Xbox Game Pass, #Steam, #Steam games, #Netflix of gaming, #gaming industry, #video game industry, #corporate management, #middle management, #software engineering, #programming podcast, #tech podcast, #asset pipeline, #game assets, #game tools, #custom game engine, #Epic Games, #Fortnite, #Microsoft management, #14 layers of management, #Xbox strategy, #gaming layoffs, #AAA games, #indie games, #game studios, #Bethesda, #Activision Blizzard, #cloud gaming, #subscription gaming, #game ownership, #software architecture",
+  "canonicalUrl": "https://www.youtube.com/watch?v=gf8OAHsQqxI",
+  "publishedAt": "2026-07-26T13:00:04.000Z",
+  "durationMs": 1816000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:25:25.947Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:25:25.947Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

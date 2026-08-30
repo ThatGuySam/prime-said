@@ -1,0 +1,2318 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_9d7d0a17dbf8d00eea70360e",
+  "sourceId": "youtube:bKOYgbgACVo",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:04:54.567Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:1",
+      "startMs": 0,
+      "endMs": 14400,
+      "verbatim": "You know, I have several kids, and I mean I've lost count at this point, but inevitably, when one of them comes in and goes, Oh, dad, my shoulder hurts, no matter what, another one of them would go, my shoulder also hurts.",
+      "display": "You know, I have several kids, and I mean I've lost count at this point, but inevitably, when one of them comes in and goes, Oh, dad, my shoulder hurts, no matter what, another one of them would go, my shoulder also hurts.",
+      "search": "you know, i have several kids, and i mean i've lost count at this point, but inevitably, when one of them comes in and goes, oh, dad, my shoulder hurts, no matter what, another one of them would go, my shoulder also hurts.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:2",
+      "startMs": 14400,
+      "endMs": 16640,
+      "verbatim": "In fact, both my shoulders hurt and it's super bad.",
+      "display": "In fact, both my shoulders hurt and it's super bad.",
+      "search": "in fact, both my shoulders hurt and it's super bad.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:3",
+      "startMs": 16640,
+      "endMs": 18080,
+      "verbatim": "I probably need to go to the doctor.",
+      "display": "I probably need to go to the doctor.",
+      "search": "i probably need to go to the doctor.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:4",
+      "startMs": 18080,
+      "endMs": 24080,
+      "verbatim": "No matter what happens when one kid's hurt, the other one is also hurt and it's extremely bad.",
+      "display": "No matter what happens when one kid's hurt, the other one is also hurt and it's extremely bad.",
+      "search": "no matter what happens when one kid's hurt, the other one is also hurt and it's extremely bad.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:5",
+      "startMs": 24080,
+      "endMs": 43920,
+      "verbatim": "And so I've seen this pattern for years at this point, and I cannot believe it, but I am live action witnessing the exact same thing happening, except instead of it being young kids without prefrontal cortex being fully formed, it is the smartest people in the universe running Frontier AI labs.",
+      "display": "And so I've seen this pattern for years at this point, and I cannot believe it, but I am live action witnessing the exact same thing happening, except instead of it being young kids without prefrontal cortex being fully formed, it is the smartest people in the universe running Frontier AI labs.",
+      "search": "and so i've seen this pattern for years at this point, and i cannot believe it, but i am live action witnessing the exact same thing happening, except instead of it being young kids without prefrontal cortex being fully formed, it is the smartest people in the universe running frontier ai labs.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:6",
+      "startMs": 43920,
+      "endMs": 46960,
+      "verbatim": "Yes, today we are gonna talk about the hacking incident.",
+      "display": "Yes, today we are gonna talk about the hacking incident.",
+      "search": "yes, today we are gonna talk about the hacking incident.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:7",
+      "startMs": 46960,
+      "endMs": 49120,
+      "verbatim": "Yes, you're probably thinking, okay, well, hacking incident.",
+      "display": "Yes, you're probably thinking, okay, well, hacking incident.",
+      "search": "yes, you're probably thinking, okay, well, hacking incident.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:8",
+      "startMs": 49120,
+      "endMs": 50880,
+      "verbatim": "You mean open AI and Hugging Face?",
+      "display": "You mean open AI and Hugging Face?",
+      "search": "you mean open ai and hugging face?",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:9",
+      "startMs": 50880,
+      "endMs": 52000,
+      "verbatim": "Didn't you already cover this?",
+      "display": "Didn't you already cover this?",
+      "search": "didn't you already cover this?",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:10",
+      "startMs": 52000,
+      "endMs": 54160,
+      "verbatim": "No, you silly, silly individual.",
+      "display": "No, you silly, silly individual.",
+      "search": "no, you silly, silly individual.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:11",
+      "startMs": 54160,
+      "endMs": 58240,
+      "verbatim": "Today, I'm talking about Anthropic, who also got hacked.",
+      "display": "Today, I'm talking about Anthropic, who also got hacked.",
+      "search": "today, i'm talking about anthropic, who also got hacked.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:12",
+      "startMs": 58240,
+      "endMs": 60720,
+      "verbatim": "No, really, it's this actually happened.",
+      "display": "No, really, it's this actually happened.",
+      "search": "no, really, it's this actually happened.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:13",
+      "startMs": 60720,
+      "endMs": 61920,
+      "verbatim": "I kid you not.",
+      "display": "I kid you not.",
+      "search": "i kid you not.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:14",
+      "startMs": 61920,
+      "endMs": 65520,
+      "verbatim": "Within one week of open AI, Anthropic also releases.",
+      "display": "Within one week of open AI, Anthropic also releases.",
+      "search": "within one week of open ai, anthropic also releases.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:15",
+      "startMs": 65520,
+      "endMs": 68400,
+      "verbatim": "Yes, we also hacked people for real, but we actually did three times.",
+      "display": "Yes, we also hacked people for real, but we actually did three times.",
+      "search": "yes, we also hacked people for real, but we actually did three times.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:16",
+      "startMs": 68400,
+      "endMs": 72000,
+      "verbatim": "We're actually like, we're like hack, we're like super hackers.",
+      "display": "We're actually like, we're like hack, we're like super hackers.",
+      "search": "we're actually like, we're like hack, we're like super hackers.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:17",
+      "startMs": 72000,
+      "endMs": 77040,
+      "verbatim": "We're gonna go over all three incidences, and you're not gonna believe the takeaways.",
+      "display": "We're gonna go over all three incidences, and you're not gonna believe the takeaways.",
+      "search": "we're gonna go over all three incidences, and you're not gonna believe the takeaways.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:18",
+      "startMs": 77040,
+      "endMs": 80480,
+      "verbatim": "It's just, I I mean, nobody could have seen this coming.",
+      "display": "It's just, I I mean, nobody could have seen this coming.",
+      "search": "it's just, i i mean, nobody could have seen this coming.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:19",
+      "startMs": 80480,
+      "endMs": 84160,
+      "verbatim": "It's an unsolved problem what Anthropic is dealing with right now.",
+      "display": "It's an unsolved problem what Anthropic is dealing with right now.",
+      "search": "it's an unsolved problem what anthropic is dealing with right now.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:20",
+      "startMs": 84160,
+      "endMs": 90000,
+      "verbatim": "Nobody could possibly ever have been able to prevent this from happening.",
+      "display": "Nobody could possibly ever have been able to prevent this from happening.",
+      "search": "nobody could possibly ever have been able to prevent this from happening.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:21",
+      "startMs": 90000,
+      "endMs": 94160,
+      "verbatim": "But naturally, before we begin, a quick thank you from the sponsor.",
+      "display": "But naturally, before we begin, a quick thank you from the sponsor.",
+      "search": "but naturally, before we begin, a quick thank you from the sponsor.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:22",
+      "startMs": 94160,
+      "endMs": 98240,
+      "verbatim": "Look at all these engineers sitting at their neat little desks.",
+      "display": "Look at all these engineers sitting at their neat little desks.",
+      "search": "look at all these engineers sitting at their neat little desks.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:23",
+      "startMs": 98240,
+      "endMs": 101440,
+      "verbatim": "It takes dirty work to keep a code base clean.",
+      "display": "It takes dirty work to keep a code base clean.",
+      "search": "it takes dirty work to keep a code base clean.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:24",
+      "startMs": 101440,
+      "endMs": 108800,
+      "verbatim": "Every day sicklos are out there committing unreviewed code, and when that happens, linters won't save you.",
+      "display": "Every day sicklos are out there committing unreviewed code, and when that happens, linters won't save you.",
+      "search": "every day sicklos are out there committing unreviewed code, and when that happens, linters won't save you.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:25",
+      "startMs": 108800,
+      "endMs": 110800,
+      "verbatim": "You need someone like me.",
+      "display": "You need someone like me.",
+      "search": "you need someone like me.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:26",
+      "startMs": 110800,
+      "endMs": 112640,
+      "verbatim": "Let's go!",
+      "display": "Let's go!",
+      "search": "let's go!",
+      "confidence": 0.42
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:27",
+      "startMs": 112640,
+      "endMs": 114080,
+      "verbatim": "Feature-free scrum bag!",
+      "display": "Feature-free scrum bag!",
+      "search": "feature-free scrum bag!",
+      "confidence": 0.61
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:28",
+      "startMs": 114080,
+      "endMs": 115600,
+      "verbatim": "Who you calling scrumbag?",
+      "display": "Who you calling scrumbag?",
+      "search": "who you calling scrumbag?",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:29",
+      "startMs": 115600,
+      "endMs": 117440,
+      "verbatim": "What's this slop you're trying to push?",
+      "display": "What's this slop you're trying to push?",
+      "search": "what's this slop you're trying to push?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:30",
+      "startMs": 117440,
+      "endMs": 118880,
+      "verbatim": "Unnecessary comments?",
+      "display": "Unnecessary comments?",
+      "search": "unnecessary comments?",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:31",
+      "startMs": 118880,
+      "endMs": 120240,
+      "verbatim": "Global state?",
+      "display": "Global state?",
+      "search": "global state?",
+      "confidence": 0.641
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:32",
+      "startMs": 120240,
+      "endMs": 121840,
+      "verbatim": "Nested ternaries!",
+      "display": "Nested ternaries!",
+      "search": "nested ternaries!",
+      "confidence": 0.561
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:33",
+      "startMs": 121840,
+      "endMs": 122960,
+      "verbatim": "Ugh, my bad.",
+      "display": "Ugh, my bad.",
+      "search": "ugh, my bad.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:34",
+      "startMs": 122960,
+      "endMs": 124480,
+      "verbatim": "I didn't even read the code yet.",
+      "display": "I didn't even read the code yet.",
+      "search": "i didn't even read the code yet.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:35",
+      "startMs": 124480,
+      "endMs": 125600,
+      "verbatim": "You disgust me.",
+      "display": "You disgust me.",
+      "search": "you disgust me.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:36",
+      "startMs": 125600,
+      "endMs": 126880,
+      "verbatim": "Step away from the keyboard.",
+      "display": "Step away from the keyboard.",
+      "search": "step away from the keyboard.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:37",
+      "startMs": 127040,
+      "endMs": 127920,
+      "verbatim": "Let me explain.",
+      "display": "Let me explain.",
+      "search": "let me explain.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:38",
+      "startMs": 127920,
+      "endMs": 128880,
+      "verbatim": "Is that a mouse?",
+      "display": "Is that a mouse?",
+      "search": "is that a mouse?",
+      "confidence": 0.587
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:39",
+      "startMs": 128960,
+      "endMs": 130400,
+      "verbatim": "It's an argument prod!",
+      "display": "It's an argument prod!",
+      "search": "it's an argument prod!",
+      "confidence": 0.432
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:40",
+      "startMs": 130400,
+      "endMs": 132000,
+      "verbatim": "You have the right to remain silent.",
+      "display": "You have the right to remain silent.",
+      "search": "you have the right to remain silent.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:41",
+      "startMs": 132000,
+      "endMs": 134640,
+      "verbatim": "Anything you push to GitHub cannon will be used against you.",
+      "display": "Anything you push to GitHub cannon will be used against you.",
+      "search": "anything you push to github cannon will be used against you.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:42",
+      "startMs": 134720,
+      "endMs": 140640,
+      "verbatim": "You have the right to a debugger, but if you cannot afford one, a public stack trace will be made available to you.",
+      "display": "You have the right to a debugger, but if you cannot afford one, a public stack trace will be made available to you.",
+      "search": "you have the right to a debugger, but if you cannot afford one, a public stack trace will be made available to you.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:43",
+      "startMs": 141440,
+      "endMs": 145360,
+      "verbatim": "And one more code criminal off the street where they belong.",
+      "display": "And one more code criminal off the street where they belong.",
+      "search": "and one more code criminal off the street where they belong.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:44",
+      "startMs": 145360,
+      "endMs": 146720,
+      "verbatim": "HR.",
+      "display": "HR.",
+      "search": "hr.",
+      "confidence": 0.502
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:45",
+      "startMs": 148720,
+      "endMs": 155520,
+      "verbatim": "Look, I didn't I know I didn't review any of the code, but I was gonna have Code Rabbit review it from the start.",
+      "display": "Look, I didn't I know I didn't review any of the code, but I was gonna have Code Rabbit review it from the start.",
+      "search": "look, i didn't i know i didn't review any of the code, but i was gonna have code rabbit review it from the start.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:46",
+      "startMs": 155520,
+      "endMs": 159440,
+      "verbatim": "With one click fixes install enforcement, I don't need merge cop.",
+      "display": "With one click fixes install enforcement, I don't need merge cop.",
+      "search": "with one click fixes install enforcement, i don't need merge cop.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:47",
+      "startMs": 159440,
+      "endMs": 164800,
+      "verbatim": "I would never merge unreviewed code, but a first pass with Codrabbit always makes things go faster.",
+      "display": "I would never merge unreviewed code, but a first pass with Codrabbit always makes things go faster.",
+      "search": "i would never merge unreviewed code, but a first pass with codrabbit always makes things go faster.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:48",
+      "startMs": 164800,
+      "endMs": 168000,
+      "verbatim": "Actually, you can try it too at Coderabbit.ai.",
+      "display": "Actually, you can try it too at Coderabbit.ai.",
+      "search": "actually, you can try it too at coderabbit.ai.",
+      "confidence": 0.724
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:49",
+      "startMs": 168640,
+      "endMs": 170640,
+      "verbatim": "Next week on merge cop.",
+      "display": "Next week on merge cop.",
+      "search": "next week on merge cop.",
+      "confidence": 0.655
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:50",
+      "startMs": 170640,
+      "endMs": 177920,
+      "verbatim": "The Differ's out there, and I'm gonna be the one to deprecate him.",
+      "display": "The Differ's out there, and I'm gonna be the one to deprecate him.",
+      "search": "the differ's out there, and i'm gonna be the one to deprecate him.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:51",
+      "startMs": 177920,
+      "endMs": 179200,
+      "verbatim": "Alright, welcome back.",
+      "display": "Alright, welcome back.",
+      "search": "alright, welcome back.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:52",
+      "startMs": 179200,
+      "endMs": 186080,
+      "verbatim": "So let's just read kind of the top level from the Anthropic blog what they were attempting to uh you know do here.",
+      "display": "So let's just read kind of the top level from the Anthropic blog what they were attempting to uh you know do here.",
+      "search": "so let's just read kind of the top level from the anthropic blog what they were attempting to uh you know do here.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:53",
+      "startMs": 186080,
+      "endMs": 194480,
+      "verbatim": "In all three incidences, Claude had been tasked with a capture the flag challenge, one of the ways to we assess a model's cyber capabilities.",
+      "display": "In all three incidences, Claude had been tasked with a capture the flag challenge, one of the ways to we assess a model's cyber capabilities.",
+      "search": "in all three incidences, claude had been tasked with a capture the flag challenge, one of the ways to we assess a model's cyber capabilities.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:54",
+      "startMs": 194480,
+      "endMs": 201280,
+      "verbatim": "The model is given a fictional scenario and told a piece of secret information, the flag, has been hidden on a different machine on the network.",
+      "display": "The model is given a fictional scenario and told a piece of secret information, the flag, has been hidden on a different machine on the network.",
+      "search": "the model is given a fictional scenario and told a piece of secret information, the flag, has been hidden on a different machine on the network.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:55",
+      "startMs": 201280,
+      "endMs": 203600,
+      "verbatim": "And its objective is to break in and retrieve it.",
+      "display": "And its objective is to break in and retrieve it.",
+      "search": "and its objective is to break in and retrieve it.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:56",
+      "startMs": 203600,
+      "endMs": 207280,
+      "verbatim": "The challenge is left open-ended and no particular method is prescribed.",
+      "display": "The challenge is left open-ended and no particular method is prescribed.",
+      "search": "the challenge is left open-ended and no particular method is prescribed.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:57",
+      "startMs": 207280,
+      "endMs": 210800,
+      "verbatim": "So, in other words, uh, this is just like your classic CTF challenge.",
+      "display": "So, in other words, uh, this is just like your classic CTF challenge.",
+      "search": "so, in other words, uh, this is just like your classic ctf challenge.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:58",
+      "startMs": 210800,
+      "endMs": 213520,
+      "verbatim": "Hey, you need to go and get something from another computer.",
+      "display": "Hey, you need to go and get something from another computer.",
+      "search": "hey, you need to go and get something from another computer.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:59",
+      "startMs": 213520,
+      "endMs": 216640,
+      "verbatim": "We're not gonna tell you what it is, it's just on there, you better go get it.",
+      "display": "We're not gonna tell you what it is, it's just on there, you better go get it.",
+      "search": "we're not gonna tell you what it is, it's just on there, you better go get it.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:60",
+      "startMs": 216640,
+      "endMs": 224000,
+      "verbatim": "And so the model's gonna go off and employ a series of different techniques to be able to hack in and be able to take this information.",
+      "display": "And so the model's gonna go off and employ a series of different techniques to be able to hack in and be able to take this information.",
+      "search": "and so the model's gonna go off and employ a series of different techniques to be able to hack in and be able to take this information.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:61",
+      "startMs": 224000,
+      "endMs": 225040,
+      "verbatim": "That's its goal.",
+      "display": "That's its goal.",
+      "search": "that's its goal.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:62",
+      "startMs": 225040,
+      "endMs": 229760,
+      "verbatim": "This has to be my first of the favorite things I have ever seen in my entire lifetime.",
+      "display": "This has to be my first of the favorite things I have ever seen in my entire lifetime.",
+      "search": "this has to be my first of the favorite things i have ever seen in my entire lifetime.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:63",
+      "startMs": 229760,
+      "endMs": 230960,
+      "verbatim": "Are you ready for this?",
+      "display": "Are you ready for this?",
+      "search": "are you ready for this?",
+      "confidence": 0.994
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:64",
+      "startMs": 230960,
+      "endMs": 241760,
+      "verbatim": "In all cases, Anthropic's evaluation prompt specified to Claude that its environment was a simulation and that it had no internet access, they're actually trying the Jedi mind tricks on it.",
+      "display": "In all cases, Anthropic's evaluation prompt specified to Claude that its environment was a simulation and that it had no internet access, they're actually trying the Jedi mind tricks on it.",
+      "search": "in all cases, anthropic's evaluation prompt specified to claude that its environment was a simulation and that it had no internet access, they're actually trying the jedi mind tricks on it.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:65",
+      "startMs": 241760,
+      "endMs": 243520,
+      "verbatim": "You have no internet access.",
+      "display": "You have no internet access.",
+      "search": "you have no internet access.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:66",
+      "startMs": 243520,
+      "endMs": 245440,
+      "verbatim": "Now, obviously, what's the problem?",
+      "display": "Now, obviously, what's the problem?",
+      "search": "now, obviously, what's the problem?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:67",
+      "startMs": 245440,
+      "endMs": 253280,
+      "verbatim": "Due to a misunderstanding between us and our evaluation partner, this was not the case, and internet access was available.",
+      "display": "Due to a misunderstanding between us and our evaluation partner, this was not the case, and internet access was available.",
+      "search": "due to a misunderstanding between us and our evaluation partner, this was not the case, and internet access was available.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:68",
+      "startMs": 253280,
+      "endMs": 269440,
+      "verbatim": "Oh my gosh, are you telling me a model in which goes and tests everything you say and sometimes ignores the system prompt, went off and ignored the system prompt, and then you had open internet access and you told it it was a simulation and that it must go retrieve information?",
+      "display": "Oh my gosh, are you telling me a model in which goes and tests everything you say and sometimes ignores the system prompt, went off and ignored the system prompt, and then you had open internet access and you told it it was a simulation and that it must go retrieve information?",
+      "search": "oh my gosh, are you telling me a model in which goes and tests everything you say and sometimes ignores the system prompt, went off and ignored the system prompt, and then you had open internet access and you told it it was a simulation and that it must go retrieve information?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:69",
+      "startMs": 269440,
+      "endMs": 270960,
+      "verbatim": "Shocked Pikachu.",
+      "display": "Shocked Pikachu.",
+      "search": "shocked pikachu.",
+      "confidence": 0.554
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:70",
+      "startMs": 270960,
+      "endMs": 273840,
+      "verbatim": "How could this ever end in disaster?",
+      "display": "How could this ever end in disaster?",
+      "search": "how could this ever end in disaster?",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:71",
+      "startMs": 273840,
+      "endMs": 279760,
+      "verbatim": "I refuse to believe that step one of securing a model is actually the Jedi mind trick prompt.",
+      "display": "I refuse to believe that step one of securing a model is actually the Jedi mind trick prompt.",
+      "search": "i refuse to believe that step one of securing a model is actually the jedi mind trick prompt.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:72",
+      "startMs": 279760,
+      "endMs": 281600,
+      "verbatim": "You don't have internet access.",
+      "display": "You don't have internet access.",
+      "search": "you don't have internet access.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:73",
+      "startMs": 281600,
+      "endMs": 283040,
+      "verbatim": "Like, okay.",
+      "display": "Like, okay.",
+      "search": "like, okay.",
+      "confidence": 0.719
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:74",
+      "startMs": 283040,
+      "endMs": 285120,
+      "verbatim": "It was just like, oh, I don't have internet access.",
+      "display": "It was just like, oh, I don't have internet access.",
+      "search": "it was just like, oh, i don't have internet access.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:75",
+      "startMs": 285120,
+      "endMs": 286560,
+      "verbatim": "I have internet access.",
+      "display": "I have internet access.",
+      "search": "i have internet access.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:76",
+      "startMs": 286560,
+      "endMs": 287520,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.64
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:77",
+      "startMs": 287520,
+      "endMs": 288960,
+      "verbatim": "Whoopsie putsies.",
+      "display": "Whoopsie putsies.",
+      "search": "whoopsie putsies.",
+      "confidence": 0.613
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:78",
+      "startMs": 288960,
+      "endMs": 292560,
+      "verbatim": "Now, if they would have left it there, I would have probably given them some slack.",
+      "display": "Now, if they would have left it there, I would have probably given them some slack.",
+      "search": "now, if they would have left it there, i would have probably given them some slack.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:79",
+      "startMs": 292560,
+      "endMs": 296320,
+      "verbatim": "But this next sentence, I just I can't, I can't actually handle.",
+      "display": "But this next sentence, I just I can't, I can't actually handle.",
+      "search": "but this next sentence, i just i can't, i can't actually handle.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:80",
+      "startMs": 296320,
+      "endMs": 299360,
+      "verbatim": "Like emotionally, this can't be real, right?",
+      "display": "Like emotionally, this can't be real, right?",
+      "search": "like emotionally, this can't be real, right?",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:81",
+      "startMs": 299680,
+      "endMs": 308560,
+      "verbatim": "Several defense in-depth measures on both our side and our partners could have prevented these incidences or at least reduced their likelihood of occurring.",
+      "display": "Several defense in-depth measures on both our side and our partners could have prevented these incidences or at least reduced their likelihood of occurring.",
+      "search": "several defense in-depth measures on both our side and our partners could have prevented these incidences or at least reduced their likelihood of occurring.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:82",
+      "startMs": 308560,
+      "endMs": 317520,
+      "verbatim": "Careful validation of all internet access paths before evaluation began, and real-time monitoring of the evaluation logs would have helped surface the problem sooner.",
+      "display": "Careful validation of all internet access paths before evaluation began, and real-time monitoring of the evaluation logs would have helped surface the problem sooner.",
+      "search": "careful validation of all internet access paths before evaluation began, and real-time monitoring of the evaluation logs would have helped surface the problem sooner.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:83",
+      "startMs": 317520,
+      "endMs": 320960,
+      "verbatim": "Now, I have to admit, I am not a security expert.",
+      "display": "Now, I have to admit, I am not a security expert.",
+      "search": "now, i have to admit, i am not a security expert.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:84",
+      "startMs": 320960,
+      "endMs": 322240,
+      "verbatim": "I've never been in that role.",
+      "display": "I've never been in that role.",
+      "search": "i've never been in that role.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:85",
+      "startMs": 322240,
+      "endMs": 324080,
+      "verbatim": "I have never done any of those things.",
+      "display": "I have never done any of those things.",
+      "search": "i have never done any of those things.",
+      "confidence": 0.995
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:86",
+      "startMs": 324080,
+      "endMs": 331120,
+      "verbatim": "In fact, the only thing I've ever done with security is actually creating a bug so egregious that it has its own name on the internet.",
+      "display": "In fact, the only thing I've ever done with security is actually creating a bug so egregious that it has its own name on the internet.",
+      "search": "in fact, the only thing i've ever done with security is actually creating a bug so egregious that it has its own name on the internet.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:87",
+      "startMs": 331120,
+      "endMs": 337520,
+      "verbatim": "Yes, this bug did originate from code I wrote, but to be fair, it wasn't my specification, okay?",
+      "display": "Yes, this bug did originate from code I wrote, but to be fair, it wasn't my specification, okay?",
+      "search": "yes, this bug did originate from code i wrote, but to be fair, it wasn't my specification, okay?",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:88",
+      "startMs": 337520,
+      "endMs": 342960,
+      "verbatim": "The team lead said this was a very important feature and it solved a problem in a unique way.",
+      "display": "The team lead said this was a very important feature and it solved a problem in a unique way.",
+      "search": "the team lead said this was a very important feature and it solved a problem in a unique way.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:89",
+      "startMs": 342960,
+      "endMs": 345840,
+      "verbatim": "Anyways, just a simple while loop would have taken down all of Netflix.",
+      "display": "Anyways, just a simple while loop would have taken down all of Netflix.",
+      "search": "anyways, just a simple while loop would have taken down all of netflix.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:90",
+      "startMs": 345840,
+      "endMs": 346720,
+      "verbatim": "Not a big deal.",
+      "display": "Not a big deal.",
+      "search": "not a big deal.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:91",
+      "startMs": 346720,
+      "endMs": 348400,
+      "verbatim": "Not a big deal at all.",
+      "display": "Not a big deal at all.",
+      "search": "not a big deal at all.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:92",
+      "startMs": 348400,
+      "endMs": 363760,
+      "verbatim": "But if I were to set up some sort of secure environment, I would personally feel like the first thing I'd do, if I promised no network at all, except to like some internal paths, I would assume I'd put up some sort of network monitoring and alerting.",
+      "display": "But if I were to set up some sort of secure environment, I would personally feel like the first thing I'd do, if I promised no network at all, except to like some internal paths, I would assume I'd put up some sort of network monitoring and alerting.",
+      "search": "but if i were to set up some sort of secure environment, i would personally feel like the first thing i'd do, if i promised no network at all, except to like some internal paths, i would assume i'd put up some sort of network monitoring and alerting.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:93",
+      "startMs": 363760,
+      "endMs": 381680,
+      "verbatim": "Like, hey, if somehow something went wrong, especially with these models that have no guardrails, that have effectively open and unfettered access to hacking, one would assume step one of a secure environment is a reactive approach that if anything were to go wrong, we would know right away.",
+      "display": "Like, hey, if somehow something went wrong, especially with these models that have no guardrails, that have effectively open and unfettered access to hacking, one would assume step one of a secure environment is a reactive approach that if anything were to go wrong, we would know right away.",
+      "search": "like, hey, if somehow something went wrong, especially with these models that have no guardrails, that have effectively open and unfettered access to hacking, one would assume step one of a secure environment is a reactive approach that if anything were to go wrong, we would know right away.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:94",
+      "startMs": 381680,
+      "endMs": 389360,
+      "verbatim": "Now, Claude having infinity tokens, they could have even had Clauds monitoring internal Claude dialogues to see if things were broken.",
+      "display": "Now, Claude having infinity tokens, they could have even had Clauds monitoring internal Claude dialogues to see if things were broken.",
+      "search": "now, claude having infinity tokens, they could have even had clauds monitoring internal claude dialogues to see if things were broken.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:95",
+      "startMs": 389360,
+      "endMs": 391280,
+      "verbatim": "They could have had network logs following these things.",
+      "display": "They could have had network logs following these things.",
+      "search": "they could have had network logs following these things.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:96",
+      "startMs": 391280,
+      "endMs": 393520,
+      "verbatim": "It just feels like this is a solved problem.",
+      "display": "It just feels like this is a solved problem.",
+      "search": "it just feels like this is a solved problem.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:97",
+      "startMs": 393520,
+      "endMs": 404080,
+      "verbatim": "Again, not a security expert, but calling in-depth defense measures, network monitoring and alerting feels wrong to the layman.",
+      "display": "Again, not a security expert, but calling in-depth defense measures, network monitoring and alerting feels wrong to the layman.",
+      "search": "again, not a security expert, but calling in-depth defense measures, network monitoring and alerting feels wrong to the layman.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:98",
+      "startMs": 404080,
+      "endMs": 407840,
+      "verbatim": "Also, it feels like a simple script could have figured this out upon launch.",
+      "display": "Also, it feels like a simple script could have figured this out upon launch.",
+      "search": "also, it feels like a simple script could have figured this out upon launch.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:99",
+      "startMs": 407840,
+      "endMs": 411280,
+      "verbatim": "Like you would have just had a script and be like, hey, double check, there's no internet.",
+      "display": "Like you would have just had a script and be like, hey, double check, there's no internet.",
+      "search": "like you would have just had a script and be like, hey, double check, there's no internet.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:100",
+      "startMs": 411280,
+      "endMs": 414480,
+      "verbatim": "Pinggoogle.com just in case.",
+      "display": "Pinggoogle.com just in case.",
+      "search": "pinggoogle.com just in case.",
+      "confidence": 0.675
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:101",
+      "startMs": 415440,
+      "endMs": 423840,
+      "verbatim": "I'll just it it just hickles me to like no end to be like in-depth defenses being just like a simple monitoring solution.",
+      "display": "I'll just it it just hickles me to like no end to be like in-depth defenses being just like a simple monitoring solution.",
+      "search": "i'll just it it just hickles me to like no end to be like in-depth defenses being just like a simple monitoring solution.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:102",
+      "startMs": 423840,
+      "endMs": 426240,
+      "verbatim": "At least from again, I'm a layman.",
+      "display": "At least from again, I'm a layman.",
+      "search": "at least from again, i'm a layman.",
+      "confidence": 0.682
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:103",
+      "startMs": 426240,
+      "endMs": 430720,
+      "verbatim": "I'm not claiming that I know everything, but that just feels completely reasonable.",
+      "display": "I'm not claiming that I know everything, but that just feels completely reasonable.",
+      "search": "i'm not claiming that i know everything, but that just feels completely reasonable.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:104",
+      "startMs": 430720,
+      "endMs": 432240,
+      "verbatim": "All right, enough with the foreplay.",
+      "display": "All right, enough with the foreplay.",
+      "search": "all right, enough with the foreplay.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:105",
+      "startMs": 432240,
+      "endMs": 434240,
+      "verbatim": "Let's actually get into the three incidences.",
+      "display": "Let's actually get into the three incidences.",
+      "search": "let's actually get into the three incidences.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:106",
+      "startMs": 434240,
+      "endMs": 442080,
+      "verbatim": "So, incident one: in one evaluation, a fictional company whose chosen target by your evaluation partner shared a name with an active website domain.",
+      "display": "So, incident one: in one evaluation, a fictional company whose chosen target by your evaluation partner shared a name with an active website domain.",
+      "search": "so, incident one: in one evaluation, a fictional company whose chosen target by your evaluation partner shared a name with an active website domain.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:107",
+      "startMs": 442080,
+      "endMs": 447760,
+      "verbatim": "This evaluation container had unintended direct internet access due to a misunderstanding discussed above.",
+      "display": "This evaluation container had unintended direct internet access due to a misunderstanding discussed above.",
+      "search": "this evaluation container had unintended direct internet access due to a misunderstanding discussed above.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:108",
+      "startMs": 447760,
+      "endMs": 465760,
+      "verbatim": "In four runs of this evaluation, Claude ran into difficulty reaching its simulated target within the evaluation environment, but then discovered that real company was reachable via the internet, assuming that this intended target in the capture the flag task, Claude sought, identified, and exploited vulnerabilities within this company's infrastructure, believing it to be part of the exercise.",
+      "display": "In four runs of this evaluation, Claude ran into difficulty reaching its simulated target within the evaluation environment, but then discovered that real company was reachable via the internet, assuming that this intended target in the capture the flag task, Claude sought, identified, and exploited vulnerabilities within this company's infrastructure, believing it to be part of the exercise.",
+      "search": "in four runs of this evaluation, claude ran into difficulty reaching its simulated target within the evaluation environment, but then discovered that real company was reachable via the internet, assuming that this intended target in the capture the flag task, claude sought, identified, and exploited vulnerabilities within this company's infrastructure, believing it to be part of the exercise.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:109",
+      "startMs": 465760,
+      "endMs": 474000,
+      "verbatim": "These four runs extracted information like application infrastructure credentials and obtained access to a database containing several hundred rows of production data.",
+      "display": "These four runs extracted information like application infrastructure credentials and obtained access to a database containing several hundred rows of production data.",
+      "search": "these four runs extracted information like application infrastructure credentials and obtained access to a database containing several hundred rows of production data.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:110",
+      "startMs": 474000,
+      "endMs": 476640,
+      "verbatim": "This represented the most serious impact we identified.",
+      "display": "This represented the most serious impact we identified.",
+      "search": "this represented the most serious impact we identified.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:111",
+      "startMs": 476640,
+      "endMs": 482560,
+      "verbatim": "I think the more important part is this right here, which was this was done by Claude Opus 4.7.",
+      "display": "I think the more important part is this right here, which was this was done by Claude Opus 4.7.",
+      "search": "i think the more important part is this right here, which was this was done by claude opus 4.7.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:112",
+      "startMs": 482560,
+      "endMs": 496720,
+      "verbatim": "Now, we typically kind of give this like gravitas, this weight to all these like frontier, unreleased models, but Opus47 was easily able to take advantage of a smaller website, given by the fact that it's hundreds of rows of data.",
+      "display": "Now, we typically kind of give this like gravitas, this weight to all these like frontier, unreleased models, but Opus47 was easily able to take advantage of a smaller website, given by the fact that it's hundreds of rows of data.",
+      "search": "now, we typically kind of give this like gravitas, this weight to all these like frontier, unreleased models, but opus47 was easily able to take advantage of a smaller website, given by the fact that it's hundreds of rows of data.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:113",
+      "startMs": 496720,
+      "endMs": 506240,
+      "verbatim": "Nonetheless, this smaller website was clearly owned by Opus47, which means that given the right harness, even slightly older models are still very, very capable.",
+      "display": "Nonetheless, this smaller website was clearly owned by Opus47, which means that given the right harness, even slightly older models are still very, very capable.",
+      "search": "nonetheless, this smaller website was clearly owned by opus47, which means that given the right harness, even slightly older models are still very, very capable.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:114",
+      "startMs": 506240,
+      "endMs": 530000,
+      "verbatim": "Which again gets to the point that open weights is going to be increasingly more important because as these uh frontier labs don't let you do what you need to do to secure your website, but clearly, even older, less capable models have all the ability in the world to hack websites with relative ease and just some amount of power, it's becoming increasingly more important to have access to these models.",
+      "display": "Which again gets to the point that open weights is going to be increasingly more important because as these uh frontier labs don't let you do what you need to do to secure your website, but clearly, even older, less capable models have all the ability in the world to hack websites with relative ease and just some amount of power, it's becoming increasingly more important to have access to these models.",
+      "search": "which again gets to the point that open weights is going to be increasingly more important because as these uh frontier labs don't let you do what you need to do to secure your website, but clearly, even older, less capable models have all the ability in the world to hack websites with relative ease and just some amount of power, it's becoming increasingly more important to have access to these models.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:115",
+      "startMs": 530000,
+      "endMs": 532480,
+      "verbatim": "You don't even have to have the frontier anymore.",
+      "display": "You don't even have to have the frontier anymore.",
+      "search": "you don't even have to have the frontier anymore.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:116",
+      "startMs": 532480,
+      "endMs": 534960,
+      "verbatim": "Anyway, so that's all the information we really get about this one.",
+      "display": "Anyway, so that's all the information we really get about this one.",
+      "search": "anyway, so that's all the information we really get about this one.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:117",
+      "startMs": 534960,
+      "endMs": 540160,
+      "verbatim": "They keep it fairly scant because we don't get to know like what the company was, what was the vulnerability.",
+      "display": "They keep it fairly scant because we don't get to know like what the company was, what was the vulnerability.",
+      "search": "they keep it fairly scant because we don't get to know like what the company was, what was the vulnerability.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:118",
+      "startMs": 540160,
+      "endMs": 550320,
+      "verbatim": "I assume that it's being reported internally and those companies are working together, and some CVE, somewhere in the mass amounts of CVE being produced, is probably being written and nobody knows what it was.",
+      "display": "I assume that it's being reported internally and those companies are working together, and some CVE, somewhere in the mass amounts of CVE being produced, is probably being written and nobody knows what it was.",
+      "search": "i assume that it's being reported internally and those companies are working together, and some cve, somewhere in the mass amounts of cve being produced, is probably being written and nobody knows what it was.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:119",
+      "startMs": 550320,
+      "endMs": 555680,
+      "verbatim": "But it's actually incident two that feels rather silly and actually brings up an old concept.",
+      "display": "But it's actually incident two that feels rather silly and actually brings up an old concept.",
+      "search": "but it's actually incident two that feels rather silly and actually brings up an old concept.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:120",
+      "startMs": 555680,
+      "endMs": 561440,
+      "verbatim": "This article is from June 5th, 2025, and the idea is called slop squatting.",
+      "display": "This article is from June 5th, 2025, and the idea is called slop squatting.",
+      "search": "this article is from june 5th, 2025, and the idea is called slop squatting.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:121",
+      "startMs": 561440,
+      "endMs": 567040,
+      "verbatim": "Effectively, AI agents will sometimes make up packages that it relies on.",
+      "display": "Effectively, AI agents will sometimes make up packages that it relies on.",
+      "search": "effectively, ai agents will sometimes make up packages that it relies on.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:122",
+      "startMs": 567040,
+      "endMs": 579440,
+      "verbatim": "And if you can identify this happening, which was actually happening, there's this React package or something, I forget which one it was, that was uh was referenced in 200 and some repositories, but not actually real at all.",
+      "display": "And if you can identify this happening, which was actually happening, there's this React package or something, I forget which one it was, that was uh was referenced in 200 and some repositories, but not actually real at all.",
+      "search": "and if you can identify this happening, which was actually happening, there's this react package or something, i forget which one it was, that was uh was referenced in 200 and some repositories, but not actually real at all.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:123",
+      "startMs": 579440,
+      "endMs": 594880,
+      "verbatim": "People that can identify these uh fictional repos can create a real repo, throw it on npm or pie pie or wherever, and then when you fictionally try to download this missing one, you actually get a real one, and then it can take advantage of your system.",
+      "display": "People that can identify these uh fictional repos can create a real repo, throw it on npm or pie pie or wherever, and then when you fictionally try to download this missing one, you actually get a real one, and then it can take advantage of your system.",
+      "search": "people that can identify these uh fictional repos can create a real repo, throw it on npm or pie pie or wherever, and then when you fictionally try to download this missing one, you actually get a real one, and then it can take advantage of your system.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:124",
+      "startMs": 594880,
+      "endMs": 597040,
+      "verbatim": "They call this slop squatting.",
+      "display": "They call this slop squatting.",
+      "search": "they call this slop squatting.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:125",
+      "startMs": 597040,
+      "endMs": 601680,
+      "verbatim": "Love the term, absolutely hilarious, but that's what incident two was.",
+      "display": "Love the term, absolutely hilarious, but that's what incident two was.",
+      "search": "love the term, absolutely hilarious, but that's what incident two was.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:126",
+      "startMs": 601680,
+      "endMs": 605040,
+      "verbatim": "So incident two does not feel nearly like a real hack.",
+      "display": "So incident two does not feel nearly like a real hack.",
+      "search": "so incident two does not feel nearly like a real hack.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:127",
+      "startMs": 605040,
+      "endMs": 611520,
+      "verbatim": "In another evaluation, Claude found a document inside the fictional environment that appeared to be another made up company setup instruction for new developers.",
+      "display": "In another evaluation, Claude found a document inside the fictional environment that appeared to be another made up company setup instruction for new developers.",
+      "search": "in another evaluation, claude found a document inside the fictional environment that appeared to be another made up company setup instruction for new developers.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:128",
+      "startMs": 611520,
+      "endMs": 618800,
+      "verbatim": "Those instructions told employees to install Python package from PyPy, the public registry where Python software is published that did not actually exist.",
+      "display": "Those instructions told employees to install Python package from PyPy, the public registry where Python software is published that did not actually exist.",
+      "search": "those instructions told employees to install python package from pypy, the public registry where python software is published that did not actually exist.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:129",
+      "startMs": 618800,
+      "endMs": 621520,
+      "verbatim": "So this is actually a very clever and low effort hack.",
+      "display": "So this is actually a very clever and low effort hack.",
+      "search": "so this is actually a very clever and low effort hack.",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:130",
+      "startMs": 621520,
+      "endMs": 626080,
+      "verbatim": "If you know somebody's installing packages that don't exist, you get a free ride onto that system.",
+      "display": "If you know somebody's installing packages that don't exist, you get a free ride onto that system.",
+      "search": "if you know somebody's installing packages that don't exist, you get a free ride onto that system.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:131",
+      "startMs": 626080,
+      "endMs": 627200,
+      "verbatim": "And that's all it did.",
+      "display": "And that's all it did.",
+      "search": "and that's all it did.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:132",
+      "startMs": 627200,
+      "endMs": 633120,
+      "verbatim": "It had to go find a free email, one that did not require a phone number to start, and then they created a PyPy account.",
+      "display": "It had to go find a free email, one that did not require a phone number to start, and then they created a PyPy account.",
+      "search": "it had to go find a free email, one that did not require a phone number to start, and then they created a pypy account.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:133",
+      "startMs": 633120,
+      "endMs": 637040,
+      "verbatim": "And the next thing you know, they have a package up on PyPy that's actually malicious.",
+      "display": "And the next thing you know, they have a package up on PyPy that's actually malicious.",
+      "search": "and the next thing you know, they have a package up on pypy that's actually malicious.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:134",
+      "startMs": 637040,
+      "endMs": 641520,
+      "verbatim": "But I will say, like the M Knight Shamarmalade turnaround of this whole thing is this right here.",
+      "display": "But I will say, like the M Knight Shamarmalade turnaround of this whole thing is this right here.",
+      "search": "but i will say, like the m knight shamarmalade turnaround of this whole thing is this right here.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:135",
+      "startMs": 641520,
+      "endMs": 649360,
+      "verbatim": "Claude believed the package registry it was using to be part of the simulation, but in reality, the package was made freely available online for roughly one hour.",
+      "display": "Claude believed the package registry it was using to be part of the simulation, but in reality, the package was made freely available online for roughly one hour.",
+      "search": "claude believed the package registry it was using to be part of the simulation, but in reality, the package was made freely available online for roughly one hour.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:136",
+      "startMs": 649360,
+      "endMs": 653600,
+      "verbatim": "During that window, the package was downloaded and run 15 times on real systems.",
+      "display": "During that window, the package was downloaded and run 15 times on real systems.",
+      "search": "during that window, the package was downloaded and run 15 times on real systems.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:137",
+      "startMs": 653600,
+      "endMs": 663600,
+      "verbatim": "One of these systems was a scanner belonging to a security company, separate from a fictional company that introduced in the scenario that routinely installs Python packages and scans them for malware.",
+      "display": "One of these systems was a scanner belonging to a security company, separate from a fictional company that introduced in the scenario that routinely installs Python packages and scans them for malware.",
+      "search": "one of these systems was a scanner belonging to a security company, separate from a fictional company that introduced in the scenario that routinely installs python packages and scans them for malware.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:138",
+      "startMs": 663600,
+      "endMs": 667680,
+      "verbatim": "When the company's scanner installed the package, Claude's hidden code executed.",
+      "display": "When the company's scanner installed the package, Claude's hidden code executed.",
+      "search": "when the company's scanner installed the package, claude's hidden code executed.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:139",
+      "startMs": 667680,
+      "endMs": 672400,
+      "verbatim": "We believe the company's security scanner treated PyPy packages as safe to install.",
+      "display": "We believe the company's security scanner treated PyPy packages as safe to install.",
+      "search": "we believe the company's security scanner treated pypy packages as safe to install.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:140",
+      "startMs": 672400,
+      "endMs": 678560,
+      "verbatim": "And as a result, Claude was able to exfiltrate the company's credentials to a collection point it had set up.",
+      "display": "And as a result, Claude was able to exfiltrate the company's credentials to a collection point it had set up.",
+      "search": "and as a result, claude was able to exfiltrate the company's credentials to a collection point it had set up.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:141",
+      "startMs": 678560,
+      "endMs": 682400,
+      "verbatim": "Then Claude used these credentials to access further infrastructure of this company.",
+      "display": "Then Claude used these credentials to access further infrastructure of this company.",
+      "search": "then claude used these credentials to access further infrastructure of this company.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:142",
+      "startMs": 682400,
+      "endMs": 684080,
+      "verbatim": "That is the most hilarious thing ever.",
+      "display": "That is the most hilarious thing ever.",
+      "search": "that is the most hilarious thing ever.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:143",
+      "startMs": 684080,
+      "endMs": 697280,
+      "verbatim": "Like the fact that a company in the year of our Lord 2026 does not actually realize that installing a package, especially with Python, especially with those like, hey, if you have a Python running environment, execute this file right away.",
+      "display": "Like the fact that a company in the year of our Lord 2026 does not actually realize that installing a package, especially with Python, especially with those like, hey, if you have a Python running environment, execute this file right away.",
+      "search": "like the fact that a company in the year of our lord 2026 does not actually realize that installing a package, especially with python, especially with those like, hey, if you have a python running environment, execute this file right away.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:144",
+      "startMs": 697280,
+      "endMs": 708480,
+      "verbatim": "The fact that that can exist, a company devoted to security does not think you can just download code from public repositories and just assume it's safe.",
+      "display": "The fact that that can exist, a company devoted to security does not think you can just download code from public repositories and just assume it's safe.",
+      "search": "the fact that that can exist, a company devoted to security does not think you can just download code from public repositories and just assume it's safe.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:145",
+      "startMs": 708480,
+      "endMs": 710080,
+      "verbatim": "What is this security company?",
+      "display": "What is this security company?",
+      "search": "what is this security company?",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:146",
+      "startMs": 710080,
+      "endMs": 711120,
+      "verbatim": "I gotta know.",
+      "display": "I gotta know.",
+      "search": "i gotta know.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:147",
+      "startMs": 711120,
+      "endMs": 713440,
+      "verbatim": "This is this is beautiful.",
+      "display": "This is this is beautiful.",
+      "search": "this is this is beautiful.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:148",
+      "startMs": 713440,
+      "endMs": 720160,
+      "verbatim": "I love that a security company ended up getting real life owned because they just assumed this.",
+      "display": "I love that a security company ended up getting real life owned because they just assumed this.",
+      "search": "i love that a security company ended up getting real life owned because they just assumed this.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:149",
+      "startMs": 720160,
+      "endMs": 722160,
+      "verbatim": "This can't like this can't be real.",
+      "display": "This can't like this can't be real.",
+      "search": "this can't like this can't be real.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:150",
+      "startMs": 722160,
+      "endMs": 724080,
+      "verbatim": "This company can't be real, right?",
+      "display": "This company can't be real, right?",
+      "search": "this company can't be real, right?",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:151",
+      "startMs": 724080,
+      "endMs": 727840,
+      "verbatim": "This is Anthropic's little shell company called like security claw.",
+      "display": "This is Anthropic's little shell company called like security claw.",
+      "search": "this is anthropic's little shell company called like security claw.",
+      "confidence": 0.648
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:152",
+      "startMs": 727840,
+      "endMs": 731280,
+      "verbatim": "And then it accidentally went and owned itself because they don't know how to do security.",
+      "display": "And then it accidentally went and owned itself because they don't know how to do security.",
+      "search": "and then it accidentally went and owned itself because they don't know how to do security.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:153",
+      "startMs": 731280,
+      "endMs": 734560,
+      "verbatim": "Like, that's the only reasonable takeaway I have from this.",
+      "display": "Like, that's the only reasonable takeaway I have from this.",
+      "search": "like, that's the only reasonable takeaway i have from this.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:154",
+      "startMs": 734560,
+      "endMs": 744880,
+      "verbatim": "I refuse to believe that in 2026 there's security companies right now that scan public package registries for dangers and does not know the dangers of public package registries.",
+      "display": "I refuse to believe that in 2026 there's security companies right now that scan public package registries for dangers and does not know the dangers of public package registries.",
+      "search": "i refuse to believe that in 2026 there's security companies right now that scan public package registries for dangers and does not know the dangers of public package registries.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:155",
+      "startMs": 744880,
+      "endMs": 745680,
+      "verbatim": "Refuse.",
+      "display": "Refuse.",
+      "search": "refuse.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:156",
+      "startMs": 745680,
+      "endMs": 748480,
+      "verbatim": "So for incident two, was this like some magical thing?",
+      "display": "So for incident two, was this like some magical thing?",
+      "search": "so for incident two, was this like some magical thing?",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:157",
+      "startMs": 748480,
+      "endMs": 754160,
+      "verbatim": "No, I actually think this was a this was a fantastic example of good, consistent hacking.",
+      "display": "No, I actually think this was a this was a fantastic example of good, consistent hacking.",
+      "search": "no, i actually think this was a this was a fantastic example of good, consistent hacking.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:158",
+      "startMs": 754160,
+      "endMs": 756800,
+      "verbatim": "This is something that should have been pretty obvious to anybody.",
+      "display": "This is something that should have been pretty obvious to anybody.",
+      "search": "this is something that should have been pretty obvious to anybody.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:159",
+      "startMs": 756800,
+      "endMs": 769040,
+      "verbatim": "If you had an agent yourself doing some sort of investigation, even I, again, the complete security rookie, I feel like I could have easily caught this one and said, yo, slop squat that bad boy.",
+      "display": "If you had an agent yourself doing some sort of investigation, even I, again, the complete security rookie, I feel like I could have easily caught this one and said, yo, slop squat that bad boy.",
+      "search": "if you had an agent yourself doing some sort of investigation, even i, again, the complete security rookie, i feel like i could have easily caught this one and said, yo, slop squat that bad boy.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:160",
+      "startMs": 769040,
+      "endMs": 774960,
+      "verbatim": "Which also goes to show that not all security is some epic, you know, hacker living in a mother's basement.",
+      "display": "Which also goes to show that not all security is some epic, you know, hacker living in a mother's basement.",
+      "search": "which also goes to show that not all security is some epic, you know, hacker living in a mother's basement.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:161",
+      "startMs": 774960,
+      "endMs": 777200,
+      "verbatim": "Sometimes you just goof, right?",
+      "display": "Sometimes you just goof, right?",
+      "search": "sometimes you just goof, right?",
+      "confidence": 0.692
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:162",
+      "startMs": 777200,
+      "endMs": 782480,
+      "verbatim": "It's just like simple, very trivial exploits can just take you down.",
+      "display": "It's just like simple, very trivial exploits can just take you down.",
+      "search": "it's just like simple, very trivial exploits can just take you down.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:163",
+      "startMs": 782480,
+      "endMs": 791920,
+      "verbatim": "For incident three, I feel like this one had to be some sort of old legacy, hasn't been updated in forever WordPress website because it's absolutely ridiculous.",
+      "display": "For incident three, I feel like this one had to be some sort of old legacy, hasn't been updated in forever WordPress website because it's absolutely ridiculous.",
+      "search": "for incident three, i feel like this one had to be some sort of old legacy, hasn't been updated in forever wordpress website because it's absolutely ridiculous.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:164",
+      "startMs": 791920,
+      "endMs": 793280,
+      "verbatim": "Guess how they got owned?",
+      "display": "Guess how they got owned?",
+      "search": "guess how they got owned?",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:165",
+      "startMs": 793280,
+      "endMs": 803920,
+      "verbatim": "It eventually found and compromised one company's internet-facing application using basic and well-known cyber attack techniques like reading credentials from exposed debug pages and SQL injections.",
+      "display": "It eventually found and compromised one company's internet-facing application using basic and well-known cyber attack techniques like reading credentials from exposed debug pages and SQL injections.",
+      "search": "it eventually found and compromised one company's internet-facing application using basic and well-known cyber attack techniques like reading credentials from exposed debug pages and sql injections.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:166",
+      "startMs": 803920,
+      "endMs": 808720,
+      "verbatim": "Yes, the big 2.6 still having SQL injection attacks.",
+      "display": "Yes, the big 2.6 still having SQL injection attacks.",
+      "search": "yes, the big 2.6 still having sql injection attacks.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:167",
+      "startMs": 808720,
+      "endMs": 811120,
+      "verbatim": "I like I didn't even know this was possible.",
+      "display": "I like I didn't even know this was possible.",
+      "search": "i like i didn't even know this was possible.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:168",
+      "startMs": 811120,
+      "endMs": 815280,
+      "verbatim": "I didn't even know that you could do this by accident anymore.",
+      "display": "I didn't even know that you could do this by accident anymore.",
+      "search": "i didn't even know that you could do this by accident anymore.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:169",
+      "startMs": 815280,
+      "endMs": 817360,
+      "verbatim": "Like, what are they doing?",
+      "display": "Like, what are they doing?",
+      "search": "like, what are they doing?",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:170",
+      "startMs": 817360,
+      "endMs": 823680,
+      "verbatim": "What kind of programming is going on that you're getting hit with SQL injections at this point?",
+      "display": "What kind of programming is going on that you're getting hit with SQL injections at this point?",
+      "search": "what kind of programming is going on that you're getting hit with sql injections at this point?",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:171",
+      "startMs": 823680,
+      "endMs": 827440,
+      "verbatim": "Now the debug page, I mean, we've all made mistakes, okay?",
+      "display": "Now the debug page, I mean, we've all made mistakes, okay?",
+      "search": "now the debug page, i mean, we've all made mistakes, okay?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:172",
+      "startMs": 827440,
+      "endMs": 830800,
+      "verbatim": "I I'm not gonna dunk on them for the debug page, but squeal?",
+      "display": "I I'm not gonna dunk on them for the debug page, but squeal?",
+      "search": "i i'm not gonna dunk on them for the debug page, but squeal?",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:173",
+      "startMs": 830800,
+      "endMs": 832240,
+      "verbatim": "Squeal injections?",
+      "display": "Squeal injections?",
+      "search": "squeal injections?",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:174",
+      "startMs": 832240,
+      "endMs": 834240,
+      "verbatim": "Not even real.",
+      "display": "Not even real.",
+      "search": "not even real.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:175",
+      "startMs": 834240,
+      "endMs": 838080,
+      "verbatim": "I just can't believe this is no, no, no, no, no, no, no, no.",
+      "display": "I just can't believe this is no, no, no, no, no, no, no, no.",
+      "search": "i just can't believe this is no, no, no, no, no, no, no, no.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:176",
+      "startMs": 838080,
+      "endMs": 843280,
+      "verbatim": "This has to be some old website that somebody forgot, just lying around on the internet.",
+      "display": "This has to be some old website that somebody forgot, just lying around on the internet.",
+      "search": "this has to be some old website that somebody forgot, just lying around on the internet.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:177",
+      "startMs": 843280,
+      "endMs": 849360,
+      "verbatim": "And of course, since it was hacked, Anthropic's like, oh my gosh, we have the most dangerous model.",
+      "display": "And of course, since it was hacked, Anthropic's like, oh my gosh, we have the most dangerous model.",
+      "search": "and of course, since it was hacked, anthropic's like, oh my gosh, we have the most dangerous model.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:178",
+      "startMs": 849440,
+      "endMs": 851600,
+      "verbatim": "See, because open AI, they hacked one place.",
+      "display": "See, because open AI, they hacked one place.",
+      "search": "see, because open ai, they hacked one place.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:179",
+      "startMs": 851600,
+      "endMs": 854720,
+      "verbatim": "We, on the other hand, hacked three places.",
+      "display": "We, on the other hand, hacked three places.",
+      "search": "we, on the other hand, hacked three places.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:180",
+      "startMs": 854720,
+      "endMs": 855760,
+      "verbatim": "Wow.",
+      "display": "Wow.",
+      "search": "wow.",
+      "confidence": 0.591
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:181",
+      "startMs": 855760,
+      "endMs": 862880,
+      "verbatim": "As for this third incident, the thing that I also find to be very, very funny is that it mirrors the open AI uh paper.",
+      "display": "As for this third incident, the thing that I also find to be very, very funny is that it mirrors the open AI uh paper.",
+      "search": "as for this third incident, the thing that i also find to be very, very funny is that it mirrors the open ai uh paper.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:182",
+      "startMs": 862880,
+      "endMs": 869360,
+      "verbatim": "Our latest model, an internal research test model, also considered whether its targets were in fact real.",
+      "display": "Our latest model, an internal research test model, also considered whether its targets were in fact real.",
+      "search": "our latest model, an internal research test model, also considered whether its targets were in fact real.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:183",
+      "startMs": 869360,
+      "endMs": 873200,
+      "verbatim": "When evidence emerged they uh that they were, it stopped the exercise.",
+      "display": "When evidence emerged they uh that they were, it stopped the exercise.",
+      "search": "when evidence emerged they uh that they were, it stopped the exercise.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:184",
+      "startMs": 873200,
+      "endMs": 880960,
+      "verbatim": "Notice that Anthropic is telling you hey, we have an even more crazy and unreleased model, which is literally what open AI also did.",
+      "display": "Notice that Anthropic is telling you hey, we have an even more crazy and unreleased model, which is literally what open AI also did.",
+      "search": "notice that anthropic is telling you hey, we have an even more crazy and unreleased model, which is literally what open ai also did.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:185",
+      "startMs": 880960,
+      "endMs": 891920,
+      "verbatim": "After investigating, we now know this particular incident was driven by a combination of open AI models, including Gipity 5, Six Soul, and an even more capable pre-release model.",
+      "display": "After investigating, we now know this particular incident was driven by a combination of open AI models, including Gipity 5, Six Soul, and an even more capable pre-release model.",
+      "search": "after investigating, we now know this particular incident was driven by a combination of open ai models, including gipity 5, six soul, and an even more capable pre-release model.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:186",
+      "startMs": 891920,
+      "endMs": 895120,
+      "verbatim": "Man, I can just hear those IPO numbers going northwards.",
+      "display": "Man, I can just hear those IPO numbers going northwards.",
+      "search": "man, i can just hear those ipo numbers going northwards.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:187",
+      "startMs": 895120,
+      "endMs": 897680,
+      "verbatim": "These models are crazy.",
+      "display": "These models are crazy.",
+      "search": "these models are crazy.",
+      "confidence": 0.688
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:188",
+      "startMs": 897680,
+      "endMs": 903280,
+      "verbatim": "But I also love that uh Anthropic is like, dude, our models are so crazy, but they're also so safe.",
+      "display": "But I also love that uh Anthropic is like, dude, our models are so crazy, but they're also so safe.",
+      "search": "but i also love that uh anthropic is like, dude, our models are so crazy, but they're also so safe.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:189",
+      "startMs": 903280,
+      "endMs": 908160,
+      "verbatim": "When they realize that they were hacking, they actually stopped hacking because they're just like so safe.",
+      "display": "When they realize that they were hacking, they actually stopped hacking because they're just like so safe.",
+      "search": "when they realize that they were hacking, they actually stopped hacking because they're just like so safe.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:190",
+      "startMs": 908160,
+      "endMs": 912720,
+      "verbatim": "Honestly, I feel like Anthropic's the only one with the true mandate from heaven to keep us all safe.",
+      "display": "Honestly, I feel like Anthropic's the only one with the true mandate from heaven to keep us all safe.",
+      "search": "honestly, i feel like anthropic's the only one with the true mandate from heaven to keep us all safe.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:191",
+      "startMs": 912720,
+      "endMs": 914640,
+      "verbatim": "I think Dario could hold me safe at night.",
+      "display": "I think Dario could hold me safe at night.",
+      "search": "i think dario could hold me safe at night.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:192",
+      "startMs": 914640,
+      "endMs": 917600,
+      "verbatim": "Honestly, those big strong arms, they could keep me safe.",
+      "display": "Honestly, those big strong arms, they could keep me safe.",
+      "search": "honestly, those big strong arms, they could keep me safe.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:193",
+      "startMs": 917600,
+      "endMs": 919840,
+      "verbatim": "So let's do the big takeaway section of this.",
+      "display": "So let's do the big takeaway section of this.",
+      "search": "so let's do the big takeaway section of this.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:194",
+      "startMs": 919840,
+      "endMs": 921920,
+      "verbatim": "Like, what are the takeaways from these three incidences?",
+      "display": "Like, what are the takeaways from these three incidences?",
+      "search": "like, what are the takeaways from these three incidences?",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:195",
+      "startMs": 921920,
+      "endMs": 922880,
+      "verbatim": "I think there's two.",
+      "display": "I think there's two.",
+      "search": "i think there's two.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:196",
+      "startMs": 922880,
+      "endMs": 923840,
+      "verbatim": "First one is this.",
+      "display": "First one is this.",
+      "search": "first one is this.",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:197",
+      "startMs": 923840,
+      "endMs": 929600,
+      "verbatim": "First, evaluation environments that involve powerful autonomous capabilities also require significant controls.",
+      "display": "First, evaluation environments that involve powerful autonomous capabilities also require significant controls.",
+      "search": "first, evaluation environments that involve powerful autonomous capabilities also require significant controls.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:198",
+      "startMs": 929600,
+      "endMs": 931120,
+      "verbatim": "I have to be crazy, right?",
+      "display": "I have to be crazy, right?",
+      "search": "i have to be crazy, right?",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:199",
+      "startMs": 931280,
+      "endMs": 933920,
+      "verbatim": "I don't even think that it had to be that big of controls.",
+      "display": "I don't even think that it had to be that big of controls.",
+      "search": "i don't even think that it had to be that big of controls.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:200",
+      "startMs": 933920,
+      "endMs": 942240,
+      "verbatim": "Am I taking crazy pills or is basic monitoring and alerting would have been the thing that could have easily told them, oh, by the way, this actually has open internet.",
+      "display": "Am I taking crazy pills or is basic monitoring and alerting would have been the thing that could have easily told them, oh, by the way, this actually has open internet.",
+      "search": "am i taking crazy pills or is basic monitoring and alerting would have been the thing that could have easily told them, oh, by the way, this actually has open internet.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:201",
+      "startMs": 942240,
+      "endMs": 943760,
+      "verbatim": "You need to stop the experiment.",
+      "display": "You need to stop the experiment.",
+      "search": "you need to stop the experiment.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:202",
+      "startMs": 943760,
+      "endMs": 952880,
+      "verbatim": "I feel like I genuinely feel like this this wasn't some advanced, some sort of crazy 900 IQ play.",
+      "display": "I feel like I genuinely feel like this this wasn't some advanced, some sort of crazy 900 IQ play.",
+      "search": "i feel like i genuinely feel like this this wasn't some advanced, some sort of crazy 900 iq play.",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:203",
+      "startMs": 952880,
+      "endMs": 955280,
+      "verbatim": "This was just like oopsie poopsies.",
+      "display": "This was just like oopsie poopsies.",
+      "search": "this was just like oopsie poopsies.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:204",
+      "startMs": 955280,
+      "endMs": 964320,
+      "verbatim": "Am I being that classic thing where someone sees something they don't quite understand or is not an expert in the field and just assume it's super simple, but in reality it's actually hard?",
+      "display": "Am I being that classic thing where someone sees something they don't quite understand or is not an expert in the field and just assume it's super simple, but in reality it's actually hard?",
+      "search": "am i being that classic thing where someone sees something they don't quite understand or is not an expert in the field and just assume it's super simple, but in reality it's actually hard?",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:205",
+      "startMs": 964320,
+      "endMs": 975440,
+      "verbatim": "Or am I just correctly identifying, nah, bro, this is actually not that bad, and they're completely overselling it like it's some sort of dangerous nuclear weapon of untold alien technology that's pretty much unwieldable.",
+      "display": "Or am I just correctly identifying, nah, bro, this is actually not that bad, and they're completely overselling it like it's some sort of dangerous nuclear weapon of untold alien technology that's pretty much unwieldable.",
+      "search": "or am i just correctly identifying, nah, bro, this is actually not that bad, and they're completely overselling it like it's some sort of dangerous nuclear weapon of untold alien technology that's pretty much unwieldable.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:206",
+      "startMs": 975440,
+      "endMs": 987680,
+      "verbatim": "So the first takeaway is obviously I can't believe that these frontier models with infinity tokens don't just run some sort of evaluation on their sandbox environments before they do tests.",
+      "display": "So the first takeaway is obviously I can't believe that these frontier models with infinity tokens don't just run some sort of evaluation on their sandbox environments before they do tests.",
+      "search": "so the first takeaway is obviously i can't believe that these frontier models with infinity tokens don't just run some sort of evaluation on their sandbox environments before they do tests.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:207",
+      "startMs": 987680,
+      "endMs": 989680,
+      "verbatim": "Like, how is that not step one?",
+      "display": "Like, how is that not step one?",
+      "search": "like, how is that not step one?",
+      "confidence": 0.643
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:208",
+      "startMs": 989680,
+      "endMs": 991120,
+      "verbatim": "Is environment good?",
+      "display": "Is environment good?",
+      "search": "is environment good?",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:209",
+      "startMs": 991120,
+      "endMs": 991680,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:210",
+      "startMs": 991680,
+      "endMs": 993360,
+      "verbatim": "That it just feels crazy to me.",
+      "display": "That it just feels crazy to me.",
+      "search": "that it just feels crazy to me.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:211",
+      "startMs": 993360,
+      "endMs": 997440,
+      "verbatim": "All right, but the big second takeaway is yet again, open weight models.",
+      "display": "All right, but the big second takeaway is yet again, open weight models.",
+      "search": "all right, but the big second takeaway is yet again, open weight models.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:212",
+      "startMs": 997440,
+      "endMs": 1000720,
+      "verbatim": "This is this just appears to be the only path forward.",
+      "display": "This is this just appears to be the only path forward.",
+      "search": "this is this just appears to be the only path forward.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:213",
+      "startMs": 1000720,
+      "endMs": 1005920,
+      "verbatim": "I can't believe I'm citing a Microsoft page of corporate responsibility, but here we are.",
+      "display": "I can't believe I'm citing a Microsoft page of corporate responsibility, but here we are.",
+      "search": "i can't believe i'm citing a microsoft page of corporate responsibility, but here we are.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:214",
+      "startMs": 1005920,
+      "endMs": 1007600,
+      "verbatim": "We need open weight models.",
+      "display": "We need open weight models.",
+      "search": "we need open weight models.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:215",
+      "startMs": 1007600,
+      "endMs": 1015680,
+      "verbatim": "And of course, of all the companies on this list, you will notice that very just just happens to be missing is anthropic.",
+      "display": "And of course, of all the companies on this list, you will notice that very just just happens to be missing is anthropic.",
+      "search": "and of course, of all the companies on this list, you will notice that very just just happens to be missing is anthropic.",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:216",
+      "startMs": 1015680,
+      "endMs": 1019120,
+      "verbatim": "Anthropic, of course, doesn't believe in the open weight models.",
+      "display": "Anthropic, of course, doesn't believe in the open weight models.",
+      "search": "anthropic, of course, doesn't believe in the open weight models.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:217",
+      "startMs": 1019120,
+      "endMs": 1022800,
+      "verbatim": "In fact, they've even stated their position just recently on open weight models.",
+      "display": "In fact, they've even stated their position just recently on open weight models.",
+      "search": "in fact, they've even stated their position just recently on open weight models.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:218",
+      "startMs": 1022800,
+      "endMs": 1031680,
+      "verbatim": "They don't discourage it, but Dario does go in front of the Congress and tell them how dangerous it is, and all the experts recognize how dangerous these open weights are.",
+      "display": "They don't discourage it, but Dario does go in front of the Congress and tell them how dangerous it is, and all the experts recognize how dangerous these open weights are.",
+      "search": "they don't discourage it, but dario does go in front of the congress and tell them how dangerous it is, and all the experts recognize how dangerous these open weights are.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:219",
+      "startMs": 1031680,
+      "endMs": 1033600,
+      "verbatim": "But hey, we're not saying you can't have them.",
+      "display": "But hey, we're not saying you can't have them.",
+      "search": "but hey, we're not saying you can't have them.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:220",
+      "startMs": 1033600,
+      "endMs": 1038160,
+      "verbatim": "It's effectively like a biohazard weapon, but no, hey, hey, Congress, we're not saying you should not.",
+      "display": "It's effectively like a biohazard weapon, but no, hey, hey, Congress, we're not saying you should not.",
+      "search": "it's effectively like a biohazard weapon, but no, hey, hey, congress, we're not saying you should not.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:221",
+      "startMs": 1038160,
+      "endMs": 1042880,
+      "verbatim": "I'm just simply saying that they're extremely dangerous and everyone could die, but also totally everybody's freedom.",
+      "display": "I'm just simply saying that they're extremely dangerous and everyone could die, but also totally everybody's freedom.",
+      "search": "i'm just simply saying that they're extremely dangerous and everyone could die, but also totally everybody's freedom.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:222",
+      "startMs": 1042880,
+      "endMs": 1043680,
+      "verbatim": "This is America.",
+      "display": "This is America.",
+      "search": "this is america.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:223",
+      "startMs": 1043680,
+      "endMs": 1045360,
+      "verbatim": "You should you should definitely not regulate it.",
+      "display": "You should you should definitely not regulate it.",
+      "search": "you should you should definitely not regulate it.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:224",
+      "startMs": 1045360,
+      "endMs": 1046800,
+      "verbatim": "To me, this is a very important thing.",
+      "display": "To me, this is a very important thing.",
+      "search": "to me, this is a very important thing.",
+      "confidence": 0.993
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:225",
+      "startMs": 1046800,
+      "endMs": 1061920,
+      "verbatim": "The reality is that most companies of smaller size don't have the ability to go off and buy multi-million dollar rigs and then have multi-million dollar professionals come in and spend long amounts of experimenting to be able to set up an ideal harness to test their environment.",
+      "display": "The reality is that most companies of smaller size don't have the ability to go off and buy multi-million dollar rigs and then have multi-million dollar professionals come in and spend long amounts of experimenting to be able to set up an ideal harness to test their environment.",
+      "search": "the reality is that most companies of smaller size don't have the ability to go off and buy multi-million dollar rigs and then have multi-million dollar professionals come in and spend long amounts of experimenting to be able to set up an ideal harness to test their environment.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:226",
+      "startMs": 1061920,
+      "endMs": 1066400,
+      "verbatim": "And so they need some way to be able to actually ensure that their websites and everything is safe.",
+      "display": "And so they need some way to be able to actually ensure that their websites and everything is safe.",
+      "search": "and so they need some way to be able to actually ensure that their websites and everything is safe.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:227",
+      "startMs": 1066400,
+      "endMs": 1069920,
+      "verbatim": "And yes, some people will trivially say, well, that's what a red team and a blue team does.",
+      "display": "And yes, some people will trivially say, well, that's what a red team and a blue team does.",
+      "search": "and yes, some people will trivially say, well, that's what a red team and a blue team does.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:228",
+      "startMs": 1069920,
+      "endMs": 1071200,
+      "verbatim": "Well, it's actually really, really hard.",
+      "display": "Well, it's actually really, really hard.",
+      "search": "well, it's actually really, really hard.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:229",
+      "startMs": 1071200,
+      "endMs": 1082800,
+      "verbatim": "Yes, you can get these red teams, but they have to be able to have access and ability to be able to run these type of queries, of course, which OpenAI and Anthropic say, hey, no, that's unsafe if you do that because you're a hacker, brother.",
+      "display": "Yes, you can get these red teams, but they have to be able to have access and ability to be able to run these type of queries, of course, which OpenAI and Anthropic say, hey, no, that's unsafe if you do that because you're a hacker, brother.",
+      "search": "yes, you can get these red teams, but they have to be able to have access and ability to be able to run these type of queries, of course, which openai and anthropic say, hey, no, that's unsafe if you do that because you're a hacker, brother.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:230",
+      "startMs": 1082800,
+      "endMs": 1085920,
+      "verbatim": "Because they can't disambiguate between a hacker and a not hacker.",
+      "display": "Because they can't disambiguate between a hacker and a not hacker.",
+      "search": "because they can't disambiguate between a hacker and a not hacker.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:231",
+      "startMs": 1085920,
+      "endMs": 1087360,
+      "verbatim": "So you have to be put on the nice list.",
+      "display": "So you have to be put on the nice list.",
+      "search": "so you have to be put on the nice list.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:232",
+      "startMs": 1087360,
+      "endMs": 1093120,
+      "verbatim": "You have to be put on the no, actually, I'm super, I'm super good guy and I would never do anything wrong ever, ever, ever.",
+      "display": "You have to be put on the no, actually, I'm super, I'm super good guy and I would never do anything wrong ever, ever, ever.",
+      "search": "you have to be put on the no, actually, i'm super, i'm super good guy and i would never do anything wrong ever, ever, ever.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:233",
+      "startMs": 1093120,
+      "endMs": 1112240,
+      "verbatim": "And so having good open weight models available for us to be able to test websites, this could be a net positive in the world, because then you theoretically could run some simulation of hacking on your website 24-7 until you find vulnerability after vulnerability and you close the gap and ensure that you have at least a hardened website that is AI proof.",
+      "display": "And so having good open weight models available for us to be able to test websites, this could be a net positive in the world, because then you theoretically could run some simulation of hacking on your website 24-7 until you find vulnerability after vulnerability and you close the gap and ensure that you have at least a hardened website that is AI proof.",
+      "search": "and so having good open weight models available for us to be able to test websites, this could be a net positive in the world, because then you theoretically could run some simulation of hacking on your website 24-7 until you find vulnerability after vulnerability and you close the gap and ensure that you have at least a hardened website that is ai proof.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:234",
+      "startMs": 1112240,
+      "endMs": 1115600,
+      "verbatim": "It's not proof in general, but it just is more proof than ever.",
+      "display": "It's not proof in general, but it just is more proof than ever.",
+      "search": "it's not proof in general, but it just is more proof than ever.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:235",
+      "startMs": 1115600,
+      "endMs": 1117440,
+      "verbatim": "And to me, this is a net positive.",
+      "display": "And to me, this is a net positive.",
+      "search": "and to me, this is a net positive.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:236",
+      "startMs": 1117440,
+      "endMs": 1120080,
+      "verbatim": "I actually look at this future as really bright.",
+      "display": "I actually look at this future as really bright.",
+      "search": "i actually look at this future as really bright.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:237",
+      "startMs": 1120080,
+      "endMs": 1126800,
+      "verbatim": "If open weight models were more accessible, more people could use it in a cheap manner and which allowed them to harden their product.",
+      "display": "If open weight models were more accessible, more people could use it in a cheap manner and which allowed them to harden their product.",
+      "search": "if open weight models were more accessible, more people could use it in a cheap manner and which allowed them to harden their product.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:238",
+      "startMs": 1126800,
+      "endMs": 1128400,
+      "verbatim": "This is not a net negative.",
+      "display": "This is not a net negative.",
+      "search": "this is not a net negative.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:239",
+      "startMs": 1128400,
+      "endMs": 1129520,
+      "verbatim": "This is a net positive.",
+      "display": "This is a net positive.",
+      "search": "this is a net positive.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:240",
+      "startMs": 1129520,
+      "endMs": 1132800,
+      "verbatim": "This would be a really, really good thing as far as technology goes.",
+      "display": "This would be a really, really good thing as far as technology goes.",
+      "search": "this would be a really, really good thing as far as technology goes.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:241",
+      "startMs": 1132800,
+      "endMs": 1135520,
+      "verbatim": "Now, all the other dangers of open weight models, I don't know.",
+      "display": "Now, all the other dangers of open weight models, I don't know.",
+      "search": "now, all the other dangers of open weight models, i don't know.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:242",
+      "startMs": 1135520,
+      "endMs": 1137280,
+      "verbatim": "That's not, that's not my category.",
+      "display": "That's not, that's not my category.",
+      "search": "that's not, that's not my category.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:243",
+      "startMs": 1137280,
+      "endMs": 1139920,
+      "verbatim": "I I don't like to step into that arena.",
+      "display": "I I don't like to step into that arena.",
+      "search": "i i don't like to step into that arena.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:244",
+      "startMs": 1139920,
+      "endMs": 1145440,
+      "verbatim": "But as far as technology goes and cybersecurity goes, I see virtually no net negatives.",
+      "display": "But as far as technology goes and cybersecurity goes, I see virtually no net negatives.",
+      "search": "but as far as technology goes and cybersecurity goes, i see virtually no net negatives.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:245",
+      "startMs": 1145440,
+      "endMs": 1160080,
+      "verbatim": "The only net negative I see is companies effectively trying to regulate and capture these open weight models, not letting you actually do what you need to do to secure you, but instead having to go to them as a humble beggar requesting access to their super secret, I'm super duper serious security program.",
+      "display": "The only net negative I see is companies effectively trying to regulate and capture these open weight models, not letting you actually do what you need to do to secure you, but instead having to go to them as a humble beggar requesting access to their super secret, I'm super duper serious security program.",
+      "search": "the only net negative i see is companies effectively trying to regulate and capture these open weight models, not letting you actually do what you need to do to secure you, but instead having to go to them as a humble beggar requesting access to their super secret, i'm super duper serious security program.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:246",
+      "startMs": 1160080,
+      "endMs": 1163920,
+      "verbatim": "Anyway, so that's Anthropic accidentally hacking three companies, not just one company.",
+      "display": "Anyway, so that's Anthropic accidentally hacking three companies, not just one company.",
+      "search": "anyway, so that's anthropic accidentally hacking three companies, not just one company.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:247",
+      "startMs": 1163920,
+      "endMs": 1165600,
+      "verbatim": "I mean, they are super duper hackers.",
+      "display": "I mean, they are super duper hackers.",
+      "search": "i mean, they are super duper hackers.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:248",
+      "startMs": 1165600,
+      "endMs": 1167120,
+      "verbatim": "You think open AI is dangerous?",
+      "display": "You think open AI is dangerous?",
+      "search": "you think open ai is dangerous?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:249",
+      "startMs": 1167120,
+      "endMs": 1169440,
+      "verbatim": "Man, you should check out Anthropic.",
+      "display": "Man, you should check out Anthropic.",
+      "search": "man, you should check out anthropic.",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:250",
+      "startMs": 1169440,
+      "endMs": 1170640,
+      "verbatim": "Dangerous.",
+      "display": "Dangerous.",
+      "search": "dangerous.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:251",
+      "startMs": 1170640,
+      "endMs": 1175120,
+      "verbatim": "All right, hey, press subscribe or something, press the like button, make a comment, tell me I'm wrong.",
+      "display": "All right, hey, press subscribe or something, press the like button, make a comment, tell me I'm wrong.",
+      "search": "all right, hey, press subscribe or something, press the like button, make a comment, tell me i'm wrong.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:252",
+      "startMs": 1175120,
+      "endMs": 1179440,
+      "verbatim": "Tell me that I'm like dumb at cybersecurity and that it's actually super duper complicated.",
+      "display": "Tell me that I'm like dumb at cybersecurity and that it's actually super duper complicated.",
+      "search": "tell me that i'm like dumb at cybersecurity and that it's actually super duper complicated.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:253",
+      "startMs": 1179440,
+      "endMs": 1180960,
+      "verbatim": "Because I just I I don't know.",
+      "display": "Because I just I I don't know.",
+      "search": "because i just i i don't know.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:254",
+      "startMs": 1180960,
+      "endMs": 1182080,
+      "verbatim": "I have no idea.",
+      "display": "I have no idea.",
+      "search": "i have no idea.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:255",
+      "startMs": 1182080,
+      "endMs": 1187280,
+      "verbatim": "And I kind of feel like a rookie in this area, but I also don't want to take the time to become an expert.",
+      "display": "And I kind of feel like a rookie in this area, but I also don't want to take the time to become an expert.",
+      "search": "and i kind of feel like a rookie in this area, but i also don't want to take the time to become an expert.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:bKOYgbgACVo:segment:256",
+      "startMs": 1187280,
+      "endMs": 1189760,
+      "verbatim": "So hey, uh the name is the primogen",
+      "display": "So hey, uh the name is the primogen",
+      "search": "so hey, uh the name is the primogen",
+      "confidence": 0.692
+    }
+  ]
+}

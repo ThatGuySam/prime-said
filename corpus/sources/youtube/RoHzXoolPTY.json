@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:RoHzXoolPTY",
+  "platform": "youtube",
+  "platformId": "RoHzXoolPTY",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "No Slop Allowed",
+  "description": "Ship with confidence. Try Sentry: https://trm.sh/sentry\n\nTopics Covered:\n\n- Codeberg's Vibe Coding Ban\n\nSources:\n\n- https://codeberg.org/Codeberg/org/pulls/1253/files\n- https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=RoHzXoolPTY",
+  "publishedAt": "2026-07-29T13:00:21.000Z",
+  "durationMs": 793000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:17:03.764Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:17:03.764Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:Om0ojoKO6sQ",
+  "platform": "youtube",
+  "platformId": "Om0ojoKO6sQ",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "You won't believe how they got hacked",
+  "description": "PlanetScale is the fastest and most reliable way to run Postgres and MySQL in the cloud. Combined with sharding, branching, and Query Insights, you'll spend less time fighting your database and more time shipping. Try it at https://trm.sh/planetscale\n\nTopics Covered:\n\n- OpenAI hacked Hugging Face\n\nSources:\n\n- https://huggingface.co/blog/security-incident-july-2026\n- https://x.com/ClementDelangue/status/2079670308156645882\n- https://openai.com/index/hugging-face-model-evaluation-security-incident/\n- https://arxiv.org/abs/2605.11086\n- https://x.com/theonejvo/article/2080324091597492252\n- http://x.com/ClementDelangue/status/2079913058554585089\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=Om0ojoKO6sQ",
+  "publishedAt": "2026-07-27T13:00:07.000Z",
+  "durationMs": 802000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:19:21.548Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:19:21.548Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:xNcrfveKlDU",
+  "platform": "youtube",
+  "platformId": "xNcrfveKlDU",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "10% of the world computers were hacked",
+  "description": "More Terminal over here:\nhttps://www.youtube.com/@TerminalDotShop\n\nSources:\n\n- https://collections.lib.utah.edu/details?id=702918\n- https://spaf.cerias.purdue.edu/tech-reps/823.pdf?pdf_direct=1\n- http://www.technovelgy.com/Ct/content.asp?Bnum=190\n- https://github.com/agiacalone/morris-worm-malware\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=xNcrfveKlDU",
+  "publishedAt": "2026-08-07T13:00:22.000Z",
+  "durationMs": 1034000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:01:22.841Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:01:22.841Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

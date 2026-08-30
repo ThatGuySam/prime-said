@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:LmXU6SEH3Ks",
+  "platform": "youtube",
+  "platformId": "LmXU6SEH3Ks",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Stop Being Tricked",
+  "description": "Don’t let bad code get merged without reviewing (hopefully not by merge cop!). Check out  CodeRabbit at https://trm.sh/coderabbit\n\nSources:\n\n- https://x.com/mattshumer_/status/2081054356405731740\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=LmXU6SEH3Ks",
+  "publishedAt": "2026-07-31T13:00:13.000Z",
+  "durationMs": 656000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:14:58.896Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:14:58.896Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

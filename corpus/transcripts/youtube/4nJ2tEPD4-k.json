@@ -1,0 +1,1697 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_d97ad94f815f881152ead954",
+  "sourceId": "youtube:4nJ2tEPD4-k",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:06:41.217Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:1",
+      "startMs": 160,
+      "endMs": 11600,
+      "verbatim": "So I was, you know, surfing on the old Twitters, and I saw this uh tweet said wrote a practical introduction to SIM D using real examples from Ghosty, and I thought, hey, that's pretty cool.",
+      "display": "So I was, you know, surfing on the old Twitters, and I saw this uh tweet said wrote a practical introduction to SIM D using real examples from Ghosty, and I thought, hey, that's pretty cool.",
+      "search": "so i was, you know, surfing on the old twitters, and i saw this uh tweet said wrote a practical introduction to sim d using real examples from ghosty, and i thought, hey, that's pretty cool.",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:2",
+      "startMs": 11600,
+      "endMs": 17840,
+      "verbatim": "But here's the thing is that uh often my projects I don't really feel like need simd anywhere.",
+      "display": "But here's the thing is that uh often my projects I don't really feel like need simd anywhere.",
+      "search": "but here's the thing is that uh often my projects i don't really feel like need simd anywhere.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:3",
+      "startMs": 17840,
+      "endMs": 25520,
+      "verbatim": "In fact, I took a flame graph of the game I'm making, and only 0.83% of the entire time I'm actually in the update function.",
+      "display": "In fact, I took a flame graph of the game I'm making, and only 0.83% of the entire time I'm actually in the update function.",
+      "search": "in fact, i took a flame graph of the game i'm making, and only 0.83% of the entire time i'm actually in the update function.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:4",
+      "startMs": 25520,
+      "endMs": 30560,
+      "verbatim": "I don't really feel like I have a huge need, you know, to learn the old SIMDs.",
+      "display": "I don't really feel like I have a huge need, you know, to learn the old SIMDs.",
+      "search": "i don't really feel like i have a huge need, you know, to learn the old simds.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:5",
+      "startMs": 30560,
+      "endMs": 31200,
+      "verbatim": "Oh, whatever.",
+      "display": "Oh, whatever.",
+      "search": "oh, whatever.",
+      "confidence": 0.666
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:6",
+      "startMs": 31200,
+      "endMs": 32960,
+      "verbatim": "Hey, cool post though.",
+      "display": "Hey, cool post though.",
+      "search": "hey, cool post though.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:7",
+      "startMs": 32960,
+      "endMs": 34880,
+      "verbatim": "But then the next day, this got posted.",
+      "display": "But then the next day, this got posted.",
+      "search": "but then the next day, this got posted.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:8",
+      "startMs": 34880,
+      "endMs": 41920,
+      "verbatim": "My SIMD post was on Hacker News, and the general hostility towards understanding how computers work and owning your own outcomes is really depressing.",
+      "display": "My SIMD post was on Hacker News, and the general hostility towards understanding how computers work and owning your own outcomes is really depressing.",
+      "search": "my simd post was on hacker news, and the general hostility towards understanding how computers work and owning your own outcomes is really depressing.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:9",
+      "startMs": 41920,
+      "endMs": 46960,
+      "verbatim": "A large amount of people seem to simply have the attitude that they hope someone else will pay their bills for them.",
+      "display": "A large amount of people seem to simply have the attitude that they hope someone else will pay their bills for them.",
+      "search": "a large amount of people seem to simply have the attitude that they hope someone else will pay their bills for them.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:10",
+      "startMs": 46960,
+      "endMs": 48880,
+      "verbatim": "It can't be that bad, right?",
+      "display": "It can't be that bad, right?",
+      "search": "it can't be that bad, right?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:11",
+      "startMs": 48880,
+      "endMs": 53360,
+      "verbatim": "The vast majority of developers have zero need for learning simd.",
+      "display": "The vast majority of developers have zero need for learning simd.",
+      "search": "the vast majority of developers have zero need for learning simd.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:12",
+      "startMs": 53360,
+      "endMs": 57440,
+      "verbatim": "Why mislead them and make them feel like to be a real developer?",
+      "display": "Why mislead them and make them feel like to be a real developer?",
+      "search": "why mislead them and make them feel like to be a real developer?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:13",
+      "startMs": 57440,
+      "endMs": 58720,
+      "verbatim": "You have to know it.",
+      "display": "You have to know it.",
+      "search": "you have to know it.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:14",
+      "startMs": 58960,
+      "endMs": 60640,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:15",
+      "startMs": 60640,
+      "endMs": 66560,
+      "verbatim": "So, an article about SIM D is making people feel like, what am I reading?",
+      "display": "So, an article about SIM D is making people feel like, what am I reading?",
+      "search": "so, an article about sim d is making people feel like, what am i reading?",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:16",
+      "startMs": 66560,
+      "endMs": 75120,
+      "verbatim": "So obviously at this point I had to go and actually learn SIMD because you know, whether you like this or not, I've never actually used SIMD in any sort of practical use case.",
+      "display": "So obviously at this point I had to go and actually learn SIMD because you know, whether you like this or not, I've never actually used SIMD in any sort of practical use case.",
+      "search": "so obviously at this point i had to go and actually learn simd because you know, whether you like this or not, i've never actually used simd in any sort of practical use case.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:17",
+      "startMs": 75120,
+      "endMs": 76560,
+      "verbatim": "I've understood what it was.",
+      "display": "I've understood what it was.",
+      "search": "i've understood what it was.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:18",
+      "startMs": 76560,
+      "endMs": 79760,
+      "verbatim": "I've called functions that have been SIMD'd themselves.",
+      "display": "I've called functions that have been SIMD'd themselves.",
+      "search": "i've called functions that have been simd'd themselves.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:19",
+      "startMs": 79760,
+      "endMs": 82880,
+      "verbatim": "I have just never personally hand-wrote anything to do with it.",
+      "display": "I have just never personally hand-wrote anything to do with it.",
+      "search": "i have just never personally hand-wrote anything to do with it.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:20",
+      "startMs": 82880,
+      "endMs": 89280,
+      "verbatim": "So I thought, hey, given the fact that Hacker News hates it, I probably need to give this a shot and learn about it.",
+      "display": "So I thought, hey, given the fact that Hacker News hates it, I probably need to give this a shot and learn about it.",
+      "search": "so i thought, hey, given the fact that hacker news hates it, i probably need to give this a shot and learn about it.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:21",
+      "startMs": 89280,
+      "endMs": 93520,
+      "verbatim": "So today you're gonna A have to learn about it, but B, we got some hot takes, okay?",
+      "display": "So today you're gonna A have to learn about it, but B, we got some hot takes, okay?",
+      "search": "so today you're gonna a have to learn about it, but b, we got some hot takes, okay?",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:22",
+      "startMs": 93520,
+      "endMs": 96480,
+      "verbatim": "So I gotta talk about this whole thing.",
+      "display": "So I gotta talk about this whole thing.",
+      "search": "so i gotta talk about this whole thing.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:23",
+      "startMs": 96480,
+      "endMs": 98640,
+      "verbatim": "Because honestly, why are you misleading them?",
+      "display": "Because honestly, why are you misleading them?",
+      "search": "because honestly, why are you misleading them?",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:24",
+      "startMs": 98640,
+      "endMs": 99360,
+      "verbatim": "Mitchell.",
+      "display": "Mitchell.",
+      "search": "mitchell.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:25",
+      "startMs": 99360,
+      "endMs": 107680,
+      "verbatim": "Also, uh, just in case anyone's wondering, I'm not gonna make the joke that everybody thinks I'm gonna make involving SimD, okay?",
+      "display": "Also, uh, just in case anyone's wondering, I'm not gonna make the joke that everybody thinks I'm gonna make involving SimD, okay?",
+      "search": "also, uh, just in case anyone's wondering, i'm not gonna make the joke that everybody thinks i'm gonna make involving simd, okay?",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:26",
+      "startMs": 107840,
+      "endMs": 109040,
+      "verbatim": "Not gonna happen.",
+      "display": "Not gonna happen.",
+      "search": "not gonna happen.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:27",
+      "startMs": 109040,
+      "endMs": 111200,
+      "verbatim": "And I'd also like to say thank you to the sponsors.",
+      "display": "And I'd also like to say thank you to the sponsors.",
+      "search": "and i'd also like to say thank you to the sponsors.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:28",
+      "startMs": 111200,
+      "endMs": 113200,
+      "verbatim": "Vibe coders, silence.",
+      "display": "Vibe coders, silence.",
+      "search": "vibe coders, silence.",
+      "confidence": 0.589
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:29",
+      "startMs": 113200,
+      "endMs": 115360,
+      "verbatim": "Someone who's worked in enterprises speaking.",
+      "display": "Someone who's worked in enterprises speaking.",
+      "search": "someone who's worked in enterprises speaking.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:30",
+      "startMs": 115360,
+      "endMs": 118480,
+      "verbatim": "You know, simple OAuth sign-ins not that bad to program.",
+      "display": "You know, simple OAuth sign-ins not that bad to program.",
+      "search": "you know, simple oauth sign-ins not that bad to program.",
+      "confidence": 0.695
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:31",
+      "startMs": 118480,
+      "endMs": 130880,
+      "verbatim": "For real enterprise applications that need single sign-on, pass keys, user management, roles and permission, enterprise readiness, and passwords and recovery, uh, that's a little bit more difficult.",
+      "display": "For real enterprise applications that need single sign-on, pass keys, user management, roles and permission, enterprise readiness, and passwords and recovery, uh, that's a little bit more difficult.",
+      "search": "for real enterprise applications that need single sign-on, pass keys, user management, roles and permission, enterprise readiness, and passwords and recovery, uh, that's a little bit more difficult.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:32",
+      "startMs": 130880,
+      "endMs": 132960,
+      "verbatim": "And that is where work OS comes in.",
+      "display": "And that is where work OS comes in.",
+      "search": "and that is where work os comes in.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:33",
+      "startMs": 132960,
+      "endMs": 139120,
+      "verbatim": "Work OS is trusted by a lot of the top companies OpenAI, Anthropic, Cursor, and a whole lot more.",
+      "display": "Work OS is trusted by a lot of the top companies OpenAI, Anthropic, Cursor, and a whole lot more.",
+      "search": "work os is trusted by a lot of the top companies openai, anthropic, cursor, and a whole lot more.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:34",
+      "startMs": 139120,
+      "endMs": 142240,
+      "verbatim": "But not only that, it's free for your first million users.",
+      "display": "But not only that, it's free for your first million users.",
+      "search": "but not only that, it's free for your first million users.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:35",
+      "startMs": 142240,
+      "endMs": 148160,
+      "verbatim": "So that means for you, that is 999,999 free seats available.",
+      "display": "So that means for you, that is 999,999 free seats available.",
+      "search": "so that means for you, that is 999,999 free seats available.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:36",
+      "startMs": 148160,
+      "endMs": 152560,
+      "verbatim": "Pretty much no matter what back end you have chosen, there is an SDK available for you.",
+      "display": "Pretty much no matter what back end you have chosen, there is an SDK available for you.",
+      "search": "pretty much no matter what back end you have chosen, there is an sdk available for you.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:37",
+      "startMs": 152560,
+      "endMs": 156000,
+      "verbatim": "So go check out WorkOS at workos.com.",
+      "display": "So go check out WorkOS at workos.com.",
+      "search": "so go check out workos at workos.com.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:38",
+      "startMs": 156000,
+      "endMs": 157360,
+      "verbatim": "Links in the description.",
+      "display": "Links in the description.",
+      "search": "links in the description.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:39",
+      "startMs": 157360,
+      "endMs": 160160,
+      "verbatim": "So the article is called Everyone Should Know SimD.",
+      "display": "So the article is called Everyone Should Know SimD.",
+      "search": "so the article is called everyone should know simd.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:40",
+      "startMs": 160240,
+      "endMs": 162800,
+      "verbatim": "Now, obviously, this became the immediate focal point.",
+      "display": "Now, obviously, this became the immediate focal point.",
+      "search": "now, obviously, this became the immediate focal point.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:41",
+      "startMs": 162800,
+      "endMs": 168240,
+      "verbatim": "The fact that he said everyone should know simd, people just got pissed off.",
+      "display": "The fact that he said everyone should know simd, people just got pissed off.",
+      "search": "the fact that he said everyone should know simd, people just got pissed off.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:42",
+      "startMs": 168240,
+      "endMs": 169920,
+      "verbatim": "How dare you say everyone.",
+      "display": "How dare you say everyone.",
+      "search": "how dare you say everyone.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:43",
+      "startMs": 169920,
+      "endMs": 172880,
+      "verbatim": "It's just like, okay, here's a great concept.",
+      "display": "It's just like, okay, here's a great concept.",
+      "search": "it's just like, okay, here's a great concept.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:44",
+      "startMs": 172880,
+      "endMs": 177520,
+      "verbatim": "And honestly, it would be really good the more people know when programming, right?",
+      "display": "And honestly, it would be really good the more people know when programming, right?",
+      "search": "and honestly, it would be really good the more people know when programming, right?",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:45",
+      "startMs": 177520,
+      "endMs": 179760,
+      "verbatim": "I don't think anyone should ever argue that.",
+      "display": "I don't think anyone should ever argue that.",
+      "search": "i don't think anyone should ever argue that.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:46",
+      "startMs": 179760,
+      "endMs": 185520,
+      "verbatim": "Everybody should try and attempt to know as much as possible so they can make the best quality software out there.",
+      "display": "Everybody should try and attempt to know as much as possible so they can make the best quality software out there.",
+      "search": "everybody should try and attempt to know as much as possible so they can make the best quality software out there.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:47",
+      "startMs": 185520,
+      "endMs": 191200,
+      "verbatim": "And so when someone says, hey, everybody should know this, it's like, okay, I I mean, maybe I should know this.",
+      "display": "And so when someone says, hey, everybody should know this, it's like, okay, I I mean, maybe I should know this.",
+      "search": "and so when someone says, hey, everybody should know this, it's like, okay, i i mean, maybe i should know this.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:48",
+      "startMs": 191200,
+      "endMs": 194720,
+      "verbatim": "But instead, people were genuinely upset about that.",
+      "display": "But instead, people were genuinely upset about that.",
+      "search": "but instead, people were genuinely upset about that.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:49",
+      "startMs": 194720,
+      "endMs": 198960,
+      "verbatim": "Good article, but I wouldn't start off with a bold sentence such as SIMD can be simple to understand.",
+      "display": "Good article, but I wouldn't start off with a bold sentence such as SIMD can be simple to understand.",
+      "search": "good article, but i wouldn't start off with a bold sentence such as simd can be simple to understand.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:50",
+      "startMs": 198960,
+      "endMs": 199920,
+      "verbatim": "And there you go.",
+      "display": "And there you go.",
+      "search": "and there you go.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:51",
+      "startMs": 199920,
+      "endMs": 201600,
+      "verbatim": "That's the second big one.",
+      "display": "That's the second big one.",
+      "search": "that's the second big one.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:52",
+      "startMs": 201600,
+      "endMs": 205040,
+      "verbatim": "People hate the fact that he calls it simple.",
+      "display": "People hate the fact that he calls it simple.",
+      "search": "people hate the fact that he calls it simple.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:53",
+      "startMs": 205360,
+      "endMs": 206640,
+      "verbatim": "Just read the article, though.",
+      "display": "Just read the article, though.",
+      "search": "just read the article, though.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:54",
+      "startMs": 206640,
+      "endMs": 208800,
+      "verbatim": "SIMD has a reputation for being complex.",
+      "display": "SIMD has a reputation for being complex.",
+      "search": "simd has a reputation for being complex.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:55",
+      "startMs": 208800,
+      "endMs": 218160,
+      "verbatim": "I've met many good software engineers who dismiss it as something too complex to learn or a niche optimization meant only for the highest performance software, not useful in everyday programming.",
+      "display": "I've met many good software engineers who dismiss it as something too complex to learn or a niche optimization meant only for the highest performance software, not useful in everyday programming.",
+      "search": "i've met many good software engineers who dismiss it as something too complex to learn or a niche optimization meant only for the highest performance software, not useful in everyday programming.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:56",
+      "startMs": 218160,
+      "endMs": 219120,
+      "verbatim": "I think that's wrong.",
+      "display": "I think that's wrong.",
+      "search": "i think that's wrong.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:57",
+      "startMs": 219120,
+      "endMs": 221200,
+      "verbatim": "SIMD can be simple to understand.",
+      "display": "SIMD can be simple to understand.",
+      "search": "simd can be simple to understand.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:58",
+      "startMs": 221200,
+      "endMs": 223600,
+      "verbatim": "And there's there's a lot of versions of that comment.",
+      "display": "And there's there's a lot of versions of that comment.",
+      "search": "and there's there's a lot of versions of that comment.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:59",
+      "startMs": 223600,
+      "endMs": 225040,
+      "verbatim": "It was all over Twitter as well.",
+      "display": "It was all over Twitter as well.",
+      "search": "it was all over twitter as well.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:60",
+      "startMs": 225040,
+      "endMs": 230320,
+      "verbatim": "Like, how could you say that everybody should know something, or how could you say it was easy or simple to understand?",
+      "display": "Like, how could you say that everybody should know something, or how could you say it was easy or simple to understand?",
+      "search": "like, how could you say that everybody should know something, or how could you say it was easy or simple to understand?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:61",
+      "startMs": 230320,
+      "endMs": 231040,
+      "verbatim": "It's complex.",
+      "display": "It's complex.",
+      "search": "it's complex.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:62",
+      "startMs": 231040,
+      "endMs": 238000,
+      "verbatim": "And it's funny because by saying it that way, his first line was in fact kind of made obvious.",
+      "display": "And it's funny because by saying it that way, his first line was in fact kind of made obvious.",
+      "search": "and it's funny because by saying it that way, his first line was in fact kind of made obvious.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:63",
+      "startMs": 238000,
+      "endMs": 242960,
+      "verbatim": "So, me who've who's never really understood what SIM D was, I figured, you know what?",
+      "display": "So, me who've who's never really understood what SIM D was, I figured, you know what?",
+      "search": "so, me who've who's never really understood what sim d was, i figured, you know what?",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:64",
+      "startMs": 242960,
+      "endMs": 245040,
+      "verbatim": "Why don't I learn what SIM D is?",
+      "display": "Why don't I learn what SIM D is?",
+      "search": "why don't i learn what sim d is?",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:65",
+      "startMs": 245040,
+      "endMs": 246240,
+      "verbatim": "Why don't I give it a try?",
+      "display": "Why don't I give it a try?",
+      "search": "why don't i give it a try?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:66",
+      "startMs": 246240,
+      "endMs": 252000,
+      "verbatim": "Come up with the quick problem and see if I can make something disproportionately faster, and then I can judge.",
+      "display": "Come up with the quick problem and see if I can make something disproportionately faster, and then I can judge.",
+      "search": "come up with the quick problem and see if i can make something disproportionately faster, and then i can judge.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:67",
+      "startMs": 252000,
+      "endMs": 253680,
+      "verbatim": "Is SIM D difficult?",
+      "display": "Is SIM D difficult?",
+      "search": "is sim d difficult?",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:68",
+      "startMs": 253680,
+      "endMs": 257120,
+      "verbatim": "Is it some magical beast, or really was that all that bad at all?",
+      "display": "Is it some magical beast, or really was that all that bad at all?",
+      "search": "is it some magical beast, or really was that all that bad at all?",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:69",
+      "startMs": 257120,
+      "endMs": 258640,
+      "verbatim": "Alright, so let's go to the whiteboard.",
+      "display": "Alright, so let's go to the whiteboard.",
+      "search": "alright, so let's go to the whiteboard.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:70",
+      "startMs": 258640,
+      "endMs": 259360,
+      "verbatim": "Oh gosh.",
+      "display": "Oh gosh.",
+      "search": "oh gosh.",
+      "confidence": 0.706
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:71",
+      "startMs": 259360,
+      "endMs": 262960,
+      "verbatim": "Oh, Dario, Dario, stop doing that, Dario.",
+      "display": "Oh, Dario, Dario, stop doing that, Dario.",
+      "search": "oh, dario, dario, stop doing that, dario.",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:72",
+      "startMs": 262960,
+      "endMs": 263840,
+      "verbatim": "Don't do that.",
+      "display": "Don't do that.",
+      "search": "don't do that.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:73",
+      "startMs": 263840,
+      "endMs": 264800,
+      "verbatim": "Okay, here, hold on.",
+      "display": "Okay, here, hold on.",
+      "search": "okay, here, hold on.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:74",
+      "startMs": 264800,
+      "endMs": 266320,
+      "verbatim": "Let's do the wrong one, wrong one.",
+      "display": "Let's do the wrong one, wrong one.",
+      "search": "let's do the wrong one, wrong one.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:75",
+      "startMs": 266320,
+      "endMs": 268480,
+      "verbatim": "So I thought, what could be a good SIM D project?",
+      "display": "So I thought, what could be a good SIM D project?",
+      "search": "so i thought, what could be a good sim d project?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:76",
+      "startMs": 268480,
+      "endMs": 278000,
+      "verbatim": "Well, SIMD, you want to do some action that you need to do over a long for loop, but you have to do like the same comparison a bunch or some same operation over and over again.",
+      "display": "Well, SIMD, you want to do some action that you need to do over a long for loop, but you have to do like the same comparison a bunch or some same operation over and over again.",
+      "search": "well, simd, you want to do some action that you need to do over a long for loop, but you have to do like the same comparison a bunch or some same operation over and over again.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:77",
+      "startMs": 278000,
+      "endMs": 279680,
+      "verbatim": "At least that's what I thought in my head.",
+      "display": "At least that's what I thought in my head.",
+      "search": "at least that's what i thought in my head.",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:78",
+      "startMs": 279680,
+      "endMs": 289200,
+      "verbatim": "So I thought, okay, a good project would probably be I have these long log files that I want to be able to find the individual logs out, and I want to be able to go over this whole list.",
+      "display": "So I thought, okay, a good project would probably be I have these long log files that I want to be able to find the individual logs out, and I want to be able to go over this whole list.",
+      "search": "so i thought, okay, a good project would probably be i have these long log files that i want to be able to find the individual logs out, and i want to be able to go over this whole list.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:79",
+      "startMs": 289200,
+      "endMs": 293040,
+      "verbatim": "And you know, you just generally have to keep doing this over and over and over again.",
+      "display": "And you know, you just generally have to keep doing this over and over and over again.",
+      "search": "and you know, you just generally have to keep doing this over and over and over again.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:80",
+      "startMs": 293040,
+      "endMs": 300400,
+      "verbatim": "And it doesn't really matter how long this line is, it just matters that yes, we just have to do this over and over again up until the no slash end.",
+      "display": "And it doesn't really matter how long this line is, it just matters that yes, we just have to do this over and over again up until the no slash end.",
+      "search": "and it doesn't really matter how long this line is, it just matters that yes, we just have to do this over and over again up until the no slash end.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:81",
+      "startMs": 300400,
+      "endMs": 305120,
+      "verbatim": "And again, I'm not gonna make the joke that everybody thinks I'm gonna make.",
+      "display": "And again, I'm not gonna make the joke that everybody thinks I'm gonna make.",
+      "search": "and again, i'm not gonna make the joke that everybody thinks i'm gonna make.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:82",
+      "startMs": 305120,
+      "endMs": 312080,
+      "verbatim": "So I figured I would just create a program that would find each one of these new lines and be able to parse out this delicious JSON.",
+      "display": "So I figured I would just create a program that would find each one of these new lines and be able to parse out this delicious JSON.",
+      "search": "so i figured i would just create a program that would find each one of these new lines and be able to parse out this delicious json.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:83",
+      "startMs": 312080,
+      "endMs": 319360,
+      "verbatim": "I dropped the actual parsing of JSON, but instead just looked for the new lines because I wanted to see how much faster could I make the new line looking.",
+      "display": "I dropped the actual parsing of JSON, but instead just looked for the new lines because I wanted to see how much faster could I make the new line looking.",
+      "search": "i dropped the actual parsing of json, but instead just looked for the new lines because i wanted to see how much faster could i make the new line looking.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:84",
+      "startMs": 319360,
+      "endMs": 321600,
+      "verbatim": "Next, I actually had to learn what SIMD was.",
+      "display": "Next, I actually had to learn what SIMD was.",
+      "search": "next, i actually had to learn what simd was.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:85",
+      "startMs": 321600,
+      "endMs": 329200,
+      "verbatim": "In the most simple sense, effectively you can operate instead of on a singular value, say X, you operate on a vector, right?",
+      "display": "In the most simple sense, effectively you can operate instead of on a singular value, say X, you operate on a vector, right?",
+      "search": "in the most simple sense, effectively you can operate instead of on a singular value, say x, you operate on a vector, right?",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:86",
+      "startMs": 329200,
+      "endMs": 334880,
+      "verbatim": "So pretend you have a vector of X, Y, Z, you could operate on all of these at once.",
+      "display": "So pretend you have a vector of X, Y, Z, you could operate on all of these at once.",
+      "search": "so pretend you have a vector of x, y, z, you could operate on all of these at once.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:87",
+      "startMs": 334880,
+      "endMs": 339040,
+      "verbatim": "Let's just say you wanted to compare, say, finding a new line.",
+      "display": "Let's just say you wanted to compare, say, finding a new line.",
+      "search": "let's just say you wanted to compare, say, finding a new line.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:88",
+      "startMs": 339040,
+      "endMs": 344160,
+      "verbatim": "Well, what I'd have to do is I'd have to load up a vector with three new lines, kind of like my example.",
+      "display": "Well, what I'd have to do is I'd have to load up a vector with three new lines, kind of like my example.",
+      "search": "well, what i'd have to do is i'd have to load up a vector with three new lines, kind of like my example.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:89",
+      "startMs": 344160,
+      "endMs": 348640,
+      "verbatim": "And then in one single CPU operation, now this is not a single CPU cycle.",
+      "display": "And then in one single CPU operation, now this is not a single CPU cycle.",
+      "search": "and then in one single cpu operation, now this is not a single cpu cycle.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:90",
+      "startMs": 348640,
+      "endMs": 350000,
+      "verbatim": "CPUs are like magic to me.",
+      "display": "CPUs are like magic to me.",
+      "search": "cpus are like magic to me.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:91",
+      "startMs": 350000,
+      "endMs": 352080,
+      "verbatim": "I have no idea what's going on underneath there.",
+      "display": "I have no idea what's going on underneath there.",
+      "search": "i have no idea what's going on underneath there.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:92",
+      "startMs": 352080,
+      "endMs": 354320,
+      "verbatim": "But one, I'm just gonna call it an operation.",
+      "display": "But one, I'm just gonna call it an operation.",
+      "search": "but one, i'm just gonna call it an operation.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:93",
+      "startMs": 354320,
+      "endMs": 365040,
+      "verbatim": "A single operation can compare this vector to this new line, and then it can produce out for you a new vector that's gonna say, hey, this is uh the new lines.",
+      "display": "A single operation can compare this vector to this new line, and then it can produce out for you a new vector that's gonna say, hey, this is uh the new lines.",
+      "search": "a single operation can compare this vector to this new line, and then it can produce out for you a new vector that's gonna say, hey, this is uh the new lines.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:94",
+      "startMs": 365040,
+      "endMs": 369680,
+      "verbatim": "No new line in the first position, there was a new line in the second position, there was no new line in the third position.",
+      "display": "No new line in the first position, there was a new line in the second position, there was no new line in the third position.",
+      "search": "no new line in the first position, there was a new line in the second position, there was no new line in the third position.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:95",
+      "startMs": 369680,
+      "endMs": 373680,
+      "verbatim": "So I can actually take that and go, okay, was there a new line?",
+      "display": "So I can actually take that and go, okay, was there a new line?",
+      "search": "so i can actually take that and go, okay, was there a new line?",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:96",
+      "startMs": 373680,
+      "endMs": 375280,
+      "verbatim": "Oh, there was.",
+      "display": "Oh, there was.",
+      "search": "oh, there was.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:97",
+      "startMs": 375280,
+      "endMs": 380960,
+      "verbatim": "That means I need to find out where the new line was within my vector, and then I can return that.",
+      "display": "That means I need to find out where the new line was within my vector, and then I can return that.",
+      "search": "that means i need to find out where the new line was within my vector, and then i can return that.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:98",
+      "startMs": 380960,
+      "endMs": 385520,
+      "verbatim": "And that's because SIMD literally stands for single instruction, multiple data.",
+      "display": "And that's because SIMD literally stands for single instruction, multiple data.",
+      "search": "and that's because simd literally stands for single instruction, multiple data.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:99",
+      "startMs": 385520,
+      "endMs": 387120,
+      "verbatim": "And you can see that right here.",
+      "display": "And you can see that right here.",
+      "search": "and you can see that right here.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:100",
+      "startMs": 387120,
+      "endMs": 391200,
+      "verbatim": "You can see the fact that I have multiple data and I'm doing a single instruction.",
+      "display": "You can see the fact that I have multiple data and I'm doing a single instruction.",
+      "search": "you can see the fact that i have multiple data and i'm doing a single instruction.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:101",
+      "startMs": 391200,
+      "endMs": 392480,
+      "verbatim": "Are these equal?",
+      "display": "Are these equal?",
+      "search": "are these equal?",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:102",
+      "startMs": 392480,
+      "endMs": 397440,
+      "verbatim": "So I didn't really know how to do that, but I just followed exactly what was inside the blog post.",
+      "display": "So I didn't really know how to do that, but I just followed exactly what was inside the blog post.",
+      "search": "so i didn't really know how to do that, but i just followed exactly what was inside the blog post.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:103",
+      "startMs": 397440,
+      "endMs": 400880,
+      "verbatim": "First, I have to create the constants and initialize any vector stuff.",
+      "display": "First, I have to create the constants and initialize any vector stuff.",
+      "search": "first, i have to create the constants and initialize any vector stuff.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:104",
+      "startMs": 400880,
+      "endMs": 404000,
+      "verbatim": "I have to loop over the input one vector chunk at a time.",
+      "display": "I have to loop over the input one vector chunk at a time.",
+      "search": "i have to loop over the input one vector chunk at a time.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:105",
+      "startMs": 404000,
+      "endMs": 411840,
+      "verbatim": "I perform the comparison, I reduce it down to something that I can actually use, and then I just handle the remaining bits at the very, very end.",
+      "display": "I perform the comparison, I reduce it down to something that I can actually use, and then I just handle the remaining bits at the very, very end.",
+      "search": "i perform the comparison, i reduce it down to something that i can actually use, and then i just handle the remaining bits at the very, very end.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:106",
+      "startMs": 411840,
+      "endMs": 414720,
+      "verbatim": "That actually feels, well, pretty straightforward.",
+      "display": "That actually feels, well, pretty straightforward.",
+      "search": "that actually feels, well, pretty straightforward.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:107",
+      "startMs": 414720,
+      "endMs": 416720,
+      "verbatim": "So this is the naive implementation.",
+      "display": "So this is the naive implementation.",
+      "search": "so this is the naive implementation.",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:108",
+      "startMs": 416720,
+      "endMs": 420080,
+      "verbatim": "This is how I would have implemented it if I did not use SIMD.",
+      "display": "This is how I would have implemented it if I did not use SIMD.",
+      "search": "this is how i would have implemented it if i did not use simd.",
+      "confidence": 0.716
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:109",
+      "startMs": 420080,
+      "endMs": 426400,
+      "verbatim": "I'm gonna go over the entire data starting at some point, and I'm gonna go and just say, hey, are you a new line?",
+      "display": "I'm gonna go over the entire data starting at some point, and I'm gonna go and just say, hey, are you a new line?",
+      "search": "i'm gonna go over the entire data starting at some point, and i'm gonna go and just say, hey, are you a new line?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:110",
+      "startMs": 426400,
+      "endMs": 428000,
+      "verbatim": "If you are, then this is the spot.",
+      "display": "If you are, then this is the spot.",
+      "search": "if you are, then this is the spot.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:111",
+      "startMs": 428000,
+      "endMs": 430960,
+      "verbatim": "Else I say, hey, no new line found.",
+      "display": "Else I say, hey, no new line found.",
+      "search": "else i say, hey, no new line found.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:112",
+      "startMs": 430960,
+      "endMs": 431760,
+      "verbatim": "The end.",
+      "display": "The end.",
+      "search": "the end.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:113",
+      "startMs": 431760,
+      "endMs": 434880,
+      "verbatim": "This is your very classic index of approach.",
+      "display": "This is your very classic index of approach.",
+      "search": "this is your very classic index of approach.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:114",
+      "startMs": 434880,
+      "endMs": 439200,
+      "verbatim": "Then, of course, I just created something to look for all the new lines and just go over all of them.",
+      "display": "Then, of course, I just created something to look for all the new lines and just go over all of them.",
+      "search": "then, of course, i just created something to look for all the new lines and just go over all of them.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:115",
+      "startMs": 439200,
+      "endMs": 441280,
+      "verbatim": "I'm sure there's a better way of testing the code.",
+      "display": "I'm sure there's a better way of testing the code.",
+      "search": "i'm sure there's a better way of testing the code.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:116",
+      "startMs": 441280,
+      "endMs": 442400,
+      "verbatim": "This was good enough for me.",
+      "display": "This was good enough for me.",
+      "search": "this was good enough for me.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:117",
+      "startMs": 442400,
+      "endMs": 447920,
+      "verbatim": "And when I had run the program, as you can see here, it would take about 1.54 seconds.",
+      "display": "And when I had run the program, as you can see here, it would take about 1.54 seconds.",
+      "search": "and when i had run the program, as you can see here, it would take about 1.54 seconds.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:118",
+      "startMs": 447920,
+      "endMs": 449200,
+      "verbatim": "Okay, not that long.",
+      "display": "Okay, not that long.",
+      "search": "okay, not that long.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:119",
+      "startMs": 449200,
+      "endMs": 451600,
+      "verbatim": "And this is the SIMD version.",
+      "display": "And this is the SIMD version.",
+      "search": "and this is the simd version.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:120",
+      "startMs": 451600,
+      "endMs": 452880,
+      "verbatim": "Yes, it is a lot larger.",
+      "display": "Yes, it is a lot larger.",
+      "search": "yes, it is a lot larger.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:121",
+      "startMs": 452880,
+      "endMs": 457200,
+      "verbatim": "It's a little bit more tedious to do, but when you break it down into the five steps, it's actually pretty simple.",
+      "display": "It's a little bit more tedious to do, but when you break it down into the five steps, it's actually pretty simple.",
+      "search": "it's a little bit more tedious to do, but when you break it down into the five steps, it's actually pretty simple.",
+      "confidence": 0.986
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:122",
+      "startMs": 457200,
+      "endMs": 458560,
+      "verbatim": "Step one, the broadcast part.",
+      "display": "Step one, the broadcast part.",
+      "search": "step one, the broadcast part.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:123",
+      "startMs": 458560,
+      "endMs": 461200,
+      "verbatim": "Broadcast just means I need to create that constant.",
+      "display": "Broadcast just means I need to create that constant.",
+      "search": "broadcast just means i need to create that constant.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:124",
+      "startMs": 461200,
+      "endMs": 464000,
+      "verbatim": "Remember how I talked about this new line constant?",
+      "display": "Remember how I talked about this new line constant?",
+      "search": "remember how i talked about this new line constant?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:125",
+      "startMs": 464000,
+      "endMs": 465440,
+      "verbatim": "Well, I do it right here.",
+      "display": "Well, I do it right here.",
+      "search": "well, i do it right here.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:126",
+      "startMs": 465440,
+      "endMs": 470560,
+      "verbatim": "I go, okay, I need to create effectively a byte array that's lanes big.",
+      "display": "I go, okay, I need to create effectively a byte array that's lanes big.",
+      "search": "i go, okay, i need to create effectively a byte array that's lanes big.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:127",
+      "startMs": 470560,
+      "endMs": 474640,
+      "verbatim": "Lanes in this case is how many bytes can I fit in my SIMD operations?",
+      "display": "Lanes in this case is how many bytes can I fit in my SIMD operations?",
+      "search": "lanes in this case is how many bytes can i fit in my simd operations?",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:128",
+      "startMs": 474640,
+      "endMs": 477760,
+      "verbatim": "SIMD turns out to be kind of CPU dependent.",
+      "display": "SIMD turns out to be kind of CPU dependent.",
+      "search": "simd turns out to be kind of cpu dependent.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:129",
+      "startMs": 477760,
+      "endMs": 482960,
+      "verbatim": "My CPU can do 256 bits of SIM D operations.",
+      "display": "My CPU can do 256 bits of SIM D operations.",
+      "search": "my cpu can do 256 bits of sim d operations.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:130",
+      "startMs": 482960,
+      "endMs": 488640,
+      "verbatim": "So I can do effectively 16 of them at a time if they're byte wide, meaning they're eight bits wide.",
+      "display": "So I can do effectively 16 of them at a time if they're byte wide, meaning they're eight bits wide.",
+      "search": "so i can do effectively 16 of them at a time if they're byte wide, meaning they're eight bits wide.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:131",
+      "startMs": 488640,
+      "endMs": 491520,
+      "verbatim": "So this is my little array, 16 8-bit items.",
+      "display": "So this is my little array, 16 8-bit items.",
+      "search": "so this is my little array, 16 8-bit items.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:132",
+      "startMs": 491520,
+      "endMs": 495040,
+      "verbatim": "Then I just simply create 16 new line bytes.",
+      "display": "Then I just simply create 16 new line bytes.",
+      "search": "then i just simply create 16 new line bytes.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:133",
+      "startMs": 495040,
+      "endMs": 497520,
+      "verbatim": "And whatever value that is, I think it's hex A.",
+      "display": "And whatever value that is, I think it's hex A.",
+      "search": "and whatever value that is, i think it's hex a.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:134",
+      "startMs": 497520,
+      "endMs": 498800,
+      "verbatim": "Hex A, new line.",
+      "display": "Hex A, new line.",
+      "search": "hex a, new line.",
+      "confidence": 0.634
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:135",
+      "startMs": 498880,
+      "endMs": 499920,
+      "verbatim": "Okay, I'm a genius.",
+      "display": "Okay, I'm a genius.",
+      "search": "okay, i'm a genius.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:136",
+      "startMs": 499920,
+      "endMs": 502720,
+      "verbatim": "Actual genius of useless information, of course.",
+      "display": "Actual genius of useless information, of course.",
+      "search": "actual genius of useless information, of course.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:137",
+      "startMs": 502720,
+      "endMs": 508080,
+      "verbatim": "Number two, instead of iterating, say one byte at a time, I iterate lanes byte at a time.",
+      "display": "Number two, instead of iterating, say one byte at a time, I iterate lanes byte at a time.",
+      "search": "number two, instead of iterating, say one byte at a time, i iterate lanes byte at a time.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:138",
+      "startMs": 508080,
+      "endMs": 510800,
+      "verbatim": "Lanes, of course, is how big my CIMD operation is.",
+      "display": "Lanes, of course, is how big my CIMD operation is.",
+      "search": "lanes, of course, is how big my cimd operation is.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:139",
+      "startMs": 510800,
+      "endMs": 512640,
+      "verbatim": "In this particular case, it's 16.",
+      "display": "In this particular case, it's 16.",
+      "search": "in this particular case, it's 16.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:140",
+      "startMs": 512640,
+      "endMs": 516720,
+      "verbatim": "So I'm doing 16 bytes at a time instead of one byte at a time.",
+      "display": "So I'm doing 16 bytes at a time instead of one byte at a time.",
+      "search": "so i'm doing 16 bytes at a time instead of one byte at a time.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:141",
+      "startMs": 516720,
+      "endMs": 519600,
+      "verbatim": "From there, I actually just create my little value array.",
+      "display": "From there, I actually just create my little value array.",
+      "search": "from there, i actually just create my little value array.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:142",
+      "startMs": 519600,
+      "endMs": 525120,
+      "verbatim": "I just slice off 16 bytes from my array and go, okay, you are now a sim d vector.",
+      "display": "I just slice off 16 bytes from my array and go, okay, you are now a sim d vector.",
+      "search": "i just slice off 16 bytes from my array and go, okay, you are now a sim d vector.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:143",
+      "startMs": 525120,
+      "endMs": 527520,
+      "verbatim": "From there, I just simply see are these equal?",
+      "display": "From there, I just simply see are these equal?",
+      "search": "from there, i just simply see are these equal?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:144",
+      "startMs": 527520,
+      "endMs": 532400,
+      "verbatim": "I take all my new lines and compare to all my values in like one single operation.",
+      "display": "I take all my new lines and compare to all my values in like one single operation.",
+      "search": "i take all my new lines and compare to all my values in like one single operation.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:145",
+      "startMs": 532400,
+      "endMs": 536320,
+      "verbatim": "Instead of doing that little tight for loop, it's just literally I'm doing 16 operations at once.",
+      "display": "Instead of doing that little tight for loop, it's just literally I'm doing 16 operations at once.",
+      "search": "instead of doing that little tight for loop, it's just literally i'm doing 16 operations at once.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:146",
+      "startMs": 536320,
+      "endMs": 536960,
+      "verbatim": "It's kind of cool.",
+      "display": "It's kind of cool.",
+      "search": "it's kind of cool.",
+      "confidence": 0.986
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:147",
+      "startMs": 536960,
+      "endMs": 540640,
+      "verbatim": "Extract most significant bits just really checks for any values that has a one in it.",
+      "display": "Extract most significant bits just really checks for any values that has a one in it.",
+      "search": "extract most significant bits just really checks for any values that has a one in it.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:148",
+      "startMs": 540640,
+      "endMs": 545760,
+      "verbatim": "Since all my values should equal zero if there's no new lines, if there is a new line, one of them will equal a one.",
+      "display": "Since all my values should equal zero if there's no new lines, if there is a new line, one of them will equal a one.",
+      "search": "since all my values should equal zero if there's no new lines, if there is a new line, one of them will equal a one.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:149",
+      "startMs": 545760,
+      "endMs": 548000,
+      "verbatim": "It will grab out that most significant bit.",
+      "display": "It will grab out that most significant bit.",
+      "search": "it will grab out that most significant bit.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:150",
+      "startMs": 548000,
+      "endMs": 554080,
+      "verbatim": "And by doing a cardinality check, if it's not zero, if they're not all zeros, then I have at least one one.",
+      "display": "And by doing a cardinality check, if it's not zero, if they're not all zeros, then I have at least one one.",
+      "search": "and by doing a cardinality check, if it's not zero, if they're not all zeros, then i have at least one one.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:151",
+      "startMs": 554080,
+      "endMs": 556480,
+      "verbatim": "Then I need to go there and find that one once.",
+      "display": "Then I need to go there and find that one once.",
+      "search": "then i need to go there and find that one once.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:152",
+      "startMs": 556480,
+      "endMs": 560800,
+      "verbatim": "Then I have to manually go through my little SIM D vector and I have to go, okay, which one of you are one?",
+      "display": "Then I have to manually go through my little SIM D vector and I have to go, okay, which one of you are one?",
+      "search": "then i have to manually go through my little sim d vector and i have to go, okay, which one of you are one?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:153",
+      "startMs": 560880,
+      "endMs": 563760,
+      "verbatim": "And then the first one I find, that's where the new line is.",
+      "display": "And then the first one I find, that's where the new line is.",
+      "search": "and then the first one i find, that's where the new line is.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:154",
+      "startMs": 563760,
+      "endMs": 567040,
+      "verbatim": "If I don't find a new line, I just add lanes to the end of end.",
+      "display": "If I don't find a new line, I just add lanes to the end of end.",
+      "search": "if i don't find a new line, i just add lanes to the end of end.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:155",
+      "startMs": 567040,
+      "endMs": 569920,
+      "verbatim": "So I'm just incrementing it 16 at a time.",
+      "display": "So I'm just incrementing it 16 at a time.",
+      "search": "so i'm just incrementing it 16 at a time.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:156",
+      "startMs": 569920,
+      "endMs": 572000,
+      "verbatim": "So at the very end, you have to do this, which is kind of funny.",
+      "display": "So at the very end, you have to do this, which is kind of funny.",
+      "search": "so at the very end, you have to do this, which is kind of funny.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:157",
+      "startMs": 572000,
+      "endMs": 575520,
+      "verbatim": "It's called the scalar tail, which makes a lot of sense if you think about it.",
+      "display": "It's called the scalar tail, which makes a lot of sense if you think about it.",
+      "search": "it's called the scalar tail, which makes a lot of sense if you think about it.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:158",
+      "startMs": 575520,
+      "endMs": 578080,
+      "verbatim": "Let's just say you have seven bytes remaining.",
+      "display": "Let's just say you have seven bytes remaining.",
+      "search": "let's just say you have seven bytes remaining.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:159",
+      "startMs": 578080,
+      "endMs": 582400,
+      "verbatim": "Well, you can't create something that's 16 long from seven bytes.",
+      "display": "Well, you can't create something that's 16 long from seven bytes.",
+      "search": "well, you can't create something that's 16 long from seven bytes.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:160",
+      "startMs": 582400,
+      "endMs": 586640,
+      "verbatim": "Okay, so then instead I have to just manually walk the remaining seven.",
+      "display": "Okay, so then instead I have to just manually walk the remaining seven.",
+      "search": "okay, so then instead i have to just manually walk the remaining seven.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:161",
+      "startMs": 586640,
+      "endMs": 592160,
+      "verbatim": "And by doing it that way, if I simply just run this, you can see it's like massively faster.",
+      "display": "And by doing it that way, if I simply just run this, you can see it's like massively faster.",
+      "search": "and by doing it that way, if i simply just run this, you can see it's like massively faster.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:162",
+      "startMs": 592160,
+      "endMs": 595920,
+      "verbatim": "And so, yes, am I gonna be using SIMD anytime soon?",
+      "display": "And so, yes, am I gonna be using SIMD anytime soon?",
+      "search": "and so, yes, am i gonna be using simd anytime soon?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:163",
+      "startMs": 595920,
+      "endMs": 596800,
+      "verbatim": "Probably not.",
+      "display": "Probably not.",
+      "search": "probably not.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:164",
+      "startMs": 596800,
+      "endMs": 603680,
+      "verbatim": "I have virtually no problems with performance inside the game I'm making, but now I kind of know the shape I need to have.",
+      "display": "I have virtually no problems with performance inside the game I'm making, but now I kind of know the shape I need to have.",
+      "search": "i have virtually no problems with performance inside the game i'm making, but now i kind of know the shape i need to have.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:165",
+      "startMs": 603680,
+      "endMs": 614240,
+      "verbatim": "And now I see why I'm gonna want to use structure of arrays versus array of structures, because there is a huge possibility I could have some mega wins and some future performance optimizations.",
+      "display": "And now I see why I'm gonna want to use structure of arrays versus array of structures, because there is a huge possibility I could have some mega wins and some future performance optimizations.",
+      "search": "and now i see why i'm gonna want to use structure of arrays versus array of structures, because there is a huge possibility i could have some mega wins and some future performance optimizations.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:166",
+      "startMs": 614240,
+      "endMs": 616160,
+      "verbatim": "And honestly, it kind of feels cool.",
+      "display": "And honestly, it kind of feels cool.",
+      "search": "and honestly, it kind of feels cool.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:167",
+      "startMs": 616160,
+      "endMs": 620080,
+      "verbatim": "I have to say, it does feel kind of neat.",
+      "display": "I have to say, it does feel kind of neat.",
+      "search": "i have to say, it does feel kind of neat.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:168",
+      "startMs": 620080,
+      "endMs": 622480,
+      "verbatim": "So should everybody know about SIMD?",
+      "display": "So should everybody know about SIMD?",
+      "search": "so should everybody know about simd?",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:169",
+      "startMs": 622480,
+      "endMs": 623600,
+      "verbatim": "Yeah, why not?",
+      "display": "Yeah, why not?",
+      "search": "yeah, why not?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:170",
+      "startMs": 623600,
+      "endMs": 629440,
+      "verbatim": "It it took me an hour to go really learn everything and program up an example and debug it a little bit.",
+      "display": "It it took me an hour to go really learn everything and program up an example and debug it a little bit.",
+      "search": "it it took me an hour to go really learn everything and program up an example and debug it a little bit.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:171",
+      "startMs": 629440,
+      "endMs": 630480,
+      "verbatim": "Not that bad.",
+      "display": "Not that bad.",
+      "search": "not that bad.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:172",
+      "startMs": 630480,
+      "endMs": 633760,
+      "verbatim": "You can do Chat Chipity can tell you all about what you need to do.",
+      "display": "You can do Chat Chipity can tell you all about what you need to do.",
+      "search": "you can do chat chipity can tell you all about what you need to do.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:173",
+      "startMs": 633760,
+      "endMs": 635200,
+      "verbatim": "It's actually pretty straightforward.",
+      "display": "It's actually pretty straightforward.",
+      "search": "it's actually pretty straightforward.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:174",
+      "startMs": 635200,
+      "endMs": 636960,
+      "verbatim": "You can ask infinity questions.",
+      "display": "You can ask infinity questions.",
+      "search": "you can ask infinity questions.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:175",
+      "startMs": 636960,
+      "endMs": 639680,
+      "verbatim": "At the end of the day, which one would you rather have?",
+      "display": "At the end of the day, which one would you rather have?",
+      "search": "at the end of the day, which one would you rather have?",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:176",
+      "startMs": 639680,
+      "endMs": 652560,
+      "verbatim": "Maybe a little too much knowledge, knowledge that you don't often use or don't need to use, and you just simply kind of disregard it, but you have it kind of floating in the back of your head, like Dykster's shortest algorithm, just floating in the back of my head, okay?",
+      "display": "Maybe a little too much knowledge, knowledge that you don't often use or don't need to use, and you just simply kind of disregard it, but you have it kind of floating in the back of your head, like Dykster's shortest algorithm, just floating in the back of my head, okay?",
+      "search": "maybe a little too much knowledge, knowledge that you don't often use or don't need to use, and you just simply kind of disregard it, but you have it kind of floating in the back of your head, like dykster's shortest algorithm, just floating in the back of my head, okay?",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:177",
+      "startMs": 652560,
+      "endMs": 653520,
+      "verbatim": "Priority cue.",
+      "display": "Priority cue.",
+      "search": "priority cue.",
+      "confidence": 0.591
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:178",
+      "startMs": 653520,
+      "endMs": 655200,
+      "verbatim": "Or would you rather be this guy?",
+      "display": "Or would you rather be this guy?",
+      "search": "or would you rather be this guy?",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:179",
+      "startMs": 655200,
+      "endMs": 658560,
+      "verbatim": "The vast majority of developers have zero need for learning SIMD.",
+      "display": "The vast majority of developers have zero need for learning SIMD.",
+      "search": "the vast majority of developers have zero need for learning simd.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:180",
+      "startMs": 658560,
+      "endMs": 659760,
+      "verbatim": "Why mislead them?",
+      "display": "Why mislead them?",
+      "search": "why mislead them?",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:181",
+      "startMs": 659760,
+      "endMs": 663840,
+      "verbatim": "At the end of the day, I'd rather work with the person that wants to know more.",
+      "display": "At the end of the day, I'd rather work with the person that wants to know more.",
+      "search": "at the end of the day, i'd rather work with the person that wants to know more.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:182",
+      "startMs": 663840,
+      "endMs": 666960,
+      "verbatim": "I'd rather be the person that wants to know more.",
+      "display": "I'd rather be the person that wants to know more.",
+      "search": "i'd rather be the person that wants to know more.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:183",
+      "startMs": 666960,
+      "endMs": 674320,
+      "verbatim": "And if I never use SIMD and knowing this was completely useless throughout my entire life, I'm happy I know it.",
+      "display": "And if I never use SIMD and knowing this was completely useless throughout my entire life, I'm happy I know it.",
+      "search": "and if i never use simd and knowing this was completely useless throughout my entire life, i'm happy i know it.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:184",
+      "startMs": 674320,
+      "endMs": 681360,
+      "verbatim": "The name is Did you know that Go 1.6 right here, as you can see right here, new experimental SIMD Arch SIMD package?",
+      "display": "The name is Did you know that Go 1.6 right here, as you can see right here, new experimental SIMD Arch SIMD package?",
+      "search": "the name is did you know that go 1.6 right here, as you can see right here, new experimental simd arch simd package?",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:185",
+      "startMs": 681360,
+      "endMs": 684480,
+      "verbatim": "Did you know that Go even Go it now has SIMD support?",
+      "display": "Did you know that Go even Go it now has SIMD support?",
+      "search": "did you know that go even go it now has simd support?",
+      "confidence": 0.613
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:186",
+      "startMs": 684800,
+      "endMs": 686400,
+      "verbatim": "Obviously, you know what that means, right?",
+      "display": "Obviously, you know what that means, right?",
+      "search": "obviously, you know what that means, right?",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:4nJ2tEPD4-k:segment:187",
+      "startMs": 686400,
+      "endMs": 690560,
+      "verbatim": "That means we can SIM D's on your face again.",
+      "display": "That means we can SIM D's on your face again.",
+      "search": "that means we can sim d's on your face again.",
+      "confidence": 0.618
+    }
+  ]
+}

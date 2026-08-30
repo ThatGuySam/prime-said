@@ -1,0 +1,1625 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_b87472567a1c7a61f81fecb1",
+  "sourceId": "youtube:RoHzXoolPTY",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:17:03.764Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:1",
+      "startMs": 0,
+      "endMs": 6800,
+      "verbatim": "Lately, GitHub has been, well, lately, not even lately, uh, for the last like two years, GitHub has just been being owned in the news.",
+      "display": "Lately, GitHub has been, well, lately, not even lately, uh, for the last like two years, GitHub has just been being owned in the news.",
+      "search": "lately, github has been, well, lately, not even lately, uh, for the last like two years, github has just been being owned in the news.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:2",
+      "startMs": 6800,
+      "endMs": 13360,
+      "verbatim": "Obviously, lots of downtime, poor user experience, action runners just the worst.",
+      "display": "Obviously, lots of downtime, poor user experience, action runners just the worst.",
+      "search": "obviously, lots of downtime, poor user experience, action runners just the worst.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:3",
+      "startMs": 13360,
+      "endMs": 17840,
+      "verbatim": "Just general disdain is what it feels like for the common user of the platform.",
+      "display": "Just general disdain is what it feels like for the common user of the platform.",
+      "search": "just general disdain is what it feels like for the common user of the platform.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:4",
+      "startMs": 17840,
+      "endMs": 20320,
+      "verbatim": "And so alternatives have been gaining steam.",
+      "display": "And so alternatives have been gaining steam.",
+      "search": "and so alternatives have been gaining steam.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:5",
+      "startMs": 20320,
+      "endMs": 22240,
+      "verbatim": "One of them is being Codebird.",
+      "display": "One of them is being Codebird.",
+      "search": "one of them is being codebird.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:6",
+      "startMs": 22240,
+      "endMs": 28960,
+      "verbatim": "This is a platform dedicated to the free and open source software kind of uh environmentslash community.",
+      "display": "This is a platform dedicated to the free and open source software kind of uh environmentslash community.",
+      "search": "this is a platform dedicated to the free and open source software kind of uh environmentslash community.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:7",
+      "startMs": 28960,
+      "endMs": 31120,
+      "verbatim": "And recently they've made a lot of news.",
+      "display": "And recently they've made a lot of news.",
+      "search": "and recently they've made a lot of news.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:8",
+      "startMs": 31120,
+      "endMs": 36880,
+      "verbatim": "Now you're probably asking, well, how did a small code hosting platform make the news in such a big way?",
+      "display": "Now you're probably asking, well, how did a small code hosting platform make the news in such a big way?",
+      "search": "now you're probably asking, well, how did a small code hosting platform make the news in such a big way?",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:9",
+      "startMs": 36880,
+      "endMs": 44160,
+      "verbatim": "Well, it's because its members have decided LLM projects, vibe-coded projects are no longer allowed on Codeberg.",
+      "display": "Well, it's because its members have decided LLM projects, vibe-coded projects are no longer allowed on Codeberg.",
+      "search": "well, it's because its members have decided llm projects, vibe-coded projects are no longer allowed on codeberg.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:10",
+      "startMs": 44160,
+      "endMs": 50720,
+      "verbatim": "Now, of course, this led to a bunch of tweets, people just saying all sorts of stuff, people complaining saying this is absolutely a wrong move.",
+      "display": "Now, of course, this led to a bunch of tweets, people just saying all sorts of stuff, people complaining saying this is absolutely a wrong move.",
+      "search": "now, of course, this led to a bunch of tweets, people just saying all sorts of stuff, people complaining saying this is absolutely a wrong move.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:11",
+      "startMs": 50720,
+      "endMs": 55120,
+      "verbatim": "Some people even saying, hey, I'm stopping my donations to you, Codeberg.",
+      "display": "Some people even saying, hey, I'm stopping my donations to you, Codeberg.",
+      "search": "some people even saying, hey, i'm stopping my donations to you, codeberg.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:12",
+      "startMs": 55120,
+      "endMs": 56480,
+      "verbatim": "Okay, how dare you?",
+      "display": "Okay, how dare you?",
+      "search": "okay, how dare you?",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:13",
+      "startMs": 56480,
+      "endMs": 65840,
+      "verbatim": "But of course, as always, the internet latches onto some sort of image and then claims this is the truth when the the actual truth's a little bit more complicated.",
+      "display": "But of course, as always, the internet latches onto some sort of image and then claims this is the truth when the the actual truth's a little bit more complicated.",
+      "search": "but of course, as always, the internet latches onto some sort of image and then claims this is the truth when the the actual truth's a little bit more complicated.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:14",
+      "startMs": 65840,
+      "endMs": 73600,
+      "verbatim": "So I did the extremely difficult job of actually reading the blog right here with my eyeballs from left to right, top to bottom.",
+      "display": "So I did the extremely difficult job of actually reading the blog right here with my eyeballs from left to right, top to bottom.",
+      "search": "so i did the extremely difficult job of actually reading the blog right here with my eyeballs from left to right, top to bottom.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:15",
+      "startMs": 73600,
+      "endMs": 75360,
+      "verbatim": "And I understood their arguments.",
+      "display": "And I understood their arguments.",
+      "search": "and i understood their arguments.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:16",
+      "startMs": 75360,
+      "endMs": 78000,
+      "verbatim": "And so I'm gonna do my best job to kind of talk about this.",
+      "display": "And so I'm gonna do my best job to kind of talk about this.",
+      "search": "and so i'm gonna do my best job to kind of talk about this.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:17",
+      "startMs": 78000,
+      "endMs": 84400,
+      "verbatim": "And I think that they did some things really well, and then other parts I think is absolutely ridiculous, okay?",
+      "display": "And I think that they did some things really well, and then other parts I think is absolutely ridiculous, okay?",
+      "search": "and i think that they did some things really well, and then other parts i think is absolutely ridiculous, okay?",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:18",
+      "startMs": 84400,
+      "endMs": 88240,
+      "verbatim": "Let's talk about why Codeburg is banning mostly vibe-coded projects.",
+      "display": "Let's talk about why Codeburg is banning mostly vibe-coded projects.",
+      "search": "let's talk about why codeburg is banning mostly vibe-coded projects.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:19",
+      "startMs": 88240,
+      "endMs": 91600,
+      "verbatim": "Yes, I did use the word mostly intentionally.",
+      "display": "Yes, I did use the word mostly intentionally.",
+      "search": "yes, i did use the word mostly intentionally.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:20",
+      "startMs": 91600,
+      "endMs": 99520,
+      "verbatim": "Also, just a quick sidebar nobody complained when they also, during the exact same meetings, uh, disallowed cryptocurrency projects.",
+      "display": "Also, just a quick sidebar nobody complained when they also, during the exact same meetings, uh, disallowed cryptocurrency projects.",
+      "search": "also, just a quick sidebar nobody complained when they also, during the exact same meetings, uh, disallowed cryptocurrency projects.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:21",
+      "startMs": 99520,
+      "endMs": 104720,
+      "verbatim": "In fact, this is the direct ticket right after banning LLM, mostly LLM projects.",
+      "display": "In fact, this is the direct ticket right after banning LLM, mostly LLM projects.",
+      "search": "in fact, this is the direct ticket right after banning llm, mostly llm projects.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:22",
+      "startMs": 104720,
+      "endMs": 105600,
+      "verbatim": "Yes, right here.",
+      "display": "Yes, right here.",
+      "search": "yes, right here.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:23",
+      "startMs": 105600,
+      "endMs": 111760,
+      "verbatim": "You can't have projects that harm the reputation of Codeburg, such as relating to cryptocurrencies.",
+      "display": "You can't have projects that harm the reputation of Codeburg, such as relating to cryptocurrencies.",
+      "search": "you can't have projects that harm the reputation of codeburg, such as relating to cryptocurrencies.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:24",
+      "startMs": 111760,
+      "endMs": 115680,
+      "verbatim": "Dude, crypto finance bros just are in shambles right now.",
+      "display": "Dude, crypto finance bros just are in shambles right now.",
+      "search": "dude, crypto finance bros just are in shambles right now.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:25",
+      "startMs": 115680,
+      "endMs": 121840,
+      "verbatim": "Their boutique artisanal code hosting platform alternative to GitHub, not welcome.",
+      "display": "Their boutique artisanal code hosting platform alternative to GitHub, not welcome.",
+      "search": "their boutique artisanal code hosting platform alternative to github, not welcome.",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:26",
+      "startMs": 121840,
+      "endMs": 125040,
+      "verbatim": "But before we do that, a quick thank you from the sponsor.",
+      "display": "But before we do that, a quick thank you from the sponsor.",
+      "search": "but before we do that, a quick thank you from the sponsor.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:27",
+      "startMs": 126880,
+      "endMs": 127440,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:28",
+      "startMs": 127440,
+      "endMs": 129360,
+      "verbatim": "Did you push on a Friday?",
+      "display": "Did you push on a Friday?",
+      "search": "did you push on a friday?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:29",
+      "startMs": 129360,
+      "endMs": 129760,
+      "verbatim": "Never.",
+      "display": "Never.",
+      "search": "never.",
+      "confidence": 0.572
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:30",
+      "startMs": 129760,
+      "endMs": 131040,
+      "verbatim": "How are we gonna figure this out?",
+      "display": "How are we gonna figure this out?",
+      "search": "how are we gonna figure this out?",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:31",
+      "startMs": 131040,
+      "endMs": 132560,
+      "verbatim": "How are we gonna figure this out?",
+      "display": "How are we gonna figure this out?",
+      "search": "how are we gonna figure this out?",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:32",
+      "startMs": 132640,
+      "endMs": 134000,
+      "verbatim": "That is your problems down.",
+      "display": "That is your problems down.",
+      "search": "that is your problems down.",
+      "confidence": 0.327
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:33",
+      "startMs": 134160,
+      "endMs": 135760,
+      "verbatim": "Do you guys need the wheel?",
+      "display": "Do you guys need the wheel?",
+      "search": "do you guys need the wheel?",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:34",
+      "startMs": 144160,
+      "endMs": 145440,
+      "verbatim": "Neo VM config.",
+      "display": "Neo VM config.",
+      "search": "neo vm config.",
+      "confidence": 0.447
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:35",
+      "startMs": 145440,
+      "endMs": 146240,
+      "verbatim": "That makes sense.",
+      "display": "That makes sense.",
+      "search": "that makes sense.",
+      "confidence": 0.565
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:36",
+      "startMs": 146320,
+      "endMs": 147760,
+      "verbatim": "I'm gonna spend a couple hours refactoring.",
+      "display": "I'm gonna spend a couple hours refactoring.",
+      "search": "i'm gonna spend a couple hours refactoring.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:37",
+      "startMs": 147840,
+      "endMs": 149520,
+      "verbatim": "Oh, need the plugins.",
+      "display": "Oh, need the plugins.",
+      "search": "oh, need the plugins.",
+      "confidence": 0.497
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:38",
+      "startMs": 152240,
+      "endMs": 154080,
+      "verbatim": "Don't guess where your issues are.",
+      "display": "Don't guess where your issues are.",
+      "search": "don't guess where your issues are.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:39",
+      "startMs": 154080,
+      "endMs": 156880,
+      "verbatim": "You can see exactly where they are happening with Sentry.",
+      "display": "You can see exactly where they are happening with Sentry.",
+      "search": "you can see exactly where they are happening with sentry.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:40",
+      "startMs": 156880,
+      "endMs": 162560,
+      "verbatim": "Get all the context you need to debug any problem because code breaks, so fix it faster with Sentry.",
+      "display": "Get all the context you need to debug any problem because code breaks, so fix it faster with Sentry.",
+      "search": "get all the context you need to debug any problem because code breaks, so fix it faster with sentry.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:41",
+      "startMs": 162560,
+      "endMs": 165040,
+      "verbatim": "So I think the best place to start is the terms of use.",
+      "display": "So I think the best place to start is the terms of use.",
+      "search": "so i think the best place to start is the terms of use.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:42",
+      "startMs": 165040,
+      "endMs": 167040,
+      "verbatim": "The terms of use was updated right here.",
+      "display": "The terms of use was updated right here.",
+      "search": "the terms of use was updated right here.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:43",
+      "startMs": 167040,
+      "endMs": 175680,
+      "verbatim": "This is in section two, paragraph seven, it says the following You must not share projects that mostly consist of code written by generative AI tools.",
+      "display": "This is in section two, paragraph seven, it says the following You must not share projects that mostly consist of code written by generative AI tools.",
+      "search": "this is in section two, paragraph seven, it says the following you must not share projects that mostly consist of code written by generative ai tools.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:44",
+      "startMs": 175680,
+      "endMs": 180400,
+      "verbatim": "Now, obviously, I think this is a really terrible way to word anything.",
+      "display": "Now, obviously, I think this is a really terrible way to word anything.",
+      "search": "now, obviously, i think this is a really terrible way to word anything.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:45",
+      "startMs": 180400,
+      "endMs": 181440,
+      "verbatim": "What is mostly?",
+      "display": "What is mostly?",
+      "search": "what is mostly?",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:46",
+      "startMs": 181440,
+      "endMs": 183040,
+      "verbatim": "Is mostly 51%?",
+      "display": "Is mostly 51%?",
+      "search": "is mostly 51%?",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:47",
+      "startMs": 183040,
+      "endMs": 184800,
+      "verbatim": "Is it 75%?",
+      "display": "Is it 75%?",
+      "search": "is it 75%?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:48",
+      "startMs": 184800,
+      "endMs": 191680,
+      "verbatim": "Do they just mean a plurality that is just like the largest portion in comparison to any other contributor?",
+      "display": "Do they just mean a plurality that is just like the largest portion in comparison to any other contributor?",
+      "search": "do they just mean a plurality that is just like the largest portion in comparison to any other contributor?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:49",
+      "startMs": 191680,
+      "endMs": 194240,
+      "verbatim": "It's actually kind of a confusing phrase.",
+      "display": "It's actually kind of a confusing phrase.",
+      "search": "it's actually kind of a confusing phrase.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:50",
+      "startMs": 194240,
+      "endMs": 203600,
+      "verbatim": "And even more so, what about projects that were really beautifully hand artisanally crafted, but now are being more and more uh LLM generated with some light hand edits?",
+      "display": "And even more so, what about projects that were really beautifully hand artisanally crafted, but now are being more and more uh LLM generated with some light hand edits?",
+      "search": "and even more so, what about projects that were really beautifully hand artisanally crafted, but now are being more and more uh llm generated with some light hand edits?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:51",
+      "startMs": 203600,
+      "endMs": 205360,
+      "verbatim": "I'm thinking of ghosty right now, okay?",
+      "display": "I'm thinking of ghosty right now, okay?",
+      "search": "i'm thinking of ghosty right now, okay?",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:52",
+      "startMs": 205360,
+      "endMs": 209520,
+      "verbatim": "Uh Mitchell's made it absolutely clear on the internet for the last year.",
+      "display": "Uh Mitchell's made it absolutely clear on the internet for the last year.",
+      "search": "uh mitchell's made it absolutely clear on the internet for the last year.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:53",
+      "startMs": 209520,
+      "endMs": 210960,
+      "verbatim": "Lots of LLM use.",
+      "display": "Lots of LLM use.",
+      "search": "lots of llm use.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:54",
+      "startMs": 210960,
+      "endMs": 215600,
+      "verbatim": "So at what point does this project go from being allowed to not being allowed?",
+      "display": "So at what point does this project go from being allowed to not being allowed?",
+      "search": "so at what point does this project go from being allowed to not being allowed?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:55",
+      "startMs": 215600,
+      "endMs": 216800,
+      "verbatim": "Is there a line count?",
+      "display": "Is there a line count?",
+      "search": "is there a line count?",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:56",
+      "startMs": 216800,
+      "endMs": 219360,
+      "verbatim": "Is there some sort of specific measurement we can make?",
+      "display": "Is there some sort of specific measurement we can make?",
+      "search": "is there some sort of specific measurement we can make?",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:57",
+      "startMs": 219360,
+      "endMs": 224640,
+      "verbatim": "Or do some projects just simply get the old, you're okay, coronyism?",
+      "display": "Or do some projects just simply get the old, you're okay, coronyism?",
+      "search": "or do some projects just simply get the old, you're okay, coronyism?",
+      "confidence": 0.681
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:58",
+      "startMs": 224640,
+      "endMs": 225200,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:59",
+      "startMs": 225200,
+      "endMs": 230160,
+      "verbatim": "The second big thing they point out in this terms of use update is that there's unclear copyright status.",
+      "display": "The second big thing they point out in this terms of use update is that there's unclear copyright status.",
+      "search": "the second big thing they point out in this terms of use update is that there's unclear copyright status.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:60",
+      "startMs": 230160,
+      "endMs": 234480,
+      "verbatim": "Now, this is actually honestly the single best arguments against LLMs.",
+      "display": "Now, this is actually honestly the single best arguments against LLMs.",
+      "search": "now, this is actually honestly the single best arguments against llms.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:61",
+      "startMs": 234480,
+      "endMs": 239760,
+      "verbatim": "See, LLMs, they can take code from any type of license, and you know they have, okay?",
+      "display": "See, LLMs, they can take code from any type of license, and you know they have, okay?",
+      "search": "see, llms, they can take code from any type of license, and you know they have, okay?",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:62",
+      "startMs": 239760,
+      "endMs": 248080,
+      "verbatim": "I know of a very specific somebody that would really, really like to have any code and all code pure!",
+      "display": "I know of a very specific somebody that would really, really like to have any code and all code pure!",
+      "search": "i know of a very specific somebody that would really, really like to have any code and all code pure!",
+      "confidence": 0.708
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:63",
+      "startMs": 248160,
+      "endMs": 250720,
+      "verbatim": "So what I mean by that is that there's things like copy left.",
+      "display": "So what I mean by that is that there's things like copy left.",
+      "search": "so what i mean by that is that there's things like copy left.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:64",
+      "startMs": 250720,
+      "endMs": 256000,
+      "verbatim": "Copy left means that hey, you can use this code, but if you use that code, you also have to be copyleft.",
+      "display": "Copy left means that hey, you can use this code, but if you use that code, you also have to be copyleft.",
+      "search": "copy left means that hey, you can use this code, but if you use that code, you also have to be copyleft.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:65",
+      "startMs": 256000,
+      "endMs": 257520,
+      "verbatim": "It's a viral license.",
+      "display": "It's a viral license.",
+      "search": "it's a viral license.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:66",
+      "startMs": 257520,
+      "endMs": 265680,
+      "verbatim": "That means if you inadvertently took code directly from a copyleft repository, you also would have to make your project copy left.",
+      "display": "That means if you inadvertently took code directly from a copyleft repository, you also would have to make your project copy left.",
+      "search": "that means if you inadvertently took code directly from a copyleft repository, you also would have to make your project copy left.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:67",
+      "startMs": 265680,
+      "endMs": 267360,
+      "verbatim": "Now that can be problematic.",
+      "display": "Now that can be problematic.",
+      "search": "now that can be problematic.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:68",
+      "startMs": 267360,
+      "endMs": 271360,
+      "verbatim": "I think everybody can agree that's not necessarily what you want to see.",
+      "display": "I think everybody can agree that's not necessarily what you want to see.",
+      "search": "i think everybody can agree that's not necessarily what you want to see.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:69",
+      "startMs": 271360,
+      "endMs": 276080,
+      "verbatim": "Now, with LLMs, are you taking code from copyleft repositories?",
+      "display": "Now, with LLMs, are you taking code from copyleft repositories?",
+      "search": "now, with llms, are you taking code from copyleft repositories?",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:70",
+      "startMs": 277280,
+      "endMs": 278240,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:71",
+      "startMs": 278240,
+      "endMs": 281200,
+      "verbatim": "Some countries might have different opinions on this than other countries.",
+      "display": "Some countries might have different opinions on this than other countries.",
+      "search": "some countries might have different opinions on this than other countries.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:72",
+      "startMs": 281200,
+      "endMs": 290400,
+      "verbatim": "We're still in quite the gray area, and this seems to be the most like ethical and sound argument together, which is we don't know what the license were to train on it.",
+      "display": "We're still in quite the gray area, and this seems to be the most like ethical and sound argument together, which is we don't know what the license were to train on it.",
+      "search": "we're still in quite the gray area, and this seems to be the most like ethical and sound argument together, which is we don't know what the license were to train on it.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:73",
+      "startMs": 290400,
+      "endMs": 306240,
+      "verbatim": "We don't want to ruin our project or potentially fall under some sort of EU jurisdiction or some Australian law or some law across the world in which says we can't do that, and then we have to figure out the legal problems that are kind of involved in this conundrum, this quagmire that we found ourselves in.",
+      "display": "We don't want to ruin our project or potentially fall under some sort of EU jurisdiction or some Australian law or some law across the world in which says we can't do that, and then we have to figure out the legal problems that are kind of involved in this conundrum, this quagmire that we found ourselves in.",
+      "search": "we don't want to ruin our project or potentially fall under some sort of eu jurisdiction or some australian law or some law across the world in which says we can't do that, and then we have to figure out the legal problems that are kind of involved in this conundrum, this quagmire that we found ourselves in.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:74",
+      "startMs": 306240,
+      "endMs": 312800,
+      "verbatim": "And so to me, that actually seems to be the most clear and consistent possible act of against the LLM.",
+      "display": "And so to me, that actually seems to be the most clear and consistent possible act of against the LLM.",
+      "search": "and so to me, that actually seems to be the most clear and consistent possible act of against the llm.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:75",
+      "startMs": 312800,
+      "endMs": 314000,
+      "verbatim": "So I actually do support this.",
+      "display": "So I actually do support this.",
+      "search": "so i actually do support this.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:76",
+      "startMs": 314320,
+      "endMs": 315520,
+      "verbatim": "This is a good reason.",
+      "display": "This is a good reason.",
+      "search": "this is a good reason.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:77",
+      "startMs": 315520,
+      "endMs": 320160,
+      "verbatim": "If this is Codeberg's complete reason, I totally get it, but it's not actually their full reason.",
+      "display": "If this is Codeberg's complete reason, I totally get it, but it's not actually their full reason.",
+      "search": "if this is codeberg's complete reason, i totally get it, but it's not actually their full reason.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:78",
+      "startMs": 320160,
+      "endMs": 324480,
+      "verbatim": "And furthermore, have little safeguards to ensure that they do not include harmful code.",
+      "display": "And furthermore, have little safeguards to ensure that they do not include harmful code.",
+      "search": "and furthermore, have little safeguards to ensure that they do not include harmful code.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:79",
+      "startMs": 324480,
+      "endMs": 328640,
+      "verbatim": "Now, this one, obviously, I genuinely pretty disagree with two reasons.",
+      "display": "Now, this one, obviously, I genuinely pretty disagree with two reasons.",
+      "search": "now, this one, obviously, i genuinely pretty disagree with two reasons.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:80",
+      "startMs": 328800,
+      "endMs": 337600,
+      "verbatim": "We've seen just a disastrous amount of CVEs and all sorts of stuff coming in, actually showing just how vulnerable software really is.",
+      "display": "We've seen just a disastrous amount of CVEs and all sorts of stuff coming in, actually showing just how vulnerable software really is.",
+      "search": "we've seen just a disastrous amount of cves and all sorts of stuff coming in, actually showing just how vulnerable software really is.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:81",
+      "startMs": 337600,
+      "endMs": 343840,
+      "verbatim": "We've seen some of the most epic hacks of all time, including Jayatan 75, okay, RIP Jayatan.",
+      "display": "We've seen some of the most epic hacks of all time, including Jayatan 75, okay, RIP Jayatan.",
+      "search": "we've seen some of the most epic hacks of all time, including jayatan 75, okay, rip jayatan.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:82",
+      "startMs": 343840,
+      "endMs": 347520,
+      "verbatim": "Now, all of those happened effectively before LLMs.",
+      "display": "Now, all of those happened effectively before LLMs.",
+      "search": "now, all of those happened effectively before llms.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:83",
+      "startMs": 347520,
+      "endMs": 351280,
+      "verbatim": "And so when people are like, well, there's no safeguards here, it's just like, well, I don't know.",
+      "display": "And so when people are like, well, there's no safeguards here, it's just like, well, I don't know.",
+      "search": "and so when people are like, well, there's no safeguards here, it's just like, well, i don't know.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:84",
+      "startMs": 351280,
+      "endMs": 353280,
+      "verbatim": "Like, how safe is the software we're using?",
+      "display": "Like, how safe is the software we're using?",
+      "search": "like, how safe is the software we're using?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:85",
+      "startMs": 353280,
+      "endMs": 355440,
+      "verbatim": "How safe is the software you've generated?",
+      "display": "How safe is the software you've generated?",
+      "search": "how safe is the software you've generated?",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:86",
+      "startMs": 355440,
+      "endMs": 363920,
+      "verbatim": "Generally speaking, I just have a sneaking suspicion that software generated is uh as insecure or slightly more insecure, but that is my personal bias.",
+      "display": "Generally speaking, I just have a sneaking suspicion that software generated is uh as insecure or slightly more insecure, but that is my personal bias.",
+      "search": "generally speaking, i just have a sneaking suspicion that software generated is uh as insecure or slightly more insecure, but that is my personal bias.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:87",
+      "startMs": 363920,
+      "endMs": 366960,
+      "verbatim": "But also, you can just be like, yo, LLM, here's a thousand lines.",
+      "display": "But also, you can just be like, yo, LLM, here's a thousand lines.",
+      "search": "but also, you can just be like, yo, llm, here's a thousand lines.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:88",
+      "startMs": 366960,
+      "endMs": 367760,
+      "verbatim": "Can you help find?",
+      "display": "Can you help find?",
+      "search": "can you help find?",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:89",
+      "startMs": 367760,
+      "endMs": 371920,
+      "verbatim": "Oh, but then Fable will tell you you can't, and uh OpenAI will also tell you it's can't.",
+      "display": "Oh, but then Fable will tell you you can't, and uh OpenAI will also tell you it's can't.",
+      "search": "oh, but then fable will tell you you can't, and uh openai will also tell you it's can't.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:90",
+      "startMs": 371920,
+      "endMs": 372800,
+      "verbatim": "Hey, thank you.",
+      "display": "Hey, thank you.",
+      "search": "hey, thank you.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:91",
+      "startMs": 372960,
+      "endMs": 375440,
+      "verbatim": "Thanks, China, for letting me review my own code.",
+      "display": "Thanks, China, for letting me review my own code.",
+      "search": "thanks, china, for letting me review my own code.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:92",
+      "startMs": 375440,
+      "endMs": 380080,
+      "verbatim": "Okay, so when you use the China models, they will actually tell you, yeah, hey, there's some problems potentially right here and here.",
+      "display": "Okay, so when you use the China models, they will actually tell you, yeah, hey, there's some problems potentially right here and here.",
+      "search": "okay, so when you use the china models, they will actually tell you, yeah, hey, there's some problems potentially right here and here.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:93",
+      "startMs": 380080,
+      "endMs": 383840,
+      "verbatim": "And those actually have had a decent success in finding a lot of stuff.",
+      "display": "And those actually have had a decent success in finding a lot of stuff.",
+      "search": "and those actually have had a decent success in finding a lot of stuff.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:94",
+      "startMs": 383840,
+      "endMs": 388400,
+      "verbatim": "So using LLMs can actually be quite beneficial to ensure the safeguard.",
+      "display": "So using LLMs can actually be quite beneficial to ensure the safeguard.",
+      "search": "so using llms can actually be quite beneficial to ensure the safeguard.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:95",
+      "startMs": 388400,
+      "endMs": 394640,
+      "verbatim": "So it really does kind of put us into this weird, I don't know, it kind of puts us into a gray zone with this old terms of use here.",
+      "display": "So it really does kind of put us into this weird, I don't know, it kind of puts us into a gray zone with this old terms of use here.",
+      "search": "so it really does kind of put us into this weird, i don't know, it kind of puts us into a gray zone with this old terms of use here.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:96",
+      "startMs": 394640,
+      "endMs": 396160,
+      "verbatim": "Now that's just the terms of use.",
+      "display": "Now that's just the terms of use.",
+      "search": "now that's just the terms of use.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:97",
+      "startMs": 396160,
+      "endMs": 404640,
+      "verbatim": "They also released this blog, in which, of course, like I said, I read it from left to right, top to bottom, went all in on it, and they have a couple really strong points.",
+      "display": "They also released this blog, in which, of course, like I said, I read it from left to right, top to bottom, went all in on it, and they have a couple really strong points.",
+      "search": "they also released this blog, in which, of course, like i said, i read it from left to right, top to bottom, went all in on it, and they have a couple really strong points.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:98",
+      "startMs": 404640,
+      "endMs": 407360,
+      "verbatim": "The first one I think is losing trust in each other.",
+      "display": "The first one I think is losing trust in each other.",
+      "search": "the first one i think is losing trust in each other.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:99",
+      "startMs": 407360,
+      "endMs": 415120,
+      "verbatim": "Effectively, this statement is all about how building a community and building trust requires one-on-one interaction with good intentions.",
+      "display": "Effectively, this statement is all about how building a community and building trust requires one-on-one interaction with good intentions.",
+      "search": "effectively, this statement is all about how building a community and building trust requires one-on-one interaction with good intentions.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:100",
+      "startMs": 415120,
+      "endMs": 423440,
+      "verbatim": "And a lot of people submitting, say, AEI generated stuff, often well-meaning, put in kind of low effort and cost a lot of time on the people doing the reviews.",
+      "display": "And a lot of people submitting, say, AEI generated stuff, often well-meaning, put in kind of low effort and cost a lot of time on the people doing the reviews.",
+      "search": "and a lot of people submitting, say, aei generated stuff, often well-meaning, put in kind of low effort and cost a lot of time on the people doing the reviews.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:101",
+      "startMs": 423440,
+      "endMs": 444560,
+      "verbatim": "And this kind of causes a bit of a community upset because now maintainers want less to do with people they don't know, which means that communities will be less welcoming, and people who actually want to try hard may find it much harder to get involved in the community due to some accidental biases that are created in you, uh, just because of the very nature of LLMs themselves and the people who have wielded them.",
+      "display": "And this kind of causes a bit of a community upset because now maintainers want less to do with people they don't know, which means that communities will be less welcoming, and people who actually want to try hard may find it much harder to get involved in the community due to some accidental biases that are created in you, uh, just because of the very nature of LLMs themselves and the people who have wielded them.",
+      "search": "and this kind of causes a bit of a community upset because now maintainers want less to do with people they don't know, which means that communities will be less welcoming, and people who actually want to try hard may find it much harder to get involved in the community due to some accidental biases that are created in you, uh, just because of the very nature of llms themselves and the people who have wielded them.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:102",
+      "startMs": 444560,
+      "endMs": 447120,
+      "verbatim": "And so there is this kind of weird thing that's happening.",
+      "display": "And so there is this kind of weird thing that's happening.",
+      "search": "and so there is this kind of weird thing that's happening.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:103",
+      "startMs": 447120,
+      "endMs": 452400,
+      "verbatim": "LLMs, in some sense, are breaking down a lot of the trust barriers and kind of causing some community fracturing.",
+      "display": "LLMs, in some sense, are breaking down a lot of the trust barriers and kind of causing some community fracturing.",
+      "search": "llms, in some sense, are breaking down a lot of the trust barriers and kind of causing some community fracturing.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:104",
+      "startMs": 452400,
+      "endMs": 455840,
+      "verbatim": "Codeberg really cited that as hey, this sucks.",
+      "display": "Codeberg really cited that as hey, this sucks.",
+      "search": "codeberg really cited that as hey, this sucks.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:105",
+      "startMs": 455840,
+      "endMs": 456960,
+      "verbatim": "We don't want that.",
+      "display": "We don't want that.",
+      "search": "we don't want that.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:106",
+      "startMs": 456960,
+      "endMs": 458560,
+      "verbatim": "And honestly, I agree.",
+      "display": "And honestly, I agree.",
+      "search": "and honestly, i agree.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:107",
+      "startMs": 458560,
+      "endMs": 461360,
+      "verbatim": "That, I mean, that's like a really good reason.",
+      "display": "That, I mean, that's like a really good reason.",
+      "search": "that, i mean, that's like a really good reason.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:108",
+      "startMs": 461360,
+      "endMs": 463520,
+      "verbatim": "They also talk a lot about like the hardware cost.",
+      "display": "They also talk a lot about like the hardware cost.",
+      "search": "they also talk a lot about like the hardware cost.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:109",
+      "startMs": 463520,
+      "endMs": 465520,
+      "verbatim": "Codeberg is completely self-hosted.",
+      "display": "Codeberg is completely self-hosted.",
+      "search": "codeberg is completely self-hosted.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:110",
+      "startMs": 465520,
+      "endMs": 471920,
+      "verbatim": "So the cost of stuff that used to be $700 for an SSD is now 3,700 euros for an SSD.",
+      "display": "So the cost of stuff that used to be $700 for an SSD is now 3,700 euros for an SSD.",
+      "search": "so the cost of stuff that used to be $700 for an ssd is now 3,700 euros for an ssd.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:111",
+      "startMs": 471920,
+      "endMs": 473040,
+      "verbatim": "I don't know what a euro is.",
+      "display": "I don't know what a euro is.",
+      "search": "i don't know what a euro is.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:112",
+      "startMs": 473040,
+      "endMs": 474400,
+      "verbatim": "I'm a freedom unit man.",
+      "display": "I'm a freedom unit man.",
+      "search": "i'm a freedom unit man.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:113",
+      "startMs": 474400,
+      "endMs": 477840,
+      "verbatim": "Okay, I like to measure my tea in gallons, buddy.",
+      "display": "Okay, I like to measure my tea in gallons, buddy.",
+      "search": "okay, i like to measure my tea in gallons, buddy.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:114",
+      "startMs": 477840,
+      "endMs": 481840,
+      "verbatim": "Now, I don't, I don't know anything about hosting hardware.",
+      "display": "Now, I don't, I don't know anything about hosting hardware.",
+      "search": "now, i don't, i don't know anything about hosting hardware.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:115",
+      "startMs": 481840,
+      "endMs": 490160,
+      "verbatim": "I've never done it, but I can tell you that going from $700 to $3,700 is a gigantic increase, even in non-freedom units.",
+      "display": "I've never done it, but I can tell you that going from $700 to $3,700 is a gigantic increase, even in non-freedom units.",
+      "search": "i've never done it, but i can tell you that going from $700 to $3,700 is a gigantic increase, even in non-freedom units.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:116",
+      "startMs": 490160,
+      "endMs": 509840,
+      "verbatim": "And so I can see that the literal costs of hosting is going up, but then also they're just being strained all the time, either by people committing in an outrageous amount of commits, like if you've read, say, the cursor papers or the anthropic papers, or they're talking about thousands of commits per hour, which is something that say all of Google used to do.",
+      "display": "And so I can see that the literal costs of hosting is going up, but then also they're just being strained all the time, either by people committing in an outrageous amount of commits, like if you've read, say, the cursor papers or the anthropic papers, or they're talking about thousands of commits per hour, which is something that say all of Google used to do.",
+      "search": "and so i can see that the literal costs of hosting is going up, but then also they're just being strained all the time, either by people committing in an outrageous amount of commits, like if you've read, say, the cursor papers or the anthropic papers, or they're talking about thousands of commits per hour, which is something that say all of google used to do.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:117",
+      "startMs": 509840,
+      "endMs": 514480,
+      "verbatim": "80,000 engineers are now being down done by like a handful of agents.",
+      "display": "80,000 engineers are now being down done by like a handful of agents.",
+      "search": "80,000 engineers are now being down done by like a handful of agents.",
+      "confidence": 0.697
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:118",
+      "startMs": 514480,
+      "endMs": 517360,
+      "verbatim": "This can cause obviously some real strain on resources.",
+      "display": "This can cause obviously some real strain on resources.",
+      "search": "this can cause obviously some real strain on resources.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:119",
+      "startMs": 517360,
+      "endMs": 523920,
+      "verbatim": "And not only that, but also the people that are just constantly crawling the website, they're also going to cause a lot of resource problems.",
+      "display": "And not only that, but also the people that are just constantly crawling the website, they're also going to cause a lot of resource problems.",
+      "search": "and not only that, but also the people that are just constantly crawling the website, they're also going to cause a lot of resource problems.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:120",
+      "startMs": 523920,
+      "endMs": 530720,
+      "verbatim": "And so it's like, yeah, they're actually like LLMs themselves are being like a net negative on hosting code.",
+      "display": "And so it's like, yeah, they're actually like LLMs themselves are being like a net negative on hosting code.",
+      "search": "and so it's like, yeah, they're actually like llms themselves are being like a net negative on hosting code.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:121",
+      "startMs": 530720,
+      "endMs": 535200,
+      "verbatim": "So this is a genuine problem, both from the user perspective and from the crawling perspective.",
+      "display": "So this is a genuine problem, both from the user perspective and from the crawling perspective.",
+      "search": "so this is a genuine problem, both from the user perspective and from the crawling perspective.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:122",
+      "startMs": 535200,
+      "endMs": 543040,
+      "verbatim": "Those are two really good points as to why LLMs are just kind of destructive in the code hosting space, both community and cost.",
+      "display": "Those are two really good points as to why LLMs are just kind of destructive in the code hosting space, both community and cost.",
+      "search": "those are two really good points as to why llms are just kind of destructive in the code hosting space, both community and cost.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:123",
+      "startMs": 543040,
+      "endMs": 544880,
+      "verbatim": "So that's totally legit.",
+      "display": "So that's totally legit.",
+      "search": "so that's totally legit.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:124",
+      "startMs": 544880,
+      "endMs": 548320,
+      "verbatim": "I can see why they're saying no to projects for that very reason.",
+      "display": "I can see why they're saying no to projects for that very reason.",
+      "search": "i can see why they're saying no to projects for that very reason.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:125",
+      "startMs": 548320,
+      "endMs": 553440,
+      "verbatim": "They also highlighted as for fun this right here, which says that they're they don't want to use your data for training.",
+      "display": "They also highlighted as for fun this right here, which says that they're they don't want to use your data for training.",
+      "search": "they also highlighted as for fun this right here, which says that they're they don't want to use your data for training.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:126",
+      "startMs": 553440,
+      "endMs": 555520,
+      "verbatim": "They're not going to use your data for training.",
+      "display": "They're not going to use your data for training.",
+      "search": "they're not going to use your data for training.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:127",
+      "startMs": 555520,
+      "endMs": 567280,
+      "verbatim": "And that is amazing because that means it's gonna create a website that is filled to the brim with handcrafted artisanal grass-fed free range traditional coding.",
+      "display": "And that is amazing because that means it's gonna create a website that is filled to the brim with handcrafted artisanal grass-fed free range traditional coding.",
+      "search": "and that is amazing because that means it's gonna create a website that is filled to the brim with handcrafted artisanal grass-fed free range traditional coding.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:128",
+      "startMs": 567280,
+      "endMs": 571360,
+      "verbatim": "This is gonna be some of the highest quality training data known to man.",
+      "display": "This is gonna be some of the highest quality training data known to man.",
+      "search": "this is gonna be some of the highest quality training data known to man.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:129",
+      "startMs": 571360,
+      "endMs": 581280,
+      "verbatim": "And I have a sneaking suspicion I know exactly who's gonna f but there's one part of this blog that I I severely disagree with, something that I have like a visceral reaction to.",
+      "display": "And I have a sneaking suspicion I know exactly who's gonna f but there's one part of this blog that I I severely disagree with, something that I have like a visceral reaction to.",
+      "search": "and i have a sneaking suspicion i know exactly who's gonna f but there's one part of this blog that i i severely disagree with, something that i have like a visceral reaction to.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:130",
+      "startMs": 581280,
+      "endMs": 582560,
+      "verbatim": "And let me explain why.",
+      "display": "And let me explain why.",
+      "search": "and let me explain why.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:131",
+      "startMs": 582560,
+      "endMs": 586960,
+      "verbatim": "Together, these forces make collaboration not only harder, but also less rewarding.",
+      "display": "Together, these forces make collaboration not only harder, but also less rewarding.",
+      "search": "together, these forces make collaboration not only harder, but also less rewarding.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:132",
+      "startMs": 586960,
+      "endMs": 590880,
+      "verbatim": "Talking about the cost, talking about the cost to maintainers, all of that.",
+      "display": "Talking about the cost, talking about the cost to maintainers, all of that.",
+      "search": "talking about the cost, talking about the cost to maintainers, all of that.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:133",
+      "startMs": 590880,
+      "endMs": 603200,
+      "verbatim": "With the transaction cost of collaboration increasing, people are becoming less likely to contribute to creating high-quality software projects and more likely to vibe code one-off software that is specific to your need and won't evolve beyond.",
+      "display": "With the transaction cost of collaboration increasing, people are becoming less likely to contribute to creating high-quality software projects and more likely to vibe code one-off software that is specific to your need and won't evolve beyond.",
+      "search": "with the transaction cost of collaboration increasing, people are becoming less likely to contribute to creating high-quality software projects and more likely to vibe code one-off software that is specific to your need and won't evolve beyond.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:134",
+      "startMs": 603200,
+      "endMs": 612560,
+      "verbatim": "We get in a vicious cycle where collaboration is becoming less and less rewarding, while the amount of single-use software that is unmaintained and never sees any improvement is going up.",
+      "display": "We get in a vicious cycle where collaboration is becoming less and less rewarding, while the amount of single-use software that is unmaintained and never sees any improvement is going up.",
+      "search": "we get in a vicious cycle where collaboration is becoming less and less rewarding, while the amount of single-use software that is unmaintained and never sees any improvement is going up.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:135",
+      "startMs": 612560,
+      "endMs": 617920,
+      "verbatim": "They say this in kind of a negative sense, and I just fully and completely and utterly disagree with that statement.",
+      "display": "They say this in kind of a negative sense, and I just fully and completely and utterly disagree with that statement.",
+      "search": "they say this in kind of a negative sense, and i just fully and completely and utterly disagree with that statement.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:136",
+      "startMs": 617920,
+      "endMs": 620720,
+      "verbatim": "I think the idea of single-use software is incredible.",
+      "display": "I think the idea of single-use software is incredible.",
+      "search": "i think the idea of single-use software is incredible.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:137",
+      "startMs": 620720,
+      "endMs": 622160,
+      "verbatim": "I actually think it's fantastic.",
+      "display": "I actually think it's fantastic.",
+      "search": "i actually think it's fantastic.",
+      "confidence": 0.993
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:138",
+      "startMs": 622160,
+      "endMs": 629040,
+      "verbatim": "There's a bunch of software out there that would be like demonstrably better if they just did the thing that it was originally intended.",
+      "display": "There's a bunch of software out there that would be like demonstrably better if they just did the thing that it was originally intended.",
+      "search": "there's a bunch of software out there that would be like demonstrably better if they just did the thing that it was originally intended.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:139",
+      "startMs": 629040,
+      "endMs": 632800,
+      "verbatim": "Instead of a bunch of people get in, they say, Well, I want to do this, I want to do this, I want to do this.",
+      "display": "Instead of a bunch of people get in, they say, Well, I want to do this, I want to do this, I want to do this.",
+      "search": "instead of a bunch of people get in, they say, well, i want to do this, i want to do this, i want to do this.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:140",
+      "startMs": 632800,
+      "endMs": 635280,
+      "verbatim": "It's like, no, software sometimes is considered done.",
+      "display": "It's like, no, software sometimes is considered done.",
+      "search": "it's like, no, software sometimes is considered done.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:141",
+      "startMs": 635280,
+      "endMs": 636400,
+      "verbatim": "This is done software.",
+      "display": "This is done software.",
+      "search": "this is done software.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:142",
+      "startMs": 636400,
+      "endMs": 639760,
+      "verbatim": "Sometimes I want to create something in which doesn't really map to any one tool.",
+      "display": "Sometimes I want to create something in which doesn't really map to any one tool.",
+      "search": "sometimes i want to create something in which doesn't really map to any one tool.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:143",
+      "startMs": 639760,
+      "endMs": 643440,
+      "verbatim": "I don't need to go and augment a tool to make it fit my use case.",
+      "display": "I don't need to go and augment a tool to make it fit my use case.",
+      "search": "i don't need to go and augment a tool to make it fit my use case.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:144",
+      "startMs": 643440,
+      "endMs": 645200,
+      "verbatim": "I can just try it out.",
+      "display": "I can just try it out.",
+      "search": "i can just try it out.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:145",
+      "startMs": 645200,
+      "endMs": 646240,
+      "verbatim": "Does it feel good?",
+      "display": "Does it feel good?",
+      "search": "does it feel good?",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:146",
+      "startMs": 646240,
+      "endMs": 647040,
+      "verbatim": "Do I like it?",
+      "display": "Do I like it?",
+      "search": "do i like it?",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:147",
+      "startMs": 647040,
+      "endMs": 648480,
+      "verbatim": "Should I take this thing seriously?",
+      "display": "Should I take this thing seriously?",
+      "search": "should i take this thing seriously?",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:148",
+      "startMs": 648480,
+      "endMs": 652400,
+      "verbatim": "Because let's just face it, nine out of 10 of my ideas aren't good ideas.",
+      "display": "Because let's just face it, nine out of 10 of my ideas aren't good ideas.",
+      "search": "because let's just face it, nine out of 10 of my ideas aren't good ideas.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:149",
+      "startMs": 652400,
+      "endMs": 657600,
+      "verbatim": "And those used to take me months at a time to really get into a state where I go, oh yeah, that wasn't that good.",
+      "display": "And those used to take me months at a time to really get into a state where I go, oh yeah, that wasn't that good.",
+      "search": "and those used to take me months at a time to really get into a state where i go, oh yeah, that wasn't that good.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:150",
+      "startMs": 657600,
+      "endMs": 659600,
+      "verbatim": "One of those ideas was this 99.",
+      "display": "One of those ideas was this 99.",
+      "search": "one of those ideas was this 99.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:151",
+      "startMs": 659600,
+      "endMs": 671040,
+      "verbatim": "I put a lot of effort into creating this beautiful piece of code in which goes off and is able to do like these really kind of strategic LLM calls and how you interact with the agent and through NeoVim.",
+      "display": "I put a lot of effort into creating this beautiful piece of code in which goes off and is able to do like these really kind of strategic LLM calls and how you interact with the agent and through NeoVim.",
+      "search": "i put a lot of effort into creating this beautiful piece of code in which goes off and is able to do like these really kind of strategic llm calls and how you interact with the agent and through neovim.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:152",
+      "startMs": 671040,
+      "endMs": 675200,
+      "verbatim": "And I thought that this could actually be a really enjoyable way to be able to use LLMs.",
+      "display": "And I thought that this could actually be a really enjoyable way to be able to use LLMs.",
+      "search": "and i thought that this could actually be a really enjoyable way to be able to use llms.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:153",
+      "startMs": 675200,
+      "endMs": 678800,
+      "verbatim": "And lo and behold, I generally was incorrect on that.",
+      "display": "And lo and behold, I generally was incorrect on that.",
+      "search": "and lo and behold, i generally was incorrect on that.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:154",
+      "startMs": 678800,
+      "endMs": 680480,
+      "verbatim": "But it was a try, it was an attempt.",
+      "display": "But it was a try, it was an attempt.",
+      "search": "but it was a try, it was an attempt.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:155",
+      "startMs": 680480,
+      "endMs": 685760,
+      "verbatim": "I didn't vibe code it though, because I didn't think uh a lot of the LLM state of affairs was good enough to vibe code.",
+      "display": "I didn't vibe code it though, because I didn't think uh a lot of the LLM state of affairs was good enough to vibe code.",
+      "search": "i didn't vibe code it though, because i didn't think uh a lot of the llm state of affairs was good enough to vibe code.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:156",
+      "startMs": 685760,
+      "endMs": 687520,
+      "verbatim": "I effectively hand coded the whole thing.",
+      "display": "I effectively hand coded the whole thing.",
+      "search": "i effectively hand coded the whole thing.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:157",
+      "startMs": 687520,
+      "endMs": 690720,
+      "verbatim": "It took me like two months to really try out something, and I was wrong.",
+      "display": "It took me like two months to really try out something, and I was wrong.",
+      "search": "it took me like two months to really try out something, and i was wrong.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:158",
+      "startMs": 690720,
+      "endMs": 691600,
+      "verbatim": "It hurts a little bit.",
+      "display": "It hurts a little bit.",
+      "search": "it hurts a little bit.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:159",
+      "startMs": 691600,
+      "endMs": 697600,
+      "verbatim": "Looking back, honestly, probably should have vibe coded way harder to begin with until I knew that I liked what I was seeing.",
+      "display": "Looking back, honestly, probably should have vibe coded way harder to begin with until I knew that I liked what I was seeing.",
+      "search": "looking back, honestly, probably should have vibe coded way harder to begin with until i knew that i liked what i was seeing.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:160",
+      "startMs": 697600,
+      "endMs": 700080,
+      "verbatim": "So I'm actually a huge proponent of single-use software.",
+      "display": "So I'm actually a huge proponent of single-use software.",
+      "search": "so i'm actually a huge proponent of single-use software.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:161",
+      "startMs": 700080,
+      "endMs": 703280,
+      "verbatim": "I think single-use software is honestly incredible.",
+      "display": "I think single-use software is honestly incredible.",
+      "search": "i think single-use software is honestly incredible.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:162",
+      "startMs": 703280,
+      "endMs": 705520,
+      "verbatim": "I think we need more single-use software.",
+      "display": "I think we need more single-use software.",
+      "search": "i think we need more single-use software.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:163",
+      "startMs": 705520,
+      "endMs": 713520,
+      "verbatim": "I think you should make all the software you want for yourself, and then you throw away the things you don't like, and the things you really like you start to take seriously.",
+      "display": "I think you should make all the software you want for yourself, and then you throw away the things you don't like, and the things you really like you start to take seriously.",
+      "search": "i think you should make all the software you want for yourself, and then you throw away the things you don't like, and the things you really like you start to take seriously.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:164",
+      "startMs": 713520,
+      "endMs": 719040,
+      "verbatim": "Those are the things you should promote into, hey, let's put a little bit of effort into this, because this is actually something special.",
+      "display": "Those are the things you should promote into, hey, let's put a little bit of effort into this, because this is actually something special.",
+      "search": "those are the things you should promote into, hey, let's put a little bit of effort into this, because this is actually something special.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:165",
+      "startMs": 719040,
+      "endMs": 719920,
+      "verbatim": "So there you go.",
+      "display": "So there you go.",
+      "search": "so there you go.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:166",
+      "startMs": 719920,
+      "endMs": 723200,
+      "verbatim": "That is Codeberg's no LLM in a nutshell.",
+      "display": "That is Codeberg's no LLM in a nutshell.",
+      "search": "that is codeberg's no llm in a nutshell.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:167",
+      "startMs": 723200,
+      "endMs": 733040,
+      "verbatim": "Hopefully, I was able to actually tell you guys what happened, as opposed to being just some sort of crazy person on the internet that either says based or this is the worst thing I've ever heard.",
+      "display": "Hopefully, I was able to actually tell you guys what happened, as opposed to being just some sort of crazy person on the internet that either says based or this is the worst thing I've ever heard.",
+      "search": "hopefully, i was able to actually tell you guys what happened, as opposed to being just some sort of crazy person on the internet that either says based or this is the worst thing i've ever heard.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:168",
+      "startMs": 733040,
+      "endMs": 733600,
+      "verbatim": "Maybe.",
+      "display": "Maybe.",
+      "search": "maybe.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:169",
+      "startMs": 733600,
+      "endMs": 736640,
+      "verbatim": "Just maybe there's a middle ground somewhere in between.",
+      "display": "Just maybe there's a middle ground somewhere in between.",
+      "search": "just maybe there's a middle ground somewhere in between.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:170",
+      "startMs": 736640,
+      "endMs": 760400,
+      "verbatim": "And maybe a small nonprofit that makes its money off of donations and a little bit of membership fees should not be expected to operate in the same way that GitHub operates, a multi-billion dollar corporation backed by a multi-trillion dollar corporation in which uses that platform as a means to train their AI to ultimately attempt to put you out of business and become a multi-10 trillion dollar company.",
+      "display": "And maybe a small nonprofit that makes its money off of donations and a little bit of membership fees should not be expected to operate in the same way that GitHub operates, a multi-billion dollar corporation backed by a multi-trillion dollar corporation in which uses that platform as a means to train their AI to ultimately attempt to put you out of business and become a multi-10 trillion dollar company.",
+      "search": "and maybe a small nonprofit that makes its money off of donations and a little bit of membership fees should not be expected to operate in the same way that github operates, a multi-billion dollar corporation backed by a multi-trillion dollar corporation in which uses that platform as a means to train their ai to ultimately attempt to put you out of business and become a multi-10 trillion dollar company.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:171",
+      "startMs": 760400,
+      "endMs": 764000,
+      "verbatim": "I'm just saying, maybe we should have different expectations.",
+      "display": "I'm just saying, maybe we should have different expectations.",
+      "search": "i'm just saying, maybe we should have different expectations.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:172",
+      "startMs": 764000,
+      "endMs": 769840,
+      "verbatim": "And maybe, just maybe, my phone should not go off in the middle of me going on a soliloquy here.",
+      "display": "And maybe, just maybe, my phone should not go off in the middle of me going on a soliloquy here.",
+      "search": "and maybe, just maybe, my phone should not go off in the middle of me going on a soliloquy here.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:173",
+      "startMs": 769840,
+      "endMs": 773760,
+      "verbatim": "But also, maybe it's okay to have different types of community.",
+      "display": "But also, maybe it's okay to have different types of community.",
+      "search": "but also, maybe it's okay to have different types of community.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:174",
+      "startMs": 773760,
+      "endMs": 778800,
+      "verbatim": "Maybe Codeberg will end up being something special because when you go there, you're going there for the community.",
+      "display": "Maybe Codeberg will end up being something special because when you go there, you're going there for the community.",
+      "search": "maybe codeberg will end up being something special because when you go there, you're going there for the community.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:175",
+      "startMs": 778800,
+      "endMs": 780240,
+      "verbatim": "You're going there for the interaction.",
+      "display": "You're going there for the interaction.",
+      "search": "you're going there for the interaction.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:176",
+      "startMs": 780240,
+      "endMs": 783200,
+      "verbatim": "You're going there because you want to become a better software engineer.",
+      "display": "You're going there because you want to become a better software engineer.",
+      "search": "you're going there because you want to become a better software engineer.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:177",
+      "startMs": 783200,
+      "endMs": 786800,
+      "verbatim": "And then you can go to other places to just vibe out something.",
+      "display": "And then you can go to other places to just vibe out something.",
+      "search": "and then you can go to other places to just vibe out something.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:178",
+      "startMs": 786800,
+      "endMs": 788320,
+      "verbatim": "Totally fine, brother.",
+      "display": "Totally fine, brother.",
+      "search": "totally fine, brother.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:RoHzXoolPTY:segment:179",
+      "startMs": 788320,
+      "endMs": 793000,
+      "verbatim": "The name is I almost am doing a quote from another kingdom at this point a gen.",
+      "display": "The name is I almost am doing a quote from another kingdom at this point a gen.",
+      "search": "the name is i almost am doing a quote from another kingdom at this point a gen.",
+      "confidence": 0.732
+    }
+  ]
+}

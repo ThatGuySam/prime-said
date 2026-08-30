@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:4nJ2tEPD4-k",
+  "platform": "youtube",
+  "platformId": "4nJ2tEPD4-k",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "People Are Mad They're Told to Learn",
+  "description": "Don’t vibe code your auth. Use WorkOS: https://trm.sh/workos\n\nSources:\n\n- https://x.com/mitchellh/status/2079992025261424803\n- https://mitchellh.com/writing/everyone-should-know-simd\n\nTopics Covered:\n\n- Learning SIMD\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=4nJ2tEPD4-k",
+  "publishedAt": "2026-08-03T13:00:08.000Z",
+  "durationMs": 691000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:06:41.217Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:06:41.217Z",
+    "runId": "2026-08-30T21-55-10-406Z-6b8786d8"
+  }
+}

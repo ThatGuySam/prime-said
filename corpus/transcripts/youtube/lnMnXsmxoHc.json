@@ -1,0 +1,2489 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_d60b540f0c800ce5c9142b4e",
+  "sourceId": "youtube:lnMnXsmxoHc",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T21:58:28.576Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:1",
+      "startMs": 0,
+      "endMs": 8480,
+      "verbatim": "There's a computer scientist that is super well known, but a lot of the things that he did during his career are, well, they're unknown.",
+      "display": "There's a computer scientist that is super well known, but a lot of the things that he did during his career are, well, they're unknown.",
+      "search": "there's a computer scientist that is super well known, but a lot of the things that he did during his career are, well, they're unknown.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:2",
+      "startMs": 8480,
+      "endMs": 11840,
+      "verbatim": "I have a good feeling like you know him by his shortest path.",
+      "display": "I have a good feeling like you know him by his shortest path.",
+      "search": "i have a good feeling like you know him by his shortest path.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:3",
+      "startMs": 11840,
+      "endMs": 17120,
+      "verbatim": "Yes, today we are talking about Edgar Dykstra, of course, creator of Dijkstra's shortest path algorithm.",
+      "display": "Yes, today we are talking about Edgar Dykstra, of course, creator of Dijkstra's shortest path algorithm.",
+      "search": "yes, today we are talking about edgar dykstra, of course, creator of dijkstra's shortest path algorithm.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:4",
+      "startMs": 17120,
+      "endMs": 21200,
+      "verbatim": "By the way, you don't love him at his shortest path, you don't deserve him at his longest.",
+      "display": "By the way, you don't love him at his shortest path, you don't deserve him at his longest.",
+      "search": "by the way, you don't love him at his shortest path, you don't deserve him at his longest.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:5",
+      "startMs": 21200,
+      "endMs": 31200,
+      "verbatim": "And today we're going to be celebrating Edgar Dijkstra by giving him the highest known achievement any programmer can possibly receive in their lifetime.",
+      "display": "And today we're going to be celebrating Edgar Dijkstra by giving him the highest known achievement any programmer can possibly receive in their lifetime.",
+      "search": "and today we're going to be celebrating edgar dijkstra by giving him the highest known achievement any programmer can possibly receive in their lifetime.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:6",
+      "startMs": 31200,
+      "endMs": 34400,
+      "verbatim": "The programmer of the month at the startup.",
+      "display": "The programmer of the month at the startup.",
+      "search": "the programmer of the month at the startup.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:7",
+      "startMs": 34400,
+      "endMs": 38720,
+      "verbatim": "Touring Award, Noble Peace Prize, Programmer of the Month.",
+      "display": "Touring Award, Noble Peace Prize, Programmer of the Month.",
+      "search": "touring award, noble peace prize, programmer of the month.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:8",
+      "startMs": 38720,
+      "endMs": 46880,
+      "verbatim": "The thing about Dykstra is he didn't just do the shortest path, which by the way, the way he comes up with the shortest path is just out of control.",
+      "display": "The thing about Dykstra is he didn't just do the shortest path, which by the way, the way he comes up with the shortest path is just out of control.",
+      "search": "the thing about dykstra is he didn't just do the shortest path, which by the way, the way he comes up with the shortest path is just out of control.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:9",
+      "startMs": 46880,
+      "endMs": 52720,
+      "verbatim": "But he actually comes up with many more things that we use to run operating systems and distributed systems.",
+      "display": "But he actually comes up with many more things that we use to run operating systems and distributed systems.",
+      "search": "but he actually comes up with many more things that we use to run operating systems and distributed systems.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:10",
+      "startMs": 52720,
+      "endMs": 61600,
+      "verbatim": "He also did a lot of foundational work that ends up appearing in a lot of the modern languages that you use today, and he prevented one of the greatest disasters in all of programming.",
+      "display": "He also did a lot of foundational work that ends up appearing in a lot of the modern languages that you use today, and he prevented one of the greatest disasters in all of programming.",
+      "search": "he also did a lot of foundational work that ends up appearing in a lot of the modern languages that you use today, and he prevented one of the greatest disasters in all of programming.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:11",
+      "startMs": 61600,
+      "endMs": 67120,
+      "verbatim": "And to top it all off, the man has some one-liners that are just mm-hmm.",
+      "display": "And to top it all off, the man has some one-liners that are just mm-hmm.",
+      "search": "and to top it all off, the man has some one-liners that are just mm-hmm.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:12",
+      "startMs": 67680,
+      "endMs": 72160,
+      "verbatim": "So today we celebrate Edgar Dykstra, programmer of the month.",
+      "display": "So today we celebrate Edgar Dykstra, programmer of the month.",
+      "search": "so today we celebrate edgar dykstra, programmer of the month.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:13",
+      "startMs": 72160,
+      "endMs": 74960,
+      "verbatim": "Now, before we begin, a quick word from the sponsor.",
+      "display": "Now, before we begin, a quick word from the sponsor.",
+      "search": "now, before we begin, a quick word from the sponsor.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:14",
+      "startMs": 74960,
+      "endMs": 77600,
+      "verbatim": "She's he the latest database CEO monthly?",
+      "display": "She's he the latest database CEO monthly?",
+      "search": "she's he the latest database ceo monthly?",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:15",
+      "startMs": 77600,
+      "endMs": 79440,
+      "verbatim": "Whoa, nice uptime.",
+      "display": "Whoa, nice uptime.",
+      "search": "whoa, nice uptime.",
+      "confidence": 0.681
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:16",
+      "startMs": 79440,
+      "endMs": 81440,
+      "verbatim": "I'd love to get my data in that.",
+      "display": "I'd love to get my data in that.",
+      "search": "i'd love to get my data in that.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:17",
+      "startMs": 81440,
+      "endMs": 83760,
+      "verbatim": "You haven't even connected yet?",
+      "display": "You haven't even connected yet?",
+      "search": "you haven't even connected yet?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:18",
+      "startMs": 83760,
+      "endMs": 86080,
+      "verbatim": "We can use my Planet Scale account.",
+      "display": "We can use my Planet Scale account.",
+      "search": "we can use my planet scale account.",
+      "confidence": 0.682
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:19",
+      "startMs": 86080,
+      "endMs": 88560,
+      "verbatim": "It's called PlanetScale, and it's really rad.",
+      "display": "It's called PlanetScale, and it's really rad.",
+      "search": "it's called planetscale, and it's really rad.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:20",
+      "startMs": 88560,
+      "endMs": 91120,
+      "verbatim": "Those database queries are super fast.",
+      "display": "Those database queries are super fast.",
+      "search": "those database queries are super fast.",
+      "confidence": 0.663
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:21",
+      "startMs": 91120,
+      "endMs": 93520,
+      "verbatim": "Branches migrations query insights too.",
+      "display": "Branches migrations query insights too.",
+      "search": "branches migrations query insights too.",
+      "confidence": 0.654
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:22",
+      "startMs": 93520,
+      "endMs": 95840,
+      "verbatim": "MySQL and Postgres are easy to use.",
+      "display": "MySQL and Postgres are easy to use.",
+      "search": "mysql and postgres are easy to use.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:23",
+      "startMs": 95840,
+      "endMs": 97840,
+      "verbatim": "Yeah, go PlanetScale.",
+      "display": "Yeah, go PlanetScale.",
+      "search": "yeah, go planetscale.",
+      "confidence": 0.579
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:24",
+      "startMs": 97840,
+      "endMs": 98800,
+      "verbatim": "Get data.",
+      "display": "Get data.",
+      "search": "get data.",
+      "confidence": 0.448
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:25",
+      "startMs": 101040,
+      "endMs": 102320,
+      "verbatim": "It's Postgres.",
+      "display": "It's Postgres.",
+      "search": "it's postgres.",
+      "confidence": 0.641
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:26",
+      "startMs": 102320,
+      "endMs": 105840,
+      "verbatim": "Planet Scale, the easiest MySQL or Postgres database to use.",
+      "display": "Planet Scale, the easiest MySQL or Postgres database to use.",
+      "search": "planet scale, the easiest mysql or postgres database to use.",
+      "confidence": 0.743
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:27",
+      "startMs": 105840,
+      "endMs": 108160,
+      "verbatim": "Your developers or parents help you hook it up.",
+      "display": "Your developers or parents help you hook it up.",
+      "search": "your developers or parents help you hook it up.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:28",
+      "startMs": 108160,
+      "endMs": 109840,
+      "verbatim": "Data sold separately.",
+      "display": "Data sold separately.",
+      "search": "data sold separately.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:29",
+      "startMs": 109840,
+      "endMs": 110560,
+      "verbatim": "Welcome back.",
+      "display": "Welcome back.",
+      "search": "welcome back.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:30",
+      "startMs": 110560,
+      "endMs": 117040,
+      "verbatim": "Alright, before we get to know Dykstra, the legendary computer scientist, let's learn a little bit about his early years.",
+      "display": "Alright, before we get to know Dykstra, the legendary computer scientist, let's learn a little bit about his early years.",
+      "search": "alright, before we get to know dykstra, the legendary computer scientist, let's learn a little bit about his early years.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:31",
+      "startMs": 117040,
+      "endMs": 120160,
+      "verbatim": "Dykstra was born in Rotterdam in 1930.",
+      "display": "Dykstra was born in Rotterdam in 1930.",
+      "search": "dykstra was born in rotterdam in 1930.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:32",
+      "startMs": 120160,
+      "endMs": 129840,
+      "verbatim": "He described his father, at one time the president of the Dutch Chemical Society, as an excellent chemist, and his mother, a brilliant mathematician who had no job.",
+      "display": "He described his father, at one time the president of the Dutch Chemical Society, as an excellent chemist, and his mother, a brilliant mathematician who had no job.",
+      "search": "he described his father, at one time the president of the dutch chemical society, as an excellent chemist, and his mother, a brilliant mathematician who had no job.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:33",
+      "startMs": 129840,
+      "endMs": 130560,
+      "verbatim": "Huh.",
+      "display": "Huh.",
+      "search": "huh.",
+      "confidence": 0.703
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:34",
+      "startMs": 130560,
+      "endMs": 132720,
+      "verbatim": "Sounds like any mathematician I know.",
+      "display": "Sounds like any mathematician I know.",
+      "search": "sounds like any mathematician i know.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:35",
+      "startMs": 132720,
+      "endMs": 138800,
+      "verbatim": "In 1951, Dijkstra's father suggested he attend a three-week course on programming in Cambridge.",
+      "display": "In 1951, Dijkstra's father suggested he attend a three-week course on programming in Cambridge.",
+      "search": "in 1951, dijkstra's father suggested he attend a three-week course on programming in cambridge.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:36",
+      "startMs": 138800,
+      "endMs": 141920,
+      "verbatim": "It turned out to be an idea with far-reaching consequences.",
+      "display": "It turned out to be an idea with far-reaching consequences.",
+      "search": "it turned out to be an idea with far-reaching consequences.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:37",
+      "startMs": 141920,
+      "endMs": 142320,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:38",
+      "startMs": 142320,
+      "endMs": 153360,
+      "verbatim": "That little tiny suggestion by his father, those three weeks changed the course of computing history by getting Dijkstra to get off the track of physics and onto the real and pure science of computing.",
+      "display": "That little tiny suggestion by his father, those three weeks changed the course of computing history by getting Dijkstra to get off the track of physics and onto the real and pure science of computing.",
+      "search": "that little tiny suggestion by his father, those three weeks changed the course of computing history by getting dijkstra to get off the track of physics and onto the real and pure science of computing.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:39",
+      "startMs": 153360,
+      "endMs": 158880,
+      "verbatim": "Now, the early part of Dijkstra's career started off in the Center of Mathematics.",
+      "display": "Now, the early part of Dijkstra's career started off in the Center of Mathematics.",
+      "search": "now, the early part of dijkstra's career started off in the center of mathematics.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:40",
+      "startMs": 158880,
+      "endMs": 162720,
+      "verbatim": "This is where he studied computing and defended his PhD thesis.",
+      "display": "This is where he studied computing and defended his PhD thesis.",
+      "search": "this is where he studied computing and defended his phd thesis.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:41",
+      "startMs": 162720,
+      "endMs": 166080,
+      "verbatim": "He was there from 1952 to 1962.",
+      "display": "He was there from 1952 to 1962.",
+      "search": "he was there from 1952 to 1962.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:42",
+      "startMs": 166080,
+      "endMs": 173920,
+      "verbatim": "Now he received his PhD in 1959, but he actually created the shortest path algorithm in 1956.",
+      "display": "Now he received his PhD in 1959, but he actually created the shortest path algorithm in 1956.",
+      "search": "now he received his phd in 1959, but he actually created the shortest path algorithm in 1956.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:43",
+      "startMs": 173920,
+      "endMs": 176480,
+      "verbatim": "And the story for it is just so dang good.",
+      "display": "And the story for it is just so dang good.",
+      "search": "and the story for it is just so dang good.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:44",
+      "startMs": 176480,
+      "endMs": 180880,
+      "verbatim": "One morning I was shopping in Amsterdam with my young fiance and tired.",
+      "display": "One morning I was shopping in Amsterdam with my young fiance and tired.",
+      "search": "one morning i was shopping in amsterdam with my young fiance and tired.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:45",
+      "startMs": 180880,
+      "endMs": 183920,
+      "verbatim": "And we sat down on the cafe terrace to drink a cup of coffee.",
+      "display": "And we sat down on the cafe terrace to drink a cup of coffee.",
+      "search": "and we sat down on the cafe terrace to drink a cup of coffee.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:46",
+      "startMs": 183920,
+      "endMs": 186000,
+      "verbatim": "And I was just thinking about whether I could do this.",
+      "display": "And I was just thinking about whether I could do this.",
+      "search": "and i was just thinking about whether i could do this.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:47",
+      "startMs": 186000,
+      "endMs": 189600,
+      "verbatim": "Of course, this being the shortest path from Rotterdam to Groningen.",
+      "display": "Of course, this being the shortest path from Rotterdam to Groningen.",
+      "search": "of course, this being the shortest path from rotterdam to groningen.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:48",
+      "startMs": 192000,
+      "endMs": 194000,
+      "verbatim": "The name the name is Groningen.",
+      "display": "The name the name is Groningen.",
+      "search": "the name the name is groningen.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:49",
+      "startMs": 194000,
+      "endMs": 196000,
+      "verbatim": "So he was already thinking about the shortest path.",
+      "display": "So he was already thinking about the shortest path.",
+      "search": "so he was already thinking about the shortest path.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:50",
+      "startMs": 196000,
+      "endMs": 198480,
+      "verbatim": "And then I designed the algorithm for the shortest path.",
+      "display": "And then I designed the algorithm for the shortest path.",
+      "search": "and then i designed the algorithm for the shortest path.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:51",
+      "startMs": 198480,
+      "endMs": 201040,
+      "verbatim": "And as I said, it was about a 20-minute invention.",
+      "display": "And as I said, it was about a 20-minute invention.",
+      "search": "and as i said, it was about a 20-minute invention.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:52",
+      "startMs": 201040,
+      "endMs": 203760,
+      "verbatim": "In fact, it was published in 1959, three years late.",
+      "display": "In fact, it was published in 1959, three years late.",
+      "search": "in fact, it was published in 1959, three years late.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:53",
+      "startMs": 203760,
+      "endMs": 205280,
+      "verbatim": "The publication is still readable.",
+      "display": "The publication is still readable.",
+      "search": "the publication is still readable.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:54",
+      "startMs": 205280,
+      "endMs": 206960,
+      "verbatim": "It is, in fact, quite a nice one.",
+      "display": "It is, in fact, quite a nice one.",
+      "search": "it is, in fact, quite a nice one.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:55",
+      "startMs": 207040,
+      "endMs": 209200,
+      "verbatim": "Sykes was really just patting himself on the back.",
+      "display": "Sykes was really just patting himself on the back.",
+      "search": "sykes was really just patting himself on the back.",
+      "confidence": 0.658
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:56",
+      "startMs": 209200,
+      "endMs": 214720,
+      "verbatim": "By the way, that entire paragraph moged everybody several times over.",
+      "display": "By the way, that entire paragraph moged everybody several times over.",
+      "search": "by the way, that entire paragraph moged everybody several times over.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:57",
+      "startMs": 214720,
+      "endMs": 219040,
+      "verbatim": "He was just off having a nice cup of coffee, a little tired from shopping.",
+      "display": "He was just off having a nice cup of coffee, a little tired from shopping.",
+      "search": "he was just off having a nice cup of coffee, a little tired from shopping.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:58",
+      "startMs": 219040,
+      "endMs": 222400,
+      "verbatim": "Oh man, I just not, you know, uh, it's kind of difficult.",
+      "display": "Oh man, I just not, you know, uh, it's kind of difficult.",
+      "search": "oh man, i just not, you know, uh, it's kind of difficult.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:59",
+      "startMs": 222400,
+      "endMs": 229920,
+      "verbatim": "Here, let me just do a quick invention that's gonna blow the minds of the world, make gaming super awesome, and also make networks possible.",
+      "display": "Here, let me just do a quick invention that's gonna blow the minds of the world, make gaming super awesome, and also make networks possible.",
+      "search": "here, let me just do a quick invention that's gonna blow the minds of the world, make gaming super awesome, and also make networks possible.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:60",
+      "startMs": 229920,
+      "endMs": 230560,
+      "verbatim": "Oh yeah.",
+      "display": "Oh yeah.",
+      "search": "oh yeah.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:61",
+      "startMs": 230560,
+      "endMs": 234640,
+      "verbatim": "He's also gonna do it in 20 minutes without a whiteboard, just his brain.",
+      "display": "He's also gonna do it in 20 minutes without a whiteboard, just his brain.",
+      "search": "he's also gonna do it in 20 minutes without a whiteboard, just his brain.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:62",
+      "startMs": 234640,
+      "endMs": 242080,
+      "verbatim": "You know, sometimes I like to pretend myself a smart man, but I uh this this is just mogging, okay?",
+      "display": "You know, sometimes I like to pretend myself a smart man, but I uh this this is just mogging, okay?",
+      "search": "you know, sometimes i like to pretend myself a smart man, but i uh this this is just mogging, okay?",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:63",
+      "startMs": 242240,
+      "endMs": 245360,
+      "verbatim": "There's nothing, there's nothing I can do in the light of his intellect, okay?",
+      "display": "There's nothing, there's nothing I can do in the light of his intellect, okay?",
+      "search": "there's nothing, there's nothing i can do in the light of his intellect, okay?",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:64",
+      "startMs": 245360,
+      "endMs": 247840,
+      "verbatim": "I I am like a caveman.",
+      "display": "I I am like a caveman.",
+      "search": "i i am like a caveman.",
+      "confidence": 0.617
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:65",
+      "startMs": 247840,
+      "endMs": 253120,
+      "verbatim": "I feel like the guy on idiocracy trying to put the square block into the round hole.",
+      "display": "I feel like the guy on idiocracy trying to put the square block into the round hole.",
+      "search": "i feel like the guy on idiocracy trying to put the square block into the round hole.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:66",
+      "startMs": 253120,
+      "endMs": 259040,
+      "verbatim": "Now, right around when he defended his PhD thesis, he started to work on the Algo 60 compiler.",
+      "display": "Now, right around when he defended his PhD thesis, he started to work on the Algo 60 compiler.",
+      "search": "now, right around when he defended his phd thesis, he started to work on the algo 60 compiler.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:67",
+      "startMs": 259040,
+      "endMs": 260560,
+      "verbatim": "Now, this was an impressive feat.",
+      "display": "Now, this was an impressive feat.",
+      "search": "now, this was an impressive feat.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:68",
+      "startMs": 260560,
+      "endMs": 264720,
+      "verbatim": "First off, algal is a computing language that's going to be a high-level language.",
+      "display": "First off, algal is a computing language that's going to be a high-level language.",
+      "search": "first off, algal is a computing language that's going to be a high-level language.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:69",
+      "startMs": 264720,
+      "endMs": 267440,
+      "verbatim": "This is one of the first ones kind of really entering the scene.",
+      "display": "This is one of the first ones kind of really entering the scene.",
+      "search": "this is one of the first ones kind of really entering the scene.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:70",
+      "startMs": 267440,
+      "endMs": 276320,
+      "verbatim": "And second, it's not just that you're building a compiler which had relatively low amounts of study comparison to what we have today, but it's also the machine that it ran on.",
+      "display": "And second, it's not just that you're building a compiler which had relatively low amounts of study comparison to what we have today, but it's also the machine that it ran on.",
+      "search": "and second, it's not just that you're building a compiler which had relatively low amounts of study comparison to what we have today, but it's also the machine that it ran on.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:71",
+      "startMs": 276320,
+      "endMs": 280000,
+      "verbatim": "The most obvious problem the pair faced, by the way, the pair would be Mr.",
+      "display": "The most obvious problem the pair faced, by the way, the pair would be Mr.",
+      "search": "the most obvious problem the pair faced, by the way, the pair would be mr.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:72",
+      "startMs": 280240,
+      "endMs": 282320,
+      "verbatim": "Dykes run along with it, Dr.",
+      "display": "Dykes run along with it, Dr.",
+      "search": "dykes run along with it, dr.",
+      "confidence": 0.696
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:73",
+      "startMs": 282320,
+      "endMs": 291360,
+      "verbatim": "Zonneveld, was that the machine designated to run the software, the Dutch Electrologica X1 computer, had a memory of only 4,096 words.",
+      "display": "Zonneveld, was that the machine designated to run the software, the Dutch Electrologica X1 computer, had a memory of only 4,096 words.",
+      "search": "zonneveld, was that the machine designated to run the software, the dutch electrologica x1 computer, had a memory of only 4,096 words.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:74",
+      "startMs": 291360,
+      "endMs": 295120,
+      "verbatim": "Now, you may not be familiar with the term word, that's just gonna be a chunk of memory.",
+      "display": "Now, you may not be familiar with the term word, that's just gonna be a chunk of memory.",
+      "search": "now, you may not be familiar with the term word, that's just gonna be a chunk of memory.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:75",
+      "startMs": 295120,
+      "endMs": 298720,
+      "verbatim": "Specifically for this machine, it was 27 bits per word.",
+      "display": "Specifically for this machine, it was 27 bits per word.",
+      "search": "specifically for this machine, it was 27 bits per word.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:76",
+      "startMs": 298720,
+      "endMs": 305520,
+      "verbatim": "I know this was I mean, during this time, computing was so out of control, powers of two weren't even the standard.",
+      "display": "I know this was I mean, during this time, computing was so out of control, powers of two weren't even the standard.",
+      "search": "i know this was i mean, during this time, computing was so out of control, powers of two weren't even the standard.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:77",
+      "startMs": 305520,
+      "endMs": 307120,
+      "verbatim": "27 bits.",
+      "display": "27 bits.",
+      "search": "27 bits.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:78",
+      "startMs": 307120,
+      "endMs": 308160,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.243
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:79",
+      "startMs": 308160,
+      "endMs": 310400,
+      "verbatim": "What are we gonna do with 27 bits?",
+      "display": "What are we gonna do with 27 bits?",
+      "search": "what are we gonna do with 27 bits?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:80",
+      "startMs": 310400,
+      "endMs": 313120,
+      "verbatim": "I bet he would kill a byte for some more memory.",
+      "display": "I bet he would kill a byte for some more memory.",
+      "search": "i bet he would kill a byte for some more memory.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:81",
+      "startMs": 313120,
+      "endMs": 317920,
+      "verbatim": "By comparison, the memory of a present-day laptop is larger by a factor of a million.",
+      "display": "By comparison, the memory of a present-day laptop is larger by a factor of a million.",
+      "search": "by comparison, the memory of a present-day laptop is larger by a factor of a million.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:82",
+      "startMs": 317920,
+      "endMs": 322400,
+      "verbatim": "But towards the end of his eight-month stint with Algo 60, he separated ways.",
+      "display": "But towards the end of his eight-month stint with Algo 60, he separated ways.",
+      "search": "but towards the end of his eight-month stint with algo 60, he separated ways.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:83",
+      "startMs": 322560,
+      "endMs": 331200,
+      "verbatim": "Algo 60 was designed by an international committee, and although Dykstra attended several meetings during the design process, his name does not appear among the 13 editors of the final report.",
+      "display": "Algo 60 was designed by an international committee, and although Dykstra attended several meetings during the design process, his name does not appear among the 13 editors of the final report.",
+      "search": "algo 60 was designed by an international committee, and although dykstra attended several meetings during the design process, his name does not appear among the 13 editors of the final report.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:84",
+      "startMs": 331200,
+      "endMs": 335840,
+      "verbatim": "Apparently, he disagreed with a number of majority opinions and withdrew from the committee.",
+      "display": "Apparently, he disagreed with a number of majority opinions and withdrew from the committee.",
+      "search": "apparently, he disagreed with a number of majority opinions and withdrew from the committee.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:85",
+      "startMs": 335840,
+      "endMs": 340320,
+      "verbatim": "This was perhaps the first public sign of his fiercely held independence.",
+      "display": "This was perhaps the first public sign of his fiercely held independence.",
+      "search": "this was perhaps the first public sign of his fiercely held independence.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:86",
+      "startMs": 340320,
+      "endMs": 354320,
+      "verbatim": "In 1962, he ends up leaving the mathematical center and heads on over to the Ayn Hooven University of Technology, where a lot of his work, the things that you use, the things that you rely on, happened and you probably don't even know they happened.",
+      "display": "In 1962, he ends up leaving the mathematical center and heads on over to the Ayn Hooven University of Technology, where a lot of his work, the things that you use, the things that you rely on, happened and you probably don't even know they happened.",
+      "search": "in 1962, he ends up leaving the mathematical center and heads on over to the ayn hooven university of technology, where a lot of his work, the things that you use, the things that you rely on, happened and you probably don't even know they happened.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:87",
+      "startMs": 354320,
+      "endMs": 354720,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.632
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:88",
+      "startMs": 354720,
+      "endMs": 357600,
+      "verbatim": "Well, you just a jerk maneuver right there.",
+      "display": "Well, you just a jerk maneuver right there.",
+      "search": "well, you just a jerk maneuver right there.",
+      "confidence": 0.546
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:89",
+      "startMs": 357600,
+      "endMs": 369520,
+      "verbatim": "Now when Dykstra goes to the university, he starts working on the multi-programming operating system, where his love of parallel programming was fostered, and he ended up coming up with a lot of really cool concepts.",
+      "display": "Now when Dykstra goes to the university, he starts working on the multi-programming operating system, where his love of parallel programming was fostered, and he ended up coming up with a lot of really cool concepts.",
+      "search": "now when dykstra goes to the university, he starts working on the multi-programming operating system, where his love of parallel programming was fostered, and he ended up coming up with a lot of really cool concepts.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:90",
+      "startMs": 369520,
+      "endMs": 372640,
+      "verbatim": "This work was taken from EWD 123.",
+      "display": "This work was taken from EWD 123.",
+      "search": "this work was taken from ewd 123.",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:91",
+      "startMs": 372640,
+      "endMs": 376240,
+      "verbatim": "Hey, you're probably wondering what the heck is an EWD123?",
+      "display": "Hey, you're probably wondering what the heck is an EWD123?",
+      "search": "hey, you're probably wondering what the heck is an ewd123?",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:92",
+      "startMs": 376240,
+      "endMs": 377280,
+      "verbatim": "Well, it's actually pretty simple.",
+      "display": "Well, it's actually pretty simple.",
+      "search": "well, it's actually pretty simple.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:93",
+      "startMs": 377280,
+      "endMs": 388080,
+      "verbatim": "EWD is just Edgar's initials, but the 123 is the 123rd post in his little kind of blogging series, kind of handwritten letters that he would send out to other academics.",
+      "display": "EWD is just Edgar's initials, but the 123 is the 123rd post in his little kind of blogging series, kind of handwritten letters that he would send out to other academics.",
+      "search": "ewd is just edgar's initials, but the 123 is the 123rd post in his little kind of blogging series, kind of handwritten letters that he would send out to other academics.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:94",
+      "startMs": 388080,
+      "endMs": 390480,
+      "verbatim": "He effectively was a YouTuber in his day.",
+      "display": "He effectively was a YouTuber in his day.",
+      "search": "he effectively was a youtuber in his day.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:95",
+      "startMs": 390480,
+      "endMs": 391600,
+      "verbatim": "He's just like me.",
+      "display": "He's just like me.",
+      "search": "he's just like me.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:96",
+      "startMs": 392080,
+      "endMs": 395520,
+      "verbatim": "Except for he was smart and probably pretty good looking.",
+      "display": "Except for he was smart and probably pretty good looking.",
+      "search": "except for he was smart and probably pretty good looking.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:97",
+      "startMs": 395520,
+      "endMs": 400800,
+      "verbatim": "An extensive 87-page report titled Cooperating Sequential Processes.",
+      "display": "An extensive 87-page report titled Cooperating Sequential Processes.",
+      "search": "an extensive 87-page report titled cooperating sequential processes.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:98",
+      "startMs": 400800,
+      "endMs": 403600,
+      "verbatim": "Now you're probably thinking, like, hey, Prime, is that is that the Go thing?",
+      "display": "Now you're probably thinking, like, hey, Prime, is that is that the Go thing?",
+      "search": "now you're probably thinking, like, hey, prime, is that is that the go thing?",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:99",
+      "startMs": 403600,
+      "endMs": 404400,
+      "verbatim": "Is that Go Funks?",
+      "display": "Is that Go Funks?",
+      "search": "is that go funks?",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:100",
+      "startMs": 404400,
+      "endMs": 405760,
+      "verbatim": "No, no, no, no, no, no, no.",
+      "display": "No, no, no, no, no, no, no.",
+      "search": "no, no, no, no, no, no, no.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:101",
+      "startMs": 405760,
+      "endMs": 407680,
+      "verbatim": "This is kind of the first version of it.",
+      "display": "This is kind of the first version of it.",
+      "search": "this is kind of the first version of it.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:102",
+      "startMs": 407680,
+      "endMs": 417280,
+      "verbatim": "Later on, Tony Hoare, with some inspiration from Edgar Dijkstra, ended up writing communicating sequential processes, which became the foundation of Go Funk.",
+      "display": "Later on, Tony Hoare, with some inspiration from Edgar Dijkstra, ended up writing communicating sequential processes, which became the foundation of Go Funk.",
+      "search": "later on, tony hoare, with some inspiration from edgar dijkstra, ended up writing communicating sequential processes, which became the foundation of go funk.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:103",
+      "startMs": 417280,
+      "endMs": 423600,
+      "verbatim": "Now, in the same report, he introduced the first known synchronization primitive, which he termed semaphore.",
+      "display": "Now, in the same report, he introduced the first known synchronization primitive, which he termed semaphore.",
+      "search": "now, in the same report, he introduced the first known synchronization primitive, which he termed semaphore.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:104",
+      "startMs": 423600,
+      "endMs": 424720,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:105",
+      "startMs": 424720,
+      "endMs": 430880,
+      "verbatim": "He created the semaphore, which was the basic and the first kind of version of a mutex, a semaphore of with one.",
+      "display": "He created the semaphore, which was the basic and the first kind of version of a mutex, a semaphore of with one.",
+      "search": "he created the semaphore, which was the basic and the first kind of version of a mutex, a semaphore of with one.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:106",
+      "startMs": 430880,
+      "endMs": 432400,
+      "verbatim": "That's just a mutex.",
+      "display": "That's just a mutex.",
+      "search": "that's just a mutex.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:107",
+      "startMs": 432400,
+      "endMs": 442000,
+      "verbatim": "Obviously, not modern, the sweet, amazing mutexes with the thread and recursion and all these kind of things, but the very first standard version, just a semaphore.",
+      "display": "Obviously, not modern, the sweet, amazing mutexes with the thread and recursion and all these kind of things, but the very first standard version, just a semaphore.",
+      "search": "obviously, not modern, the sweet, amazing mutexes with the thread and recursion and all these kind of things, but the very first standard version, just a semaphore.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:108",
+      "startMs": 442000,
+      "endMs": 444720,
+      "verbatim": "Now you may not be familiar with what a semaphore is.",
+      "display": "Now you may not be familiar with what a semaphore is.",
+      "search": "now you may not be familiar with what a semaphore is.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:109",
+      "startMs": 444720,
+      "endMs": 445840,
+      "verbatim": "It's pretty simple.",
+      "display": "It's pretty simple.",
+      "search": "it's pretty simple.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:110",
+      "startMs": 445840,
+      "endMs": 450560,
+      "verbatim": "Let's imagine you have this thing right here, which is a lock, and you can put a number on it.",
+      "display": "Let's imagine you have this thing right here, which is a lock, and you can put a number on it.",
+      "search": "let's imagine you have this thing right here, which is a lock, and you can put a number on it.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:111",
+      "startMs": 450560,
+      "endMs": 460240,
+      "verbatim": "Let's just say we have a number of one, and you have a bunch of threads that are all going into this, trying to say, reach or touch some sort of value or mutate some sort of value.",
+      "display": "Let's just say we have a number of one, and you have a bunch of threads that are all going into this, trying to say, reach or touch some sort of value or mutate some sort of value.",
+      "search": "let's just say we have a number of one, and you have a bunch of threads that are all going into this, trying to say, reach or touch some sort of value or mutate some sort of value.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:112",
+      "startMs": 460240,
+      "endMs": 467360,
+      "verbatim": "Well, you can't have all these extremely and well-drawn straight lines go in and mutate the same value at the same time.",
+      "display": "Well, you can't have all these extremely and well-drawn straight lines go in and mutate the same value at the same time.",
+      "search": "well, you can't have all these extremely and well-drawn straight lines go in and mutate the same value at the same time.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:113",
+      "startMs": 467360,
+      "endMs": 468800,
+      "verbatim": "That creates a data race.",
+      "display": "That creates a data race.",
+      "search": "that creates a data race.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:114",
+      "startMs": 468800,
+      "endMs": 476640,
+      "verbatim": "So what you do is you have a little lock, and whichever one arrives first takes this number and down like decrements it atomically.",
+      "display": "So what you do is you have a little lock, and whichever one arrives first takes this number and down like decrements it atomically.",
+      "search": "so what you do is you have a little lock, and whichever one arrives first takes this number and down like decrements it atomically.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:115",
+      "startMs": 476640,
+      "endMs": 478000,
+      "verbatim": "Oh no, it's at zero.",
+      "display": "Oh no, it's at zero.",
+      "search": "oh no, it's at zero.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:116",
+      "startMs": 478000,
+      "endMs": 479360,
+      "verbatim": "Nobody else can go in.",
+      "display": "Nobody else can go in.",
+      "search": "nobody else can go in.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:117",
+      "startMs": 479360,
+      "endMs": 483840,
+      "verbatim": "So this guy goes in, does whatever, you know, maneuvers he needs to, and gets on out.",
+      "display": "So this guy goes in, does whatever, you know, maneuvers he needs to, and gets on out.",
+      "search": "so this guy goes in, does whatever, you know, maneuvers he needs to, and gets on out.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:118",
+      "startMs": 483840,
+      "endMs": 488560,
+      "verbatim": "Next person can go in, decrement, do whatever they need to, and go out.",
+      "display": "Next person can go in, decrement, do whatever they need to, and go out.",
+      "search": "next person can go in, decrement, do whatever they need to, and go out.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:119",
+      "startMs": 488560,
+      "endMs": 492000,
+      "verbatim": "The next person goes in, does whatever it needs to, and leaves.",
+      "display": "The next person goes in, does whatever it needs to, and leaves.",
+      "search": "the next person goes in, does whatever it needs to, and leaves.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:120",
+      "startMs": 492000,
+      "endMs": 497520,
+      "verbatim": "Each time they leave, you can imagine they increment the number and the next person decrement, increment, decrements, increments.",
+      "display": "Each time they leave, you can imagine they increment the number and the next person decrement, increment, decrements, increments.",
+      "search": "each time they leave, you can imagine they increment the number and the next person decrement, increment, decrements, increments.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:121",
+      "startMs": 497520,
+      "endMs": 498640,
+      "verbatim": "You get the idea.",
+      "display": "You get the idea.",
+      "search": "you get the idea.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:122",
+      "startMs": 498640,
+      "endMs": 502960,
+      "verbatim": "This effectively allows only so many things through at the same time.",
+      "display": "This effectively allows only so many things through at the same time.",
+      "search": "this effectively allows only so many things through at the same time.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:123",
+      "startMs": 502960,
+      "endMs": 508240,
+      "verbatim": "Now there's probably a bit more complication than's going on, but this is just like the simplest way to look at it.",
+      "display": "Now there's probably a bit more complication than's going on, but this is just like the simplest way to look at it.",
+      "search": "now there's probably a bit more complication than's going on, but this is just like the simplest way to look at it.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:124",
+      "startMs": 508240,
+      "endMs": 513120,
+      "verbatim": "He also identified the deadlock problem, which he named the deadly embrace.",
+      "display": "He also identified the deadlock problem, which he named the deadly embrace.",
+      "search": "he also identified the deadlock problem, which he named the deadly embrace.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:125",
+      "startMs": 513120,
+      "endMs": 515680,
+      "verbatim": "Now you're thinking, what is this?",
+      "display": "Now you're thinking, what is this?",
+      "search": "now you're thinking, what is this?",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:126",
+      "startMs": 515680,
+      "endMs": 516560,
+      "verbatim": "A Greek tragedy?",
+      "display": "A Greek tragedy?",
+      "search": "a greek tragedy?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:127",
+      "startMs": 516560,
+      "endMs": 518960,
+      "verbatim": "Is this this is Odysseus going out somewhere?",
+      "display": "Is this this is Odysseus going out somewhere?",
+      "search": "is this this is odysseus going out somewhere?",
+      "confidence": 0.694
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:128",
+      "startMs": 518960,
+      "endMs": 522400,
+      "verbatim": "Yes, the deadly embrace, which by the way, amazing name.",
+      "display": "Yes, the deadly embrace, which by the way, amazing name.",
+      "search": "yes, the deadly embrace, which by the way, amazing name.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:129",
+      "startMs": 522400,
+      "endMs": 527520,
+      "verbatim": "Also, pretty sure it's a slay the spire card, if I'm not mistaken.",
+      "display": "Also, pretty sure it's a slay the spire card, if I'm not mistaken.",
+      "search": "also, pretty sure it's a slay the spire card, if i'm not mistaken.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:130",
+      "startMs": 527520,
+      "endMs": 532640,
+      "verbatim": "If it was up to me, I think we should continue to call it the Deadly Embrace and not a deadlock.",
+      "display": "If it was up to me, I think we should continue to call it the Deadly Embrace and not a deadlock.",
+      "search": "if it was up to me, i think we should continue to call it the deadly embrace and not a deadlock.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:131",
+      "startMs": 532640,
+      "endMs": 538640,
+      "verbatim": "To give you the simplest explanation, let's pretend we had some sort of database resource, and it was like a mutex.",
+      "display": "To give you the simplest explanation, let's pretend we had some sort of database resource, and it was like a mutex.",
+      "search": "to give you the simplest explanation, let's pretend we had some sort of database resource, and it was like a mutex.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:132",
+      "startMs": 538640,
+      "endMs": 542000,
+      "verbatim": "You can only have one person owning that resource at a time.",
+      "display": "You can only have one person owning that resource at a time.",
+      "search": "you can only have one person owning that resource at a time.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:133",
+      "startMs": 542000,
+      "endMs": 544960,
+      "verbatim": "And let's pretend that there's two different threads running.",
+      "display": "And let's pretend that there's two different threads running.",
+      "search": "and let's pretend that there's two different threads running.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:134",
+      "startMs": 544960,
+      "endMs": 546400,
+      "verbatim": "We have A and we have B.",
+      "display": "We have A and we have B.",
+      "search": "we have a and we have b.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:135",
+      "startMs": 546400,
+      "endMs": 548080,
+      "verbatim": "Now, these guys can run independently.",
+      "display": "Now, these guys can run independently.",
+      "search": "now, these guys can run independently.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:136",
+      "startMs": 548080,
+      "endMs": 550400,
+      "verbatim": "They don't rely on each other, everything's fantastic.",
+      "display": "They don't rely on each other, everything's fantastic.",
+      "search": "they don't rely on each other, everything's fantastic.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:137",
+      "startMs": 550400,
+      "endMs": 552800,
+      "verbatim": "And A goes, hey, I want to use the database.",
+      "display": "And A goes, hey, I want to use the database.",
+      "search": "and a goes, hey, i want to use the database.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:138",
+      "startMs": 552800,
+      "endMs": 556240,
+      "verbatim": "But unfortunately, B already has a lock on the database.",
+      "display": "But unfortunately, B already has a lock on the database.",
+      "search": "but unfortunately, b already has a lock on the database.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:139",
+      "startMs": 556240,
+      "endMs": 558080,
+      "verbatim": "So A is just gonna sit there and wait.",
+      "display": "So A is just gonna sit there and wait.",
+      "search": "so a is just gonna sit there and wait.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:140",
+      "startMs": 558080,
+      "endMs": 561360,
+      "verbatim": "You know, it's just gonna be a happy little boy hanging out, having a good time.",
+      "display": "You know, it's just gonna be a happy little boy hanging out, having a good time.",
+      "search": "you know, it's just gonna be a happy little boy hanging out, having a good time.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:141",
+      "startMs": 561360,
+      "endMs": 564160,
+      "verbatim": "Well, what happened if B is like handy the result from A?",
+      "display": "Well, what happened if B is like handy the result from A?",
+      "search": "well, what happened if b is like handy the result from a?",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:142",
+      "startMs": 564160,
+      "endMs": 564960,
+      "verbatim": "What's gonna happen?",
+      "display": "What's gonna happen?",
+      "search": "what's gonna happen?",
+      "confidence": 0.994
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:143",
+      "startMs": 564960,
+      "endMs": 568240,
+      "verbatim": "Well, A's waiting for B, but B's waiting for A.",
+      "display": "Well, A's waiting for B, but B's waiting for A.",
+      "search": "well, a's waiting for b, but b's waiting for a.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:144",
+      "startMs": 568240,
+      "endMs": 570400,
+      "verbatim": "Deadly embrace.",
+      "display": "Deadly embrace.",
+      "search": "deadly embrace.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:145",
+      "startMs": 570400,
+      "endMs": 572000,
+      "verbatim": "They've embraced each other.",
+      "display": "They've embraced each other.",
+      "search": "they've embraced each other.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:146",
+      "startMs": 572000,
+      "endMs": 573360,
+      "verbatim": "Deadly like.",
+      "display": "Deadly like.",
+      "search": "deadly like.",
+      "confidence": 0.607
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:147",
+      "startMs": 574640,
+      "endMs": 577360,
+      "verbatim": "See, this is why I'm not the smart guy.",
+      "display": "See, this is why I'm not the smart guy.",
+      "search": "see, this is why i'm not the smart guy.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:148",
+      "startMs": 577360,
+      "endMs": 580720,
+      "verbatim": "This is why I don't have my own prime one, two, three.",
+      "display": "This is why I don't have my own prime one, two, three.",
+      "search": "this is why i don't have my own prime one, two, three.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:149",
+      "startMs": 580720,
+      "endMs": 588800,
+      "verbatim": "The mutual exclusion problem, along with deadlock detection and prevention, are now mandatory topics in courses on operating systems and parallel programming.",
+      "display": "The mutual exclusion problem, along with deadlock detection and prevention, are now mandatory topics in courses on operating systems and parallel programming.",
+      "search": "the mutual exclusion problem, along with deadlock detection and prevention, are now mandatory topics in courses on operating systems and parallel programming.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:150",
+      "startMs": 588800,
+      "endMs": 593600,
+      "verbatim": "Yes, Dykstra is effectively the father of parallel computing.",
+      "display": "Yes, Dykstra is effectively the father of parallel computing.",
+      "search": "yes, dykstra is effectively the father of parallel computing.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:151",
+      "startMs": 593600,
+      "endMs": 595760,
+      "verbatim": "And you didn't even know that, did you?",
+      "display": "And you didn't even know that, did you?",
+      "search": "and you didn't even know that, did you?",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:152",
+      "startMs": 595760,
+      "endMs": 596800,
+      "verbatim": "Kids these days.",
+      "display": "Kids these days.",
+      "search": "kids these days.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:153",
+      "startMs": 596800,
+      "endMs": 604560,
+      "verbatim": "In 1968, Dykstra ended up penning a nice little article here called Go-To Statement is Considered Harmful.",
+      "display": "In 1968, Dykstra ended up penning a nice little article here called Go-To Statement is Considered Harmful.",
+      "search": "in 1968, dykstra ended up penning a nice little article here called go-to statement is considered harmful.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:154",
+      "startMs": 604560,
+      "endMs": 607520,
+      "verbatim": "Now the thing is that originally it was not called that.",
+      "display": "Now the thing is that originally it was not called that.",
+      "search": "now the thing is that originally it was not called that.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:155",
+      "startMs": 607520,
+      "endMs": 626560,
+      "verbatim": "In the book We Programmers, which I might have written a foreword to, you learned that he originally titled it A Case Against the Go-To Statement, in which Nicholas Wirth, the editor, renamed it to Go-To Statements Considered Harmful, which became such a popular paper, you probably even knew about that paper whether or not you read it.",
+      "display": "In the book We Programmers, which I might have written a foreword to, you learned that he originally titled it A Case Against the Go-To Statement, in which Nicholas Wirth, the editor, renamed it to Go-To Statements Considered Harmful, which became such a popular paper, you probably even knew about that paper whether or not you read it.",
+      "search": "in the book we programmers, which i might have written a foreword to, you learned that he originally titled it a case against the go-to statement, in which nicholas wirth, the editor, renamed it to go-to statements considered harmful, which became such a popular paper, you probably even knew about that paper whether or not you read it.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:156",
+      "startMs": 626560,
+      "endMs": 627760,
+      "verbatim": "Now, here's the thing.",
+      "display": "Now, here's the thing.",
+      "search": "now, here's the thing.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:157",
+      "startMs": 627760,
+      "endMs": 636880,
+      "verbatim": "Back in those days in 1968, the largest possible program was some IBM OS, totaling right around 1.7 million lines of code.",
+      "display": "Back in those days in 1968, the largest possible program was some IBM OS, totaling right around 1.7 million lines of code.",
+      "search": "back in those days in 1968, the largest possible program was some ibm os, totaling right around 1.7 million lines of code.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:158",
+      "startMs": 636880,
+      "endMs": 639200,
+      "verbatim": "I just want you to think about that for a second.",
+      "display": "I just want you to think about that for a second.",
+      "search": "i just want you to think about that for a second.",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:159",
+      "startMs": 639200,
+      "endMs": 651440,
+      "verbatim": "There were 1.7 million line code projects with just go-to statements, hundreds, if not tens of thousands, of them all over the place.",
+      "display": "There were 1.7 million line code projects with just go-to statements, hundreds, if not tens of thousands, of them all over the place.",
+      "search": "there were 1.7 million line code projects with just go-to statements, hundreds, if not tens of thousands, of them all over the place.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:160",
+      "startMs": 651440,
+      "endMs": 655840,
+      "verbatim": "Like programming had to be just insane during those days.",
+      "display": "Like programming had to be just insane during those days.",
+      "search": "like programming had to be just insane during those days.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:161",
+      "startMs": 655840,
+      "endMs": 662400,
+      "verbatim": "And Dykstra had to go and argue, which took a decade to convince people, hey yo, go-to.",
+      "display": "And Dykstra had to go and argue, which took a decade to convince people, hey yo, go-to.",
+      "search": "and dykstra had to go and argue, which took a decade to convince people, hey yo, go-to.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:162",
+      "startMs": 662400,
+      "endMs": 663280,
+      "verbatim": "That's not good.",
+      "display": "That's not good.",
+      "search": "that's not good.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:163",
+      "startMs": 663280,
+      "endMs": 664400,
+      "verbatim": "That's not good at all.",
+      "display": "That's not good at all.",
+      "search": "that's not good at all.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:164",
+      "startMs": 664400,
+      "endMs": 668240,
+      "verbatim": "If you don't know what a go-to is, you can imagine you just have like a bunch of lines of code.",
+      "display": "If you don't know what a go-to is, you can imagine you just have like a bunch of lines of code.",
+      "search": "if you don't know what a go-to is, you can imagine you just have like a bunch of lines of code.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:165",
+      "startMs": 668240,
+      "endMs": 677920,
+      "verbatim": "Anywhere in here, you can just be like go-to, and then you can say some sort of offset, some sort of label into another location, and it will just go over there.",
+      "display": "Anywhere in here, you can just be like go-to, and then you can say some sort of offset, some sort of label into another location, and it will just go over there.",
+      "search": "anywhere in here, you can just be like go-to, and then you can say some sort of offset, some sort of label into another location, and it will just go over there.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:166",
+      "startMs": 677920,
+      "endMs": 680400,
+      "verbatim": "Whatever there is.",
+      "display": "Whatever there is.",
+      "search": "whatever there is.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:167",
+      "startMs": 680400,
+      "endMs": 685280,
+      "verbatim": "Now, at one point, this made sense before we had any sort of high-level language.",
+      "display": "Now, at one point, this made sense before we had any sort of high-level language.",
+      "search": "now, at one point, this made sense before we had any sort of high-level language.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:168",
+      "startMs": 685280,
+      "endMs": 687600,
+      "verbatim": "If statements are just go-tos, right?",
+      "display": "If statements are just go-tos, right?",
+      "search": "if statements are just go-tos, right?",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:169",
+      "startMs": 687600,
+      "endMs": 692240,
+      "verbatim": "If this condition is true, continue else, go to the end of the statement.",
+      "display": "If this condition is true, continue else, go to the end of the statement.",
+      "search": "if this condition is true, continue else, go to the end of the statement.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:170",
+      "startMs": 692240,
+      "endMs": 693920,
+      "verbatim": "That actually makes a lot of sense.",
+      "display": "That actually makes a lot of sense.",
+      "search": "that actually makes a lot of sense.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:171",
+      "startMs": 693920,
+      "endMs": 696720,
+      "verbatim": "So you can imagine why go-tos were around.",
+      "display": "So you can imagine why go-tos were around.",
+      "search": "so you can imagine why go-tos were around.",
+      "confidence": 0.733
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:172",
+      "startMs": 696720,
+      "endMs": 705600,
+      "verbatim": "Now, if this war didn't happen and Dykstra didn't really lead the charge against the go-to statements, and people were kind of just okay with second best.",
+      "display": "Now, if this war didn't happen and Dykstra didn't really lead the charge against the go-to statements, and people were kind of just okay with second best.",
+      "search": "now, if this war didn't happen and dykstra didn't really lead the charge against the go-to statements, and people were kind of just okay with second best.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:173",
+      "startMs": 705600,
+      "endMs": 708960,
+      "verbatim": "We could have had JavaScript with go-to statements.",
+      "display": "We could have had JavaScript with go-to statements.",
+      "search": "we could have had javascript with go-to statements.",
+      "confidence": 0.701
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:174",
+      "startMs": 709200,
+      "endMs": 712640,
+      "verbatim": "I mean, you think React is bad now.",
+      "display": "I mean, you think React is bad now.",
+      "search": "i mean, you think react is bad now.",
+      "confidence": 0.622
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:175",
+      "startMs": 712640,
+      "endMs": 721920,
+      "verbatim": "Imagine server components with go-tos and you have to be like use client go to jumping into like server code, it would have just been nuts.",
+      "display": "Imagine server components with go-tos and you have to be like use client go to jumping into like server code, it would have just been nuts.",
+      "search": "imagine server components with go-tos and you have to be like use client go to jumping into like server code, it would have just been nuts.",
+      "confidence": 0.685
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:176",
+      "startMs": 721920,
+      "endMs": 726960,
+      "verbatim": "But honestly, there's just like this small part of me that thinks JavaScript, it deserves a go-to.",
+      "display": "But honestly, there's just like this small part of me that thinks JavaScript, it deserves a go-to.",
+      "search": "but honestly, there's just like this small part of me that thinks javascript, it deserves a go-to.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:177",
+      "startMs": 726960,
+      "endMs": 738720,
+      "verbatim": "And this kind of war against the go-to became a larger war in which Dykstra argued that we need to be using if statements and for loops and higher-level constructs to easier understand the program that we're writing.",
+      "display": "And this kind of war against the go-to became a larger war in which Dykstra argued that we need to be using if statements and for loops and higher-level constructs to easier understand the program that we're writing.",
+      "search": "and this kind of war against the go-to became a larger war in which dykstra argued that we need to be using if statements and for loops and higher-level constructs to easier understand the program that we're writing.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:178",
+      "startMs": 738720,
+      "endMs": 740320,
+      "verbatim": "This became structured programming.",
+      "display": "This became structured programming.",
+      "search": "this became structured programming.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:179",
+      "startMs": 740320,
+      "endMs": 747120,
+      "verbatim": "It became the like mantra of his that we need to have easily comprehendable programming languages.",
+      "display": "It became the like mantra of his that we need to have easily comprehendable programming languages.",
+      "search": "it became the like mantra of his that we need to have easily comprehendable programming languages.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:180",
+      "startMs": 747120,
+      "endMs": 748320,
+      "verbatim": "Thank you, Dykstra.",
+      "display": "Thank you, Dykstra.",
+      "search": "thank you, dykstra.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:181",
+      "startMs": 748320,
+      "endMs": 750800,
+      "verbatim": "I mean, I still know it resulted in JavaScript, but you get the idea.",
+      "display": "I mean, I still know it resulted in JavaScript, but you get the idea.",
+      "search": "i mean, i still know it resulted in javascript, but you get the idea.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:182",
+      "startMs": 750800,
+      "endMs": 751760,
+      "verbatim": "Thank you, Dijkstra.",
+      "display": "Thank you, Dijkstra.",
+      "search": "thank you, dijkstra.",
+      "confidence": 0.733
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:183",
+      "startMs": 751760,
+      "endMs": 756880,
+      "verbatim": "And still at Eindhoven in 1972, he did receive the ACM Turing Award.",
+      "display": "And still at Eindhoven in 1972, he did receive the ACM Turing Award.",
+      "search": "and still at eindhoven in 1972, he did receive the acm turing award.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:184",
+      "startMs": 756880,
+      "endMs": 761040,
+      "verbatim": "Now remember, Turing Award, Nobel Peace Prize, programmer of the month.",
+      "display": "Now remember, Turing Award, Nobel Peace Prize, programmer of the month.",
+      "search": "now remember, turing award, nobel peace prize, programmer of the month.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:185",
+      "startMs": 761040,
+      "endMs": 761920,
+      "verbatim": "Don't forget that.",
+      "display": "Don't forget that.",
+      "search": "don't forget that.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:186",
+      "startMs": 761920,
+      "endMs": 779360,
+      "verbatim": "Widely considered the second most important prize in computing science, he was recognized for fundamental contributions to programming as a high intellectual challenge for eloquent insistence and practical demonstration that programs should be composed correctly, not just debugged into correctness.",
+      "display": "Widely considered the second most important prize in computing science, he was recognized for fundamental contributions to programming as a high intellectual challenge for eloquent insistence and practical demonstration that programs should be composed correctly, not just debugged into correctness.",
+      "search": "widely considered the second most important prize in computing science, he was recognized for fundamental contributions to programming as a high intellectual challenge for eloquent insistence and practical demonstration that programs should be composed correctly, not just debugged into correctness.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:187",
+      "startMs": 779360,
+      "endMs": 783440,
+      "verbatim": "For illuminating perceptions of problems at the foundation of programming design.",
+      "display": "For illuminating perceptions of problems at the foundation of programming design.",
+      "search": "for illuminating perceptions of problems at the foundation of programming design.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:188",
+      "startMs": 783440,
+      "endMs": 790640,
+      "verbatim": "This statement right here is actually just like I mean, in today's LLM world, this is kind of like this almost hilarious view.",
+      "display": "This statement right here is actually just like I mean, in today's LLM world, this is kind of like this almost hilarious view.",
+      "search": "this statement right here is actually just like i mean, in today's llm world, this is kind of like this almost hilarious view.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:189",
+      "startMs": 790640,
+      "endMs": 794800,
+      "verbatim": "It's almost like we have inverted what Dijkstra would consider good.",
+      "display": "It's almost like we have inverted what Dijkstra would consider good.",
+      "search": "it's almost like we have inverted what dijkstra would consider good.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:190",
+      "startMs": 794800,
+      "endMs": 799360,
+      "verbatim": "Because I I always often wondered, would Dykstra like LLMs?",
+      "display": "Because I I always often wondered, would Dykstra like LLMs?",
+      "search": "because i i always often wondered, would dykstra like llms?",
+      "confidence": 0.622
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:191",
+      "startMs": 799360,
+      "endMs": 801840,
+      "verbatim": "Doggy, hi, what do you want from me?",
+      "display": "Doggy, hi, what do you want from me?",
+      "search": "doggy, hi, what do you want from me?",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:192",
+      "startMs": 801840,
+      "endMs": 803600,
+      "verbatim": "I'm trying to do a YouTube video.",
+      "display": "I'm trying to do a YouTube video.",
+      "search": "i'm trying to do a youtube video.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:193",
+      "startMs": 804160,
+      "endMs": 805600,
+      "verbatim": "Silly dog.",
+      "display": "Silly dog.",
+      "search": "silly dog.",
+      "confidence": 0.585
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:194",
+      "startMs": 805600,
+      "endMs": 810400,
+      "verbatim": "You know, I often wonder what would Dykstra think of today's LLM world?",
+      "display": "You know, I often wonder what would Dykstra think of today's LLM world?",
+      "search": "you know, i often wonder what would dykstra think of today's llm world?",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:195",
+      "startMs": 810400,
+      "endMs": 829520,
+      "verbatim": "Well, we do have a little bit of a hint that not just a bugged into correctness part of his touring award, because when he left uh Eindhoven University in 1984 and went to Austin, Texas up until his retirement in 1999, he spent the majority of his work working through proofs and formal proofs for programming.",
+      "display": "Well, we do have a little bit of a hint that not just a bugged into correctness part of his touring award, because when he left uh Eindhoven University in 1984 and went to Austin, Texas up until his retirement in 1999, he spent the majority of his work working through proofs and formal proofs for programming.",
+      "search": "well, we do have a little bit of a hint that not just a bugged into correctness part of his touring award, because when he left uh eindhoven university in 1984 and went to austin, texas up until his retirement in 1999, he spent the majority of his work working through proofs and formal proofs for programming.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:196",
+      "startMs": 829520,
+      "endMs": 833200,
+      "verbatim": "He believed that all programs should be provably correct.",
+      "display": "He believed that all programs should be provably correct.",
+      "search": "he believed that all programs should be provably correct.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:197",
+      "startMs": 833200,
+      "endMs": 835120,
+      "verbatim": "Not just, hey, I think this is correct.",
+      "display": "Not just, hey, I think this is correct.",
+      "search": "not just, hey, i think this is correct.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:198",
+      "startMs": 835120,
+      "endMs": 838160,
+      "verbatim": "Not, hey, I believe we have something that works.",
+      "display": "Not, hey, I believe we have something that works.",
+      "search": "not, hey, i believe we have something that works.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:199",
+      "startMs": 838160,
+      "endMs": 842800,
+      "verbatim": "We have enough unit tests to prove that all the bugs we've ever found haven't happened again.",
+      "display": "We have enough unit tests to prove that all the bugs we've ever found haven't happened again.",
+      "search": "we have enough unit tests to prove that all the bugs we've ever found haven't happened again.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:200",
+      "startMs": 842800,
+      "endMs": 846720,
+      "verbatim": "But he wanted to believe that all things could be always correct.",
+      "display": "But he wanted to believe that all things could be always correct.",
+      "search": "but he wanted to believe that all things could be always correct.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:201",
+      "startMs": 846720,
+      "endMs": 851200,
+      "verbatim": "Would he look on to this time and think, what the hell's happening?",
+      "display": "Would he look on to this time and think, what the hell's happening?",
+      "search": "would he look on to this time and think, what the hell's happening?",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:202",
+      "startMs": 851200,
+      "endMs": 852640,
+      "verbatim": "Or would he be stoked?",
+      "display": "Or would he be stoked?",
+      "search": "or would he be stoked?",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:203",
+      "startMs": 852640,
+      "endMs": 861920,
+      "verbatim": "Because it is such a uniquely magical period of time in which we can speak English and outcome computer program.",
+      "display": "Because it is such a uniquely magical period of time in which we can speak English and outcome computer program.",
+      "search": "because it is such a uniquely magical period of time in which we can speak english and outcome computer program.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:204",
+      "startMs": 861920,
+      "endMs": 867120,
+      "verbatim": "Like that is the it is, whether you like him or not, that is just absolutely magical.",
+      "display": "Like that is the it is, whether you like him or not, that is just absolutely magical.",
+      "search": "like that is the it is, whether you like him or not, that is just absolutely magical.",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:205",
+      "startMs": 867120,
+      "endMs": 869760,
+      "verbatim": "That is something I never thought I could ever see.",
+      "display": "That is something I never thought I could ever see.",
+      "search": "that is something i never thought i could ever see.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:206",
+      "startMs": 869760,
+      "endMs": 875440,
+      "verbatim": "In fact, I I have largely operated under the assumption that a program can't tell if it's going to halt.",
+      "display": "In fact, I I have largely operated under the assumption that a program can't tell if it's going to halt.",
+      "search": "in fact, i i have largely operated under the assumption that a program can't tell if it's going to halt.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:207",
+      "startMs": 875440,
+      "endMs": 879760,
+      "verbatim": "And now we have things that appear to know when a program is going to halt.",
+      "display": "And now we have things that appear to know when a program is going to halt.",
+      "search": "and now we have things that appear to know when a program is going to halt.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:208",
+      "startMs": 879760,
+      "endMs": 883280,
+      "verbatim": "It's honestly kind of a magical experience that we live in.",
+      "display": "It's honestly kind of a magical experience that we live in.",
+      "search": "it's honestly kind of a magical experience that we live in.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:209",
+      "startMs": 883280,
+      "endMs": 889120,
+      "verbatim": "So would he look at this with disdain and say that we're all a bunch of slop canon coding bums?",
+      "display": "So would he look at this with disdain and say that we're all a bunch of slop canon coding bums?",
+      "search": "so would he look at this with disdain and say that we're all a bunch of slop canon coding bums?",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:210",
+      "startMs": 889120,
+      "endMs": 892880,
+      "verbatim": "Or would he actually look at this and go, This is amazing.",
+      "display": "Or would he actually look at this and go, This is amazing.",
+      "search": "or would he actually look at this and go, this is amazing.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:211",
+      "startMs": 892880,
+      "endMs": 895760,
+      "verbatim": "What a new and incredible time period.",
+      "display": "What a new and incredible time period.",
+      "search": "what a new and incredible time period.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:212",
+      "startMs": 895760,
+      "endMs": 897760,
+      "verbatim": "Well, this is where we get to a lot of his quotes.",
+      "display": "Well, this is where we get to a lot of his quotes.",
+      "search": "well, this is where we get to a lot of his quotes.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:213",
+      "startMs": 897760,
+      "endMs": 904800,
+      "verbatim": "And I think when you read through his quotes, you probably get a little bit better of an idea of what he might or might not think during this time.",
+      "display": "And I think when you read through his quotes, you probably get a little bit better of an idea of what he might or might not think during this time.",
+      "search": "and i think when you read through his quotes, you probably get a little bit better of an idea of what he might or might not think during this time.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:214",
+      "startMs": 904800,
+      "endMs": 910720,
+      "verbatim": "It is practically impossible to teach good programming to students that have had prior exposure to basic.",
+      "display": "It is practically impossible to teach good programming to students that have had prior exposure to basic.",
+      "search": "it is practically impossible to teach good programming to students that have had prior exposure to basic.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:215",
+      "startMs": 910720,
+      "endMs": 915840,
+      "verbatim": "As potential programmers, they are mentally mutilated beyond hope of regeneration.",
+      "display": "As potential programmers, they are mentally mutilated beyond hope of regeneration.",
+      "search": "as potential programmers, they are mentally mutilated beyond hope of regeneration.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:216",
+      "startMs": 916080,
+      "endMs": 916720,
+      "verbatim": "Damn.",
+      "display": "Damn.",
+      "search": "damn.",
+      "confidence": 0.711
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:217",
+      "startMs": 916720,
+      "endMs": 919440,
+      "verbatim": "Dude, I started on Q basic.",
+      "display": "Dude, I started on Q basic.",
+      "search": "dude, i started on q basic.",
+      "confidence": 0.646
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:218",
+      "startMs": 929440,
+      "endMs": 932480,
+      "verbatim": "Hey, Admiral Grace Hopper, still love you.",
+      "display": "Hey, Admiral Grace Hopper, still love you.",
+      "search": "hey, admiral grace hopper, still love you.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:219",
+      "startMs": 932480,
+      "endMs": 935600,
+      "verbatim": "You you might get yourself a little programmer of the month, okay?",
+      "display": "You you might get yourself a little programmer of the month, okay?",
+      "search": "you you might get yourself a little programmer of the month, okay?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:220",
+      "startMs": 935600,
+      "endMs": 938400,
+      "verbatim": "APL is a mistake carried through to perfection.",
+      "display": "APL is a mistake carried through to perfection.",
+      "search": "apl is a mistake carried through to perfection.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:221",
+      "startMs": 938400,
+      "endMs": 941760,
+      "verbatim": "It is a language of the future for the programming techniques of the past.",
+      "display": "It is a language of the future for the programming techniques of the past.",
+      "search": "it is a language of the future for the programming techniques of the past.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:222",
+      "startMs": 941760,
+      "endMs": 944640,
+      "verbatim": "It creates a new generation of coding bums.",
+      "display": "It creates a new generation of coding bums.",
+      "search": "it creates a new generation of coding bums.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:223",
+      "startMs": 944640,
+      "endMs": 949680,
+      "verbatim": "Program testing can be used to show the presence of bugs, but never show their absence.",
+      "display": "Program testing can be used to show the presence of bugs, but never show their absence.",
+      "search": "program testing can be used to show the presence of bugs, but never show their absence.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:224",
+      "startMs": 949680,
+      "endMs": 960080,
+      "verbatim": "It's actually an incredible insight for this, especially in just our world, hey, just put the guy put the guidelines on the slop cannon and bro, you got yourself something amazing on the other side, which is really this.",
+      "display": "It's actually an incredible insight for this, especially in just our world, hey, just put the guy put the guidelines on the slop cannon and bro, you got yourself something amazing on the other side, which is really this.",
+      "search": "it's actually an incredible insight for this, especially in just our world, hey, just put the guy put the guidelines on the slop cannon and bro, you got yourself something amazing on the other side, which is really this.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:225",
+      "startMs": 960080,
+      "endMs": 962720,
+      "verbatim": "Like, can you know all the outcomes?",
+      "display": "Like, can you know all the outcomes?",
+      "search": "like, can you know all the outcomes?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:226",
+      "startMs": 962720,
+      "endMs": 965280,
+      "verbatim": "Do you can you actually control for all these things?",
+      "display": "Do you can you actually control for all these things?",
+      "search": "do you can you actually control for all these things?",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:227",
+      "startMs": 965280,
+      "endMs": 969360,
+      "verbatim": "Or are you accidentally letting sinister bugs run loose in your system?",
+      "display": "Or are you accidentally letting sinister bugs run loose in your system?",
+      "search": "or are you accidentally letting sinister bugs run loose in your system?",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:228",
+      "startMs": 969360,
+      "endMs": 971280,
+      "verbatim": "This is one of my personal favorites.",
+      "display": "This is one of my personal favorites.",
+      "search": "this is one of my personal favorites.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:229",
+      "startMs": 971280,
+      "endMs": 976640,
+      "verbatim": "If in physics there's something you don't understand, you can always hide behind uncharted depths of nature.",
+      "display": "If in physics there's something you don't understand, you can always hide behind uncharted depths of nature.",
+      "search": "if in physics there's something you don't understand, you can always hide behind uncharted depths of nature.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:230",
+      "startMs": 976640,
+      "endMs": 978400,
+      "verbatim": "You can always blame God.",
+      "display": "You can always blame God.",
+      "search": "you can always blame god.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:231",
+      "startMs": 978400,
+      "endMs": 980880,
+      "verbatim": "You didn't make it so complex yourself.",
+      "display": "You didn't make it so complex yourself.",
+      "search": "you didn't make it so complex yourself.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:232",
+      "startMs": 980880,
+      "endMs": 985280,
+      "verbatim": "But if your program doesn't work, there is no one to hide behind.",
+      "display": "But if your program doesn't work, there is no one to hide behind.",
+      "search": "but if your program doesn't work, there is no one to hide behind.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:233",
+      "startMs": 985280,
+      "endMs": 988080,
+      "verbatim": "You cannot hide behind an obstinate nature.",
+      "display": "You cannot hide behind an obstinate nature.",
+      "search": "you cannot hide behind an obstinate nature.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:234",
+      "startMs": 988080,
+      "endMs": 990720,
+      "verbatim": "If it doesn't work, you've messed up.",
+      "display": "If it doesn't work, you've messed up.",
+      "search": "if it doesn't work, you've messed up.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:235",
+      "startMs": 990720,
+      "endMs": 992640,
+      "verbatim": "Well, I mean, now we have Claude, okay?",
+      "display": "Well, I mean, now we have Claude, okay?",
+      "search": "well, i mean, now we have claude, okay?",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:236",
+      "startMs": 992640,
+      "endMs": 994000,
+      "verbatim": "Claudius Maximus.",
+      "display": "Claudius Maximus.",
+      "search": "claudius maximus.",
+      "confidence": 0.647
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:237",
+      "startMs": 994000,
+      "endMs": 1000080,
+      "verbatim": "We can we can blame Claude, stupid Claude, for not supporting open weight models, my other big favorite one.",
+      "display": "We can we can blame Claude, stupid Claude, for not supporting open weight models, my other big favorite one.",
+      "search": "we can we can blame claude, stupid claude, for not supporting open weight models, my other big favorite one.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:238",
+      "startMs": 1000080,
+      "endMs": 1006640,
+      "verbatim": "Object-oriented programming is an exceptionally bad idea, which could have only originated in California.",
+      "display": "Object-oriented programming is an exceptionally bad idea, which could have only originated in California.",
+      "search": "object-oriented programming is an exceptionally bad idea, which could have only originated in california.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:239",
+      "startMs": 1007680,
+      "endMs": 1009920,
+      "verbatim": "I mean, something so beautiful.",
+      "display": "I mean, something so beautiful.",
+      "search": "i mean, something so beautiful.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:240",
+      "startMs": 1009920,
+      "endMs": 1012080,
+      "verbatim": "I mean, it just makes me so stoked.",
+      "display": "I mean, it just makes me so stoked.",
+      "search": "i mean, it just makes me so stoked.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:241",
+      "startMs": 1012080,
+      "endMs": 1013680,
+      "verbatim": "Also, this one reminds me of Lacoon.",
+      "display": "Also, this one reminds me of Lacoon.",
+      "search": "also, this one reminds me of lacoon.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:242",
+      "startMs": 1015440,
+      "endMs": 1016240,
+      "verbatim": "Lacoon?",
+      "display": "Lacoon?",
+      "search": "lacoon?",
+      "confidence": 0.534
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:243",
+      "startMs": 1016240,
+      "endMs": 1018560,
+      "verbatim": "The guy, the used to be guy from Facebook.",
+      "display": "The guy, the used to be guy from Facebook.",
+      "search": "the guy, the used to be guy from facebook.",
+      "confidence": 0.623
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:244",
+      "startMs": 1018560,
+      "endMs": 1022800,
+      "verbatim": "The effort of using machines to mimic the human mind has always struck me as rather silly.",
+      "display": "The effort of using machines to mimic the human mind has always struck me as rather silly.",
+      "search": "the effort of using machines to mimic the human mind has always struck me as rather silly.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:245",
+      "startMs": 1022800,
+      "endMs": 1027040,
+      "verbatim": "I'd rather use them to mimic something better, which he's totally right, right?",
+      "display": "I'd rather use them to mimic something better, which he's totally right, right?",
+      "search": "i'd rather use them to mimic something better, which he's totally right, right?",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:246",
+      "startMs": 1027040,
+      "endMs": 1031360,
+      "verbatim": "Because like Stockfish is better than all of humanity at chess.",
+      "display": "Because like Stockfish is better than all of humanity at chess.",
+      "search": "because like stockfish is better than all of humanity at chess.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:247",
+      "startMs": 1032400,
+      "endMs": 1036000,
+      "verbatim": "We as a collective whole couldn't beat Stockfish.",
+      "display": "We as a collective whole couldn't beat Stockfish.",
+      "search": "we as a collective whole couldn't beat stockfish.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:248",
+      "startMs": 1036000,
+      "endMs": 1039280,
+      "verbatim": "So having like human intelligence, I don't know.",
+      "display": "So having like human intelligence, I don't know.",
+      "search": "so having like human intelligence, i don't know.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:249",
+      "startMs": 1040000,
+      "endMs": 1041680,
+      "verbatim": "It's probably not all that good.",
+      "display": "It's probably not all that good.",
+      "search": "it's probably not all that good.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:250",
+      "startMs": 1041680,
+      "endMs": 1045280,
+      "verbatim": "And obviously, before we go, I do have to give you a couple little fun facts.",
+      "display": "And obviously, before we go, I do have to give you a couple little fun facts.",
+      "search": "and obviously, before we go, i do have to give you a couple little fun facts.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:251",
+      "startMs": 1045280,
+      "endMs": 1047200,
+      "verbatim": "He also never purchased a computer.",
+      "display": "He also never purchased a computer.",
+      "search": "he also never purchased a computer.",
+      "confidence": 0.986
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:252",
+      "startMs": 1047200,
+      "endMs": 1047840,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:253",
+      "startMs": 1047840,
+      "endMs": 1053280,
+      "verbatim": "The man who carried computer science on his shoulders never purchased a computer.",
+      "display": "The man who carried computer science on his shoulders never purchased a computer.",
+      "search": "the man who carried computer science on his shoulders never purchased a computer.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:254",
+      "startMs": 1053280,
+      "endMs": 1054000,
+      "verbatim": "I married.",
+      "display": "I married.",
+      "search": "i married.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:255",
+      "startMs": 1054000,
+      "endMs": 1056800,
+      "verbatim": "A Dutch marriage rights require you to stay to your profession.",
+      "display": "A Dutch marriage rights require you to stay to your profession.",
+      "search": "a dutch marriage rights require you to stay to your profession.",
+      "confidence": 0.747
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:256",
+      "startMs": 1056800,
+      "endMs": 1058800,
+      "verbatim": "And I stated I was a programmer.",
+      "display": "And I stated I was a programmer.",
+      "search": "and i stated i was a programmer.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:257",
+      "startMs": 1058800,
+      "endMs": 1064960,
+      "verbatim": "The municipal authorities of the town of Amsterdam did not accept it on the grounds that there was no such profession.",
+      "display": "The municipal authorities of the town of Amsterdam did not accept it on the grounds that there was no such profession.",
+      "search": "the municipal authorities of the town of amsterdam did not accept it on the grounds that there was no such profession.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:258",
+      "startMs": 1064960,
+      "endMs": 1066000,
+      "verbatim": "Bro, imagine.",
+      "display": "Bro, imagine.",
+      "search": "bro, imagine.",
+      "confidence": 0.536
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:259",
+      "startMs": 1066000,
+      "endMs": 1073440,
+      "verbatim": "Dude, we already have a hard enough time with Arch Linux users, but imagine getting rejected because they're like, Arch Linux, that's not even a real operating system, bro.",
+      "display": "Dude, we already have a hard enough time with Arch Linux users, but imagine getting rejected because they're like, Arch Linux, that's not even a real operating system, bro.",
+      "search": "dude, we already have a hard enough time with arch linux users, but imagine getting rejected because they're like, arch linux, that's not even a real operating system, bro.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:260",
+      "startMs": 1073440,
+      "endMs": 1074800,
+      "verbatim": "You can't get married.",
+      "display": "You can't get married.",
+      "search": "you can't get married.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:261",
+      "startMs": 1074800,
+      "endMs": 1077360,
+      "verbatim": "You know, no marriage for you.",
+      "display": "You know, no marriage for you.",
+      "search": "you know, no marriage for you.",
+      "confidence": 0.592
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:262",
+      "startMs": 1077360,
+      "endMs": 1081440,
+      "verbatim": "You and your fake profession of programming, okay, buster.",
+      "display": "You and your fake profession of programming, okay, buster.",
+      "search": "you and your fake profession of programming, okay, buster.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:263",
+      "startMs": 1081440,
+      "endMs": 1083200,
+      "verbatim": "Yeah, that's a that's a real one.",
+      "display": "Yeah, that's a that's a real one.",
+      "search": "yeah, that's a that's a real one.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:264",
+      "startMs": 1083200,
+      "endMs": 1095440,
+      "verbatim": "Well, this is to you, Edgar Dykstra, and we appreciate and celebrate your contributions to all of the field of computing, and this is why you win this month's programmer of the month from the startup.",
+      "display": "Well, this is to you, Edgar Dykstra, and we appreciate and celebrate your contributions to all of the field of computing, and this is why you win this month's programmer of the month from the startup.",
+      "search": "well, this is to you, edgar dykstra, and we appreciate and celebrate your contributions to all of the field of computing, and this is why you win this month's programmer of the month from the startup.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:265",
+      "startMs": 1095440,
+      "endMs": 1096720,
+      "verbatim": "Multi-billion, of course.",
+      "display": "Multi-billion, of course.",
+      "search": "multi-billion, of course.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:266",
+      "startMs": 1096720,
+      "endMs": 1098560,
+      "verbatim": "And hopefully this title makes more sense.",
+      "display": "And hopefully this title makes more sense.",
+      "search": "and hopefully this title makes more sense.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:267",
+      "startMs": 1098560,
+      "endMs": 1101520,
+      "verbatim": "The man who carried computer science on his shoulders.",
+      "display": "The man who carried computer science on his shoulders.",
+      "search": "the man who carried computer science on his shoulders.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:268",
+      "startMs": 1101520,
+      "endMs": 1105520,
+      "verbatim": "We could literally have go to statements in JavaScript right now.",
+      "display": "We could literally have go to statements in JavaScript right now.",
+      "search": "we could literally have go to statements in javascript right now.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:269",
+      "startMs": 1105520,
+      "endMs": 1106640,
+      "verbatim": "So you better thank him.",
+      "display": "So you better thank him.",
+      "search": "so you better thank him.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:270",
+      "startMs": 1106640,
+      "endMs": 1108800,
+      "verbatim": "I want to see some thank yous in the comments.",
+      "display": "I want to see some thank yous in the comments.",
+      "search": "i want to see some thank yous in the comments.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:271",
+      "startMs": 1108800,
+      "endMs": 1111360,
+      "verbatim": "By the way, just special shout off to Christoph Aft.",
+      "display": "By the way, just special shout off to Christoph Aft.",
+      "search": "by the way, just special shout off to christoph aft.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:272",
+      "startMs": 1111360,
+      "endMs": 1112880,
+      "verbatim": "Uh, amazing article.",
+      "display": "Uh, amazing article.",
+      "search": "uh, amazing article.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:273",
+      "startMs": 1112880,
+      "endMs": 1115760,
+      "verbatim": "I left out so many amazing details.",
+      "display": "I left out so many amazing details.",
+      "search": "i left out so many amazing details.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:274",
+      "startMs": 1115760,
+      "endMs": 1119600,
+      "verbatim": "I strongly recommend you go and read the entire dang thing.",
+      "display": "I strongly recommend you go and read the entire dang thing.",
+      "search": "i strongly recommend you go and read the entire dang thing.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:lnMnXsmxoHc:segment:275",
+      "startMs": 1119600,
+      "endMs": 1122560,
+      "verbatim": "The name is the shortest pathogen.",
+      "display": "The name is the shortest pathogen.",
+      "search": "the name is the shortest pathogen.",
+      "confidence": 0.658
+    }
+  ]
+}

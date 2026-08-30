@@ -1,0 +1,1418 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_d27bc47a9c8ca0731e1a747e",
+  "sourceId": "youtube:L_JgETH8zKM",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:27:01.146Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:1",
+      "startMs": 0,
+      "endMs": 2000,
+      "verbatim": "What I'm about to tell you is a real story.",
+      "display": "What I'm about to tell you is a real story.",
+      "search": "what i'm about to tell you is a real story.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:2",
+      "startMs": 2000,
+      "endMs": 8480,
+      "verbatim": "Yes, a very real story that actually happened that someone actually did, or at least they are writing on Twitter claiming that they have done.",
+      "display": "Yes, a very real story that actually happened that someone actually did, or at least they are writing on Twitter claiming that they have done.",
+      "search": "yes, a very real story that actually happened that someone actually did, or at least they are writing on twitter claiming that they have done.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:3",
+      "startMs": 8480,
+      "endMs": 11280,
+      "verbatim": "And being a CEO of a company, I actually tend to believe this.",
+      "display": "And being a CEO of a company, I actually tend to believe this.",
+      "search": "and being a ceo of a company, i actually tend to believe this.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:4",
+      "startMs": 11280,
+      "endMs": 14800,
+      "verbatim": "Now I want you to imagine, okay, I'm gonna set the stage, if you will.",
+      "display": "Now I want you to imagine, okay, I'm gonna set the stage, if you will.",
+      "search": "now i want you to imagine, okay, i'm gonna set the stage, if you will.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:5",
+      "startMs": 14800,
+      "endMs": 22640,
+      "verbatim": "A CEO of a company gets on stage in front of about 50 employees, as far as I can tell, and he presents his slide deck.",
+      "display": "A CEO of a company gets on stage in front of about 50 employees, as far as I can tell, and he presents his slide deck.",
+      "search": "a ceo of a company gets on stage in front of about 50 employees, as far as i can tell, and he presents his slide deck.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:6",
+      "startMs": 22640,
+      "endMs": 25920,
+      "verbatim": "Now, his slide deck only has four words on it.",
+      "display": "Now, his slide deck only has four words on it.",
+      "search": "now, his slide deck only has four words on it.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:7",
+      "startMs": 26400,
+      "endMs": 29120,
+      "verbatim": "Imagine how intense those four words must be.",
+      "display": "Imagine how intense those four words must be.",
+      "search": "imagine how intense those four words must be.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:8",
+      "startMs": 29120,
+      "endMs": 34080,
+      "verbatim": "Because obviously, being CEO, he must be doing a presentation, especially in today's day and age.",
+      "display": "Because obviously, being CEO, he must be doing a presentation, especially in today's day and age.",
+      "search": "because obviously, being ceo, he must be doing a presentation, especially in today's day and age.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:9",
+      "startMs": 34080,
+      "endMs": 39600,
+      "verbatim": "Those four words must have been encouragement, letting them know that the quarter's actually going super well.",
+      "display": "Those four words must have been encouragement, letting them know that the quarter's actually going super well.",
+      "search": "those four words must have been encouragement, letting them know that the quarter's actually going super well.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:10",
+      "startMs": 39600,
+      "endMs": 40640,
+      "verbatim": "What do you think they could be?",
+      "display": "What do you think they could be?",
+      "search": "what do you think they could be?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:11",
+      "startMs": 40880,
+      "endMs": 45760,
+      "verbatim": "Something to make the group of people stronger and want to fight better.",
+      "display": "Something to make the group of people stronger and want to fight better.",
+      "search": "something to make the group of people stronger and want to fight better.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:12",
+      "startMs": 45760,
+      "endMs": 47360,
+      "verbatim": "But no, that's not what it was.",
+      "display": "But no, that's not what it was.",
+      "search": "but no, that's not what it was.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:13",
+      "startMs": 47360,
+      "endMs": 49600,
+      "verbatim": "Instead, the four words were simple.",
+      "display": "Instead, the four words were simple.",
+      "search": "instead, the four words were simple.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:14",
+      "startMs": 49600,
+      "endMs": 52640,
+      "verbatim": "Remember to not smile.",
+      "display": "Remember to not smile.",
+      "search": "remember to not smile.",
+      "confidence": 0.693
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:15",
+      "startMs": 52880,
+      "endMs": 54400,
+      "verbatim": "That's right, that's it.",
+      "display": "That's right, that's it.",
+      "search": "that's right, that's it.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:16",
+      "startMs": 54400,
+      "endMs": 57360,
+      "verbatim": "The reactions were about what you would expect confused looks.",
+      "display": "The reactions were about what you would expect confused looks.",
+      "search": "the reactions were about what you would expect confused looks.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:17",
+      "startMs": 57360,
+      "endMs": 62560,
+      "verbatim": "And after a few nervous laughs and an awkward silence, someone raised their hand and asked, What does it mean?",
+      "display": "And after a few nervous laughs and an awkward silence, someone raised their hand and asked, What does it mean?",
+      "search": "and after a few nervous laughs and an awkward silence, someone raised their hand and asked, what does it mean?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:18",
+      "startMs": 62560,
+      "endMs": 64800,
+      "verbatim": "Now, obviously, I'm gonna have to cover this article.",
+      "display": "Now, obviously, I'm gonna have to cover this article.",
+      "search": "now, obviously, i'm gonna have to cover this article.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:19",
+      "startMs": 64800,
+      "endMs": 70880,
+      "verbatim": "This is absolutely one of the most absurd things ever written by a CEO, but hey, to be fair, there's a bit of truth in it all.",
+      "display": "This is absolutely one of the most absurd things ever written by a CEO, but hey, to be fair, there's a bit of truth in it all.",
+      "search": "this is absolutely one of the most absurd things ever written by a ceo, but hey, to be fair, there's a bit of truth in it all.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:20",
+      "startMs": 70880,
+      "endMs": 75120,
+      "verbatim": "So I want you to sit down and lock in, and there's no smiling for the rest of this presentation, okay?",
+      "display": "So I want you to sit down and lock in, and there's no smiling for the rest of this presentation, okay?",
+      "search": "so i want you to sit down and lock in, and there's no smiling for the rest of this presentation, okay?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:21",
+      "startMs": 75120,
+      "endMs": 77360,
+      "verbatim": "We're serious people from here on out.",
+      "display": "We're serious people from here on out.",
+      "search": "we're serious people from here on out.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:22",
+      "startMs": 77360,
+      "endMs": 78800,
+      "verbatim": "So two things before we begin.",
+      "display": "So two things before we begin.",
+      "search": "so two things before we begin.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:23",
+      "startMs": 78800,
+      "endMs": 81600,
+      "verbatim": "First off, you'll notice that my voice has a bit of vocal fry to it.",
+      "display": "First off, you'll notice that my voice has a bit of vocal fry to it.",
+      "search": "first off, you'll notice that my voice has a bit of vocal fry to it.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:24",
+      "startMs": 81600,
+      "endMs": 87360,
+      "verbatim": "I hate vocal fry, but I can't help it because I literally fried it at open sauce an incredible time.",
+      "display": "I hate vocal fry, but I can't help it because I literally fried it at open sauce an incredible time.",
+      "search": "i hate vocal fry, but i can't help it because i literally fried it at open sauce an incredible time.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:25",
+      "startMs": 87360,
+      "endMs": 92880,
+      "verbatim": "By the way, here's a picture of me and Tiege on stage in front of thousands of people playing Super Smash Bros.",
+      "display": "By the way, here's a picture of me and Tiege on stage in front of thousands of people playing Super Smash Bros.",
+      "search": "by the way, here's a picture of me and tiege on stage in front of thousands of people playing super smash bros.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:26",
+      "startMs": 93040,
+      "endMs": 94080,
+      "verbatim": "It was a lot of fun.",
+      "display": "It was a lot of fun.",
+      "search": "it was a lot of fun.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:27",
+      "startMs": 94080,
+      "endMs": 96240,
+      "verbatim": "Number two, a quick thank you to my sponsor.",
+      "display": "Number two, a quick thank you to my sponsor.",
+      "search": "number two, a quick thank you to my sponsor.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:28",
+      "startMs": 96240,
+      "endMs": 100640,
+      "verbatim": "If you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "display": "If you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "search": "if you're anything like me, you have a bunch of ideas, but perhaps you're a bit disorganized.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:29",
+      "startMs": 100640,
+      "endMs": 106960,
+      "verbatim": "So often I find myself having a long brainstorming session, but at the end of it, I just have a big markdown file.",
+      "display": "So often I find myself having a long brainstorming session, but at the end of it, I just have a big markdown file.",
+      "search": "so often i find myself having a long brainstorming session, but at the end of it, i just have a big markdown file.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:30",
+      "startMs": 106960,
+      "endMs": 109360,
+      "verbatim": "And then, of course, at that point I've lost everything.",
+      "display": "And then, of course, at that point I've lost everything.",
+      "search": "and then, of course, at that point i've lost everything.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:31",
+      "startMs": 109360,
+      "endMs": 111360,
+      "verbatim": "Hey, stop doing that.",
+      "display": "Hey, stop doing that.",
+      "search": "hey, stop doing that.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:32",
+      "startMs": 111360,
+      "endMs": 114960,
+      "verbatim": "You gotta check out Linear and use the Linear MCP.",
+      "display": "You gotta check out Linear and use the Linear MCP.",
+      "search": "you gotta check out linear and use the linear mcp.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:33",
+      "startMs": 114960,
+      "endMs": 122160,
+      "verbatim": "I have a big conversation, I come up with a bunch of ideas, and at the end, I get a set of tickets that are actually all the things that I need to do.",
+      "display": "I have a big conversation, I come up with a bunch of ideas, and at the end, I get a set of tickets that are actually all the things that I need to do.",
+      "search": "i have a big conversation, i come up with a bunch of ideas, and at the end, i get a set of tickets that are actually all the things that i need to do.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:34",
+      "startMs": 122160,
+      "endMs": 130240,
+      "verbatim": "And when I don't know what to work on, I go, hey, agent, go to Linear and tell me what I need to do next, and it will find exactly what I need to work on.",
+      "display": "And when I don't know what to work on, I go, hey, agent, go to Linear and tell me what I need to do next, and it will find exactly what I need to work on.",
+      "search": "and when i don't know what to work on, i go, hey, agent, go to linear and tell me what i need to do next, and it will find exactly what i need to work on.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:35",
+      "startMs": 130240,
+      "endMs": 136720,
+      "verbatim": "This has been so successful for me that I'm in actual serious danger of completing a project.",
+      "display": "This has been so successful for me that I'm in actual serious danger of completing a project.",
+      "search": "this has been so successful for me that i'm in actual serious danger of completing a project.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:36",
+      "startMs": 136720,
+      "endMs": 140880,
+      "verbatim": "Go to linear.app slash terminal and get six months for free on Linear.",
+      "display": "Go to linear.app slash terminal and get six months for free on Linear.",
+      "search": "go to linear.app slash terminal and get six months for free on linear.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:37",
+      "startMs": 140880,
+      "endMs": 143920,
+      "verbatim": "Thank you for supporting the channel and thank you, Linear, for sponsoring the video.",
+      "display": "Thank you for supporting the channel and thank you, Linear, for sponsoring the video.",
+      "search": "thank you for supporting the channel and thank you, linear, for sponsoring the video.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:38",
+      "startMs": 143920,
+      "endMs": 145200,
+      "verbatim": "Alright, so let's jump in.",
+      "display": "Alright, so let's jump in.",
+      "search": "alright, so let's jump in.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:39",
+      "startMs": 145200,
+      "endMs": 148560,
+      "verbatim": "First off, we're gonna talk about uh what is the actual basic premise?",
+      "display": "First off, we're gonna talk about uh what is the actual basic premise?",
+      "search": "first off, we're gonna talk about uh what is the actual basic premise?",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:40",
+      "startMs": 148560,
+      "endMs": 149680,
+      "verbatim": "What does the article say?",
+      "display": "What does the article say?",
+      "search": "what does the article say?",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:41",
+      "startMs": 149680,
+      "endMs": 154080,
+      "verbatim": "Second, we're gonna find out what this company does, which actually feels a little silly.",
+      "display": "Second, we're gonna find out what this company does, which actually feels a little silly.",
+      "search": "second, we're gonna find out what this company does, which actually feels a little silly.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:42",
+      "startMs": 154080,
+      "endMs": 157920,
+      "verbatim": "Like when you look at this, it feels a little silly what they're writing about.",
+      "display": "Like when you look at this, it feels a little silly what they're writing about.",
+      "search": "like when you look at this, it feels a little silly what they're writing about.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:43",
+      "startMs": 157920,
+      "endMs": 163440,
+      "verbatim": "And then three, I'm gonna get upset and I'm gonna yap for a little bit and I'm gonna tell you why I think this is ridiculous.",
+      "display": "And then three, I'm gonna get upset and I'm gonna yap for a little bit and I'm gonna tell you why I think this is ridiculous.",
+      "search": "and then three, i'm gonna get upset and i'm gonna yap for a little bit and i'm gonna tell you why i think this is ridiculous.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:44",
+      "startMs": 163440,
+      "endMs": 165200,
+      "verbatim": "Alright, so first off, the premise.",
+      "display": "Alright, so first off, the premise.",
+      "search": "alright, so first off, the premise.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:45",
+      "startMs": 165200,
+      "endMs": 168480,
+      "verbatim": "A few months ago, Travis Kalinick illustrated a simple point on a podcast.",
+      "display": "A few months ago, Travis Kalinick illustrated a simple point on a podcast.",
+      "search": "a few months ago, travis kalinick illustrated a simple point on a podcast.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:46",
+      "startMs": 168480,
+      "endMs": 170640,
+      "verbatim": "Picture a marathon runner at mile 21.",
+      "display": "Picture a marathon runner at mile 21.",
+      "search": "picture a marathon runner at mile 21.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:47",
+      "startMs": 170640,
+      "endMs": 171680,
+      "verbatim": "Are they smiling?",
+      "display": "Are they smiling?",
+      "search": "are they smiling?",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:48",
+      "startMs": 171680,
+      "endMs": 172400,
+      "verbatim": "No.",
+      "display": "No.",
+      "search": "no.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:49",
+      "startMs": 172400,
+      "endMs": 175520,
+      "verbatim": "And if they are, they're about to get passed by someone who isn't.",
+      "display": "And if they are, they're about to get passed by someone who isn't.",
+      "search": "and if they are, they're about to get passed by someone who isn't.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:50",
+      "startMs": 175520,
+      "endMs": 179200,
+      "verbatim": "Someone who signed up for the pain, someone who will go harder and further because of it.",
+      "display": "Someone who signed up for the pain, someone who will go harder and further because of it.",
+      "search": "someone who signed up for the pain, someone who will go harder and further because of it.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:51",
+      "startMs": 179200,
+      "endMs": 184720,
+      "verbatim": "I've lost track of the number of times we've won over a customer because I stayed at the office until 4 a.m.",
+      "display": "I've lost track of the number of times we've won over a customer because I stayed at the office until 4 a.m.",
+      "search": "i've lost track of the number of times we've won over a customer because i stayed at the office until 4 a.m.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:52",
+      "startMs": 184800,
+      "endMs": 187760,
+      "verbatim": "shipping a feature I knew would blow them away the next morning.",
+      "display": "shipping a feature I knew would blow them away the next morning.",
+      "search": "shipping a feature i knew would blow them away the next morning.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:53",
+      "startMs": 187760,
+      "endMs": 195840,
+      "verbatim": "I lost track of the number of times I had to make a hard decision that were genuinely painful in the moment, but it turned out to be exactly right in the long run.",
+      "display": "I lost track of the number of times I had to make a hard decision that were genuinely painful in the moment, but it turned out to be exactly right in the long run.",
+      "search": "i lost track of the number of times i had to make a hard decision that were genuinely painful in the moment, but it turned out to be exactly right in the long run.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:54",
+      "startMs": 195840,
+      "endMs": 198240,
+      "verbatim": "I didn't smile through a single one of them.",
+      "display": "I didn't smile through a single one of them.",
+      "search": "i didn't smile through a single one of them.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:55",
+      "startMs": 198240,
+      "endMs": 199920,
+      "verbatim": "Damn, that kind of goes hard, huh?",
+      "display": "Damn, that kind of goes hard, huh?",
+      "search": "damn, that kind of goes hard, huh?",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:56",
+      "startMs": 199920,
+      "endMs": 202320,
+      "verbatim": "Because I've also been out there till 4 a.m.",
+      "display": "Because I've also been out there till 4 a.m.",
+      "search": "because i've also been out there till 4 a.m.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:57",
+      "startMs": 202400,
+      "endMs": 203200,
+      "verbatim": "working on features.",
+      "display": "working on features.",
+      "search": "working on features.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:58",
+      "startMs": 203200,
+      "endMs": 206000,
+      "verbatim": "I've also been the one out there working as hard as I can.",
+      "display": "I've also been the one out there working as hard as I can.",
+      "search": "i've also been the one out there working as hard as i can.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:59",
+      "startMs": 206000,
+      "endMs": 208400,
+      "verbatim": "So I mean, this this goes hard.",
+      "display": "So I mean, this this goes hard.",
+      "search": "so i mean, this this goes hard.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:60",
+      "startMs": 208400,
+      "endMs": 212880,
+      "verbatim": "So you're probably asking yourself, so what is this company that this guy is working so hard for?",
+      "display": "So you're probably asking yourself, so what is this company that this guy is working so hard for?",
+      "search": "so you're probably asking yourself, so what is this company that this guy is working so hard for?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:61",
+      "startMs": 212880,
+      "endMs": 216480,
+      "verbatim": "It's a it's a doc, it's a doc, docs, it's docs.",
+      "display": "It's a it's a doc, it's a doc, docs, it's docs.",
+      "search": "it's a it's a doc, it's a doc, docs, it's docs.",
+      "confidence": 0.65
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:62",
+      "startMs": 216480,
+      "endMs": 217040,
+      "verbatim": "Docks.",
+      "display": "Docks.",
+      "search": "docks.",
+      "confidence": 0.557
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:63",
+      "startMs": 217040,
+      "endMs": 220880,
+      "verbatim": "Docks for you, docs for your startup, docs for your agents and enterprises.",
+      "display": "Docks for you, docs for your startup, docs for your agents and enterprises.",
+      "search": "docks for you, docs for your startup, docs for your agents and enterprises.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:64",
+      "startMs": 220880,
+      "endMs": 221760,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.622
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:65",
+      "startMs": 222800,
+      "endMs": 223760,
+      "verbatim": "The docksite.",
+      "display": "The docksite.",
+      "search": "the docksite.",
+      "confidence": 0.441
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:66",
+      "startMs": 223760,
+      "endMs": 228480,
+      "verbatim": "Bro's writing like he's working at Andorro writing Haskell doing defense weapons.",
+      "display": "Bro's writing like he's working at Andorro writing Haskell doing defense weapons.",
+      "search": "bro's writing like he's working at andorro writing haskell doing defense weapons.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:67",
+      "startMs": 228480,
+      "endMs": 230480,
+      "verbatim": "Like, what are we doing here?",
+      "display": "Like, what are we doing here?",
+      "search": "like, what are we doing here?",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:68",
+      "startMs": 230480,
+      "endMs": 231680,
+      "verbatim": "Like you're a docksite.",
+      "display": "Like you're a docksite.",
+      "search": "like you're a docksite.",
+      "confidence": 0.647
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:69",
+      "startMs": 231680,
+      "endMs": 233200,
+      "verbatim": "Like, why are you writing like you're at war?",
+      "display": "Like, why are you writing like you're at war?",
+      "search": "like, why are you writing like you're at war?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:70",
+      "startMs": 233200,
+      "endMs": 234160,
+      "verbatim": "Now I get it.",
+      "display": "Now I get it.",
+      "search": "now i get it.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:71",
+      "startMs": 234160,
+      "endMs": 238000,
+      "verbatim": "I get it that most products are way more complicated than you ever really realized.",
+      "display": "I get it that most products are way more complicated than you ever really realized.",
+      "search": "i get it that most products are way more complicated than you ever really realized.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:72",
+      "startMs": 238000,
+      "endMs": 242960,
+      "verbatim": "Like it's super simple to look on the outside and go, oh yeah, this is so simple.",
+      "display": "Like it's super simple to look on the outside and go, oh yeah, this is so simple.",
+      "search": "like it's super simple to look on the outside and go, oh yeah, this is so simple.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:73",
+      "startMs": 242960,
+      "endMs": 244160,
+      "verbatim": "Why don't you just do X?",
+      "display": "Why don't you just do X?",
+      "search": "why don't you just do x?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:74",
+      "startMs": 244240,
+      "endMs": 248960,
+      "verbatim": "But then really on the inside, there's a whole bunch of complications you just will never know about because you've never worked there.",
+      "display": "But then really on the inside, there's a whole bunch of complications you just will never know about because you've never worked there.",
+      "search": "but then really on the inside, there's a whole bunch of complications you just will never know about because you've never worked there.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:75",
+      "startMs": 248960,
+      "endMs": 251520,
+      "verbatim": "And I I totally understand that.",
+      "display": "And I I totally understand that.",
+      "search": "and i i totally understand that.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:76",
+      "startMs": 251520,
+      "endMs": 254240,
+      "verbatim": "But also, being like, bro, don't smile.",
+      "display": "But also, being like, bro, don't smile.",
+      "search": "but also, being like, bro, don't smile.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:77",
+      "startMs": 254240,
+      "endMs": 260240,
+      "verbatim": "We're working hard, staying up till 4 a.m., delivering features to customers to make sales, self-hosted doc site.",
+      "display": "We're working hard, staying up till 4 a.m., delivering features to customers to make sales, self-hosted doc site.",
+      "search": "we're working hard, staying up till 4 a.m., delivering features to customers to make sales, self-hosted doc site.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:78",
+      "startMs": 260480,
+      "endMs": 263840,
+      "verbatim": "So something there I'm just saying doesn't add up.",
+      "display": "So something there I'm just saying doesn't add up.",
+      "search": "so something there i'm just saying doesn't add up.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:79",
+      "startMs": 263840,
+      "endMs": 267680,
+      "verbatim": "Sorry for smiling right now, but it just seems a little ridiculous.",
+      "display": "Sorry for smiling right now, but it just seems a little ridiculous.",
+      "search": "sorry for smiling right now, but it just seems a little ridiculous.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:80",
+      "startMs": 267680,
+      "endMs": 275280,
+      "verbatim": "So not only you writing this kind of makes you look a little bit like a goofball, also, why would anyone want to work at this company now?",
+      "display": "So not only you writing this kind of makes you look a little bit like a goofball, also, why would anyone want to work at this company now?",
+      "search": "so not only you writing this kind of makes you look a little bit like a goofball, also, why would anyone want to work at this company now?",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:81",
+      "startMs": 275520,
+      "endMs": 278800,
+      "verbatim": "I don't want to work at a place where I'm told not to smile.",
+      "display": "I don't want to work at a place where I'm told not to smile.",
+      "search": "i don't want to work at a place where i'm told not to smile.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:82",
+      "startMs": 278800,
+      "endMs": 280880,
+      "verbatim": "I want to work at a place that is filled with joy.",
+      "display": "I want to work at a place that is filled with joy.",
+      "search": "i want to work at a place that is filled with joy.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:83",
+      "startMs": 280880,
+      "endMs": 286640,
+      "verbatim": "People that are actually building with purpose and happiness because that encourages me to work harder.",
+      "display": "People that are actually building with purpose and happiness because that encourages me to work harder.",
+      "search": "people that are actually building with purpose and happiness because that encourages me to work harder.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:84",
+      "startMs": 286640,
+      "endMs": 291600,
+      "verbatim": "This almost feels like the exact opposite of anything you want out of a company.",
+      "display": "This almost feels like the exact opposite of anything you want out of a company.",
+      "search": "this almost feels like the exact opposite of anything you want out of a company.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:85",
+      "startMs": 291600,
+      "endMs": 296000,
+      "verbatim": "In fact, this was so absurd, my favorite parody of it is I'm going to punch you in the stomach.",
+      "display": "In fact, this was so absurd, my favorite parody of it is I'm going to punch you in the stomach.",
+      "search": "in fact, this was so absurd, my favorite parody of it is i'm going to punch you in the stomach.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:86",
+      "startMs": 296000,
+      "endMs": 296720,
+      "verbatim": "That's right.",
+      "display": "That's right.",
+      "search": "that's right.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:87",
+      "startMs": 296720,
+      "endMs": 302400,
+      "verbatim": "Someone else made a single slide, CEO stands up, and all he would do is punch you in the stomach.",
+      "display": "Someone else made a single slide, CEO stands up, and all he would do is punch you in the stomach.",
+      "search": "someone else made a single slide, ceo stands up, and all he would do is punch you in the stomach.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:88",
+      "startMs": 302400,
+      "endMs": 303360,
+      "verbatim": "You should actually read it.",
+      "display": "You should actually read it.",
+      "search": "you should actually read it.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:89",
+      "startMs": 303360,
+      "endMs": 304960,
+      "verbatim": "It's it's very, very funny.",
+      "display": "It's it's very, very funny.",
+      "search": "it's it's very, very funny.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:90",
+      "startMs": 304960,
+      "endMs": 309120,
+      "verbatim": "So now it's the time where I I try not to get too upset.",
+      "display": "So now it's the time where I I try not to get too upset.",
+      "search": "so now it's the time where i i try not to get too upset.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:91",
+      "startMs": 309120,
+      "endMs": 313600,
+      "verbatim": "The reality is this is that I have also worked many, many, many an evening.",
+      "display": "The reality is this is that I have also worked many, many, many an evening.",
+      "search": "the reality is this is that i have also worked many, many, many an evening.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:92",
+      "startMs": 313600,
+      "endMs": 315760,
+      "verbatim": "I've been a part of building startups.",
+      "display": "I've been a part of building startups.",
+      "search": "i've been a part of building startups.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:93",
+      "startMs": 315760,
+      "endMs": 318720,
+      "verbatim": "Uh, it's been a lot of fun doing all of those things.",
+      "display": "Uh, it's been a lot of fun doing all of those things.",
+      "search": "uh, it's been a lot of fun doing all of those things.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:94",
+      "startMs": 318720,
+      "endMs": 325360,
+      "verbatim": "But I would I would have to say that a fundamental premise or a thesis that I have is actually quite the opposite.",
+      "display": "But I would I would have to say that a fundamental premise or a thesis that I have is actually quite the opposite.",
+      "search": "but i would i would have to say that a fundamental premise or a thesis that i have is actually quite the opposite.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:95",
+      "startMs": 325360,
+      "endMs": 341360,
+      "verbatim": "If you have people working late and working hard, if there's not joy before them, if they do not feel connected, if the camaraderie isn't there, if they don't actually smile because they are happy to be there working hard, I don't think you have a long-term or sustainable solution.",
+      "display": "If you have people working late and working hard, if there's not joy before them, if they do not feel connected, if the camaraderie isn't there, if they don't actually smile because they are happy to be there working hard, I don't think you have a long-term or sustainable solution.",
+      "search": "if you have people working late and working hard, if there's not joy before them, if they do not feel connected, if the camaraderie isn't there, if they don't actually smile because they are happy to be there working hard, i don't think you have a long-term or sustainable solution.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:96",
+      "startMs": 341360,
+      "endMs": 348640,
+      "verbatim": "And it's not something that I expect employees to do because the reality is if you are an owner of a company, it totally makes sense.",
+      "display": "And it's not something that I expect employees to do because the reality is if you are an owner of a company, it totally makes sense.",
+      "search": "and it's not something that i expect employees to do because the reality is if you are an owner of a company, it totally makes sense.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:97",
+      "startMs": 348640,
+      "endMs": 352800,
+      "verbatim": "You are working because you own it and you have to go way harder than everybody else.",
+      "display": "You are working because you own it and you have to go way harder than everybody else.",
+      "search": "you are working because you own it and you have to go way harder than everybody else.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:98",
+      "startMs": 352800,
+      "endMs": 362400,
+      "verbatim": "But if you're just an employee expecting someone not to smile and give it their 100% all the time to deliver all features at all times, it just sounds absurd on its face.",
+      "display": "But if you're just an employee expecting someone not to smile and give it their 100% all the time to deliver all features at all times, it just sounds absurd on its face.",
+      "search": "but if you're just an employee expecting someone not to smile and give it their 100% all the time to deliver all features at all times, it just sounds absurd on its face.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:99",
+      "startMs": 362400,
+      "endMs": 368560,
+      "verbatim": "Now, I could be completely misrepresenting what he's attempting to say here, but that's kind of what it looks like from the outside.",
+      "display": "Now, I could be completely misrepresenting what he's attempting to say here, but that's kind of what it looks like from the outside.",
+      "search": "now, i could be completely misrepresenting what he's attempting to say here, but that's kind of what it looks like from the outside.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:100",
+      "startMs": 368560,
+      "endMs": 373520,
+      "verbatim": "I most certainly, you know this by now, am a big fan of going hard in the paint.",
+      "display": "I most certainly, you know this by now, am a big fan of going hard in the paint.",
+      "search": "i most certainly, you know this by now, am a big fan of going hard in the paint.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:101",
+      "startMs": 373520,
+      "endMs": 373840,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.698
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:102",
+      "startMs": 373840,
+      "endMs": 375280,
+      "verbatim": "I like working kind of hard.",
+      "display": "I like working kind of hard.",
+      "search": "i like working kind of hard.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:103",
+      "startMs": 375280,
+      "endMs": 376080,
+      "verbatim": "I like learning.",
+      "display": "I like learning.",
+      "search": "i like learning.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:104",
+      "startMs": 376080,
+      "endMs": 377040,
+      "verbatim": "I like executing.",
+      "display": "I like executing.",
+      "search": "i like executing.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:105",
+      "startMs": 377040,
+      "endMs": 378320,
+      "verbatim": "I like all those things.",
+      "display": "I like all those things.",
+      "search": "i like all those things.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:106",
+      "startMs": 378320,
+      "endMs": 390960,
+      "verbatim": "But this idea that you can't smile, that you shouldn't smile to remember not to smile, this feels the opposite of what's gonna make something that actually works for you, something that actually makes real hard work.",
+      "display": "But this idea that you can't smile, that you shouldn't smile to remember not to smile, this feels the opposite of what's gonna make something that actually works for you, something that actually makes real hard work.",
+      "search": "but this idea that you can't smile, that you shouldn't smile to remember not to smile, this feels the opposite of what's gonna make something that actually works for you, something that actually makes real hard work.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:107",
+      "startMs": 390960,
+      "endMs": 395520,
+      "verbatim": "Because when I read this, how I read this person is he seems like he's trying not to lose.",
+      "display": "Because when I read this, how I read this person is he seems like he's trying not to lose.",
+      "search": "because when i read this, how i read this person is he seems like he's trying not to lose.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:108",
+      "startMs": 395520,
+      "endMs": 396880,
+      "verbatim": "He's not playing to win.",
+      "display": "He's not playing to win.",
+      "search": "he's not playing to win.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:109",
+      "startMs": 396880,
+      "endMs": 400560,
+      "verbatim": "When you're playing to win, you're having fun, you're going for gold, you're going all in.",
+      "display": "When you're playing to win, you're having fun, you're going for gold, you're going all in.",
+      "search": "when you're playing to win, you're having fun, you're going for gold, you're going all in.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:110",
+      "startMs": 400560,
+      "endMs": 403200,
+      "verbatim": "But when you're playing not to lose, you're looking at your competition.",
+      "display": "But when you're playing not to lose, you're looking at your competition.",
+      "search": "but when you're playing not to lose, you're looking at your competition.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:111",
+      "startMs": 403200,
+      "endMs": 404320,
+      "verbatim": "How am I gonna beat them?",
+      "display": "How am I gonna beat them?",
+      "search": "how am i gonna beat them?",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:112",
+      "startMs": 404320,
+      "endMs": 405600,
+      "verbatim": "How am I gonna do better than them?",
+      "display": "How am I gonna do better than them?",
+      "search": "how am i gonna do better than them?",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:113",
+      "startMs": 405600,
+      "endMs": 407840,
+      "verbatim": "Like everything is to the side, it's not forwarded.",
+      "display": "Like everything is to the side, it's not forwarded.",
+      "search": "like everything is to the side, it's not forwarded.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:114",
+      "startMs": 407840,
+      "endMs": 413200,
+      "verbatim": "It reminds me of Boss Baby when Boss Baby's like, if you focus on hitting the tree, that's what will happen, right?",
+      "display": "It reminds me of Boss Baby when Boss Baby's like, if you focus on hitting the tree, that's what will happen, right?",
+      "search": "it reminds me of boss baby when boss baby's like, if you focus on hitting the tree, that's what will happen, right?",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:115",
+      "startMs": 413200,
+      "endMs": 414000,
+      "verbatim": "Because that's the thing.",
+      "display": "Because that's the thing.",
+      "search": "because that's the thing.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:116",
+      "startMs": 414000,
+      "endMs": 417440,
+      "verbatim": "If you focus on the bad stuff, then that's the your destination.",
+      "display": "If you focus on the bad stuff, then that's the your destination.",
+      "search": "if you focus on the bad stuff, then that's the your destination.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:117",
+      "startMs": 417600,
+      "endMs": 418720,
+      "verbatim": "I know that's not always true.",
+      "display": "I know that's not always true.",
+      "search": "i know that's not always true.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:118",
+      "startMs": 418720,
+      "endMs": 420560,
+      "verbatim": "That's like a little bit of manifesting there.",
+      "display": "That's like a little bit of manifesting there.",
+      "search": "that's like a little bit of manifesting there.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:119",
+      "startMs": 420560,
+      "endMs": 422880,
+      "verbatim": "I'm not trying to say that, but you get the idea.",
+      "display": "I'm not trying to say that, but you get the idea.",
+      "search": "i'm not trying to say that, but you get the idea.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:120",
+      "startMs": 422880,
+      "endMs": 424320,
+      "verbatim": "Focus on winning.",
+      "display": "Focus on winning.",
+      "search": "focus on winning.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:121",
+      "startMs": 424320,
+      "endMs": 426160,
+      "verbatim": "Don't focus on not losing.",
+      "display": "Don't focus on not losing.",
+      "search": "don't focus on not losing.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:122",
+      "startMs": 426160,
+      "endMs": 434560,
+      "verbatim": "And I would have to say, waking up every morning at like 4:50, streaming from 5 a.m.",
+      "display": "And I would have to say, waking up every morning at like 4:50, streaming from 5 a.m.",
+      "search": "and i would have to say, waking up every morning at like 4:50, streaming from 5 a.m.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:123",
+      "startMs": 434720,
+      "endMs": 435760,
+      "verbatim": "till 9 a.m.",
+      "display": "till 9 a.m.",
+      "search": "till 9 a.m.",
+      "confidence": 0.569
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:124",
+      "startMs": 435840,
+      "endMs": 447040,
+      "verbatim": "every single day, then working at Netflix from 9 to 5 every single day for many, many years until I got to the point where I could finally retire from Netflix and give this a real go, this whole content creation thing.",
+      "display": "every single day, then working at Netflix from 9 to 5 every single day for many, many years until I got to the point where I could finally retire from Netflix and give this a real go, this whole content creation thing.",
+      "search": "every single day, then working at netflix from 9 to 5 every single day for many, many years until i got to the point where i could finally retire from netflix and give this a real go, this whole content creation thing.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:125",
+      "startMs": 447040,
+      "endMs": 450720,
+      "verbatim": "I could not have done that if I was not smiling through the whole thing.",
+      "display": "I could not have done that if I was not smiling through the whole thing.",
+      "search": "i could not have done that if i was not smiling through the whole thing.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:126",
+      "startMs": 450720,
+      "endMs": 452320,
+      "verbatim": "Because it was exhausting.",
+      "display": "Because it was exhausting.",
+      "search": "because it was exhausting.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:127",
+      "startMs": 452320,
+      "endMs": 459440,
+      "verbatim": "12 hours every single day just to get off and then also be present and encouraging with my family and also love them well.",
+      "display": "12 hours every single day just to get off and then also be present and encouraging with my family and also love them well.",
+      "search": "12 hours every single day just to get off and then also be present and encouraging with my family and also love them well.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:128",
+      "startMs": 459440,
+      "endMs": 466480,
+      "verbatim": "Like all of those things that make every single day feel like I woke up at 4:50 and ended at 9:30.",
+      "display": "Like all of those things that make every single day feel like I woke up at 4:50 and ended at 9:30.",
+      "search": "like all of those things that make every single day feel like i woke up at 4:50 and ended at 9:30.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:129",
+      "startMs": 466480,
+      "endMs": 469760,
+      "verbatim": "There was just absolutely no breaks for years on end.",
+      "display": "There was just absolutely no breaks for years on end.",
+      "search": "there was just absolutely no breaks for years on end.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:130",
+      "startMs": 469760,
+      "endMs": 472640,
+      "verbatim": "And yet I look back at those years really fondly.",
+      "display": "And yet I look back at those years really fondly.",
+      "search": "and yet i look back at those years really fondly.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:131",
+      "startMs": 472640,
+      "endMs": 477360,
+      "verbatim": "I look back at them because I smiled through the whole thing and I ran that race well.",
+      "display": "I look back at them because I smiled through the whole thing and I ran that race well.",
+      "search": "i look back at them because i smiled through the whole thing and i ran that race well.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:132",
+      "startMs": 477360,
+      "endMs": 483040,
+      "verbatim": "And I'm completely convinced if you don't know how to smile through the hard times, they're going to eat you alive.",
+      "display": "And I'm completely convinced if you don't know how to smile through the hard times, they're going to eat you alive.",
+      "search": "and i'm completely convinced if you don't know how to smile through the hard times, they're going to eat you alive.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:133",
+      "startMs": 483040,
+      "endMs": 485120,
+      "verbatim": "And I think it's best illustrated by this guy right here.",
+      "display": "And I think it's best illustrated by this guy right here.",
+      "search": "and i think it's best illustrated by this guy right here.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:134",
+      "startMs": 485120,
+      "endMs": 486240,
+      "verbatim": "By the way, thank you, Josh.",
+      "display": "By the way, thank you, Josh.",
+      "search": "by the way, thank you, josh.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:135",
+      "startMs": 486560,
+      "endMs": 487760,
+      "verbatim": "Josh, the Jays.",
+      "display": "Josh, the Jays.",
+      "search": "josh, the jays.",
+      "confidence": 0.678
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:136",
+      "startMs": 487760,
+      "endMs": 492480,
+      "verbatim": "This guy right here, Elliot, is considered the greatest marathon runner in the world.",
+      "display": "This guy right here, Elliot, is considered the greatest marathon runner in the world.",
+      "search": "this guy right here, elliot, is considered the greatest marathon runner in the world.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:137",
+      "startMs": 492480,
+      "endMs": 494640,
+      "verbatim": "He was the one that broke the two-hour barrier.",
+      "display": "He was the one that broke the two-hour barrier.",
+      "search": "he was the one that broke the two-hour barrier.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:138",
+      "startMs": 494640,
+      "endMs": 496000,
+      "verbatim": "And how would he run?",
+      "display": "And how would he run?",
+      "search": "and how would he run?",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:139",
+      "startMs": 496000,
+      "endMs": 498800,
+      "verbatim": "He would literally run with a smile on his face.",
+      "display": "He would literally run with a smile on his face.",
+      "search": "he would literally run with a smile on his face.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:140",
+      "startMs": 498800,
+      "endMs": 509760,
+      "verbatim": "And part of this is because he had to smile through it all because the pain was so great that he said if he could put a smile on it, it encouraged him to go harder, longer, faster.",
+      "display": "And part of this is because he had to smile through it all because the pain was so great that he said if he could put a smile on it, it encouraged him to go harder, longer, faster.",
+      "search": "and part of this is because he had to smile through it all because the pain was so great that he said if he could put a smile on it, it encouraged him to go harder, longer, faster.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:141",
+      "startMs": 509760,
+      "endMs": 519600,
+      "verbatim": "In fact, there's even been training programs that actually model themselves after his smiling and have found results that actually show that if you smile, you can work harder.",
+      "display": "In fact, there's even been training programs that actually model themselves after his smiling and have found results that actually show that if you smile, you can work harder.",
+      "search": "in fact, there's even been training programs that actually model themselves after his smiling and have found results that actually show that if you smile, you can work harder.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:142",
+      "startMs": 519600,
+      "endMs": 523120,
+      "verbatim": "Being filled with joy turns out is a secret weapon.",
+      "display": "Being filled with joy turns out is a secret weapon.",
+      "search": "being filled with joy turns out is a secret weapon.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:143",
+      "startMs": 523120,
+      "endMs": 526240,
+      "verbatim": "And remembering to not smile is going to destroy you.",
+      "display": "And remembering to not smile is going to destroy you.",
+      "search": "and remembering to not smile is going to destroy you.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:144",
+      "startMs": 526240,
+      "endMs": 527840,
+      "verbatim": "So please remember to smile.",
+      "display": "So please remember to smile.",
+      "search": "so please remember to smile.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:145",
+      "startMs": 527840,
+      "endMs": 529120,
+      "verbatim": "I'm gonna give the opposite.",
+      "display": "I'm gonna give the opposite.",
+      "search": "i'm gonna give the opposite.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:146",
+      "startMs": 529120,
+      "endMs": 531440,
+      "verbatim": "We live in one of the greatest time periods of all time.",
+      "display": "We live in one of the greatest time periods of all time.",
+      "search": "we live in one of the greatest time periods of all time.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:147",
+      "startMs": 531760,
+      "endMs": 536880,
+      "verbatim": "You don't even have to know how to program that well anymore to make something complex, which is shocking.",
+      "display": "You don't even have to know how to program that well anymore to make something complex, which is shocking.",
+      "search": "you don't even have to know how to program that well anymore to make something complex, which is shocking.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:148",
+      "startMs": 536880,
+      "endMs": 539520,
+      "verbatim": "That was never the case for me as a kid, okay?",
+      "display": "That was never the case for me as a kid, okay?",
+      "search": "that was never the case for me as a kid, okay?",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:149",
+      "startMs": 539520,
+      "endMs": 545920,
+      "verbatim": "When I had to learn how to program, I had to just read and read and read and experiment for weeks to get over some hurdles.",
+      "display": "When I had to learn how to program, I had to just read and read and read and experiment for weeks to get over some hurdles.",
+      "search": "when i had to learn how to program, i had to just read and read and read and experiment for weeks to get over some hurdles.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:150",
+      "startMs": 545920,
+      "endMs": 548960,
+      "verbatim": "Now I can ask, you know, magic rocks, hey bro, how do I do this?",
+      "display": "Now I can ask, you know, magic rocks, hey bro, how do I do this?",
+      "search": "now i can ask, you know, magic rocks, hey bro, how do i do this?",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:151",
+      "startMs": 548960,
+      "endMs": 550000,
+      "verbatim": "Oh, that's how I do it?",
+      "display": "Oh, that's how I do it?",
+      "search": "oh, that's how i do it?",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:152",
+      "startMs": 550000,
+      "endMs": 550560,
+      "verbatim": "Awesome.",
+      "display": "Awesome.",
+      "search": "awesome.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:153",
+      "startMs": 550560,
+      "endMs": 553040,
+      "verbatim": "That it's just it's it's magic.",
+      "display": "That it's just it's it's magic.",
+      "search": "that it's just it's it's magic.",
+      "confidence": 0.637
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:154",
+      "startMs": 553040,
+      "endMs": 555520,
+      "verbatim": "So please, remember to smile.",
+      "display": "So please, remember to smile.",
+      "search": "so please, remember to smile.",
+      "confidence": 0.613
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:155",
+      "startMs": 556560,
+      "endMs": 557840,
+      "verbatim": "It's actually worth it.",
+      "display": "It's actually worth it.",
+      "search": "it's actually worth it.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:L_JgETH8zKM:segment:156",
+      "startMs": 557840,
+      "endMs": 560800,
+      "verbatim": "The name is the smiley gen.",
+      "display": "The name is the smiley gen.",
+      "search": "the name is the smiley gen.",
+      "confidence": 0.485
+    }
+  ]
+}
