@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:Obc3wnL06SQ",
+  "platform": "youtube",
+  "platformId": "Obc3wnL06SQ",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Microsoft is the Worst",
+  "description": "KERNEL builds crazy fast, open source infra for AI agents to access the internet. Trusted by Framer, Cash App, and 3000+ teams\n\nhttps://trm.sh/kernel\n\nSources:\n\n- https://x.com/asha_shar/status/2074124008795369482\n\nTopics Covered:\n\n- Microsoft Layoffs\n- Xbox CEO Layoff email\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=Obc3wnL06SQ",
+  "publishedAt": "2026-07-10T13:44:03.000Z",
+  "durationMs": 847000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T23:01:24.156Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T23:01:24.156Z",
+    "runId": "2026-08-30T22-45-04-059Z-3159b82f"
+  }
+}

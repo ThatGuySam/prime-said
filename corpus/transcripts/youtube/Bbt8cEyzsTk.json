@@ -1,0 +1,1670 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_12be9a70f54caf0edb31deb7",
+  "sourceId": "youtube:Bbt8cEyzsTk",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:56:07.255Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:1",
+      "startMs": 3840,
+      "endMs": 5200,
+      "verbatim": "You see that face?",
+      "display": "You see that face?",
+      "search": "you see that face?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:2",
+      "startMs": 5200,
+      "endMs": 6320,
+      "verbatim": "You know what that face is?",
+      "display": "You know what that face is?",
+      "search": "you know what that face is?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:3",
+      "startMs": 6640,
+      "endMs": 10080,
+      "verbatim": "That is the smug face of somebody who was proven correct.",
+      "display": "That is the smug face of somebody who was proven correct.",
+      "search": "that is the smug face of somebody who was proven correct.",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:4",
+      "startMs": 10320,
+      "endMs": 17520,
+      "verbatim": "And the best part is right after you're caught in AK, you're even told by your friends you're wrong.",
+      "display": "And the best part is right after you're caught in AK, you're even told by your friends you're wrong.",
+      "search": "and the best part is right after you're caught in ak, you're even told by your friends you're wrong.",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:5",
+      "startMs": 17520,
+      "endMs": 20080,
+      "verbatim": "So you're probably thinking, okay, what what are we talking about?",
+      "display": "So you're probably thinking, okay, what what are we talking about?",
+      "search": "so you're probably thinking, okay, what what are we talking about?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:6",
+      "startMs": 20080,
+      "endMs": 22160,
+      "verbatim": "What are you even trying to say?",
+      "display": "What are you even trying to say?",
+      "search": "what are you even trying to say?",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:7",
+      "startMs": 22160,
+      "endMs": 23920,
+      "verbatim": "What were you proven right about?",
+      "display": "What were you proven right about?",
+      "search": "what were you proven right about?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:8",
+      "startMs": 23920,
+      "endMs": 33440,
+      "verbatim": "Well, my friends, it turns out, after many hurt feelings and being told I was wrong, images might actually be better for models than text.",
+      "display": "Well, my friends, it turns out, after many hurt feelings and being told I was wrong, images might actually be better for models than text.",
+      "search": "well, my friends, it turns out, after many hurt feelings and being told i was wrong, images might actually be better for models than text.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:9",
+      "startMs": 33440,
+      "endMs": 35040,
+      "verbatim": "I knew it!",
+      "display": "I knew it!",
+      "search": "i knew it!",
+      "confidence": 0.608
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:10",
+      "startMs": 35040,
+      "endMs": 37360,
+      "verbatim": "Don't make it do image recognition on that dude.",
+      "display": "Don't make it do image recognition on that dude.",
+      "search": "don't make it do image recognition on that dude.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:11",
+      "startMs": 37520,
+      "endMs": 38480,
+      "verbatim": "No, no, you just do this.",
+      "display": "No, no, you just do this.",
+      "search": "no, no, you just do this.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:12",
+      "startMs": 38480,
+      "endMs": 40640,
+      "verbatim": "What are you talking about?",
+      "display": "What are you talking about?",
+      "search": "what are you talking about?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:13",
+      "startMs": 40720,
+      "endMs": 42080,
+      "verbatim": "It is good.",
+      "display": "It is good.",
+      "search": "it is good.",
+      "confidence": 0.245
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:14",
+      "startMs": 42080,
+      "endMs": 44480,
+      "verbatim": "Now, this isn't just me saying this, of course.",
+      "display": "Now, this isn't just me saying this, of course.",
+      "search": "now, this isn't just me saying this, of course.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:15",
+      "startMs": 44480,
+      "endMs": 57920,
+      "verbatim": "This is actually Deep Seek releasing a new paper that suggests that if you provide images, you could pull out 10 text tokens from a single image token with near 100% accuracy.",
+      "display": "This is actually Deep Seek releasing a new paper that suggests that if you provide images, you could pull out 10 text tokens from a single image token with near 100% accuracy.",
+      "search": "this is actually deep seek releasing a new paper that suggests that if you provide images, you could pull out 10 text tokens from a single image token with near 100% accuracy.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:16",
+      "startMs": 57920,
+      "endMs": 65600,
+      "verbatim": "In other words, a model's internal representation of an image is ten times efficient as its internal representation of text.",
+      "display": "In other words, a model's internal representation of an image is ten times efficient as its internal representation of text.",
+      "search": "in other words, a model's internal representation of an image is ten times efficient as its internal representation of text.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:17",
+      "startMs": 65600,
+      "endMs": 71840,
+      "verbatim": "Meaning, not only do you get the correct information out, but you also get it way more efficient.",
+      "display": "Meaning, not only do you get the correct information out, but you also get it way more efficient.",
+      "search": "meaning, not only do you get the correct information out, but you also get it way more efficient.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:18",
+      "startMs": 71840,
+      "endMs": 76240,
+      "verbatim": "And I know, I know a lot of you right now keep running up against limits with Fable.",
+      "display": "And I know, I know a lot of you right now keep running up against limits with Fable.",
+      "search": "and i know, i know a lot of you right now keep running up against limits with fable.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:19",
+      "startMs": 76240,
+      "endMs": 79440,
+      "verbatim": "Okay, you get like one prompt into it and you're like, I'm already out.",
+      "display": "Okay, you get like one prompt into it and you're like, I'm already out.",
+      "search": "okay, you get like one prompt into it and you're like, i'm already out.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:20",
+      "startMs": 79440,
+      "endMs": 83840,
+      "verbatim": "Maybe just maybe this is the balm you need to apply to those fable wounds.",
+      "display": "Maybe just maybe this is the balm you need to apply to those fable wounds.",
+      "search": "maybe just maybe this is the balm you need to apply to those fable wounds.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:21",
+      "startMs": 84480,
+      "endMs": 85520,
+      "verbatim": "What an analogy.",
+      "display": "What an analogy.",
+      "search": "what an analogy.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:22",
+      "startMs": 85520,
+      "endMs": 95440,
+      "verbatim": "There's also been a bit of research into this, apparently claiming that yes, you're actually gonna get 59 to 70% lower end to end bill by using images.",
+      "display": "There's also been a bit of research into this, apparently claiming that yes, you're actually gonna get 59 to 70% lower end to end bill by using images.",
+      "search": "there's also been a bit of research into this, apparently claiming that yes, you're actually gonna get 59 to 70% lower end to end bill by using images.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:23",
+      "startMs": 95440,
+      "endMs": 100720,
+      "verbatim": "And yes, I myself even did a bit of research, spent two billion tokens for this video.",
+      "display": "And yes, I myself even did a bit of research, spent two billion tokens for this video.",
+      "search": "and yes, i myself even did a bit of research, spent two billion tokens for this video.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:24",
+      "startMs": 100720,
+      "endMs": 102080,
+      "verbatim": "Hey, that's a dedication.",
+      "display": "Hey, that's a dedication.",
+      "search": "hey, that's a dedication.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:25",
+      "startMs": 102080,
+      "endMs": 106400,
+      "verbatim": "All right, so before we get into the nitty-gritty details, I would first like to say thank you to my sponsor.",
+      "display": "All right, so before we get into the nitty-gritty details, I would first like to say thank you to my sponsor.",
+      "search": "all right, so before we get into the nitty-gritty details, i would first like to say thank you to my sponsor.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:26",
+      "startMs": 106400,
+      "endMs": 107680,
+      "verbatim": "Helkins!",
+      "display": "Helkins!",
+      "search": "helkins!",
+      "confidence": 0.344
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:27",
+      "startMs": 108400,
+      "endMs": 109440,
+      "verbatim": "Dad?",
+      "display": "Dad?",
+      "search": "dad?",
+      "confidence": 0.265
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:28",
+      "startMs": 109600,
+      "endMs": 112000,
+      "verbatim": "Could you teach me how to five code today?",
+      "display": "Could you teach me how to five code today?",
+      "search": "could you teach me how to five code today?",
+      "confidence": 0.747
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:29",
+      "startMs": 112000,
+      "endMs": 114240,
+      "verbatim": "Doesn't look like I have time for that, son.",
+      "display": "Doesn't look like I have time for that, son.",
+      "search": "doesn't look like i have time for that, son.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:30",
+      "startMs": 114240,
+      "endMs": 116480,
+      "verbatim": "My database is down again.",
+      "display": "My database is down again.",
+      "search": "my database is down again.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:31",
+      "startMs": 116480,
+      "endMs": 123200,
+      "verbatim": "Um, maybe tomorrow.",
+      "display": "Um, maybe tomorrow.",
+      "search": "um, maybe tomorrow.",
+      "confidence": 0.577
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:32",
+      "startMs": 123200,
+      "endMs": 124720,
+      "verbatim": "Not again!",
+      "display": "Not again!",
+      "search": "not again!",
+      "confidence": 0.524
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:33",
+      "startMs": 126880,
+      "endMs": 128400,
+      "verbatim": "Go along, son!",
+      "display": "Go along, son!",
+      "search": "go along, son!",
+      "confidence": 0.478
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:34",
+      "startMs": 128640,
+      "endMs": 131040,
+      "verbatim": "Teach, gotta go bad.",
+      "display": "Teach, gotta go bad.",
+      "search": "teach, gotta go bad.",
+      "confidence": 0.283
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:35",
+      "startMs": 131200,
+      "endMs": 133680,
+      "verbatim": "Hey Teach, how do you have time to play with your kid?",
+      "display": "Hey Teach, how do you have time to play with your kid?",
+      "search": "hey teach, how do you have time to play with your kid?",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:36",
+      "startMs": 133680,
+      "endMs": 135280,
+      "verbatim": "Isn't your database always down?",
+      "display": "Isn't your database always down?",
+      "search": "isn't your database always down?",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:37",
+      "startMs": 135280,
+      "endMs": 136000,
+      "verbatim": "What do you mean?",
+      "display": "What do you mean?",
+      "search": "what do you mean?",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:38",
+      "startMs": 136000,
+      "endMs": 137760,
+      "verbatim": "I chose Planet Scale.",
+      "display": "I chose Planet Scale.",
+      "search": "i chose planet scale.",
+      "confidence": 0.646
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:39",
+      "startMs": 137760,
+      "endMs": 143040,
+      "verbatim": "The database for the consumer who wants their downtime to be with their kid.",
+      "display": "The database for the consumer who wants their downtime to be with their kid.",
+      "search": "the database for the consumer who wants their downtime to be with their kid.",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:40",
+      "startMs": 145040,
+      "endMs": 146640,
+      "verbatim": "Nice catch, son!",
+      "display": "Nice catch, son!",
+      "search": "nice catch, son!",
+      "confidence": 0.553
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:41",
+      "startMs": 146640,
+      "endMs": 148400,
+      "verbatim": "Thanks for choosing Planet Scale.",
+      "display": "Thanks for choosing Planet Scale.",
+      "search": "thanks for choosing planet scale.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:42",
+      "startMs": 148480,
+      "endMs": 150160,
+      "verbatim": "You're the best dad ever.",
+      "display": "You're the best dad ever.",
+      "search": "you're the best dad ever.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:43",
+      "startMs": 150160,
+      "endMs": 157280,
+      "verbatim": "No studies have confirmed Planet Scale makes you a better father, but it is a really good database.",
+      "display": "No studies have confirmed Planet Scale makes you a better father, but it is a really good database.",
+      "search": "no studies have confirmed planet scale makes you a better father, but it is a really good database.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:44",
+      "startMs": 157280,
+      "endMs": 160160,
+      "verbatim": "Sorry, I was just feeling so vindicated.",
+      "display": "Sorry, I was just feeling so vindicated.",
+      "search": "sorry, i was just feeling so vindicated.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:45",
+      "startMs": 160160,
+      "endMs": 162400,
+      "verbatim": "I just had to keep on making that face.",
+      "display": "I just had to keep on making that face.",
+      "search": "i just had to keep on making that face.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:46",
+      "startMs": 162400,
+      "endMs": 177200,
+      "verbatim": "So this blog post by Sean Geodek goes in and goes into quite a bit of detail about why these things can happen, and even gives an example by George Mendes here about other fun ways you can compress data and send it off to open AI or any of these model providers.",
+      "display": "So this blog post by Sean Geodek goes in and goes into quite a bit of detail about why these things can happen, and even gives an example by George Mendes here about other fun ways you can compress data and send it off to open AI or any of these model providers.",
+      "search": "so this blog post by sean geodek goes in and goes into quite a bit of detail about why these things can happen, and even gives an example by george mendes here about other fun ways you can compress data and send it off to open ai or any of these model providers.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:47",
+      "startMs": 177200,
+      "endMs": 183680,
+      "verbatim": "And this one involves just simply running your audio through FFmpeg and just speeding it up by two to three X.",
+      "display": "And this one involves just simply running your audio through FFmpeg and just speeding it up by two to three X.",
+      "search": "and this one involves just simply running your audio through ffmpeg and just speeding it up by two to three x.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:48",
+      "startMs": 183680,
+      "endMs": 187760,
+      "verbatim": "You'll save massive amounts of tokens and it gets the same results.",
+      "display": "You'll save massive amounts of tokens and it gets the same results.",
+      "search": "you'll save massive amounts of tokens and it gets the same results.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:49",
+      "startMs": 187760,
+      "endMs": 189360,
+      "verbatim": "Okay, so back to the images.",
+      "display": "Okay, so back to the images.",
+      "search": "okay, so back to the images.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:50",
+      "startMs": 189360,
+      "endMs": 191920,
+      "verbatim": "Why would images work better than text?",
+      "display": "Why would images work better than text?",
+      "search": "why would images work better than text?",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:51",
+      "startMs": 191920,
+      "endMs": 198000,
+      "verbatim": "So with text, you say exactly what you want to say, it can input and process each one of those tokens and moves on, right?",
+      "display": "So with text, you say exactly what you want to say, it can input and process each one of those tokens and moves on, right?",
+      "search": "so with text, you say exactly what you want to say, it can input and process each one of those tokens and moves on, right?",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:52",
+      "startMs": 198000,
+      "endMs": 199600,
+      "verbatim": "It that seems rather simple.",
+      "display": "It that seems rather simple.",
+      "search": "it that seems rather simple.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:53",
+      "startMs": 199600,
+      "endMs": 202080,
+      "verbatim": "Whereas with images, doesn't it have to do a bunch of processing?",
+      "display": "Whereas with images, doesn't it have to do a bunch of processing?",
+      "search": "whereas with images, doesn't it have to do a bunch of processing?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:54",
+      "startMs": 202080,
+      "endMs": 204320,
+      "verbatim": "How is this not using a bunch more tokens?",
+      "display": "How is this not using a bunch more tokens?",
+      "search": "how is this not using a bunch more tokens?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:55",
+      "startMs": 204320,
+      "endMs": 206240,
+      "verbatim": "So here's his basic explanation.",
+      "display": "So here's his basic explanation.",
+      "search": "so here's his basic explanation.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:56",
+      "startMs": 206240,
+      "endMs": 209680,
+      "verbatim": "Optical compression is pretty unintuitive for many software engineers.",
+      "display": "Optical compression is pretty unintuitive for many software engineers.",
+      "search": "optical compression is pretty unintuitive for many software engineers.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:57",
+      "startMs": 209680,
+      "endMs": 213920,
+      "verbatim": "Why on earth would an image of text be expressible in fewer tokens than text itself?",
+      "display": "Why on earth would an image of text be expressible in fewer tokens than text itself?",
+      "search": "why on earth would an image of text be expressible in fewer tokens than text itself?",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:58",
+      "startMs": 213920,
+      "endMs": 217840,
+      "verbatim": "In terms of raw information density, an image obviously contains more information.",
+      "display": "In terms of raw information density, an image obviously contains more information.",
+      "search": "in terms of raw information density, an image obviously contains more information.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:59",
+      "startMs": 217920,
+      "endMs": 220720,
+      "verbatim": "Goes on to kind of say, like, hey, type out the word dog.",
+      "display": "Goes on to kind of say, like, hey, type out the word dog.",
+      "search": "goes on to kind of say, like, hey, type out the word dog.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:60",
+      "startMs": 220720,
+      "endMs": 222640,
+      "verbatim": "It's way bigger in an image, right?",
+      "display": "It's way bigger in an image, right?",
+      "search": "it's way bigger in an image, right?",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:61",
+      "startMs": 222640,
+      "endMs": 226960,
+      "verbatim": "The first explanation is that text tokens are discrete while image tokens are continuous.",
+      "display": "The first explanation is that text tokens are discrete while image tokens are continuous.",
+      "search": "the first explanation is that text tokens are discrete while image tokens are continuous.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:62",
+      "startMs": 226960,
+      "endMs": 234160,
+      "verbatim": "Each model has a finite number of tokens, say around 50,000, and each of those tokens correspond to embeddings of, say, a thousand floating point numbers.",
+      "display": "Each model has a finite number of tokens, say around 50,000, and each of those tokens correspond to embeddings of, say, a thousand floating point numbers.",
+      "search": "each model has a finite number of tokens, say around 50,000, and each of those tokens correspond to embeddings of, say, a thousand floating point numbers.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:63",
+      "startMs": 234160,
+      "endMs": 239200,
+      "verbatim": "The text tokens thus occupy a scattering of single points in the space of all possible embeddings.",
+      "display": "The text tokens thus occupy a scattering of single points in the space of all possible embeddings.",
+      "search": "the text tokens thus occupy a scattering of single points in the space of all possible embeddings.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:64",
+      "startMs": 239200,
+      "endMs": 245440,
+      "verbatim": "What he's trying to say is that just imagine a floating point somewhere between zero and one, and you have a thousand of them.",
+      "display": "What he's trying to say is that just imagine a floating point somewhere between zero and one, and you have a thousand of them.",
+      "search": "what he's trying to say is that just imagine a floating point somewhere between zero and one, and you have a thousand of them.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:65",
+      "startMs": 245600,
+      "endMs": 248080,
+      "verbatim": "You could have so many different variations, right?",
+      "display": "You could have so many different variations, right?",
+      "search": "you could have so many different variations, right?",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:66",
+      "startMs": 248080,
+      "endMs": 250240,
+      "verbatim": "An infinite number of different variations.",
+      "display": "An infinite number of different variations.",
+      "search": "an infinite number of different variations.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:67",
+      "startMs": 250240,
+      "endMs": 254160,
+      "verbatim": "But with text tokens, they actually have a concrete, discrete value.",
+      "display": "But with text tokens, they actually have a concrete, discrete value.",
+      "search": "but with text tokens, they actually have a concrete, discrete value.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:68",
+      "startMs": 254160,
+      "endMs": 259120,
+      "verbatim": "One text token to a single, you know, combination of a thousand floating point numbers.",
+      "display": "One text token to a single, you know, combination of a thousand floating point numbers.",
+      "search": "one text token to a single, you know, combination of a thousand floating point numbers.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:69",
+      "startMs": 259120,
+      "endMs": 263680,
+      "verbatim": "Thus, there's only 50,000 possible representations you could have in an infinite space.",
+      "display": "Thus, there's only 50,000 possible representations you could have in an infinite space.",
+      "search": "thus, there's only 50,000 possible representations you could have in an infinite space.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:70",
+      "startMs": 263680,
+      "endMs": 265680,
+      "verbatim": "So very, very unoccupied space.",
+      "display": "So very, very unoccupied space.",
+      "search": "so very, very unoccupied space.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:71",
+      "startMs": 265680,
+      "endMs": 269920,
+      "verbatim": "By contrast, the embeddings of an image tokens is any sequence of those thousand numbers.",
+      "display": "By contrast, the embeddings of an image tokens is any sequence of those thousand numbers.",
+      "search": "by contrast, the embeddings of an image tokens is any sequence of those thousand numbers.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:72",
+      "startMs": 269920,
+      "endMs": 272080,
+      "verbatim": "In other words, it's continuously through that.",
+      "display": "In other words, it's continuously through that.",
+      "search": "in other words, it's continuously through that.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:73",
+      "startMs": 272080,
+      "endMs": 274320,
+      "verbatim": "They can have all sorts of different variations.",
+      "display": "They can have all sorts of different variations.",
+      "search": "they can have all sorts of different variations.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:74",
+      "startMs": 274640,
+      "endMs": 277920,
+      "verbatim": "Much, much more data can fit into those thousand numbers.",
+      "display": "Much, much more data can fit into those thousand numbers.",
+      "search": "much, much more data can fit into those thousand numbers.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:75",
+      "startMs": 277920,
+      "endMs": 281840,
+      "verbatim": "So an image token can be far more expressive than a series of text tokens.",
+      "display": "So an image token can be far more expressive than a series of text tokens.",
+      "search": "so an image token can be far more expressive than a series of text tokens.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:76",
+      "startMs": 281840,
+      "endMs": 287120,
+      "verbatim": "Another way of looking at the same intuition is that text tokens are really inefficient way of expressing information.",
+      "display": "Another way of looking at the same intuition is that text tokens are really inefficient way of expressing information.",
+      "search": "another way of looking at the same intuition is that text tokens are really inefficient way of expressing information.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:77",
+      "startMs": 287120,
+      "endMs": 296320,
+      "verbatim": "This is often obscured by the fact that text tokens are reasonably efficient in the way of sharing information, meaning me and you can send messages to each other, and that makes perfect sense.",
+      "display": "This is often obscured by the fact that text tokens are reasonably efficient in the way of sharing information, meaning me and you can send messages to each other, and that makes perfect sense.",
+      "search": "this is often obscured by the fact that text tokens are reasonably efficient in the way of sharing information, meaning me and you can send messages to each other, and that makes perfect sense.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:78",
+      "startMs": 296320,
+      "endMs": 306000,
+      "verbatim": "But for an LLM that's a little bit different, so long as the sender and receiver both know the list of all possible tokens, when you send an LLM a stream of tokens, it outputs the next one.",
+      "display": "But for an LLM that's a little bit different, so long as the sender and receiver both know the list of all possible tokens, when you send an LLM a stream of tokens, it outputs the next one.",
+      "search": "but for an llm that's a little bit different, so long as the sender and receiver both know the list of all possible tokens, when you send an llm a stream of tokens, it outputs the next one.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:79",
+      "startMs": 306000,
+      "endMs": 309200,
+      "verbatim": "You're not passing around slices of a thousand numbers for each token.",
+      "display": "You're not passing around slices of a thousand numbers for each token.",
+      "search": "you're not passing around slices of a thousand numbers for each token.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:80",
+      "startMs": 309200,
+      "endMs": 312720,
+      "verbatim": "You're passing a single integer that represents a token ID.",
+      "display": "You're passing a single integer that represents a token ID.",
+      "search": "you're passing a single integer that represents a token id.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:81",
+      "startMs": 312720,
+      "endMs": 321280,
+      "verbatim": "But inside the model, this is expanded to a much more inefficient representation, inefficient because it encodes some amount of information about the meaning and use of the token.",
+      "display": "But inside the model, this is expanded to a much more inefficient representation, inefficient because it encodes some amount of information about the meaning and use of the token.",
+      "search": "but inside the model, this is expanded to a much more inefficient representation, inefficient because it encodes some amount of information about the meaning and use of the token.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:82",
+      "startMs": 321280,
+      "endMs": 324800,
+      "verbatim": "So it's not surprising that you could do better than text tokens.",
+      "display": "So it's not surprising that you could do better than text tokens.",
+      "search": "so it's not surprising that you could do better than text tokens.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:83",
+      "startMs": 324800,
+      "endMs": 332400,
+      "verbatim": "He also makes an argument about the brain, how, you know, when you look at a word, even if the letters are slightly mixed up, you can still just read the word.",
+      "display": "He also makes an argument about the brain, how, you know, when you look at a word, even if the letters are slightly mixed up, you can still just read the word.",
+      "search": "he also makes an argument about the brain, how, you know, when you look at a word, even if the letters are slightly mixed up, you can still just read the word.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:84",
+      "startMs": 332720,
+      "endMs": 340960,
+      "verbatim": "And so that humans actually operate more on images is the general argument and sets LLMs are supposed to be some sort of representation of our brain.",
+      "display": "And so that humans actually operate more on images is the general argument and sets LLMs are supposed to be some sort of representation of our brain.",
+      "search": "and so that humans actually operate more on images is the general argument and sets llms are supposed to be some sort of representation of our brain.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:85",
+      "startMs": 340960,
+      "endMs": 342320,
+      "verbatim": "Therefore, it works.",
+      "display": "Therefore, it works.",
+      "search": "therefore, it works.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:86",
+      "startMs": 342320,
+      "endMs": 345200,
+      "verbatim": "Uh, I'm not really into brain comparisons.",
+      "display": "Uh, I'm not really into brain comparisons.",
+      "search": "uh, i'm not really into brain comparisons.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:87",
+      "startMs": 345200,
+      "endMs": 348880,
+      "verbatim": "Uh, I'm not quite sure if we even know how exactly the brain works.",
+      "display": "Uh, I'm not quite sure if we even know how exactly the brain works.",
+      "search": "uh, i'm not quite sure if we even know how exactly the brain works.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:88",
+      "startMs": 348880,
+      "endMs": 360560,
+      "verbatim": "And so not knowing how something works and then comparing it to something we also don't really know exactly how it works is not necessarily the greatest way to uh to make an analogy for me.",
+      "display": "And so not knowing how something works and then comparing it to something we also don't really know exactly how it works is not necessarily the greatest way to uh to make an analogy for me.",
+      "search": "and so not knowing how something works and then comparing it to something we also don't really know exactly how it works is not necessarily the greatest way to uh to make an analogy for me.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:89",
+      "startMs": 360560,
+      "endMs": 361760,
+      "verbatim": "But, anyways, I digress.",
+      "display": "But, anyways, I digress.",
+      "search": "but, anyways, i digress.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:90",
+      "startMs": 361760,
+      "endMs": 363120,
+      "verbatim": "I digress there for a second.",
+      "display": "I digress there for a second.",
+      "search": "i digress there for a second.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:91",
+      "startMs": 363120,
+      "endMs": 367040,
+      "verbatim": "To me, this actually just makes sense, and I think it makes much more sense looking at this.",
+      "display": "To me, this actually just makes sense, and I think it makes much more sense looking at this.",
+      "search": "to me, this actually just makes sense, and i think it makes much more sense looking at this.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:92",
+      "startMs": 367040,
+      "endMs": 371840,
+      "verbatim": "If you just look at this image for one second, this is an error from the compiler in Rust.",
+      "display": "If you just look at this image for one second, this is an error from the compiler in Rust.",
+      "search": "if you just look at this image for one second, this is an error from the compiler in rust.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:93",
+      "startMs": 371840,
+      "endMs": 375680,
+      "verbatim": "You immediately know what went wrong and how to fix the error.",
+      "display": "You immediately know what went wrong and how to fix the error.",
+      "search": "you immediately know what went wrong and how to fix the error.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:94",
+      "startMs": 375680,
+      "endMs": 381520,
+      "verbatim": "You don't have to read all of those text tokens to be able to understand what's happening.",
+      "display": "You don't have to read all of those text tokens to be able to understand what's happening.",
+      "search": "you don't have to read all of those text tokens to be able to understand what's happening.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:95",
+      "startMs": 381520,
+      "endMs": 387600,
+      "verbatim": "There's something kind of magical about images because they encode so much more information than you realize.",
+      "display": "There's something kind of magical about images because they encode so much more information than you realize.",
+      "search": "there's something kind of magical about images because they encode so much more information than you realize.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:96",
+      "startMs": 387600,
+      "endMs": 393440,
+      "verbatim": "And this is obviously like pointing a gigantic arrow and saying, hey, here's the thing you should look at.",
+      "display": "And this is obviously like pointing a gigantic arrow and saying, hey, here's the thing you should look at.",
+      "search": "and this is obviously like pointing a gigantic arrow and saying, hey, here's the thing you should look at.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:97",
+      "startMs": 393440,
+      "endMs": 397920,
+      "verbatim": "And then this right here is also another gigantic arrow, being like, this is the solution.",
+      "display": "And then this right here is also another gigantic arrow, being like, this is the solution.",
+      "search": "and then this right here is also another gigantic arrow, being like, this is the solution.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:98",
+      "startMs": 397920,
+      "endMs": 407040,
+      "verbatim": "So one can imagine that the image itself is actually encoding significantly more information, thus giving these models more context to operate on, thus having better results.",
+      "display": "So one can imagine that the image itself is actually encoding significantly more information, thus giving these models more context to operate on, thus having better results.",
+      "search": "so one can imagine that the image itself is actually encoding significantly more information, thus giving these models more context to operate on, thus having better results.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:99",
+      "startMs": 407040,
+      "endMs": 409760,
+      "verbatim": "So I thought I would give it a little bit of a try.",
+      "display": "So I thought I would give it a little bit of a try.",
+      "search": "so i thought i would give it a little bit of a try.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:100",
+      "startMs": 409760,
+      "endMs": 413920,
+      "verbatim": "I took my entire context file for my game that I've currently am using.",
+      "display": "I took my entire context file for my game that I've currently am using.",
+      "search": "i took my entire context file for my game that i've currently am using.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:101",
+      "startMs": 413920,
+      "endMs": 415440,
+      "verbatim": "It's not the best context file.",
+      "display": "It's not the best context file.",
+      "search": "it's not the best context file.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:102",
+      "startMs": 415440,
+      "endMs": 422080,
+      "verbatim": "Honestly, I think I could do a lot better, but it is a context file nonetheless, and I shoved it all into a singular image.",
+      "display": "Honestly, I think I could do a lot better, but it is a context file nonetheless, and I shoved it all into a singular image.",
+      "search": "honestly, i think i could do a lot better, but it is a context file nonetheless, and i shoved it all into a singular image.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:103",
+      "startMs": 422080,
+      "endMs": 432400,
+      "verbatim": "I'm using something called PX pipe, pixel pipe, in which apparently they're using it with Fable, and this is the one that I was saying does 59 to 70% lower end-to-end bill.",
+      "display": "I'm using something called PX pipe, pixel pipe, in which apparently they're using it with Fable, and this is the one that I was saying does 59 to 70% lower end-to-end bill.",
+      "search": "i'm using something called px pipe, pixel pipe, in which apparently they're using it with fable, and this is the one that i was saying does 59 to 70% lower end-to-end bill.",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:104",
+      "startMs": 432400,
+      "endMs": 442240,
+      "verbatim": "They have a whole bunch of information about this saying, hey, it's actually much, much better that Fable 5 is actually operating just the same, that they're able to produce it with a lot less money going in and out.",
+      "display": "They have a whole bunch of information about this saying, hey, it's actually much, much better that Fable 5 is actually operating just the same, that they're able to produce it with a lot less money going in and out.",
+      "search": "they have a whole bunch of information about this saying, hey, it's actually much, much better that fable 5 is actually operating just the same, that they're able to produce it with a lot less money going in and out.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:105",
+      "startMs": 442240,
+      "endMs": 445200,
+      "verbatim": "I mean, this obviously sounds pretty good, right?",
+      "display": "I mean, this obviously sounds pretty good, right?",
+      "search": "i mean, this obviously sounds pretty good, right?",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:106",
+      "startMs": 445200,
+      "endMs": 448240,
+      "verbatim": "Well, I wanted to see does it actually make a difference?",
+      "display": "Well, I wanted to see does it actually make a difference?",
+      "search": "well, i wanted to see does it actually make a difference?",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:107",
+      "startMs": 448240,
+      "endMs": 449680,
+      "verbatim": "And what did I test it on?",
+      "display": "And what did I test it on?",
+      "search": "and what did i test it on?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:108",
+      "startMs": 449680,
+      "endMs": 452480,
+      "verbatim": "Well, I tested it on my video game that I'm currently making.",
+      "display": "Well, I tested it on my video game that I'm currently making.",
+      "search": "well, i tested it on my video game that i'm currently making.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:109",
+      "startMs": 452480,
+      "endMs": 455920,
+      "verbatim": "So as of right now, we're actually having pretty decent uh progress into the game.",
+      "display": "So as of right now, we're actually having pretty decent uh progress into the game.",
+      "search": "so as of right now, we're actually having pretty decent uh progress into the game.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:110",
+      "startMs": 455920,
+      "endMs": 458800,
+      "verbatim": "I can't believe I got lonely tower enhancement off the rip.",
+      "display": "I can't believe I got lonely tower enhancement off the rip.",
+      "search": "i can't believe i got lonely tower enhancement off the rip.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:111",
+      "startMs": 458800,
+      "endMs": 459360,
+      "verbatim": "Let's go.",
+      "display": "Let's go.",
+      "search": "let's go.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:112",
+      "startMs": 459360,
+      "endMs": 462560,
+      "verbatim": "Oh my gosh, my tower is gonna do so much uh damage right now.",
+      "display": "Oh my gosh, my tower is gonna do so much uh damage right now.",
+      "search": "oh my gosh, my tower is gonna do so much uh damage right now.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:113",
+      "startMs": 462720,
+      "endMs": 464000,
+      "verbatim": "Don't worry about this, okay?",
+      "display": "Don't worry about this, okay?",
+      "search": "don't worry about this, okay?",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:114",
+      "startMs": 464000,
+      "endMs": 465440,
+      "verbatim": "The polish will come later.",
+      "display": "The polish will come later.",
+      "search": "the polish will come later.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:115",
+      "startMs": 465440,
+      "endMs": 475600,
+      "verbatim": "But this is just a simple tower defense game with ammo, with levels, with enhancements, with stat tables, all the fun stuff that you can throw on these and energy and all that.",
+      "display": "But this is just a simple tower defense game with ammo, with levels, with enhancements, with stat tables, all the fun stuff that you can throw on these and energy and all that.",
+      "search": "but this is just a simple tower defense game with ammo, with levels, with enhancements, with stat tables, all the fun stuff that you can throw on these and energy and all that.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:116",
+      "startMs": 475600,
+      "endMs": 481120,
+      "verbatim": "And I have a file that effectively just basically describes what's happening and how you play the game.",
+      "display": "And I have a file that effectively just basically describes what's happening and how you play the game.",
+      "search": "and i have a file that effectively just basically describes what's happening and how you play the game.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:117",
+      "startMs": 481120,
+      "endMs": 484480,
+      "verbatim": "More than just that, I can also play the game in JSON mode.",
+      "display": "More than just that, I can also play the game in JSON mode.",
+      "search": "more than just that, i can also play the game in json mode.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:118",
+      "startMs": 484480,
+      "endMs": 487520,
+      "verbatim": "So right now it's running, it's letting you know it's ready.",
+      "display": "So right now it's running, it's letting you know it's ready.",
+      "search": "so right now it's running, it's letting you know it's ready.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:119",
+      "startMs": 487520,
+      "endMs": 490240,
+      "verbatim": "It's actually running the full game experience.",
+      "display": "It's actually running the full game experience.",
+      "search": "it's actually running the full game experience.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:120",
+      "startMs": 490240,
+      "endMs": 496720,
+      "verbatim": "The only difference is that it's running it in JSON mode, it's not running it in Ray Lib rendering to the screen mode.",
+      "display": "The only difference is that it's running it in JSON mode, it's not running it in Ray Lib rendering to the screen mode.",
+      "search": "the only difference is that it's running it in json mode, it's not running it in ray lib rendering to the screen mode.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:121",
+      "startMs": 496720,
+      "endMs": 502720,
+      "verbatim": "So if you want to move the mouse, you have to send in a mouse operation that says, okay, this is how I'm going to move.",
+      "display": "So if you want to move the mouse, you have to send in a mouse operation that says, okay, this is how I'm going to move.",
+      "search": "so if you want to move the mouse, you have to send in a mouse operation that says, okay, this is how i'm going to move.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:122",
+      "startMs": 502720,
+      "endMs": 504480,
+      "verbatim": "And if you do that, it just works.",
+      "display": "And if you do that, it just works.",
+      "search": "and if you do that, it just works.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:123",
+      "startMs": 504480,
+      "endMs": 506800,
+      "verbatim": "It actually moves the mouse and flows through the whole program.",
+      "display": "It actually moves the mouse and flows through the whole program.",
+      "search": "it actually moves the mouse and flows through the whole program.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:124",
+      "startMs": 506800,
+      "endMs": 511680,
+      "verbatim": "So the AI can control it through what appears to be something like MCP.",
+      "display": "So the AI can control it through what appears to be something like MCP.",
+      "search": "so the ai can control it through what appears to be something like mcp.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:125",
+      "startMs": 511680,
+      "endMs": 513120,
+      "verbatim": "So I ran two experiments.",
+      "display": "So I ran two experiments.",
+      "search": "so i ran two experiments.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:126",
+      "startMs": 513120,
+      "endMs": 524400,
+      "verbatim": "I effectively let the game be played by these models, five concurrently on my system, just running nonstop, playing the game over and over again for a couple hours.",
+      "display": "I effectively let the game be played by these models, five concurrently on my system, just running nonstop, playing the game over and over again for a couple hours.",
+      "search": "i effectively let the game be played by these models, five concurrently on my system, just running nonstop, playing the game over and over again for a couple hours.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:127",
+      "startMs": 524400,
+      "endMs": 526720,
+      "verbatim": "Now, these models are very slow at playing the game.",
+      "display": "Now, these models are very slow at playing the game.",
+      "search": "now, these models are very slow at playing the game.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:128",
+      "startMs": 526720,
+      "endMs": 530400,
+      "verbatim": "So on the context as string, we had 50 successful games.",
+      "display": "So on the context as string, we had 50 successful games.",
+      "search": "so on the context as string, we had 50 successful games.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:129",
+      "startMs": 530400,
+      "endMs": 532800,
+      "verbatim": "Of those, here's basically the stats breakdown.",
+      "display": "Of those, here's basically the stats breakdown.",
+      "search": "of those, here's basically the stats breakdown.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:130",
+      "startMs": 532800,
+      "endMs": 535360,
+      "verbatim": "Now, the thing you really want to look at is time.",
+      "display": "Now, the thing you really want to look at is time.",
+      "search": "now, the thing you really want to look at is time.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:131",
+      "startMs": 535360,
+      "endMs": 537680,
+      "verbatim": "I think time is really, really important here.",
+      "display": "I think time is really, really important here.",
+      "search": "i think time is really, really important here.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:132",
+      "startMs": 537680,
+      "endMs": 541040,
+      "verbatim": "On average, it took about nine minutes to play the game.",
+      "display": "On average, it took about nine minutes to play the game.",
+      "search": "on average, it took about nine minutes to play the game.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:133",
+      "startMs": 541040,
+      "endMs": 542880,
+      "verbatim": "Okay, that's pretty good, right?",
+      "display": "Okay, that's pretty good, right?",
+      "search": "okay, that's pretty good, right?",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:134",
+      "startMs": 542880,
+      "endMs": 549920,
+      "verbatim": "Second, you can see how much overall damage it did, starting from the 10 percentile all the way up to the 90th percentile, and of course, max.",
+      "display": "Second, you can see how much overall damage it did, starting from the 10 percentile all the way up to the 90th percentile, and of course, max.",
+      "search": "second, you can see how much overall damage it did, starting from the 10 percentile all the way up to the 90th percentile, and of course, max.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:135",
+      "startMs": 549920,
+      "endMs": 552720,
+      "verbatim": "And you can see that it did a decent amount of damage.",
+      "display": "And you can see that it did a decent amount of damage.",
+      "search": "and you can see that it did a decent amount of damage.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:136",
+      "startMs": 552720,
+      "endMs": 556560,
+      "verbatim": "It ended up letting out uh so many enemies through before dying.",
+      "display": "It ended up letting out uh so many enemies through before dying.",
+      "search": "it ended up letting out uh so many enemies through before dying.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:137",
+      "startMs": 556560,
+      "endMs": 561200,
+      "verbatim": "It also had this many shots taken and hit, this much criticals being done.",
+      "display": "It also had this many shots taken and hit, this much criticals being done.",
+      "search": "it also had this many shots taken and hit, this much criticals being done.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:138",
+      "startMs": 561200,
+      "endMs": 563520,
+      "verbatim": "So overall, it did pretty good, right?",
+      "display": "So overall, it did pretty good, right?",
+      "search": "so overall, it did pretty good, right?",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:139",
+      "startMs": 563520,
+      "endMs": 565200,
+      "verbatim": "I am happy that I could see this.",
+      "display": "I am happy that I could see this.",
+      "search": "i am happy that i could see this.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:140",
+      "startMs": 565200,
+      "endMs": 575040,
+      "verbatim": "This right here means that it played the game really, really smart, meaning that it actually took a tower and placed certain cards in a very specific order, thus maximizing the damage.",
+      "display": "This right here means that it played the game really, really smart, meaning that it actually took a tower and placed certain cards in a very specific order, thus maximizing the damage.",
+      "search": "this right here means that it played the game really, really smart, meaning that it actually took a tower and placed certain cards in a very specific order, thus maximizing the damage.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:141",
+      "startMs": 575040,
+      "endMs": 580000,
+      "verbatim": "So a good percentage of the time it actually made it to the point of maximizing the damage really, really well.",
+      "display": "So a good percentage of the time it actually made it to the point of maximizing the damage really, really well.",
+      "search": "so a good percentage of the time it actually made it to the point of maximizing the damage really, really well.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:142",
+      "startMs": 580000,
+      "endMs": 585280,
+      "verbatim": "Now, if we look at the context as an image side of things, I only got 23 successful games.",
+      "display": "Now, if we look at the context as an image side of things, I only got 23 successful games.",
+      "search": "now, if we look at the context as an image side of things, i only got 23 successful games.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:143",
+      "startMs": 585280,
+      "endMs": 589440,
+      "verbatim": "And the reason being is if you look at the time, the time was outrageous.",
+      "display": "And the reason being is if you look at the time, the time was outrageous.",
+      "search": "and the reason being is if you look at the time, the time was outrageous.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:144",
+      "startMs": 589440,
+      "endMs": 592480,
+      "verbatim": "Minimally, it was like 20 minutes on a game.",
+      "display": "Minimally, it was like 20 minutes on a game.",
+      "search": "minimally, it was like 20 minutes on a game.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:145",
+      "startMs": 592480,
+      "endMs": 598560,
+      "verbatim": "The average time was about 20 minutes on a game, and some of the upper games were taking 30 minutes to play through.",
+      "display": "The average time was about 20 minutes on a game, and some of the upper games were taking 30 minutes to play through.",
+      "search": "the average time was about 20 minutes on a game, and some of the upper games were taking 30 minutes to play through.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:146",
+      "startMs": 598560,
+      "endMs": 600880,
+      "verbatim": "It was just significantly slower.",
+      "display": "It was just significantly slower.",
+      "search": "it was just significantly slower.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:147",
+      "startMs": 600880,
+      "endMs": 605040,
+      "verbatim": "But if you look at the damage, the damage isn't really that much different.",
+      "display": "But if you look at the damage, the damage isn't really that much different.",
+      "search": "but if you look at the damage, the damage isn't really that much different.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:148",
+      "startMs": 605040,
+      "endMs": 608640,
+      "verbatim": "It's lower on the max side and it's pretty much higher all the way through.",
+      "display": "It's lower on the max side and it's pretty much higher all the way through.",
+      "search": "it's lower on the max side and it's pretty much higher all the way through.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:149",
+      "startMs": 608640,
+      "endMs": 611520,
+      "verbatim": "So it took a lot longer, but it did a lot more damage.",
+      "display": "So it took a lot longer, but it did a lot more damage.",
+      "search": "so it took a lot longer, but it did a lot more damage.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:150",
+      "startMs": 611520,
+      "endMs": 625840,
+      "verbatim": "But the weird part is these things that I'm trying to take out, which is the amount of enemies that reached the end before you died, meaning that a lot of enemies reached the end and had just higher amounts of health, thus doing more damage, thus killing the uh person much, much faster.",
+      "display": "But the weird part is these things that I'm trying to take out, which is the amount of enemies that reached the end before you died, meaning that a lot of enemies reached the end and had just higher amounts of health, thus doing more damage, thus killing the uh person much, much faster.",
+      "search": "but the weird part is these things that i'm trying to take out, which is the amount of enemies that reached the end before you died, meaning that a lot of enemies reached the end and had just higher amounts of health, thus doing more damage, thus killing the uh person much, much faster.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:151",
+      "startMs": 625840,
+      "endMs": 628720,
+      "verbatim": "And so it's like, okay, what can we really glean from this?",
+      "display": "And so it's like, okay, what can we really glean from this?",
+      "search": "and so it's like, okay, what can we really glean from this?",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:152",
+      "startMs": 628800,
+      "endMs": 632720,
+      "verbatim": "Well, they have about the same amount of hits, so that's not really much different.",
+      "display": "Well, they have about the same amount of hits, so that's not really much different.",
+      "search": "well, they have about the same amount of hits, so that's not really much different.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:153",
+      "startMs": 632720,
+      "endMs": 634560,
+      "verbatim": "The damage is near similar.",
+      "display": "The damage is near similar.",
+      "search": "the damage is near similar.",
+      "confidence": 0.748
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:154",
+      "startMs": 634560,
+      "endMs": 637360,
+      "verbatim": "Everything was about near similar except for the time.",
+      "display": "Everything was about near similar except for the time.",
+      "search": "everything was about near similar except for the time.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:155",
+      "startMs": 637360,
+      "endMs": 639360,
+      "verbatim": "The time seemed to be horrible.",
+      "display": "The time seemed to be horrible.",
+      "search": "the time seemed to be horrible.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:156",
+      "startMs": 639360,
+      "endMs": 649520,
+      "verbatim": "And so my personal guess is that through the discovery of the server and maybe some light processing of the image, it was able to piece together, yes, I'm playing a tower defense game.",
+      "display": "And so my personal guess is that through the discovery of the server and maybe some light processing of the image, it was able to piece together, yes, I'm playing a tower defense game.",
+      "search": "and so my personal guess is that through the discovery of the server and maybe some light processing of the image, it was able to piece together, yes, i'm playing a tower defense game.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:157",
+      "startMs": 649520,
+      "endMs": 651200,
+      "verbatim": "Yes, I kind of know what I'm doing.",
+      "display": "Yes, I kind of know what I'm doing.",
+      "search": "yes, i kind of know what i'm doing.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:158",
+      "startMs": 651200,
+      "endMs": 655840,
+      "verbatim": "Therefore, it just went and played and it kind of could guess its way through.",
+      "display": "Therefore, it just went and played and it kind of could guess its way through.",
+      "search": "therefore, it just went and played and it kind of could guess its way through.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:159",
+      "startMs": 655840,
+      "endMs": 657600,
+      "verbatim": "And I don't think it did nearly as well.",
+      "display": "And I don't think it did nearly as well.",
+      "search": "and i don't think it did nearly as well.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:160",
+      "startMs": 657600,
+      "endMs": 661440,
+      "verbatim": "And I think the time indicator is really what is kind of telling the truth here.",
+      "display": "And I think the time indicator is really what is kind of telling the truth here.",
+      "search": "and i think the time indicator is really what is kind of telling the truth here.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:161",
+      "startMs": 661440,
+      "endMs": 670640,
+      "verbatim": "Every single game just took massively longer, and I just didn't complete nearly as many games because it ended up being like four hours of running and a lot of tokens.",
+      "display": "Every single game just took massively longer, and I just didn't complete nearly as many games because it ended up being like four hours of running and a lot of tokens.",
+      "search": "every single game just took massively longer, and i just didn't complete nearly as many games because it ended up being like four hours of running and a lot of tokens.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:162",
+      "startMs": 670640,
+      "endMs": 674880,
+      "verbatim": "And here are the statistics that I actually got out from Cursor itself.",
+      "display": "And here are the statistics that I actually got out from Cursor itself.",
+      "search": "and here are the statistics that i actually got out from cursor itself.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:163",
+      "startMs": 674880,
+      "endMs": 685360,
+      "verbatim": "As you can see, the full context as a string had uh 324 events, $286, a bunch of tokens used, 306 million.",
+      "display": "As you can see, the full context as a string had uh 324 events, $286, a bunch of tokens used, 306 million.",
+      "search": "as you can see, the full context as a string had uh 324 events, $286, a bunch of tokens used, 306 million.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:164",
+      "startMs": 685360,
+      "endMs": 688800,
+      "verbatim": "The total tokens for the image context was only 213.",
+      "display": "The total tokens for the image context was only 213.",
+      "search": "the total tokens for the image context was only 213.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:165",
+      "startMs": 688800,
+      "endMs": 691760,
+      "verbatim": "Now remember, I played well less than half of the game.",
+      "display": "Now remember, I played well less than half of the game.",
+      "search": "now remember, i played well less than half of the game.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:166",
+      "startMs": 691760,
+      "endMs": 694080,
+      "verbatim": "So again, what can I draw from this data?",
+      "display": "So again, what can I draw from this data?",
+      "search": "so again, what can i draw from this data?",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:167",
+      "startMs": 694080,
+      "endMs": 700560,
+      "verbatim": "What I can draw from the data is that it's actually probably much harder and much more confusing to actually use this strategy.",
+      "display": "What I can draw from the data is that it's actually probably much harder and much more confusing to actually use this strategy.",
+      "search": "what i can draw from the data is that it's actually probably much harder and much more confusing to actually use this strategy.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:168",
+      "startMs": 700560,
+      "endMs": 703440,
+      "verbatim": "And you would probably want to do a bit of experimenting.",
+      "display": "And you would probably want to do a bit of experimenting.",
+      "search": "and you would probably want to do a bit of experimenting.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:169",
+      "startMs": 703440,
+      "endMs": 717760,
+      "verbatim": "For me to even get to this experiment, I had to spend about 1.5 billion tokens in just experiments to at least verifiably prove that things were going the way that I wanted them, that uh actual games were being played, that you know the objectives were being had.",
+      "display": "For me to even get to this experiment, I had to spend about 1.5 billion tokens in just experiments to at least verifiably prove that things were going the way that I wanted them, that uh actual games were being played, that you know the objectives were being had.",
+      "search": "for me to even get to this experiment, i had to spend about 1.5 billion tokens in just experiments to at least verifiably prove that things were going the way that i wanted them, that uh actual games were being played, that you know the objectives were being had.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:170",
+      "startMs": 717760,
+      "endMs": 723920,
+      "verbatim": "So at the end of the day, should you just go rush out and listen to Twitter and convert everything to images now?",
+      "display": "So at the end of the day, should you just go rush out and listen to Twitter and convert everything to images now?",
+      "search": "so at the end of the day, should you just go rush out and listen to twitter and convert everything to images now?",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:171",
+      "startMs": 723920,
+      "endMs": 724800,
+      "verbatim": "Probably not.",
+      "display": "Probably not.",
+      "search": "probably not.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:172",
+      "startMs": 724800,
+      "endMs": 730240,
+      "verbatim": "But there actually could be a world where this actually makes a lot of sense, where a lot of good things could happen if you do it.",
+      "display": "But there actually could be a world where this actually makes a lot of sense, where a lot of good things could happen if you do it.",
+      "search": "but there actually could be a world where this actually makes a lot of sense, where a lot of good things could happen if you do it.",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:173",
+      "startMs": 730240,
+      "endMs": 739280,
+      "verbatim": "And so, like all solutions that you hear on the internet and all of the Twitter excitement, it always comes down to the classic senior engineer response.",
+      "display": "And so, like all solutions that you hear on the internet and all of the Twitter excitement, it always comes down to the classic senior engineer response.",
+      "search": "and so, like all solutions that you hear on the internet and all of the twitter excitement, it always comes down to the classic senior engineer response.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:174",
+      "startMs": 739280,
+      "endMs": 740320,
+      "verbatim": "It depends.",
+      "display": "It depends.",
+      "search": "it depends.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:175",
+      "startMs": 740320,
+      "endMs": 742880,
+      "verbatim": "And you probably need to do the homework yourself.",
+      "display": "And you probably need to do the homework yourself.",
+      "search": "and you probably need to do the homework yourself.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:176",
+      "startMs": 742880,
+      "endMs": 747920,
+      "verbatim": "So please don't just listen to every last cool thing that's thrown across the internet.",
+      "display": "So please don't just listen to every last cool thing that's thrown across the internet.",
+      "search": "so please don't just listen to every last cool thing that's thrown across the internet.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:177",
+      "startMs": 747920,
+      "endMs": 752800,
+      "verbatim": "Instead, try things, experiment, look for optimizations because you never know.",
+      "display": "Instead, try things, experiment, look for optimizations because you never know.",
+      "search": "instead, try things, experiment, look for optimizations because you never know.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:178",
+      "startMs": 752800,
+      "endMs": 754800,
+      "verbatim": "Maybe there's something super duper cool.",
+      "display": "Maybe there's something super duper cool.",
+      "search": "maybe there's something super duper cool.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:179",
+      "startMs": 754800,
+      "endMs": 759200,
+      "verbatim": "And also, just to be real, like a lot of these technologies, they're designed around text.",
+      "display": "And also, just to be real, like a lot of these technologies, they're designed around text.",
+      "search": "and also, just to be real, like a lot of these technologies, they're designed around text.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:180",
+      "startMs": 759200,
+      "endMs": 761040,
+      "verbatim": "Their primary input is text and all that.",
+      "display": "Their primary input is text and all that.",
+      "search": "their primary input is text and all that.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:181",
+      "startMs": 761040,
+      "endMs": 766000,
+      "verbatim": "And so maybe there's an entire world where caching and all this other stuff just isn't optimized yet for images.",
+      "display": "And so maybe there's an entire world where caching and all this other stuff just isn't optimized yet for images.",
+      "search": "and so maybe there's an entire world where caching and all this other stuff just isn't optimized yet for images.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:182",
+      "startMs": 766000,
+      "endMs": 774880,
+      "verbatim": "So even if you are getting a win, maybe a much larger win could be coming down the pipe if only we just wait a little bit and this technology is used more.",
+      "display": "So even if you are getting a win, maybe a much larger win could be coming down the pipe if only we just wait a little bit and this technology is used more.",
+      "search": "so even if you are getting a win, maybe a much larger win could be coming down the pipe if only we just wait a little bit and this technology is used more.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:183",
+      "startMs": 774880,
+      "endMs": 780560,
+      "verbatim": "So, you know, it's really, really hard to compare these things because it is a very kind of almost apple to oranges comparison.",
+      "display": "So, you know, it's really, really hard to compare these things because it is a very kind of almost apple to oranges comparison.",
+      "search": "so, you know, it's really, really hard to compare these things because it is a very kind of almost apple to oranges comparison.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Bbt8cEyzsTk:segment:184",
+      "startMs": 780560,
+      "endMs": 783840,
+      "verbatim": "All right, hey, the name is the primogen.",
+      "display": "All right, hey, the name is the primogen.",
+      "search": "all right, hey, the name is the primogen.",
+      "confidence": 0.785
+    }
+  ]
+}

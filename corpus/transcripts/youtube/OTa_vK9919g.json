@@ -1,0 +1,1571 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_ae5e9923498f099fc684c501",
+  "sourceId": "youtube:OTa_vK9919g",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T23:17:46.691Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:1",
+      "startMs": 0,
+      "endMs": 1840,
+      "verbatim": "Alright, we're gonna do this again.",
+      "display": "Alright, we're gonna do this again.",
+      "search": "alright, we're gonna do this again.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:2",
+      "startMs": 1840,
+      "endMs": 4080,
+      "verbatim": "I hope I hope you're ready for this, okay?",
+      "display": "I hope I hope you're ready for this, okay?",
+      "search": "i hope i hope you're ready for this, okay?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:3",
+      "startMs": 4080,
+      "endMs": 10640,
+      "verbatim": "Because since June twelfth, we've been working closely with the US government to restore access to Claude Mythos V and Fable V.",
+      "display": "Because since June twelfth, we've been working closely with the US government to restore access to Claude Mythos V and Fable V.",
+      "search": "because since june twelfth, we've been working closely with the us government to restore access to claude mythos v and fable v.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:4",
+      "startMs": 10640,
+      "endMs": 12880,
+      "verbatim": "Gee, I can't believe Anthropic lost it.",
+      "display": "Gee, I can't believe Anthropic lost it.",
+      "search": "gee, i can't believe anthropic lost it.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:5",
+      "startMs": 12880,
+      "endMs": 15440,
+      "verbatim": "I wonder, I wonder what caused that.",
+      "display": "I wonder, I wonder what caused that.",
+      "search": "i wonder, i wonder what caused that.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:6",
+      "startMs": 15440,
+      "endMs": 22400,
+      "verbatim": "Today, the government has notified us that Mythos V, our strongest cybersecurity model, can be redeployed to a set of U.S.",
+      "display": "Today, the government has notified us that Mythos V, our strongest cybersecurity model, can be redeployed to a set of U.S.",
+      "search": "today, the government has notified us that mythos v, our strongest cybersecurity model, can be redeployed to a set of u.s.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:7",
+      "startMs": 22400,
+      "endMs": 26000,
+      "verbatim": "organizations that operate and defend critical infrastructure.",
+      "display": "organizations that operate and defend critical infrastructure.",
+      "search": "organizations that operate and defend critical infrastructure.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:8",
+      "startMs": 26000,
+      "endMs": 28240,
+      "verbatim": "Now you're probably thinking, well, wait a second.",
+      "display": "Now you're probably thinking, well, wait a second.",
+      "search": "now you're probably thinking, well, wait a second.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:9",
+      "startMs": 28240,
+      "endMs": 31840,
+      "verbatim": "Organizations that do critical infrastructure, haven't we seen this before?",
+      "display": "Organizations that do critical infrastructure, haven't we seen this before?",
+      "search": "organizations that do critical infrastructure, haven't we seen this before?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:10",
+      "startMs": 31840,
+      "endMs": 35920,
+      "verbatim": "Wasn't there something about Mythos and only going out to select organizations?",
+      "display": "Wasn't there something about Mythos and only going out to select organizations?",
+      "search": "wasn't there something about mythos and only going out to select organizations?",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:11",
+      "startMs": 35920,
+      "endMs": 36560,
+      "verbatim": "Yes, there was.",
+      "display": "Yes, there was.",
+      "search": "yes, there was.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:12",
+      "startMs": 36560,
+      "endMs": 38160,
+      "verbatim": "It was called Project Glasswing.",
+      "display": "It was called Project Glasswing.",
+      "search": "it was called project glasswing.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:13",
+      "startMs": 38160,
+      "endMs": 45120,
+      "verbatim": "This was just a couple months ago when Anthropic said Mythos was in fact too dangerous, and then they released it to everybody, and then they pulled it back because of the U.S.",
+      "display": "This was just a couple months ago when Anthropic said Mythos was in fact too dangerous, and then they released it to everybody, and then they pulled it back because of the U.S.",
+      "search": "this was just a couple months ago when anthropic said mythos was in fact too dangerous, and then they released it to everybody, and then they pulled it back because of the u.s.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:14",
+      "startMs": 45120,
+      "endMs": 47040,
+      "verbatim": "government was told how dangerous it was.",
+      "display": "government was told how dangerous it was.",
+      "search": "government was told how dangerous it was.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:15",
+      "startMs": 47040,
+      "endMs": 49760,
+      "verbatim": "Well, we're just replaying this entire record again.",
+      "display": "Well, we're just replaying this entire record again.",
+      "search": "well, we're just replaying this entire record again.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:16",
+      "startMs": 49760,
+      "endMs": 51600,
+      "verbatim": "We're back to Project Glasswing.",
+      "display": "We're back to Project Glasswing.",
+      "search": "we're back to project glasswing.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:17",
+      "startMs": 51600,
+      "endMs": 57600,
+      "verbatim": "There is the set of the good guys, which apparently is Jeff Bezos and Sundar and Mark Zuckerberg.",
+      "display": "There is the set of the good guys, which apparently is Jeff Bezos and Sundar and Mark Zuckerberg.",
+      "search": "there is the set of the good guys, which apparently is jeff bezos and sundar and mark zuckerberg.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:18",
+      "startMs": 57600,
+      "endMs": 58400,
+      "verbatim": "They're the good guys.",
+      "display": "They're the good guys.",
+      "search": "they're the good guys.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:19",
+      "startMs": 58400,
+      "endMs": 61520,
+      "verbatim": "They get access again, and the rest of us, we don't get access.",
+      "display": "They get access again, and the rest of us, we don't get access.",
+      "search": "they get access again, and the rest of us, we don't get access.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:20",
+      "startMs": 61520,
+      "endMs": 64320,
+      "verbatim": "Now, I'm going to talk a lot about safety, okay?",
+      "display": "Now, I'm going to talk a lot about safety, okay?",
+      "search": "now, i'm going to talk a lot about safety, okay?",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:21",
+      "startMs": 64320,
+      "endMs": 65200,
+      "verbatim": "Because here's the deal.",
+      "display": "Because here's the deal.",
+      "search": "because here's the deal.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:22",
+      "startMs": 65200,
+      "endMs": 66320,
+      "verbatim": "I think this is all fake.",
+      "display": "I think this is all fake.",
+      "search": "i think this is all fake.",
+      "confidence": 0.991
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:23",
+      "startMs": 66320,
+      "endMs": 69200,
+      "verbatim": "I think not only is it fake, I think it's actually hurting people.",
+      "display": "I think not only is it fake, I think it's actually hurting people.",
+      "search": "i think not only is it fake, i think it's actually hurting people.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:24",
+      "startMs": 69200,
+      "endMs": 72320,
+      "verbatim": "I actually have the opposite opinion of Dario.",
+      "display": "I actually have the opposite opinion of Dario.",
+      "search": "i actually have the opposite opinion of dario.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:25",
+      "startMs": 72320,
+      "endMs": 75520,
+      "verbatim": "Surprise, surprise, me with the opposite opinion.",
+      "display": "Surprise, surprise, me with the opposite opinion.",
+      "search": "surprise, surprise, me with the opposite opinion.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:26",
+      "startMs": 75520,
+      "endMs": 79760,
+      "verbatim": "Me with the opposite opinion of this guy right here, okay?",
+      "display": "Me with the opposite opinion of this guy right here, okay?",
+      "search": "me with the opposite opinion of this guy right here, okay?",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:27",
+      "startMs": 79760,
+      "endMs": 81440,
+      "verbatim": "We don't actually see eye to eye.",
+      "display": "We don't actually see eye to eye.",
+      "search": "we don't actually see eye to eye.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:28",
+      "startMs": 81440,
+      "endMs": 83600,
+      "verbatim": "By the way, this is Dario in 2023.",
+      "display": "By the way, this is Dario in 2023.",
+      "search": "by the way, this is dario in 2023.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:29",
+      "startMs": 83600,
+      "endMs": 88480,
+      "verbatim": "Oh, we're gonna play this clip of him talking to the old government, just really scaring them up.",
+      "display": "Oh, we're gonna play this clip of him talking to the old government, just really scaring them up.",
+      "search": "oh, we're gonna play this clip of him talking to the old government, just really scaring them up.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:30",
+      "startMs": 88480,
+      "endMs": 91440,
+      "verbatim": "Of course, before we begin, I'd like to say thank you to the sponsors.",
+      "display": "Of course, before we begin, I'd like to say thank you to the sponsors.",
+      "search": "of course, before we begin, i'd like to say thank you to the sponsors.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:31",
+      "startMs": 91440,
+      "endMs": 95280,
+      "verbatim": "One of the more terrifying things you can do as a company is to contract out software.",
+      "display": "One of the more terrifying things you can do as a company is to contract out software.",
+      "search": "one of the more terrifying things you can do as a company is to contract out software.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:32",
+      "startMs": 95280,
+      "endMs": 99440,
+      "verbatim": "And I know a lot of companies are contracting out their mobile applications.",
+      "display": "And I know a lot of companies are contracting out their mobile applications.",
+      "search": "and i know a lot of companies are contracting out their mobile applications.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:33",
+      "startMs": 99440,
+      "endMs": 102960,
+      "verbatim": "The thing that makes this so dangerous is that it's a black box experience.",
+      "display": "The thing that makes this so dangerous is that it's a black box experience.",
+      "search": "the thing that makes this so dangerous is that it's a black box experience.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:34",
+      "startMs": 102960,
+      "endMs": 110480,
+      "verbatim": "You hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "display": "You hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "search": "you hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:35",
+      "startMs": 110480,
+      "endMs": 114320,
+      "verbatim": "The last thing I wanted someone else to say to Claude, hey, mobile app, no mistakes.",
+      "display": "The last thing I wanted someone else to say to Claude, hey, mobile app, no mistakes.",
+      "search": "the last thing i wanted someone else to say to claude, hey, mobile app, no mistakes.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:36",
+      "startMs": 114320,
+      "endMs": 115680,
+      "verbatim": "It does make mistakes.",
+      "display": "It does make mistakes.",
+      "search": "it does make mistakes.",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:37",
+      "startMs": 115680,
+      "endMs": 118320,
+      "verbatim": "This is why I trust the guys over at Infinite Red.",
+      "display": "This is why I trust the guys over at Infinite Red.",
+      "search": "this is why i trust the guys over at infinite red.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:38",
+      "startMs": 118320,
+      "endMs": 124960,
+      "verbatim": "I have had many a long talk with the CEO about software quality and the way to really build robust and good systems.",
+      "display": "I have had many a long talk with the CEO about software quality and the way to really build robust and good systems.",
+      "search": "i have had many a long talk with the ceo about software quality and the way to really build robust and good systems.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:39",
+      "startMs": 124960,
+      "endMs": 127040,
+      "verbatim": "And I love everything he has to say.",
+      "display": "And I love everything he has to say.",
+      "search": "and i love everything he has to say.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:40",
+      "startMs": 127040,
+      "endMs": 132640,
+      "verbatim": "And everything that I have seen with my own eyes, the quality of software that they build is very, very good.",
+      "display": "And everything that I have seen with my own eyes, the quality of software that they build is very, very good.",
+      "search": "and everything that i have seen with my own eyes, the quality of software that they build is very, very good.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:41",
+      "startMs": 132640,
+      "endMs": 140560,
+      "verbatim": "Alright, so the safety argument is actually pretty dang ridiculous that we're having right now, this whole kind of gated access to Claude mythos.",
+      "display": "Alright, so the safety argument is actually pretty dang ridiculous that we're having right now, this whole kind of gated access to Claude mythos.",
+      "search": "alright, so the safety argument is actually pretty dang ridiculous that we're having right now, this whole kind of gated access to claude mythos.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:42",
+      "startMs": 140560,
+      "endMs": 143200,
+      "verbatim": "But I just wanted to kind of add one more quick point.",
+      "display": "But I just wanted to kind of add one more quick point.",
+      "search": "but i just wanted to kind of add one more quick point.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:43",
+      "startMs": 143200,
+      "endMs": 148480,
+      "verbatim": "If you don't know, right now, ChatGPT 5.6 is also in a limited preview.",
+      "display": "If you don't know, right now, ChatGPT 5.6 is also in a limited preview.",
+      "search": "if you don't know, right now, chatgpt 5.6 is also in a limited preview.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:44",
+      "startMs": 148480,
+      "endMs": 158160,
+      "verbatim": "And the reason being, for now, at the request of the US government, we're starting with a limited preview among a small group of trusted partners in Codex and the API.",
+      "display": "And the reason being, for now, at the request of the US government, we're starting with a limited preview among a small group of trusted partners in Codex and the API.",
+      "search": "and the reason being, for now, at the request of the us government, we're starting with a limited preview among a small group of trusted partners in codex and the api.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:45",
+      "startMs": 158160,
+      "endMs": 161120,
+      "verbatim": "Sam finally has a model that's also too dangerous.",
+      "display": "Sam finally has a model that's also too dangerous.",
+      "search": "sam finally has a model that's also too dangerous.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:46",
+      "startMs": 161120,
+      "endMs": 162960,
+      "verbatim": "He's not allowed to release it either.",
+      "display": "He's not allowed to release it either.",
+      "search": "he's not allowed to release it either.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:47",
+      "startMs": 162960,
+      "endMs": 166640,
+      "verbatim": "We gotta make sure we slowly roll the thing out.",
+      "display": "We gotta make sure we slowly roll the thing out.",
+      "search": "we gotta make sure we slowly roll the thing out.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:48",
+      "startMs": 166640,
+      "endMs": 173520,
+      "verbatim": "And we're entering into an era in which the government is now going to have a larger and larger impact into what is exactly happening.",
+      "display": "And we're entering into an era in which the government is now going to have a larger and larger impact into what is exactly happening.",
+      "search": "and we're entering into an era in which the government is now going to have a larger and larger impact into what is exactly happening.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:49",
+      "startMs": 173520,
+      "endMs": 175600,
+      "verbatim": "And this was always Dario's goal.",
+      "display": "And this was always Dario's goal.",
+      "search": "and this was always dario's goal.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:50",
+      "startMs": 175600,
+      "endMs": 180000,
+      "verbatim": "His goal was always to have the government step in and make regulation.",
+      "display": "His goal was always to have the government step in and make regulation.",
+      "search": "his goal was always to have the government step in and make regulation.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:51",
+      "startMs": 180000,
+      "endMs": 181520,
+      "verbatim": "He's been just saying this nonstop.",
+      "display": "He's been just saying this nonstop.",
+      "search": "he's been just saying this nonstop.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:52",
+      "startMs": 181520,
+      "endMs": 187600,
+      "verbatim": "If you read his ratings, if you listen to his talks, and his urging that we all need to slow down, well, here we are.",
+      "display": "If you read his ratings, if you listen to his talks, and his urging that we all need to slow down, well, here we are.",
+      "search": "if you read his ratings, if you listen to his talks, and his urging that we all need to slow down, well, here we are.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:53",
+      "startMs": 187600,
+      "endMs": 188960,
+      "verbatim": "It's finally happening.",
+      "display": "It's finally happening.",
+      "search": "it's finally happening.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:54",
+      "startMs": 188960,
+      "endMs": 190880,
+      "verbatim": "His dream has been realized.",
+      "display": "His dream has been realized.",
+      "search": "his dream has been realized.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:55",
+      "startMs": 190880,
+      "endMs": 193920,
+      "verbatim": "The Frontier Studios are all being slowed down.",
+      "display": "The Frontier Studios are all being slowed down.",
+      "search": "the frontier studios are all being slowed down.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:56",
+      "startMs": 193920,
+      "endMs": 197040,
+      "verbatim": "But that's not really actually making anything safer.",
+      "display": "But that's not really actually making anything safer.",
+      "search": "but that's not really actually making anything safer.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:57",
+      "startMs": 197040,
+      "endMs": 198080,
+      "verbatim": "Because here's the deal.",
+      "display": "Because here's the deal.",
+      "search": "because here's the deal.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:58",
+      "startMs": 198080,
+      "endMs": 200240,
+      "verbatim": "Have you heard of the old model GLM?",
+      "display": "Have you heard of the old model GLM?",
+      "search": "have you heard of the old model glm?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:59",
+      "startMs": 200240,
+      "endMs": 205360,
+      "verbatim": "Well, GLM 5.2 apparently beats Claude in some cybersecurity benchmarks.",
+      "display": "Well, GLM 5.2 apparently beats Claude in some cybersecurity benchmarks.",
+      "search": "well, glm 5.2 apparently beats claude in some cybersecurity benchmarks.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:60",
+      "startMs": 205360,
+      "endMs": 210240,
+      "verbatim": "At least in this article, the security that's being ran is insecure direct object reference.",
+      "display": "At least in this article, the security that's being ran is insecure direct object reference.",
+      "search": "at least in this article, the security that's being ran is insecure direct object reference.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:61",
+      "startMs": 210240,
+      "endMs": 216000,
+      "verbatim": "If you don't know what that is, that's simply let's just pretend you have an endpoint on your website that goes and grabs user information.",
+      "display": "If you don't know what that is, that's simply let's just pretend you have an endpoint on your website that goes and grabs user information.",
+      "search": "if you don't know what that is, that's simply let's just pretend you have an endpoint on your website that goes and grabs user information.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:62",
+      "startMs": 216000,
+      "endMs": 220240,
+      "verbatim": "If I were to pass in any user ID, you should probably go, hey, are you that user?",
+      "display": "If I were to pass in any user ID, you should probably go, hey, are you that user?",
+      "search": "if i were to pass in any user id, you should probably go, hey, are you that user?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:63",
+      "startMs": 220240,
+      "endMs": 220800,
+      "verbatim": "Oh, you're not.",
+      "display": "Oh, you're not.",
+      "search": "oh, you're not.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:64",
+      "startMs": 220800,
+      "endMs": 221920,
+      "verbatim": "Hey, you're not allowed to look at.",
+      "display": "Hey, you're not allowed to look at.",
+      "search": "hey, you're not allowed to look at.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:65",
+      "startMs": 222000,
+      "endMs": 224160,
+      "verbatim": "I'm sorry, hey, brother, sorry, this is not you.",
+      "display": "I'm sorry, hey, brother, sorry, this is not you.",
+      "search": "i'm sorry, hey, brother, sorry, this is not you.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:66",
+      "startMs": 224160,
+      "endMs": 226080,
+      "verbatim": "404, don't know who this is.",
+      "display": "404, don't know who this is.",
+      "search": "404, don't know who this is.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:67",
+      "startMs": 226080,
+      "endMs": 241120,
+      "verbatim": "Well, it turns out that the fourth most common bug on hacker one top vulnerability list is in fact these right here, these oopsie poopsies insecure direct object references where people can just go onto websites and get data if they just simply have an ID.",
+      "display": "Well, it turns out that the fourth most common bug on hacker one top vulnerability list is in fact these right here, these oopsie poopsies insecure direct object references where people can just go onto websites and get data if they just simply have an ID.",
+      "search": "well, it turns out that the fourth most common bug on hacker one top vulnerability list is in fact these right here, these oopsie poopsies insecure direct object references where people can just go onto websites and get data if they just simply have an id.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:68",
+      "startMs": 241120,
+      "endMs": 245840,
+      "verbatim": "So SemGrep went off and developed a benchmark against these type of vulnerabilities.",
+      "display": "So SemGrep went off and developed a benchmark against these type of vulnerabilities.",
+      "search": "so semgrep went off and developed a benchmark against these type of vulnerabilities.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:69",
+      "startMs": 245840,
+      "endMs": 252160,
+      "verbatim": "And it turns out things like Claude Code Opus 4.6 and 4.8 did about a 28% to 37%.",
+      "display": "And it turns out things like Claude Code Opus 4.6 and 4.8 did about a 28% to 37%.",
+      "search": "and it turns out things like claude code opus 4.6 and 4.8 did about a 28% to 37%.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:70",
+      "startMs": 252160,
+      "endMs": 264160,
+      "verbatim": "Jibity Codex did about a 20%, and GLM with no harness, just the model itself, did 39%, did better than both Claude Code and their latest models and Jibity5.5.",
+      "display": "Jibity Codex did about a 20%, and GLM with no harness, just the model itself, did 39%, did better than both Claude Code and their latest models and Jibity5.5.",
+      "search": "jibity codex did about a 20%, and glm with no harness, just the model itself, did 39%, did better than both claude code and their latest models and jibity5.5.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:71",
+      "startMs": 264160,
+      "endMs": 266640,
+      "verbatim": "Now, if you don't know, a harness makes a big difference.",
+      "display": "Now, if you don't know, a harness makes a big difference.",
+      "search": "now, if you don't know, a harness makes a big difference.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:72",
+      "startMs": 266640,
+      "endMs": 271040,
+      "verbatim": "A harness is a lot of the reasons why you think coding with an LLM has gotten so good.",
+      "display": "A harness is a lot of the reasons why you think coding with an LLM has gotten so good.",
+      "search": "a harness is a lot of the reasons why you think coding with an llm has gotten so good.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:73",
+      "startMs": 271040,
+      "endMs": 277600,
+      "verbatim": "It's actually the harness, the ability for the model to use and abuse the system to gather information and make smarter decisions.",
+      "display": "It's actually the harness, the ability for the model to use and abuse the system to gather information and make smarter decisions.",
+      "search": "it's actually the harness, the ability for the model to use and abuse the system to gather information and make smarter decisions.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:74",
+      "startMs": 277600,
+      "endMs": 284560,
+      "verbatim": "A harness is going to be the thing that gives the model access to tools in which it can then go and make much more informed decisions.",
+      "display": "A harness is going to be the thing that gives the model access to tools in which it can then go and make much more informed decisions.",
+      "search": "a harness is going to be the thing that gives the model access to tools in which it can then go and make much more informed decisions.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:75",
+      "startMs": 284560,
+      "endMs": 296320,
+      "verbatim": "So that means GLM with no harness outperformed Opus 4.8 by practically 10%, Jipity 5.5 by practically 20%, and those both have harnesses.",
+      "display": "So that means GLM with no harness outperformed Opus 4.8 by practically 10%, Jipity 5.5 by practically 20%, and those both have harnesses.",
+      "search": "so that means glm with no harness outperformed opus 4.8 by practically 10%, jipity 5.5 by practically 20%, and those both have harnesses.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:76",
+      "startMs": 296320,
+      "endMs": 300720,
+      "verbatim": "And the thing about GLM that you may not realize is that it's an open weight model.",
+      "display": "And the thing about GLM that you may not realize is that it's an open weight model.",
+      "search": "and the thing about glm that you may not realize is that it's an open weight model.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:77",
+      "startMs": 300720,
+      "endMs": 304320,
+      "verbatim": "I can go to Hugging Face right now and download the model.",
+      "display": "I can go to Hugging Face right now and download the model.",
+      "search": "i can go to hugging face right now and download the model.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:78",
+      "startMs": 304320,
+      "endMs": 306320,
+      "verbatim": "The thing is it's very, very large.",
+      "display": "The thing is it's very, very large.",
+      "search": "the thing is it's very, very large.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:79",
+      "startMs": 306320,
+      "endMs": 313520,
+      "verbatim": "For me to be able to run it with any level of effectiveness, it could cost me about $73 an hour.",
+      "display": "For me to be able to run it with any level of effectiveness, it could cost me about $73 an hour.",
+      "search": "for me to be able to run it with any level of effectiveness, it could cost me about $73 an hour.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:80",
+      "startMs": 313520,
+      "endMs": 323040,
+      "verbatim": "Now, if I was a bad actor, you could see me actually doing that because I could potentially make a lot more than $73 an hour by scamming people.",
+      "display": "Now, if I was a bad actor, you could see me actually doing that because I could potentially make a lot more than $73 an hour by scamming people.",
+      "search": "now, if i was a bad actor, you could see me actually doing that because i could potentially make a lot more than $73 an hour by scamming people.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:81",
+      "startMs": 323040,
+      "endMs": 326880,
+      "verbatim": "And of course, it would be a completely offline model for me to just have.",
+      "display": "And of course, it would be a completely offline model for me to just have.",
+      "search": "and of course, it would be a completely offline model for me to just have.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:82",
+      "startMs": 326880,
+      "endMs": 331680,
+      "verbatim": "I wouldn't have to go and fork over millions of dollars to be able to have an on-premise machine that could run this.",
+      "display": "I wouldn't have to go and fork over millions of dollars to be able to have an on-premise machine that could run this.",
+      "search": "i wouldn't have to go and fork over millions of dollars to be able to have an on-premise machine that could run this.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:83",
+      "startMs": 331680,
+      "endMs": 338800,
+      "verbatim": "Instead, I could just run it from the safety of my computer, just doing a quick little SSA chip, bada bing, bada boom, and just see the thing run.",
+      "display": "Instead, I could just run it from the safety of my computer, just doing a quick little SSA chip, bada bing, bada boom, and just see the thing run.",
+      "search": "instead, i could just run it from the safety of my computer, just doing a quick little ssa chip, bada bing, bada boom, and just see the thing run.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:84",
+      "startMs": 338800,
+      "endMs": 350160,
+      "verbatim": "Not only that, but Hermes agents, one of these many agents, one of these many harnesses that run models, has something called a mixture of agents, meaning it uses both 5.5 from Jipity and also uses 4 Opus 4.8.",
+      "display": "Not only that, but Hermes agents, one of these many agents, one of these many harnesses that run models, has something called a mixture of agents, meaning it uses both 5.5 from Jipity and also uses 4 Opus 4.8.",
+      "search": "not only that, but hermes agents, one of these many agents, one of these many harnesses that run models, has something called a mixture of agents, meaning it uses both 5.5 from jipity and also uses 4 opus 4.8.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:85",
+      "startMs": 350160,
+      "endMs": 353680,
+      "verbatim": "And by combining those both, it's doing better on benchmarks.",
+      "display": "And by combining those both, it's doing better on benchmarks.",
+      "search": "and by combining those both, it's doing better on benchmarks.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:86",
+      "startMs": 353680,
+      "endMs": 355680,
+      "verbatim": "In other words, it's performing better.",
+      "display": "In other words, it's performing better.",
+      "search": "in other words, it's performing better.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:87",
+      "startMs": 355680,
+      "endMs": 364320,
+      "verbatim": "I don't like honestly, when someone says it's 11% better, I have no idea what that actually means because I don't know how to quantify programming in that kind of sense.",
+      "display": "I don't like honestly, when someone says it's 11% better, I have no idea what that actually means because I don't know how to quantify programming in that kind of sense.",
+      "search": "i don't like honestly, when someone says it's 11% better, i have no idea what that actually means because i don't know how to quantify programming in that kind of sense.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:88",
+      "startMs": 364320,
+      "endMs": 366640,
+      "verbatim": "I don't know how to be like, it's 4% better.",
+      "display": "I don't know how to be like, it's 4% better.",
+      "search": "i don't know how to be like, it's 4% better.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:89",
+      "startMs": 366640,
+      "endMs": 372560,
+      "verbatim": "Like I don't know what that means, but it's just saying, hey, it's scoring higher on whatever these tests are.",
+      "display": "Like I don't know what that means, but it's just saying, hey, it's scoring higher on whatever these tests are.",
+      "search": "like i don't know what that means, but it's just saying, hey, it's scoring higher on whatever these tests are.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:90",
+      "startMs": 372560,
+      "endMs": 379680,
+      "verbatim": "Which once again means that the ability to do, you know, security research and all this is actually kind of generally available.",
+      "display": "Which once again means that the ability to do, you know, security research and all this is actually kind of generally available.",
+      "search": "which once again means that the ability to do, you know, security research and all this is actually kind of generally available.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:91",
+      "startMs": 379680,
+      "endMs": 384160,
+      "verbatim": "The bugs that Mythos has found, people are able to find them also with 4.8.",
+      "display": "The bugs that Mythos has found, people are able to find them also with 4.8.",
+      "search": "the bugs that mythos has found, people are able to find them also with 4.8.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:92",
+      "startMs": 384160,
+      "endMs": 386480,
+      "verbatim": "You're gonna be able to find them with the mixture of agents.",
+      "display": "You're gonna be able to find them with the mixture of agents.",
+      "search": "you're gonna be able to find them with the mixture of agents.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:93",
+      "startMs": 386480,
+      "endMs": 389840,
+      "verbatim": "GLM is gonna be able to go off and find these as well.",
+      "display": "GLM is gonna be able to go off and find these as well.",
+      "search": "glm is gonna be able to go off and find these as well.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:94",
+      "startMs": 389840,
+      "endMs": 393840,
+      "verbatim": "As harnesses improve, the ability to do this is gonna go way up.",
+      "display": "As harnesses improve, the ability to do this is gonna go way up.",
+      "search": "as harnesses improve, the ability to do this is gonna go way up.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:95",
+      "startMs": 393840,
+      "endMs": 399920,
+      "verbatim": "Microsoft also has a kind of this like mixture of agents approach in which they even score higher than Mythos.",
+      "display": "Microsoft also has a kind of this like mixture of agents approach in which they even score higher than Mythos.",
+      "search": "microsoft also has a kind of this like mixture of agents approach in which they even score higher than mythos.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:96",
+      "startMs": 399920,
+      "endMs": 403600,
+      "verbatim": "So it's all actually available, it's just available to those with money.",
+      "display": "So it's all actually available, it's just available to those with money.",
+      "search": "so it's all actually available, it's just available to those with money.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:97",
+      "startMs": 403600,
+      "endMs": 414080,
+      "verbatim": "If you have money and time and you can set up your own harness, bada bing, bada boom, you're gonna have yourself a hack and machine, which is ultimately what Dario has been warning everybody about.",
+      "display": "If you have money and time and you can set up your own harness, bada bing, bada boom, you're gonna have yourself a hack and machine, which is ultimately what Dario has been warning everybody about.",
+      "search": "if you have money and time and you can set up your own harness, bada bing, bada boom, you're gonna have yourself a hack and machine, which is ultimately what dario has been warning everybody about.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:98",
+      "startMs": 414160,
+      "endMs": 419920,
+      "verbatim": "The scaling of of open source models, I think it's going down a very dangerous path.",
+      "display": "The scaling of of open source models, I think it's going down a very dangerous path.",
+      "search": "the scaling of of open source models, i think it's going down a very dangerous path.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:99",
+      "startMs": 419920,
+      "endMs": 424640,
+      "verbatim": "And if the if again, if the path continues, I think we could get to a very dangerous place.",
+      "display": "And if the if again, if the path continues, I think we could get to a very dangerous place.",
+      "search": "and if the if again, if the path continues, i think we could get to a very dangerous place.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:100",
+      "startMs": 424640,
+      "endMs": 425280,
+      "verbatim": "Yikes.",
+      "display": "Yikes.",
+      "search": "yikes.",
+      "confidence": 0.548
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:101",
+      "startMs": 425280,
+      "endMs": 434240,
+      "verbatim": "I think it's worth saying some things on open source models that are are clear to all the experts, but I want to make sure is is understood by by this clear to all the experts.",
+      "display": "I think it's worth saying some things on open source models that are are clear to all the experts, but I want to make sure is is understood by by this clear to all the experts.",
+      "search": "i think it's worth saying some things on open source models that are are clear to all the experts, but i want to make sure is is understood by by this clear to all the experts.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:102",
+      "startMs": 434240,
+      "endMs": 437600,
+      "verbatim": "They uniformly agree, which is crazy because you know, classic experts.",
+      "display": "They uniformly agree, which is crazy because you know, classic experts.",
+      "search": "they uniformly agree, which is crazy because you know, classic experts.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:103",
+      "startMs": 437600,
+      "endMs": 444560,
+      "verbatim": "I mean, you can't even get dentists to agree on the toothpaste, and he's over here getting experts to agree to outcomes of stuff we haven't measured yet.",
+      "display": "I mean, you can't even get dentists to agree on the toothpaste, and he's over here getting experts to agree to outcomes of stuff we haven't measured yet.",
+      "search": "i mean, you can't even get dentists to agree on the toothpaste, and he's over here getting experts to agree to outcomes of stuff we haven't measured yet.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:104",
+      "startMs": 444560,
+      "endMs": 445280,
+      "verbatim": "Kind of wild.",
+      "display": "Kind of wild.",
+      "search": "kind of wild.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:105",
+      "startMs": 445280,
+      "endMs": 451600,
+      "verbatim": "Committee, which is when when you control a model and you're deploying it, you have the ability to monitor its usage.",
+      "display": "Committee, which is when when you control a model and you're deploying it, you have the ability to monitor its usage.",
+      "search": "committee, which is when when you control a model and you're deploying it, you have the ability to monitor its usage.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:106",
+      "startMs": 451600,
+      "endMs": 452720,
+      "verbatim": "That's really all you need to know.",
+      "display": "That's really all you need to know.",
+      "search": "that's really all you need to know.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:107",
+      "startMs": 452720,
+      "endMs": 455360,
+      "verbatim": "You'd like to monitor the usage, and this is the whole argument.",
+      "display": "You'd like to monitor the usage, and this is the whole argument.",
+      "search": "you'd like to monitor the usage, and this is the whole argument.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:108",
+      "startMs": 455360,
+      "endMs": 459520,
+      "verbatim": "This is the entire safety argument, which is just completely broken.",
+      "display": "This is the entire safety argument, which is just completely broken.",
+      "search": "this is the entire safety argument, which is just completely broken.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:109",
+      "startMs": 459520,
+      "endMs": 463200,
+      "verbatim": "There's open source models and which are doing absolutely excellent.",
+      "display": "There's open source models and which are doing absolutely excellent.",
+      "search": "there's open source models and which are doing absolutely excellent.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:110",
+      "startMs": 463200,
+      "endMs": 466160,
+      "verbatim": "There's people that have money and motivation to scam.",
+      "display": "There's people that have money and motivation to scam.",
+      "search": "there's people that have money and motivation to scam.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:111",
+      "startMs": 466160,
+      "endMs": 467440,
+      "verbatim": "They have access to it.",
+      "display": "They have access to it.",
+      "search": "they have access to it.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:112",
+      "startMs": 467440,
+      "endMs": 473840,
+      "verbatim": "There's a whole bunch of people that maintain a bunch of software that just simply don't have access to these models.",
+      "display": "There's a whole bunch of people that maintain a bunch of software that just simply don't have access to these models.",
+      "search": "there's a whole bunch of people that maintain a bunch of software that just simply don't have access to these models.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:113",
+      "startMs": 473840,
+      "endMs": 486000,
+      "verbatim": "They don't have access to these open source frameworks because they're not going to go spend, you know, $5,000 over a weekend to maintain their little open source project that nobody actually cares about, in which the entire world uses and everybody actually cares about.",
+      "display": "They don't have access to these open source frameworks because they're not going to go spend, you know, $5,000 over a weekend to maintain their little open source project that nobody actually cares about, in which the entire world uses and everybody actually cares about.",
+      "search": "they don't have access to these open source frameworks because they're not going to go spend, you know, $5,000 over a weekend to maintain their little open source project that nobody actually cares about, in which the entire world uses and everybody actually cares about.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:114",
+      "startMs": 486000,
+      "endMs": 487600,
+      "verbatim": "They just don't realize they care about it.",
+      "display": "They just don't realize they care about it.",
+      "search": "they just don't realize they care about it.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:115",
+      "startMs": 487600,
+      "endMs": 493040,
+      "verbatim": "And this is the whole problem of the safety argument is that it's fundamentally unsafe.",
+      "display": "And this is the whole problem of the safety argument is that it's fundamentally unsafe.",
+      "search": "and this is the whole problem of the safety argument is that it's fundamentally unsafe.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:116",
+      "startMs": 493040,
+      "endMs": 495920,
+      "verbatim": "The tools and the harnesses are there.",
+      "display": "The tools and the harnesses are there.",
+      "search": "the tools and the harnesses are there.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:117",
+      "startMs": 495920,
+      "endMs": 503600,
+      "verbatim": "The mythos complete hacking craze has already been reproduced by plenty of other models and people talking about it all the time on the internet.",
+      "display": "The mythos complete hacking craze has already been reproduced by plenty of other models and people talking about it all the time on the internet.",
+      "search": "the mythos complete hacking craze has already been reproduced by plenty of other models and people talking about it all the time on the internet.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:118",
+      "startMs": 503600,
+      "endMs": 509760,
+      "verbatim": "There's already better harnesses that are scoring higher, whatever that means, on the same benchmarks than Mythos.",
+      "display": "There's already better harnesses that are scoring higher, whatever that means, on the same benchmarks than Mythos.",
+      "search": "there's already better harnesses that are scoring higher, whatever that means, on the same benchmarks than mythos.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:119",
+      "startMs": 509760,
+      "endMs": 513920,
+      "verbatim": "At the end of the day, I think Michael, creator of Effects TS, says it best.",
+      "display": "At the end of the day, I think Michael, creator of Effects TS, says it best.",
+      "search": "at the end of the day, i think michael, creator of effects ts, says it best.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:120",
+      "startMs": 513920,
+      "endMs": 515840,
+      "verbatim": "Gonna need to get something off my chest.",
+      "display": "Gonna need to get something off my chest.",
+      "search": "gonna need to get something off my chest.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:121",
+      "startMs": 515840,
+      "endMs": 520800,
+      "verbatim": "The discord on Cybersec and Mythoslash US approach is stupid beyond imagination.",
+      "display": "The discord on Cybersec and Mythoslash US approach is stupid beyond imagination.",
+      "search": "the discord on cybersec and mythoslash us approach is stupid beyond imagination.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:122",
+      "startMs": 520800,
+      "endMs": 525200,
+      "verbatim": "There should be no guardrails, and the most powerful model should be immediately available to everyone.",
+      "display": "There should be no guardrails, and the most powerful model should be immediately available to everyone.",
+      "search": "there should be no guardrails, and the most powerful model should be immediately available to everyone.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:123",
+      "startMs": 525200,
+      "endMs": 526880,
+      "verbatim": "Want to make sure the world is safer?",
+      "display": "Want to make sure the world is safer?",
+      "search": "want to make sure the world is safer?",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:124",
+      "startMs": 526880,
+      "endMs": 529360,
+      "verbatim": "Give free usage to maintainers of core infrastructure.",
+      "display": "Give free usage to maintainers of core infrastructure.",
+      "search": "give free usage to maintainers of core infrastructure.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:125",
+      "startMs": 529360,
+      "endMs": 533440,
+      "verbatim": "If access is restricted, be sure offensive teams will find their way in.",
+      "display": "If access is restricted, be sure offensive teams will find their way in.",
+      "search": "if access is restricted, be sure offensive teams will find their way in.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:126",
+      "startMs": 533440,
+      "endMs": 543200,
+      "verbatim": "Somebody with insider access to anthropic or open AI will be offered a deal they can't refuse and leak the model to malicious actors, or a malicious actor will end up developing an equally capable model.",
+      "display": "Somebody with insider access to anthropic or open AI will be offered a deal they can't refuse and leak the model to malicious actors, or a malicious actor will end up developing an equally capable model.",
+      "search": "somebody with insider access to anthropic or open ai will be offered a deal they can't refuse and leak the model to malicious actors, or a malicious actor will end up developing an equally capable model.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:127",
+      "startMs": 543200,
+      "endMs": 547120,
+      "verbatim": "Look at GLM, it's near the same level of capability.",
+      "display": "Look at GLM, it's near the same level of capability.",
+      "search": "look at glm, it's near the same level of capability.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:128",
+      "startMs": 547280,
+      "endMs": 550880,
+      "verbatim": "Yeah, maybe it's not mythos levels, but it's not far off.",
+      "display": "Yeah, maybe it's not mythos levels, but it's not far off.",
+      "search": "yeah, maybe it's not mythos levels, but it's not far off.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:129",
+      "startMs": 550880,
+      "endMs": 554080,
+      "verbatim": "Yes, not only the good folks have money, but also the bad ones.",
+      "display": "Yes, not only the good folks have money, but also the bad ones.",
+      "search": "yes, not only the good folks have money, but also the bad ones.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:130",
+      "startMs": 554080,
+      "endMs": 555360,
+      "verbatim": "Exactly correct.",
+      "display": "Exactly correct.",
+      "search": "exactly correct.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:131",
+      "startMs": 555360,
+      "endMs": 560800,
+      "verbatim": "The only thing you achieve by restricting access is unsafety.",
+      "display": "The only thing you achieve by restricting access is unsafety.",
+      "search": "the only thing you achieve by restricting access is unsafety.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:132",
+      "startMs": 560800,
+      "endMs": 562080,
+      "verbatim": "100%.",
+      "display": "100%.",
+      "search": "100%.",
+      "confidence": 0.66
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:133",
+      "startMs": 562080,
+      "endMs": 577280,
+      "verbatim": "Because that's the thing, is right now you could have an entire world that exists in which people could be preparing their piece of the world, their little corner of software, making it more secure if that's the true delivery of these models to begin with.",
+      "display": "Because that's the thing, is right now you could have an entire world that exists in which people could be preparing their piece of the world, their little corner of software, making it more secure if that's the true delivery of these models to begin with.",
+      "search": "because that's the thing, is right now you could have an entire world that exists in which people could be preparing their piece of the world, their little corner of software, making it more secure if that's the true delivery of these models to begin with.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:134",
+      "startMs": 577280,
+      "endMs": 581440,
+      "verbatim": "If that's the case, wouldn't you want the whole world to walk in lockstep?",
+      "display": "If that's the case, wouldn't you want the whole world to walk in lockstep?",
+      "search": "if that's the case, wouldn't you want the whole world to walk in lockstep?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:135",
+      "startMs": 581440,
+      "endMs": 595200,
+      "verbatim": "Why would you want a select group of bad guys who happen to have a couple million or the ability to rent out enough Blackwell Ultra GPUs from NVIDIA to be able to take advantage of everybody else while we, the plebs, wait for the ability to secure our own systems?",
+      "display": "Why would you want a select group of bad guys who happen to have a couple million or the ability to rent out enough Blackwell Ultra GPUs from NVIDIA to be able to take advantage of everybody else while we, the plebs, wait for the ability to secure our own systems?",
+      "search": "why would you want a select group of bad guys who happen to have a couple million or the ability to rent out enough blackwell ultra gpus from nvidia to be able to take advantage of everybody else while we, the plebs, wait for the ability to secure our own systems?",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:136",
+      "startMs": 595200,
+      "endMs": 598800,
+      "verbatim": "Like the fundamental premise of this all doesn't make any sense.",
+      "display": "Like the fundamental premise of this all doesn't make any sense.",
+      "search": "like the fundamental premise of this all doesn't make any sense.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:137",
+      "startMs": 598800,
+      "endMs": 602720,
+      "verbatim": "Like if Dario actually wanted safety, he would go for federation.",
+      "display": "Like if Dario actually wanted safety, he would go for federation.",
+      "search": "like if dario actually wanted safety, he would go for federation.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:138",
+      "startMs": 602720,
+      "endMs": 608000,
+      "verbatim": "It's the only way to make the world safe is to have a lot of people work on it at the same time.",
+      "display": "It's the only way to make the world safe is to have a lot of people work on it at the same time.",
+      "search": "it's the only way to make the world safe is to have a lot of people work on it at the same time.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:139",
+      "startMs": 608000,
+      "endMs": 614240,
+      "verbatim": "The only way to make it unsafe is to allow people to lag far behind what the bad guys have access to.",
+      "display": "The only way to make it unsafe is to allow people to lag far behind what the bad guys have access to.",
+      "search": "the only way to make it unsafe is to allow people to lag far behind what the bad guys have access to.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:140",
+      "startMs": 614240,
+      "endMs": 615360,
+      "verbatim": "Ridiculous.",
+      "display": "Ridiculous.",
+      "search": "ridiculous.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:141",
+      "startMs": 615360,
+      "endMs": 617040,
+      "verbatim": "Absolutely ridiculous.",
+      "display": "Absolutely ridiculous.",
+      "search": "absolutely ridiculous.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:142",
+      "startMs": 617040,
+      "endMs": 623040,
+      "verbatim": "And that's because at the end of the day, anthropic, Dario over here, what they really want is control.",
+      "display": "And that's because at the end of the day, anthropic, Dario over here, what they really want is control.",
+      "search": "and that's because at the end of the day, anthropic, dario over here, what they really want is control.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:143",
+      "startMs": 623040,
+      "endMs": 625520,
+      "verbatim": "He says it right there inside the little interview.",
+      "display": "He says it right there inside the little interview.",
+      "search": "he says it right there inside the little interview.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:144",
+      "startMs": 625520,
+      "endMs": 629360,
+      "verbatim": "If I can just control the inputs, well then I can control the outputs.",
+      "display": "If I can just control the inputs, well then I can control the outputs.",
+      "search": "if i can just control the inputs, well then i can control the outputs.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:145",
+      "startMs": 629360,
+      "endMs": 633040,
+      "verbatim": "If I don't let you say certain things, well then you can't say it to the model.",
+      "display": "If I don't let you say certain things, well then you can't say it to the model.",
+      "search": "if i don't let you say certain things, well then you can't say it to the model.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:146",
+      "startMs": 633040,
+      "endMs": 635120,
+      "verbatim": "I can protect you from you.",
+      "display": "I can protect you from you.",
+      "search": "i can protect you from you.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:147",
+      "startMs": 635120,
+      "endMs": 638480,
+      "verbatim": "And ultimately, that's why I call him Daddy Dario.",
+      "display": "And ultimately, that's why I call him Daddy Dario.",
+      "search": "and ultimately, that's why i call him daddy dario.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:148",
+      "startMs": 638480,
+      "endMs": 648320,
+      "verbatim": "He is the one that's gonna keep you safe from all the bad guys or good guys, but you're gonna be safe because honestly, he has your best interest in heart, which is just control.",
+      "display": "He is the one that's gonna keep you safe from all the bad guys or good guys, but you're gonna be safe because honestly, he has your best interest in heart, which is just control.",
+      "search": "he is the one that's gonna keep you safe from all the bad guys or good guys, but you're gonna be safe because honestly, he has your best interest in heart, which is just control.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:149",
+      "startMs": 648320,
+      "endMs": 649440,
+      "verbatim": "I mean, sorry, safety.",
+      "display": "I mean, sorry, safety.",
+      "search": "i mean, sorry, safety.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:150",
+      "startMs": 649440,
+      "endMs": 649840,
+      "verbatim": "Safety.",
+      "display": "Safety.",
+      "search": "safety.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:151",
+      "startMs": 649840,
+      "endMs": 651360,
+      "verbatim": "He has your best interest in heart, it's safety.",
+      "display": "He has your best interest in heart, it's safety.",
+      "search": "he has your best interest in heart, it's safety.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:152",
+      "startMs": 651360,
+      "endMs": 652160,
+      "verbatim": "That's what he wants.",
+      "display": "That's what he wants.",
+      "search": "that's what he wants.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:153",
+      "startMs": 652160,
+      "endMs": 653120,
+      "verbatim": "Anyway, so there you go.",
+      "display": "Anyway, so there you go.",
+      "search": "anyway, so there you go.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:154",
+      "startMs": 653120,
+      "endMs": 655360,
+      "verbatim": "That's my whole opinion on safety in this entire talk.",
+      "display": "That's my whole opinion on safety in this entire talk.",
+      "search": "that's my whole opinion on safety in this entire talk.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:155",
+      "startMs": 655360,
+      "endMs": 656640,
+      "verbatim": "I think it's all ridiculous.",
+      "display": "I think it's all ridiculous.",
+      "search": "i think it's all ridiculous.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:156",
+      "startMs": 656640,
+      "endMs": 660800,
+      "verbatim": "I think this entire gated access and everything is really not doing anything good.",
+      "display": "I think this entire gated access and everything is really not doing anything good.",
+      "search": "i think this entire gated access and everything is really not doing anything good.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:157",
+      "startMs": 660800,
+      "endMs": 664000,
+      "verbatim": "I think at the end of the day, the bad actors are still gonna be bad.",
+      "display": "I think at the end of the day, the bad actors are still gonna be bad.",
+      "search": "i think at the end of the day, the bad actors are still gonna be bad.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:158",
+      "startMs": 664000,
+      "endMs": 671920,
+      "verbatim": "The ability for Opus 4.8 to be able to hack at a near level as mythos has already been cited a hundred times all over these different studies.",
+      "display": "The ability for Opus 4.8 to be able to hack at a near level as mythos has already been cited a hundred times all over these different studies.",
+      "search": "the ability for opus 4.8 to be able to hack at a near level as mythos has already been cited a hundred times all over these different studies.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:159",
+      "startMs": 671920,
+      "endMs": 674640,
+      "verbatim": "It's not like we're actually really having security.",
+      "display": "It's not like we're actually really having security.",
+      "search": "it's not like we're actually really having security.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:160",
+      "startMs": 674640,
+      "endMs": 676880,
+      "verbatim": "We're just having security theater.",
+      "display": "We're just having security theater.",
+      "search": "we're just having security theater.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:161",
+      "startMs": 676880,
+      "endMs": 679040,
+      "verbatim": "And ultimately, it's a play for control.",
+      "display": "And ultimately, it's a play for control.",
+      "search": "and ultimately, it's a play for control.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:162",
+      "startMs": 679040,
+      "endMs": 682320,
+      "verbatim": "Or it's a play for Dario to be able to regulate his opponents out of business.",
+      "display": "Or it's a play for Dario to be able to regulate his opponents out of business.",
+      "search": "or it's a play for dario to be able to regulate his opponents out of business.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:163",
+      "startMs": 682320,
+      "endMs": 684160,
+      "verbatim": "I'm not actually really sure which one it is.",
+      "display": "I'm not actually really sure which one it is.",
+      "search": "i'm not actually really sure which one it is.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:164",
+      "startMs": 684160,
+      "endMs": 685600,
+      "verbatim": "Probably both is my guess.",
+      "display": "Probably both is my guess.",
+      "search": "probably both is my guess.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:165",
+      "startMs": 685600,
+      "endMs": 688000,
+      "verbatim": "Anyways, I can't wait for Fable to come back out again.",
+      "display": "Anyways, I can't wait for Fable to come back out again.",
+      "search": "anyways, i can't wait for fable to come back out again.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:166",
+      "startMs": 688000,
+      "endMs": 688960,
+      "verbatim": "That would be great, huh?",
+      "display": "That would be great, huh?",
+      "search": "that would be great, huh?",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:167",
+      "startMs": 688960,
+      "endMs": 691520,
+      "verbatim": "I'd love to I'd love to have a little bit, I'd love to have a little bit of Fable.",
+      "display": "I'd love to I'd love to have a little bit, I'd love to have a little bit of Fable.",
+      "search": "i'd love to i'd love to have a little bit, i'd love to have a little bit of fable.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:168",
+      "startMs": 691520,
+      "endMs": 691840,
+      "verbatim": "Wouldn't you?",
+      "display": "Wouldn't you?",
+      "search": "wouldn't you?",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:169",
+      "startMs": 691840,
+      "endMs": 692880,
+      "verbatim": "Yeah, that'd be fantastic.",
+      "display": "Yeah, that'd be fantastic.",
+      "search": "yeah, that'd be fantastic.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:170",
+      "startMs": 692880,
+      "endMs": 694000,
+      "verbatim": "I'd I'd use it again.",
+      "display": "I'd I'd use it again.",
+      "search": "i'd i'd use it again.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:171",
+      "startMs": 694000,
+      "endMs": 695200,
+      "verbatim": "Yeah, Fa Fable?",
+      "display": "Yeah, Fa Fable?",
+      "search": "yeah, fa fable?",
+      "confidence": 0.481
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:172",
+      "startMs": 695200,
+      "endMs": 696880,
+      "verbatim": "I w would the name.",
+      "display": "I w would the name.",
+      "search": "i w would the name.",
+      "confidence": 0.527
+    },
+    {
+      "segmentId": "youtube:OTa_vK9919g:segment:173",
+      "startMs": 696880,
+      "endMs": 697840,
+      "verbatim": "This is the primogen",
+      "display": "This is the primogen",
+      "search": "this is the primogen",
+      "confidence": 0.65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:zZ5-KVDIaPg",
+  "platform": "youtube",
+  "platformId": "zZ5-KVDIaPg",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Haskell is DONE",
+  "description": "ssh terminal.shop\nYes, seriously, this is my company, and we selected and found some of the worlds best coffee.  US only (for now (the world is hard when you don't do crappy influencer coffee))\n\nSources:\n\n- https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html\n\nTopics Covered:\n\n- Haskell\n- Monoids are Monads in the category of Endofunctors\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=zZ5-KVDIaPg",
+  "publishedAt": "2026-07-17T13:00:36.000Z",
+  "durationMs": 950000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:50:53.816Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:50:53.816Z",
+    "runId": "2026-08-30T22-45-04-059Z-3159b82f"
+  }
+}

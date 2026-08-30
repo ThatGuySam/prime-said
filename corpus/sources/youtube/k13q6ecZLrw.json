@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:k13q6ecZLrw",
+  "platform": "youtube",
+  "platformId": "k13q6ecZLrw",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "4 words triggered a war",
+  "description": "Having trouble finding the right developer for your team? Get a 7-day free trial + $1,500 off with The Prime’s discount:  https://trm.sh/g2i\n\nSources:\n\n- https://x.com/mitchellh/status/2072738025344565262?s=20\n\nTopics Covered:\n\n- Agentic Engineering\n- Reading Code in 2026\n- Loop Talk\n- Are we Doomed?\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=k13q6ecZLrw",
+  "publishedAt": "2026-07-09T13:00:09.000Z",
+  "durationMs": 903000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T23:10:23.716Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T23:10:23.716Z",
+    "runId": "2026-08-30T23-07-37-056Z-d02fc850"
+  }
+}

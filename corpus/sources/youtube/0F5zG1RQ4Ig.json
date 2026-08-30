@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:0F5zG1RQ4Ig",
+  "platform": "youtube",
+  "platformId": "0F5zG1RQ4Ig",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "You won't fall behind",
+  "description": "ssh terminal.shop\nYes, seriously, this is my company, and we selected and found some of the worlds best coffee.  US only (for now (the world is hard when you don't do crappy influencer coffee)\n\nSources:\n\n- https://x.com/robj3d3/status/2076356929878966555\n- https://x.com/sethrose/status/2076695003888308724\n- https://geohot.github.io/blog/jekyll/update/2026/07/12/i-love-llms.html\n\nTopics Covered:\n\n- FOMO in AI age\n- AI Psychosis\n- Programmer Health\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=0F5zG1RQ4Ig",
+  "publishedAt": "2026-07-21T19:16:16.000Z",
+  "durationMs": 751000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:47:37.180Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:47:37.180Z",
+    "runId": "2026-08-30T22-45-04-059Z-3159b82f"
+  }
+}

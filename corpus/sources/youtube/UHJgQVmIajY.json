@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:UHJgQVmIajY",
+  "platform": "youtube",
+  "platformId": "UHJgQVmIajY",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "You Owe Him",
+  "description": "If you're on Mac or Windows, check out tuple today! And if you're on Linux, let's just say come back and check soon 🙂 Say thanks to our sponsor by checking out https://tuple.app/prime\n\nSources:\n\n- https://x.com/ID_AA_Carmack/status/2064095424420487226?s=20\n- https://bellard.org/\n- https://en.wikipedia.org/wiki/Fabrice_Bellard\n- https://www.ffmpeg.org/about.html\n- https://codecs.multimedia.cx/2022/12/ffhistory-prologue/\n- https://ffmpeg.org/pipermail/ffmpeg-cvslog/2014-November/083702.html\n- https://www.qemu.org/\n- https://amarisoft.com/\n\nChapters:\n00:00:00 - Legendary Programmers\n00:00:53 - Tuple #ad\n00:02:22 - Life and Career of Fabrice Bellard\n00:02:34 - LZEXE\n00:03:51 - Calculating Pi\n00:04:43 - FFmpeg\n00:05:45 - Obfuscated C Code Contest\n00:06:13 - QEMU\n00:06:49 - Co-founder and CTO of Amarisoft\n00:07:19 - Windows 2000 in the browser\n00:08:04 - Endless list of projects\n00:08:43 - Admiring Fabrice\n00:09:56 - Who's the next programmer of the month?\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=UHJgQVmIajY",
+  "publishedAt": "2026-07-07T14:49:57.000Z",
+  "durationMs": 602000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T23:12:57.465Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T23:12:57.465Z",
+    "runId": "2026-08-30T23-07-37-056Z-d02fc850"
+  }
+}

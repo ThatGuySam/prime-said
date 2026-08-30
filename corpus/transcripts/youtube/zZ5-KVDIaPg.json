@@ -1,0 +1,2066 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_051541bc7e8e5539dcb57d91",
+  "sourceId": "youtube:zZ5-KVDIaPg",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:50:53.816Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:1",
+      "startMs": 160,
+      "endMs": 2160,
+      "verbatim": "Haskell is dead.",
+      "display": "Haskell is dead.",
+      "search": "haskell is dead.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:2",
+      "startMs": 2960,
+      "endMs": 5760,
+      "verbatim": "I'm saying that because look at this right here.",
+      "display": "I'm saying that because look at this right here.",
+      "search": "i'm saying that because look at this right here.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:3",
+      "startMs": 5760,
+      "endMs": 11760,
+      "verbatim": "After seven years in production, Scarf has reluctantly moved away from Haskell.",
+      "display": "After seven years in production, Scarf has reluctantly moved away from Haskell.",
+      "search": "after seven years in production, scarf has reluctantly moved away from haskell.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:4",
+      "startMs": 11760,
+      "endMs": 17840,
+      "verbatim": "Now, for those that don't know, Scarf is one of the large Haskell companies out there running Haskell in production.",
+      "display": "Now, for those that don't know, Scarf is one of the large Haskell companies out there running Haskell in production.",
+      "search": "now, for those that don't know, scarf is one of the large haskell companies out there running haskell in production.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:5",
+      "startMs": 17840,
+      "endMs": 21840,
+      "verbatim": "I know a lot of you right now thought, well, you mean the white the white paper language?",
+      "display": "I know a lot of you right now thought, well, you mean the white the white paper language?",
+      "search": "i know a lot of you right now thought, well, you mean the white the white paper language?",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:6",
+      "startMs": 21840,
+      "endMs": 26640,
+      "verbatim": "Yes, the white paper language actually does have a few production cases, and this is one of them.",
+      "display": "Yes, the white paper language actually does have a few production cases, and this is one of them.",
+      "search": "yes, the white paper language actually does have a few production cases, and this is one of them.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:7",
+      "startMs": 26640,
+      "endMs": 31520,
+      "verbatim": "Now, normally when I make this joke, I inevitably there's somebody in the comments losing their mind.",
+      "display": "Now, normally when I make this joke, I inevitably there's somebody in the comments losing their mind.",
+      "search": "now, normally when i make this joke, i inevitably there's somebody in the comments losing their mind.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:8",
+      "startMs": 31600,
+      "endMs": 33280,
+      "verbatim": "Actually, you just don't even understand.",
+      "display": "Actually, you just don't even understand.",
+      "search": "actually, you just don't even understand.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:9",
+      "startMs": 33280,
+      "endMs": 34640,
+      "verbatim": "You're such a stupid idiot.",
+      "display": "You're such a stupid idiot.",
+      "search": "you're such a stupid idiot.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:10",
+      "startMs": 34640,
+      "endMs": 36800,
+      "verbatim": "The type system Okay, okay, okay.",
+      "display": "The type system Okay, okay, okay.",
+      "search": "the type system okay, okay, okay.",
+      "confidence": 0.687
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:11",
+      "startMs": 36800,
+      "endMs": 38880,
+      "verbatim": "The white paper, it's just a joke, okay, buddy?",
+      "display": "The white paper, it's just a joke, okay, buddy?",
+      "search": "the white paper, it's just a joke, okay, buddy?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:12",
+      "startMs": 38880,
+      "endMs": 41120,
+      "verbatim": "Okay, guy, hey, you're not that guy, pal.",
+      "display": "Okay, guy, hey, you're not that guy, pal.",
+      "search": "okay, guy, hey, you're not that guy, pal.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:13",
+      "startMs": 41120,
+      "endMs": 43120,
+      "verbatim": "Just back up, back off the keyboard, okay?",
+      "display": "Just back up, back off the keyboard, okay?",
+      "search": "just back up, back off the keyboard, okay?",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:14",
+      "startMs": 43120,
+      "endMs": 61440,
+      "verbatim": "Now, normally I wouldn't necessarily be that excited about these type of articles, but the reason why I am excited about this is that this Avi Press fellow right here, not only did he start a company with Haskell, the company is successful using Haskell, and he serves on the Haskell Foundation and Haskell.org committee.",
+      "display": "Now, normally I wouldn't necessarily be that excited about these type of articles, but the reason why I am excited about this is that this Avi Press fellow right here, not only did he start a company with Haskell, the company is successful using Haskell, and he serves on the Haskell Foundation and Haskell.org committee.",
+      "search": "now, normally i wouldn't necessarily be that excited about these type of articles, but the reason why i am excited about this is that this avi press fellow right here, not only did he start a company with haskell, the company is successful using haskell, and he serves on the haskell foundation and haskell.org committee.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:15",
+      "startMs": 61440,
+      "endMs": 63520,
+      "verbatim": "He's been using it for the last 16 years.",
+      "display": "He's been using it for the last 16 years.",
+      "search": "he's been using it for the last 16 years.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:16",
+      "startMs": 63520,
+      "endMs": 68640,
+      "verbatim": "He's claimed he's a huge fan of it, and it's the undeniably most important programming language in his life.",
+      "display": "He's claimed he's a huge fan of it, and it's the undeniably most important programming language in his life.",
+      "search": "he's claimed he's a huge fan of it, and it's the undeniably most important programming language in his life.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:17",
+      "startMs": 68640,
+      "endMs": 70800,
+      "verbatim": "Like he loves Haskell.",
+      "display": "Like he loves Haskell.",
+      "search": "like he loves haskell.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:18",
+      "startMs": 70800,
+      "endMs": 76640,
+      "verbatim": "And when I see somebody who really loves something decides that they want to move away from it, I have to know why.",
+      "display": "And when I see somebody who really loves something decides that they want to move away from it, I have to know why.",
+      "search": "and when i see somebody who really loves something decides that they want to move away from it, i have to know why.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:19",
+      "startMs": 76640,
+      "endMs": 80240,
+      "verbatim": "Because me personally, I recently made a video where I said I'm done with Go.",
+      "display": "Because me personally, I recently made a video where I said I'm done with Go.",
+      "search": "because me personally, i recently made a video where i said i'm done with go.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:20",
+      "startMs": 80240,
+      "endMs": 82880,
+      "verbatim": "And it's I I was a huge fan of it.",
+      "display": "And it's I I was a huge fan of it.",
+      "search": "and it's i i was a huge fan of it.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:21",
+      "startMs": 82880,
+      "endMs": 91520,
+      "verbatim": "I loved using Go, and then I kind of felt like the North Star of Go, just no longer mapped up with the North Star of what I wanted out of the language.",
+      "display": "I loved using Go, and then I kind of felt like the North Star of Go, just no longer mapped up with the North Star of what I wanted out of the language.",
+      "search": "i loved using go, and then i kind of felt like the north star of go, just no longer mapped up with the north star of what i wanted out of the language.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:22",
+      "startMs": 91520,
+      "endMs": 97280,
+      "verbatim": "And so I'm always curious, whenever I see somebody who's done something for a long time, why do you change?",
+      "display": "And so I'm always curious, whenever I see somebody who's done something for a long time, why do you change?",
+      "search": "and so i'm always curious, whenever i see somebody who's done something for a long time, why do you change?",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:23",
+      "startMs": 97280,
+      "endMs": 98800,
+      "verbatim": "What is the thought process?",
+      "display": "What is the thought process?",
+      "search": "what is the thought process?",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:24",
+      "startMs": 98800,
+      "endMs": 101120,
+      "verbatim": "Because I want to learn from you.",
+      "display": "Because I want to learn from you.",
+      "search": "because i want to learn from you.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:25",
+      "startMs": 101120,
+      "endMs": 112400,
+      "verbatim": "Now, in this video, I'm gonna be doing something that I, again, I typically try not to do, but we're gonna be making yet another tech prediction due to the last two tech predictions being so just spot on.",
+      "display": "Now, in this video, I'm gonna be doing something that I, again, I typically try not to do, but we're gonna be making yet another tech prediction due to the last two tech predictions being so just spot on.",
+      "search": "now, in this video, i'm gonna be doing something that i, again, i typically try not to do, but we're gonna be making yet another tech prediction due to the last two tech predictions being so just spot on.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:26",
+      "startMs": 112400,
+      "endMs": 116160,
+      "verbatim": "I think I got a good third one, and it maps up with this article, okay?",
+      "display": "I think I got a good third one, and it maps up with this article, okay?",
+      "search": "i think i got a good third one, and it maps up with this article, okay?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:27",
+      "startMs": 116160,
+      "endMs": 125440,
+      "verbatim": "So we're gonna go over this article, the reasons why he's changed, and honestly, there was a section that caught me completely off guard, and then there was a follow-up section that caught me even further off guard.",
+      "display": "So we're gonna go over this article, the reasons why he's changed, and honestly, there was a section that caught me completely off guard, and then there was a follow-up section that caught me even further off guard.",
+      "search": "so we're gonna go over this article, the reasons why he's changed, and honestly, there was a section that caught me completely off guard, and then there was a follow-up section that caught me even further off guard.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:28",
+      "startMs": 125440,
+      "endMs": 126800,
+      "verbatim": "I just couldn't even believe it.",
+      "display": "I just couldn't even believe it.",
+      "search": "i just couldn't even believe it.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:29",
+      "startMs": 126800,
+      "endMs": 132000,
+      "verbatim": "I just, I wasn't even I I felt like my eyes were just like just must be misreading it.",
+      "display": "I just, I wasn't even I I felt like my eyes were just like just must be misreading it.",
+      "search": "i just, i wasn't even i i felt like my eyes were just like just must be misreading it.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:30",
+      "startMs": 132000,
+      "endMs": 137520,
+      "verbatim": "But before we get to this monoid in the category of endofunctors, I would like to first say thank you to the sponsor.",
+      "display": "But before we get to this monoid in the category of endofunctors, I would like to first say thank you to the sponsor.",
+      "search": "but before we get to this monoid in the category of endofunctors, i would like to first say thank you to the sponsor.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:31",
+      "startMs": 137520,
+      "endMs": 138320,
+      "verbatim": "Oh, a monad.",
+      "display": "Oh, a monad.",
+      "search": "oh, a monad.",
+      "confidence": 0.711
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:32",
+      "startMs": 138320,
+      "endMs": 140480,
+      "verbatim": "That's just a monoid in the category of endofunctors.",
+      "display": "That's just a monoid in the category of endofunctors.",
+      "search": "that's just a monoid in the category of endofunctors.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:33",
+      "startMs": 140480,
+      "endMs": 142240,
+      "verbatim": "Hey, is that HTTP?",
+      "display": "Hey, is that HTTP?",
+      "search": "hey, is that http?",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:34",
+      "startMs": 142480,
+      "endMs": 143520,
+      "verbatim": "Get that out of here.",
+      "display": "Get that out of here.",
+      "search": "get that out of here.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:35",
+      "startMs": 143520,
+      "endMs": 145200,
+      "verbatim": "That's not how we order coffee.",
+      "display": "That's not how we order coffee.",
+      "search": "that's not how we order coffee.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:36",
+      "startMs": 145200,
+      "endMs": 148160,
+      "verbatim": "We order coffee via SSH, terminal.shop.",
+      "display": "We order coffee via SSH, terminal.shop.",
+      "search": "we order coffee via ssh, terminal.shop.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:37",
+      "startMs": 148160,
+      "endMs": 149600,
+      "verbatim": "Yeah, you want a real experience?",
+      "display": "Yeah, you want a real experience?",
+      "search": "yeah, you want a real experience?",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:38",
+      "startMs": 149600,
+      "endMs": 150960,
+      "verbatim": "You want real coffee?",
+      "display": "You want real coffee?",
+      "search": "you want real coffee?",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:39",
+      "startMs": 150960,
+      "endMs": 154240,
+      "verbatim": "You want awesome subscriptions so you never have to remember again?",
+      "display": "You want awesome subscriptions so you never have to remember again?",
+      "search": "you want awesome subscriptions so you never have to remember again?",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:40",
+      "startMs": 154240,
+      "endMs": 159680,
+      "verbatim": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "display": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "search": "oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:41",
+      "startMs": 159680,
+      "endMs": 160960,
+      "verbatim": "Then check out Kron.",
+      "display": "Then check out Kron.",
+      "search": "then check out kron.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:42",
+      "startMs": 160960,
+      "endMs": 162240,
+      "verbatim": "You don't know what SSH is?",
+      "display": "You don't know what SSH is?",
+      "search": "you don't know what ssh is?",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:43",
+      "startMs": 163280,
+      "endMs": 165600,
+      "verbatim": "Well, maybe the coffee is not for you.",
+      "display": "Well, maybe the coffee is not for you.",
+      "search": "well, maybe the coffee is not for you.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:44",
+      "startMs": 165840,
+      "endMs": 174000,
+      "verbatim": "Terminal coffee in hand live in the tree.",
+      "display": "Terminal coffee in hand live in the tree.",
+      "search": "terminal coffee in hand live in the tree.",
+      "confidence": 0.493
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:45",
+      "startMs": 174000,
+      "endMs": 176480,
+      "verbatim": "Alright, welcome back, my little digital monads.",
+      "display": "Alright, welcome back, my little digital monads.",
+      "search": "alright, welcome back, my little digital monads.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:46",
+      "startMs": 176480,
+      "endMs": 182800,
+      "verbatim": "So now to kind of talk about this article, first, Avi gives kind of like uh what they have done with Haskell.",
+      "display": "So now to kind of talk about this article, first, Avi gives kind of like uh what they have done with Haskell.",
+      "search": "so now to kind of talk about this article, first, avi gives kind of like uh what they have done with haskell.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:47",
+      "startMs": 182800,
+      "endMs": 189840,
+      "verbatim": "They have done a whole bunch, they built a bunch of production systems, they have a bunch of high performance Haskell, which I didn't even really realize was possible.",
+      "display": "They have done a whole bunch, they built a bunch of production systems, they have a bunch of high performance Haskell, which I didn't even really realize was possible.",
+      "search": "they have done a whole bunch, they built a bunch of production systems, they have a bunch of high performance haskell, which i didn't even really realize was possible.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:48",
+      "startMs": 189840,
+      "endMs": 200960,
+      "verbatim": "But what they what it comes down to is he's saying is that a huge problem is compilation and ecosystem friction, that they just spend so much time trying to optimize build.",
+      "display": "But what they what it comes down to is he's saying is that a huge problem is compilation and ecosystem friction, that they just spend so much time trying to optimize build.",
+      "search": "but what they what it comes down to is he's saying is that a huge problem is compilation and ecosystem friction, that they just spend so much time trying to optimize build.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:49",
+      "startMs": 200960,
+      "endMs": 206960,
+      "verbatim": "They're effectively doing so much time as a company, what probably should be handled at a language level.",
+      "display": "They're effectively doing so much time as a company, what probably should be handled at a language level.",
+      "search": "they're effectively doing so much time as a company, what probably should be handled at a language level.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:50",
+      "startMs": 206960,
+      "endMs": 211440,
+      "verbatim": "Like the language should be the one providing all these available, you know, tools.",
+      "display": "Like the language should be the one providing all these available, you know, tools.",
+      "search": "like the language should be the one providing all these available, you know, tools.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:51",
+      "startMs": 211440,
+      "endMs": 217440,
+      "verbatim": "But instead, every company that ends up using Haskell has to come up with their own bespoke or unique caching system.",
+      "display": "But instead, every company that ends up using Haskell has to come up with their own bespoke or unique caching system.",
+      "search": "but instead, every company that ends up using haskell has to come up with their own bespoke or unique caching system.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:52",
+      "startMs": 217440,
+      "endMs": 222480,
+      "verbatim": "They have to come up with their own ways to be able to have really solid developer environments, CI and everything.",
+      "display": "They have to come up with their own ways to be able to have really solid developer environments, CI and everything.",
+      "search": "they have to come up with their own ways to be able to have really solid developer environments, ci and everything.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:53",
+      "startMs": 222480,
+      "endMs": 227040,
+      "verbatim": "And this is a like a major burden on the company for a long time.",
+      "display": "And this is a like a major burden on the company for a long time.",
+      "search": "and this is a like a major burden on the company for a long time.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:54",
+      "startMs": 227040,
+      "endMs": 228320,
+      "verbatim": "That was workable.",
+      "display": "That was workable.",
+      "search": "that was workable.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:55",
+      "startMs": 228320,
+      "endMs": 230800,
+      "verbatim": "Our team knows the language and tooling deeply.",
+      "display": "Our team knows the language and tooling deeply.",
+      "search": "our team knows the language and tooling deeply.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:56",
+      "startMs": 230800,
+      "endMs": 234640,
+      "verbatim": "We knew where the sharp edges were, and we mostly lived with it.",
+      "display": "We knew where the sharp edges were, and we mostly lived with it.",
+      "search": "we knew where the sharp edges were, and we mostly lived with it.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:57",
+      "startMs": 234640,
+      "endMs": 237120,
+      "verbatim": "Then AI changed the trade-offs.",
+      "display": "Then AI changed the trade-offs.",
+      "search": "then ai changed the trade-offs.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:58",
+      "startMs": 237120,
+      "endMs": 241280,
+      "verbatim": "Yes, I've this is one of the kind of the first of many surprises for me.",
+      "display": "Yes, I've this is one of the kind of the first of many surprises for me.",
+      "search": "yes, i've this is one of the kind of the first of many surprises for me.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:59",
+      "startMs": 241280,
+      "endMs": 250560,
+      "verbatim": "I I was a bit surprised why AI made these changes, because I would assume that AI would have actually performed quite well with with Haskell.",
+      "display": "I I was a bit surprised why AI made these changes, because I would assume that AI would have actually performed quite well with with Haskell.",
+      "search": "i i was a bit surprised why ai made these changes, because i would assume that ai would have actually performed quite well with with haskell.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:60",
+      "startMs": 250560,
+      "endMs": 259120,
+      "verbatim": "And the reason being is that Haskell has a very deep and provably correct type system and which gives really excellent feedback about the things that are going wrong.",
+      "display": "And the reason being is that Haskell has a very deep and provably correct type system and which gives really excellent feedback about the things that are going wrong.",
+      "search": "and the reason being is that haskell has a very deep and provably correct type system and which gives really excellent feedback about the things that are going wrong.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:61",
+      "startMs": 259120,
+      "endMs": 264720,
+      "verbatim": "So I would assume that a thing like AI would have just gone hard on the Haskell system, right?",
+      "display": "So I would assume that a thing like AI would have just gone hard on the Haskell system, right?",
+      "search": "so i would assume that a thing like ai would have just gone hard on the haskell system, right?",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:62",
+      "startMs": 264720,
+      "endMs": 267360,
+      "verbatim": "Like it's actually just a Haskell fanboy underneath.",
+      "display": "Like it's actually just a Haskell fanboy underneath.",
+      "search": "like it's actually just a haskell fanboy underneath.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:63",
+      "startMs": 268000,
+      "endMs": 272320,
+      "verbatim": "Them matrices and Haskells, they're like little, you know, they're bedfellows at this point.",
+      "display": "Them matrices and Haskells, they're like little, you know, they're bedfellows at this point.",
+      "search": "them matrices and haskells, they're like little, you know, they're bedfellows at this point.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:64",
+      "startMs": 272320,
+      "endMs": 274560,
+      "verbatim": "But apparently, I was wrong.",
+      "display": "But apparently, I was wrong.",
+      "search": "but apparently, i was wrong.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:65",
+      "startMs": 274560,
+      "endMs": 276800,
+      "verbatim": "And his argument goes a little something like this.",
+      "display": "And his argument goes a little something like this.",
+      "search": "and his argument goes a little something like this.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:66",
+      "startMs": 276800,
+      "endMs": 283440,
+      "verbatim": "Historically, I thought about errors as something you caught in either one of two places, at compile time or at runtime.",
+      "display": "Historically, I thought about errors as something you caught in either one of two places, at compile time or at runtime.",
+      "search": "historically, i thought about errors as something you caught in either one of two places, at compile time or at runtime.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:67",
+      "startMs": 283440,
+      "endMs": 285840,
+      "verbatim": "Now there's a third place, code generation time.",
+      "display": "Now there's a third place, code generation time.",
+      "search": "now there's a third place, code generation time.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:68",
+      "startMs": 285840,
+      "endMs": 289840,
+      "verbatim": "The model can often avoid a mistake before the compiler even sees the code.",
+      "display": "The model can often avoid a mistake before the compiler even sees the code.",
+      "search": "the model can often avoid a mistake before the compiler even sees the code.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:69",
+      "startMs": 289840,
+      "endMs": 295120,
+      "verbatim": "And as the models get better, the relative value of catching every possible issue at compile time changes.",
+      "display": "And as the models get better, the relative value of catching every possible issue at compile time changes.",
+      "search": "and as the models get better, the relative value of catching every possible issue at compile time changes.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:70",
+      "startMs": 295120,
+      "endMs": 297840,
+      "verbatim": "Very surprising, by the way, for a Haskell person to say this.",
+      "display": "Very surprising, by the way, for a Haskell person to say this.",
+      "search": "very surprising, by the way, for a haskell person to say this.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:71",
+      "startMs": 297840,
+      "endMs": 302560,
+      "verbatim": "This is like, this is the most nuanced ass take I've ever seen a Haskell person have.",
+      "display": "This is like, this is the most nuanced ass take I've ever seen a Haskell person have.",
+      "search": "this is like, this is the most nuanced ass take i've ever seen a haskell person have.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:72",
+      "startMs": 302560,
+      "endMs": 305200,
+      "verbatim": "Because typically it's like, oh no, actually, the answer is Haskell.",
+      "display": "Because typically it's like, oh no, actually, the answer is Haskell.",
+      "search": "because typically it's like, oh no, actually, the answer is haskell.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:73",
+      "startMs": 305200,
+      "endMs": 305920,
+      "verbatim": "Oh, what are you?",
+      "display": "Oh, what are you?",
+      "search": "oh, what are you?",
+      "confidence": 0.671
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:74",
+      "startMs": 306000,
+      "endMs": 307680,
+      "verbatim": "I don't even need to hear what project you're building.",
+      "display": "I don't even need to hear what project you're building.",
+      "search": "i don't even need to hear what project you're building.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:75",
+      "startMs": 307680,
+      "endMs": 308640,
+      "verbatim": "The answer is Haskell.",
+      "display": "The answer is Haskell.",
+      "search": "the answer is haskell.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:76",
+      "startMs": 308640,
+      "endMs": 310240,
+      "verbatim": "Haskell's like the greatest, okay.",
+      "display": "Haskell's like the greatest, okay.",
+      "search": "haskell's like the greatest, okay.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:77",
+      "startMs": 310240,
+      "endMs": 312320,
+      "verbatim": "Here, let's get started on the white paper together.",
+      "display": "Here, let's get started on the white paper together.",
+      "search": "here, let's get started on the white paper together.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:78",
+      "startMs": 312320,
+      "endMs": 314240,
+      "verbatim": "Next year we'll get started on the project, okay?",
+      "display": "Next year we'll get started on the project, okay?",
+      "search": "next year we'll get started on the project, okay?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:79",
+      "startMs": 314240,
+      "endMs": 315120,
+      "verbatim": "Me and you, babe.",
+      "display": "Me and you, babe.",
+      "search": "me and you, babe.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:80",
+      "startMs": 315120,
+      "endMs": 318880,
+      "verbatim": "Now, this is really where the first big like, oh my gosh, comes in.",
+      "display": "Now, this is really where the first big like, oh my gosh, comes in.",
+      "search": "now, this is really where the first big like, oh my gosh, comes in.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:81",
+      "startMs": 318880,
+      "endMs": 325280,
+      "verbatim": "This is not to say that type safety has become worthless, but the cost of type checking matters more now.",
+      "display": "This is not to say that type safety has become worthless, but the cost of type checking matters more now.",
+      "search": "this is not to say that type safety has become worthless, but the cost of type checking matters more now.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:82",
+      "startMs": 325280,
+      "endMs": 332480,
+      "verbatim": "So the compilation times matter a whole bunch, but this is a Haskell person telling you that types aren't worth the same.",
+      "display": "So the compilation times matter a whole bunch, but this is a Haskell person telling you that types aren't worth the same.",
+      "search": "so the compilation times matter a whole bunch, but this is a haskell person telling you that types aren't worth the same.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:83",
+      "startMs": 332480,
+      "endMs": 336800,
+      "verbatim": "If type checking takes too long, it's no longer worth it as much.",
+      "display": "If type checking takes too long, it's no longer worth it as much.",
+      "search": "if type checking takes too long, it's no longer worth it as much.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:84",
+      "startMs": 336800,
+      "endMs": 338640,
+      "verbatim": "Very, very shocking.",
+      "display": "Very, very shocking.",
+      "search": "very, very shocking.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:85",
+      "startMs": 338640,
+      "endMs": 348720,
+      "verbatim": "And his argument goes if an LLM can produce a working implementation in a few minutes, but your compiler steps takes dramatically longer, then your language and build system has become the bottleneck and development loop.",
+      "display": "And his argument goes if an LLM can produce a working implementation in a few minutes, but your compiler steps takes dramatically longer, then your language and build system has become the bottleneck and development loop.",
+      "search": "and his argument goes if an llm can produce a working implementation in a few minutes, but your compiler steps takes dramatically longer, then your language and build system has become the bottleneck and development loop.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:86",
+      "startMs": 348720,
+      "endMs": 354720,
+      "verbatim": "And that is because with his project, the size and scope of the project, a cold build can take 15 minutes.",
+      "display": "And that is because with his project, the size and scope of the project, a cold build can take 15 minutes.",
+      "search": "and that is because with his project, the size and scope of the project, a cold build can take 15 minutes.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:87",
+      "startMs": 354720,
+      "endMs": 362960,
+      "verbatim": "That means if you spin off a new agent in a new work tree, the initial setup time includes a minimum 15-minute cold start build.",
+      "display": "That means if you spin off a new agent in a new work tree, the initial setup time includes a minimum 15-minute cold start build.",
+      "search": "that means if you spin off a new agent in a new work tree, the initial setup time includes a minimum 15-minute cold start build.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:88",
+      "startMs": 362960,
+      "endMs": 365280,
+      "verbatim": "Now that I can understand, like that's a lot.",
+      "display": "Now that I can understand, like that's a lot.",
+      "search": "now that i can understand, like that's a lot.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:89",
+      "startMs": 365280,
+      "endMs": 369920,
+      "verbatim": "That's a lot of CPU time, especially if you have a bunch of people kicking off a bunch of builds.",
+      "display": "That's a lot of CPU time, especially if you have a bunch of people kicking off a bunch of builds.",
+      "search": "that's a lot of cpu time, especially if you have a bunch of people kicking off a bunch of builds.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:90",
+      "startMs": 369920,
+      "endMs": 377280,
+      "verbatim": "You're spending a lot of machine time just even getting to the point of starting to make a query or an LM anything.",
+      "display": "You're spending a lot of machine time just even getting to the point of starting to make a query or an LM anything.",
+      "search": "you're spending a lot of machine time just even getting to the point of starting to make a query or an lm anything.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:91",
+      "startMs": 377280,
+      "endMs": 382400,
+      "verbatim": "And he makes an even stronger point with this becomes unbearable when you start using many coding agents in parallel.",
+      "display": "And he makes an even stronger point with this becomes unbearable when you start using many coding agents in parallel.",
+      "search": "and he makes an even stronger point with this becomes unbearable when you start using many coding agents in parallel.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:92",
+      "startMs": 382400,
+      "endMs": 384560,
+      "verbatim": "This becomes obvious if you haven't thought about it.",
+      "display": "This becomes obvious if you haven't thought about it.",
+      "search": "this becomes obvious if you haven't thought about it.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:93",
+      "startMs": 384560,
+      "endMs": 390880,
+      "verbatim": "The longer and stronger your build times are, the more computation or CPU time that you need to have.",
+      "display": "The longer and stronger your build times are, the more computation or CPU time that you need to have.",
+      "search": "the longer and stronger your build times are, the more computation or cpu time that you need to have.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:94",
+      "startMs": 390880,
+      "endMs": 401200,
+      "verbatim": "So if you have multiple of these things running at the same time, the build time goes from 15 minutes potentially to 30, 40 minutes, because you have many things all competing for the CPU at the same time.",
+      "display": "So if you have multiple of these things running at the same time, the build time goes from 15 minutes potentially to 30, 40 minutes, because you have many things all competing for the CPU at the same time.",
+      "search": "so if you have multiple of these things running at the same time, the build time goes from 15 minutes potentially to 30, 40 minutes, because you have many things all competing for the cpu at the same time.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:95",
+      "startMs": 401200,
+      "endMs": 404160,
+      "verbatim": "So this could actually become like a major bottleneck.",
+      "display": "So this could actually become like a major bottleneck.",
+      "search": "so this could actually become like a major bottleneck.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:96",
+      "startMs": 404160,
+      "endMs": 405920,
+      "verbatim": "You couldn't do anything with it.",
+      "display": "You couldn't do anything with it.",
+      "search": "you couldn't do anything with it.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:97",
+      "startMs": 405920,
+      "endMs": 414800,
+      "verbatim": "And if the model you're using, say grok four or five super duper fast, only takes two minutes to generate a piece of code, and then it takes like 30 minutes to set up your environment, I agree.",
+      "display": "And if the model you're using, say grok four or five super duper fast, only takes two minutes to generate a piece of code, and then it takes like 30 minutes to set up your environment, I agree.",
+      "search": "and if the model you're using, say grok four or five super duper fast, only takes two minutes to generate a piece of code, and then it takes like 30 minutes to set up your environment, i agree.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:98",
+      "startMs": 414800,
+      "endMs": 416160,
+      "verbatim": "That's actually kind of crazy.",
+      "display": "That's actually kind of crazy.",
+      "search": "that's actually kind of crazy.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:99",
+      "startMs": 416160,
+      "endMs": 420800,
+      "verbatim": "A part that really floored me here is that sometimes the loop is 20 seconds and that feels great.",
+      "display": "A part that really floored me here is that sometimes the loop is 20 seconds and that feels great.",
+      "search": "a part that really floored me here is that sometimes the loop is 20 seconds and that feels great.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:100",
+      "startMs": 420800,
+      "endMs": 427840,
+      "verbatim": "I can't even imagine personally wanting to wait 20 seconds to see if what I have programmed is correct or not.",
+      "display": "I can't even imagine personally wanting to wait 20 seconds to see if what I have programmed is correct or not.",
+      "search": "i can't even imagine personally wanting to wait 20 seconds to see if what i have programmed is correct or not.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:101",
+      "startMs": 427840,
+      "endMs": 433040,
+      "verbatim": "Now, the program that I've been writing for the last about month and a half, it's almost up to about 20,000 lines of code.",
+      "display": "Now, the program that I've been writing for the last about month and a half, it's almost up to about 20,000 lines of code.",
+      "search": "now, the program that i've been writing for the last about month and a half, it's almost up to about 20,000 lines of code.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:102",
+      "startMs": 433040,
+      "endMs": 434560,
+      "verbatim": "So it's not a very big project.",
+      "display": "So it's not a very big project.",
+      "search": "so it's not a very big project.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:103",
+      "startMs": 434560,
+      "endMs": 441840,
+      "verbatim": "But if I go in here and change an enum to just be a word that doesn't make any sense in this category, we clearly have an error right here.",
+      "display": "But if I go in here and change an enum to just be a word that doesn't make any sense in this category, we clearly have an error right here.",
+      "search": "but if i go in here and change an enum to just be a word that doesn't make any sense in this category, we clearly have an error right here.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:104",
+      "startMs": 441840,
+      "endMs": 446560,
+      "verbatim": "If I go and do a full build, you're gonna see the result in approximately what, a hundred milliseconds.",
+      "display": "If I go and do a full build, you're gonna see the result in approximately what, a hundred milliseconds.",
+      "search": "if i go and do a full build, you're gonna see the result in approximately what, a hundred milliseconds.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:105",
+      "startMs": 446560,
+      "endMs": 452240,
+      "verbatim": "If I keep on executing it over and over again, it's just super, super fast, somewhere between 70 to 100 milliseconds.",
+      "display": "If I keep on executing it over and over again, it's just super, super fast, somewhere between 70 to 100 milliseconds.",
+      "search": "if i keep on executing it over and over again, it's just super, super fast, somewhere between 70 to 100 milliseconds.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:106",
+      "startMs": 452240,
+      "endMs": 458560,
+      "verbatim": "Now, these old eyes and these old nervous systems, I can't even possibly respond to that level of speed.",
+      "display": "Now, these old eyes and these old nervous systems, I can't even possibly respond to that level of speed.",
+      "search": "now, these old eyes and these old nervous systems, i can't even possibly respond to that level of speed.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:107",
+      "startMs": 458560,
+      "endMs": 462160,
+      "verbatim": "And so this type of turnaround is what I am used to.",
+      "display": "And so this type of turnaround is what I am used to.",
+      "search": "and so this type of turnaround is what i am used to.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:108",
+      "startMs": 462160,
+      "endMs": 463440,
+      "verbatim": "I want to see this.",
+      "display": "I want to see this.",
+      "search": "i want to see this.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:109",
+      "startMs": 463440,
+      "endMs": 469680,
+      "verbatim": "This is what I want out because I don't want something as simple as compilation being the bottleneck.",
+      "display": "This is what I want out because I don't want something as simple as compilation being the bottleneck.",
+      "search": "this is what i want out because i don't want something as simple as compilation being the bottleneck.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:110",
+      "startMs": 469680,
+      "endMs": 471280,
+      "verbatim": "Because that is kind of crazy.",
+      "display": "Because that is kind of crazy.",
+      "search": "because that is kind of crazy.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:111",
+      "startMs": 471280,
+      "endMs": 475920,
+      "verbatim": "So I really think I understand his general argument, which is uh just a very practical side.",
+      "display": "So I really think I understand his general argument, which is uh just a very practical side.",
+      "search": "so i really think i understand his general argument, which is uh just a very practical side.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:112",
+      "startMs": 475920,
+      "endMs": 478640,
+      "verbatim": "It's not the language, it's it's none of that.",
+      "display": "It's not the language, it's it's none of that.",
+      "search": "it's not the language, it's it's none of that.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:113",
+      "startMs": 478640,
+      "endMs": 486800,
+      "verbatim": "Um, he does make some basic arguments that the people within Haskell, they really don't want to actually make Haskell for AI agents.",
+      "display": "Um, he does make some basic arguments that the people within Haskell, they really don't want to actually make Haskell for AI agents.",
+      "search": "um, he does make some basic arguments that the people within haskell, they really don't want to actually make haskell for ai agents.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:114",
+      "startMs": 486800,
+      "endMs": 492160,
+      "verbatim": "None of them consider that compile times to be a problem, or they actually feel like they want to go anti-AI.",
+      "display": "None of them consider that compile times to be a problem, or they actually feel like they want to go anti-AI.",
+      "search": "none of them consider that compile times to be a problem, or they actually feel like they want to go anti-ai.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:115",
+      "startMs": 492160,
+      "endMs": 495440,
+      "verbatim": "Now, I'm not gonna really go into why I think that is good or bad.",
+      "display": "Now, I'm not gonna really go into why I think that is good or bad.",
+      "search": "now, i'm not gonna really go into why i think that is good or bad.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:116",
+      "startMs": 495440,
+      "endMs": 497600,
+      "verbatim": "I don't, you know, it's just like I don't really care.",
+      "display": "I don't, you know, it's just like I don't really care.",
+      "search": "i don't, you know, it's just like i don't really care.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:117",
+      "startMs": 497600,
+      "endMs": 500240,
+      "verbatim": "You want to, you can run your language however you want to run your language.",
+      "display": "You want to, you can run your language however you want to run your language.",
+      "search": "you want to, you can run your language however you want to run your language.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:118",
+      "startMs": 500240,
+      "endMs": 501040,
+      "verbatim": "That is up to you.",
+      "display": "That is up to you.",
+      "search": "that is up to you.",
+      "confidence": 0.993
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:119",
+      "startMs": 501040,
+      "endMs": 502720,
+      "verbatim": "That's hey, that's cool on you, bro.",
+      "display": "That's hey, that's cool on you, bro.",
+      "search": "that's hey, that's cool on you, bro.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:120",
+      "startMs": 502720,
+      "endMs": 503200,
+      "verbatim": "I don't care.",
+      "display": "I don't care.",
+      "search": "i don't care.",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:121",
+      "startMs": 503200,
+      "endMs": 508480,
+      "verbatim": "So this is where the second big kind of wow moment, the one that I was completely taken back on.",
+      "display": "So this is where the second big kind of wow moment, the one that I was completely taken back on.",
+      "search": "so this is where the second big kind of wow moment, the one that i was completely taken back on.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:122",
+      "startMs": 508480,
+      "endMs": 509280,
+      "verbatim": "How we move.",
+      "display": "How we move.",
+      "search": "how we move.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:123",
+      "startMs": 509280,
+      "endMs": 512320,
+      "verbatim": "Now, they're in the Haskell world.",
+      "display": "Now, they're in the Haskell world.",
+      "search": "now, they're in the haskell world.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:124",
+      "startMs": 512320,
+      "endMs": 514560,
+      "verbatim": "They are the ultimate typed Andy.",
+      "display": "They are the ultimate typed Andy.",
+      "search": "they are the ultimate typed andy.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:125",
+      "startMs": 514560,
+      "endMs": 515680,
+      "verbatim": "They love types.",
+      "display": "They love types.",
+      "search": "they love types.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:126",
+      "startMs": 515680,
+      "endMs": 518160,
+      "verbatim": "They use types, they use types, they use them to death.",
+      "display": "They use types, they use types, they use them to death.",
+      "search": "they use types, they use types, they use them to death.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:127",
+      "startMs": 518160,
+      "endMs": 522720,
+      "verbatim": "They just want them, they love them, they sleep with them, they read books about them, and now they're gonna change.",
+      "display": "They just want them, they love them, they sleep with them, they read books about them, and now they're gonna change.",
+      "search": "they just want them, they love them, they sleep with them, they read books about them, and now they're gonna change.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:128",
+      "startMs": 522720,
+      "endMs": 525280,
+      "verbatim": "They're gonna change their whole ecosystem.",
+      "display": "They're gonna change their whole ecosystem.",
+      "search": "they're gonna change their whole ecosystem.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:129",
+      "startMs": 525280,
+      "endMs": 531680,
+      "verbatim": "I think the very natural kind of move here is like, oh, okay, you think 20 second loop feels great.",
+      "display": "I think the very natural kind of move here is like, oh, okay, you think 20 second loop feels great.",
+      "search": "i think the very natural kind of move here is like, oh, okay, you think 20 second loop feels great.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:130",
+      "startMs": 531680,
+      "endMs": 533200,
+      "verbatim": "Okay, Rust.",
+      "display": "Okay, Rust.",
+      "search": "okay, rust.",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:131",
+      "startMs": 533200,
+      "endMs": 535280,
+      "verbatim": "This would be a pretty natural move to Rust.",
+      "display": "This would be a pretty natural move to Rust.",
+      "search": "this would be a pretty natural move to rust.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:132",
+      "startMs": 535280,
+      "endMs": 539440,
+      "verbatim": "You get all the benefit of like a really specific, strong compiler language.",
+      "display": "You get all the benefit of like a really specific, strong compiler language.",
+      "search": "you get all the benefit of like a really specific, strong compiler language.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:133",
+      "startMs": 539440,
+      "endMs": 543440,
+      "verbatim": "You have a lot of similarities with Haskell with a lot of the deeper types within it.",
+      "display": "You have a lot of similarities with Haskell with a lot of the deeper types within it.",
+      "search": "you have a lot of similarities with haskell with a lot of the deeper types within it.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:134",
+      "startMs": 543440,
+      "endMs": 547440,
+      "verbatim": "So, okay, we're probably gonna move over to Rust, is what you're thinking.",
+      "display": "So, okay, we're probably gonna move over to Rust, is what you're thinking.",
+      "search": "so, okay, we're probably gonna move over to rust, is what you're thinking.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:135",
+      "startMs": 547440,
+      "endMs": 548560,
+      "verbatim": "Wrong, son.",
+      "display": "Wrong, son.",
+      "search": "wrong, son.",
+      "confidence": 0.672
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:136",
+      "startMs": 548560,
+      "endMs": 552880,
+      "verbatim": "At Scarf, we started doing all of our new API work in Python.",
+      "display": "At Scarf, we started doing all of our new API work in Python.",
+      "search": "at scarf, we started doing all of our new api work in python.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:137",
+      "startMs": 552880,
+      "endMs": 555840,
+      "verbatim": "Now, this is not something I saw coming.",
+      "display": "Now, this is not something I saw coming.",
+      "search": "now, this is not something i saw coming.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:138",
+      "startMs": 555840,
+      "endMs": 560720,
+      "verbatim": "A company that loved Haskell moved to Python, okay?",
+      "display": "A company that loved Haskell moved to Python, okay?",
+      "search": "a company that loved haskell moved to python, okay?",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:139",
+      "startMs": 560720,
+      "endMs": 567280,
+      "verbatim": "Hey, maybe I just misunderstand the situation, but that just seems like this is like an M-night shamalon turnaround right now.",
+      "display": "Hey, maybe I just misunderstand the situation, but that just seems like this is like an M-night shamalon turnaround right now.",
+      "search": "hey, maybe i just misunderstand the situation, but that just seems like this is like an m-night shamalon turnaround right now.",
+      "confidence": 0.738
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:140",
+      "startMs": 567280,
+      "endMs": 570480,
+      "verbatim": "Like, what is happening to my life?",
+      "display": "Like, what is happening to my life?",
+      "search": "like, what is happening to my life?",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:141",
+      "startMs": 570480,
+      "endMs": 576400,
+      "verbatim": "Okay, AI is upending all cultural norms, and I don't think I like it right now, okay?",
+      "display": "Okay, AI is upending all cultural norms, and I don't think I like it right now, okay?",
+      "search": "okay, ai is upending all cultural norms, and i don't think i like it right now, okay?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:142",
+      "startMs": 576400,
+      "endMs": 582400,
+      "verbatim": "Because my Haskellers are supposed to look down on someone like me who uses a language like Odin, okay?",
+      "display": "Because my Haskellers are supposed to look down on someone like me who uses a language like Odin, okay?",
+      "search": "because my haskellers are supposed to look down on someone like me who uses a language like odin, okay?",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:143",
+      "startMs": 582400,
+      "endMs": 588080,
+      "verbatim": "They're supposed to look down on me because I don't even have some types, that is, to their elegant nature of some types.",
+      "display": "They're supposed to look down on me because I don't even have some types, that is, to their elegant nature of some types.",
+      "search": "they're supposed to look down on me because i don't even have some types, that is, to their elegant nature of some types.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:144",
+      "startMs": 588080,
+      "endMs": 599520,
+      "verbatim": "Yeah, sure, I have unions and I have some other nice fanciness, but I do not have the quality of catamorphism or whatever they call it laying upon my eyeballs like they have.",
+      "display": "Yeah, sure, I have unions and I have some other nice fanciness, but I do not have the quality of catamorphism or whatever they call it laying upon my eyeballs like they have.",
+      "search": "yeah, sure, i have unions and i have some other nice fanciness, but i do not have the quality of catamorphism or whatever they call it laying upon my eyeballs like they have.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:145",
+      "startMs": 599520,
+      "endMs": 612880,
+      "verbatim": "Meanwhile, I'm over here and I'm still trying to explain monads like a burrito, which is just not the highbrow way of doing things, but when I see a company transition from Haskell to Python, it's crazy.",
+      "display": "Meanwhile, I'm over here and I'm still trying to explain monads like a burrito, which is just not the highbrow way of doing things, but when I see a company transition from Haskell to Python, it's crazy.",
+      "search": "meanwhile, i'm over here and i'm still trying to explain monads like a burrito, which is just not the highbrow way of doing things, but when i see a company transition from haskell to python, it's crazy.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:146",
+      "startMs": 613600,
+      "endMs": 615120,
+      "verbatim": "Brother, that's crazy to me.",
+      "display": "Brother, that's crazy to me.",
+      "search": "brother, that's crazy to me.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:147",
+      "startMs": 615120,
+      "endMs": 618960,
+      "verbatim": "The thing I like the most about all of this is this paragraph right here.",
+      "display": "The thing I like the most about all of this is this paragraph right here.",
+      "search": "the thing i like the most about all of this is this paragraph right here.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:148",
+      "startMs": 618960,
+      "endMs": 625840,
+      "verbatim": "So after kind of explaining how they transitioned over to Python, he says the following the result is hard to capture in a single metric.",
+      "display": "So after kind of explaining how they transitioned over to Python, he says the following the result is hard to capture in a single metric.",
+      "search": "so after kind of explaining how they transitioned over to python, he says the following the result is hard to capture in a single metric.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:149",
+      "startMs": 625840,
+      "endMs": 631360,
+      "verbatim": "PR throughput did not obviously go up, commit volume is noisy, lines of code is a bad proxy.",
+      "display": "PR throughput did not obviously go up, commit volume is noisy, lines of code is a bad proxy.",
+      "search": "pr throughput did not obviously go up, commit volume is noisy, lines of code is a bad proxy.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:150",
+      "startMs": 631360,
+      "endMs": 632560,
+      "verbatim": "Thank you.",
+      "display": "Thank you.",
+      "search": "thank you.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:151",
+      "startMs": 632560,
+      "endMs": 637120,
+      "verbatim": "You can tell this guy's a real engineer because he doesn't have just literally one head takes.",
+      "display": "You can tell this guy's a real engineer because he doesn't have just literally one head takes.",
+      "search": "you can tell this guy's a real engineer because he doesn't have just literally one head takes.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:152",
+      "startMs": 637280,
+      "endMs": 638880,
+      "verbatim": "Uh, I produce a lot of code.",
+      "display": "Uh, I produce a lot of code.",
+      "search": "uh, i produce a lot of code.",
+      "confidence": 0.744
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:153",
+      "startMs": 638880,
+      "endMs": 641200,
+      "verbatim": "Like, no one cares if you produce a lot of code, okay?",
+      "display": "Like, no one cares if you produce a lot of code, okay?",
+      "search": "like, no one cares if you produce a lot of code, okay?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:154",
+      "startMs": 641200,
+      "endMs": 641920,
+      "verbatim": "That's stupid.",
+      "display": "That's stupid.",
+      "search": "that's stupid.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:155",
+      "startMs": 641920,
+      "endMs": 644560,
+      "verbatim": "It makes you look stupid, you act stupid when you say those things.",
+      "display": "It makes you look stupid, you act stupid when you say those things.",
+      "search": "it makes you look stupid, you act stupid when you say those things.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:156",
+      "startMs": 644560,
+      "endMs": 645920,
+      "verbatim": "So shut the fellow up.",
+      "display": "So shut the fellow up.",
+      "search": "so shut the fellow up.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:157",
+      "startMs": 646000,
+      "endMs": 651440,
+      "verbatim": "Anyways, development count is money because it includes previews, infrastructure, and other noise.",
+      "display": "Anyways, development count is money because it includes previews, infrastructure, and other noise.",
+      "search": "anyways, development count is money because it includes previews, infrastructure, and other noise.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:158",
+      "startMs": 651440,
+      "endMs": 659600,
+      "verbatim": "But the productivity change is visible in the shape of what we can now ship with high effort, minimal oversight, and even what we can ship fully automatically.",
+      "display": "But the productivity change is visible in the shape of what we can now ship with high effort, minimal oversight, and even what we can ship fully automatically.",
+      "search": "but the productivity change is visible in the shape of what we can now ship with high effort, minimal oversight, and even what we can ship fully automatically.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:159",
+      "startMs": 659600,
+      "endMs": 665120,
+      "verbatim": "From customer call, ticket filed, open PR, PR reviewed, iterated, and merged and deployed.",
+      "display": "From customer call, ticket filed, open PR, PR reviewed, iterated, and merged and deployed.",
+      "search": "from customer call, ticket filed, open pr, pr reviewed, iterated, and merged and deployed.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:160",
+      "startMs": 665120,
+      "endMs": 669680,
+      "verbatim": "We can sometimes have a bug fix live before I get off the call with the customer.",
+      "display": "We can sometimes have a bug fix live before I get off the call with the customer.",
+      "search": "we can sometimes have a bug fix live before i get off the call with the customer.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:161",
+      "startMs": 669680,
+      "endMs": 673520,
+      "verbatim": "Resisting this kind of productivity is not an option anymore.",
+      "display": "Resisting this kind of productivity is not an option anymore.",
+      "search": "resisting this kind of productivity is not an option anymore.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:162",
+      "startMs": 673520,
+      "endMs": 678320,
+      "verbatim": "And I think I I think we're gonna see a lot, lot more of this for better or for worse.",
+      "display": "And I think I I think we're gonna see a lot, lot more of this for better or for worse.",
+      "search": "and i think i i think we're gonna see a lot, lot more of this for better or for worse.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:163",
+      "startMs": 678320,
+      "endMs": 687680,
+      "verbatim": "I think when it comes to simple bug fixes, I think you can largely just let AI kind of go pretty autonomous as long as you have enough kind of evals and review process setup.",
+      "display": "I think when it comes to simple bug fixes, I think you can largely just let AI kind of go pretty autonomous as long as you have enough kind of evals and review process setup.",
+      "search": "i think when it comes to simple bug fixes, i think you can largely just let ai kind of go pretty autonomous as long as you have enough kind of evals and review process setup.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:164",
+      "startMs": 687680,
+      "endMs": 692320,
+      "verbatim": "It should pretty easily be all auto-magic at this point, especially small stuff.",
+      "display": "It should pretty easily be all auto-magic at this point, especially small stuff.",
+      "search": "it should pretty easily be all auto-magic at this point, especially small stuff.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:165",
+      "startMs": 692320,
+      "endMs": 706640,
+      "verbatim": "But at the end of the day, I think this is gonna become just like a giant uh focus for a lot of people, which is a lot of kind of the noise of development can be shed off pretty quickly when you start using these, you know, the old LLMs.",
+      "display": "But at the end of the day, I think this is gonna become just like a giant uh focus for a lot of people, which is a lot of kind of the noise of development can be shed off pretty quickly when you start using these, you know, the old LLMs.",
+      "search": "but at the end of the day, i think this is gonna become just like a giant uh focus for a lot of people, which is a lot of kind of the noise of development can be shed off pretty quickly when you start using these, you know, the old llms.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:166",
+      "startMs": 706640,
+      "endMs": 709600,
+      "verbatim": "Because imagine if he was still on Haskell, he'd be on a customer call.",
+      "display": "Because imagine if he was still on Haskell, he'd be on a customer call.",
+      "search": "because imagine if he was still on haskell, he'd be on a customer call.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:167",
+      "startMs": 709600,
+      "endMs": 711840,
+      "verbatim": "He's gonna be like, okay, we can start taking care of that.",
+      "display": "He's gonna be like, okay, we can start taking care of that.",
+      "search": "he's gonna be like, okay, we can start taking care of that.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:168",
+      "startMs": 711840,
+      "endMs": 716000,
+      "verbatim": "But first, we need to wait 30 minutes for this build to get kind of up and running.",
+      "display": "But first, we need to wait 30 minutes for this build to get kind of up and running.",
+      "search": "but first, we need to wait 30 minutes for this build to get kind of up and running.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:169",
+      "startMs": 716000,
+      "endMs": 718480,
+      "verbatim": "Then after that build gets up and running, it needs to go to CI.",
+      "display": "Then after that build gets up and running, it needs to go to CI.",
+      "search": "then after that build gets up and running, it needs to go to ci.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:170",
+      "startMs": 718480,
+      "endMs": 719760,
+      "verbatim": "Then CI needs to prove it out.",
+      "display": "Then CI needs to prove it out.",
+      "search": "then ci needs to prove it out.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:171",
+      "startMs": 719760,
+      "endMs": 722320,
+      "verbatim": "Okay, that's gonna be another huge long build wait time.",
+      "display": "Okay, that's gonna be another huge long build wait time.",
+      "search": "okay, that's gonna be another huge long build wait time.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:172",
+      "startMs": 722320,
+      "endMs": 726720,
+      "verbatim": "Then after that is done, then you're gonna need to do build the deployment, the actual artifact itself.",
+      "display": "Then after that is done, then you're gonna need to do build the deployment, the actual artifact itself.",
+      "search": "then after that is done, then you're gonna need to do build the deployment, the actual artifact itself.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:173",
+      "startMs": 726720,
+      "endMs": 728400,
+      "verbatim": "No, that's gonna take another long time.",
+      "display": "No, that's gonna take another long time.",
+      "search": "no, that's gonna take another long time.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:174",
+      "startMs": 728400,
+      "endMs": 730320,
+      "verbatim": "And then finally it gets off to production.",
+      "display": "And then finally it gets off to production.",
+      "search": "and then finally it gets off to production.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:175",
+      "startMs": 730320,
+      "endMs": 733040,
+      "verbatim": "Like it could, you can see why this takes a long time.",
+      "display": "Like it could, you can see why this takes a long time.",
+      "search": "like it could, you can see why this takes a long time.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:176",
+      "startMs": 733040,
+      "endMs": 737680,
+      "verbatim": "It's like that one little change requires hours of computation time.",
+      "display": "It's like that one little change requires hours of computation time.",
+      "search": "it's like that one little change requires hours of computation time.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:177",
+      "startMs": 737680,
+      "endMs": 740720,
+      "verbatim": "And at the end, he talks a lot about how Haskell's in real danger.",
+      "display": "And at the end, he talks a lot about how Haskell's in real danger.",
+      "search": "and at the end, he talks a lot about how haskell's in real danger.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:178",
+      "startMs": 740720,
+      "endMs": 742160,
+      "verbatim": "I actually recommend you reading this.",
+      "display": "I actually recommend you reading this.",
+      "search": "i actually recommend you reading this.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:179",
+      "startMs": 742160,
+      "endMs": 749040,
+      "verbatim": "I think it has a lot of really good insight into what it's like kind of trying to run a company, be a part of a language.",
+      "display": "I think it has a lot of really good insight into what it's like kind of trying to run a company, be a part of a language.",
+      "search": "i think it has a lot of really good insight into what it's like kind of trying to run a company, be a part of a language.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:180",
+      "startMs": 749040,
+      "endMs": 755360,
+      "verbatim": "Like, what do you do when you really deeply care for something, but you feel that ends or odds with the people who are also running it?",
+      "display": "Like, what do you do when you really deeply care for something, but you feel that ends or odds with the people who are also running it?",
+      "search": "like, what do you do when you really deeply care for something, but you feel that ends or odds with the people who are also running it?",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:181",
+      "startMs": 755360,
+      "endMs": 760000,
+      "verbatim": "A lot of cool kind of takeaways within this, and I just strongly recommend a good reading for you.",
+      "display": "A lot of cool kind of takeaways within this, and I just strongly recommend a good reading for you.",
+      "search": "a lot of cool kind of takeaways within this, and i just strongly recommend a good reading for you.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:182",
+      "startMs": 760000,
+      "endMs": 763920,
+      "verbatim": "But I really wanted to talk about that kind of top part, the more practical boots on the ground.",
+      "display": "But I really wanted to talk about that kind of top part, the more practical boots on the ground.",
+      "search": "but i really wanted to talk about that kind of top part, the more practical boots on the ground.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:183",
+      "startMs": 763920,
+      "endMs": 770800,
+      "verbatim": "Like, uh, I would just not have guessed if you would have asked me compilation times being the big culprit here, that caching was really difficult.",
+      "display": "Like, uh, I would just not have guessed if you would have asked me compilation times being the big culprit here, that caching was really difficult.",
+      "search": "like, uh, i would just not have guessed if you would have asked me compilation times being the big culprit here, that caching was really difficult.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:184",
+      "startMs": 770800,
+      "endMs": 778480,
+      "verbatim": "I knew the ecosystem was kind of hard to work with, but I did not realize it was to this extent that even the experts are like, tag me out.",
+      "display": "I knew the ecosystem was kind of hard to work with, but I did not realize it was to this extent that even the experts are like, tag me out.",
+      "search": "i knew the ecosystem was kind of hard to work with, but i did not realize it was to this extent that even the experts are like, tag me out.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:185",
+      "startMs": 778480,
+      "endMs": 780480,
+      "verbatim": "Also, what's just the Python part?",
+      "display": "Also, what's just the Python part?",
+      "search": "also, what's just the python part?",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:186",
+      "startMs": 780480,
+      "endMs": 782080,
+      "verbatim": "The Python part was nuts.",
+      "display": "The Python part was nuts.",
+      "search": "the python part was nuts.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:187",
+      "startMs": 782080,
+      "endMs": 785440,
+      "verbatim": "But now it's time for the prediction that I said I was going to do.",
+      "display": "But now it's time for the prediction that I said I was going to do.",
+      "search": "but now it's time for the prediction that i said i was going to do.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:188",
+      "startMs": 785440,
+      "endMs": 793040,
+      "verbatim": "Now, typically when it comes to uh some development, especially in the kind of the LLM day and age, what you have is you have cost.",
+      "display": "Now, typically when it comes to uh some development, especially in the kind of the LLM day and age, what you have is you have cost.",
+      "search": "now, typically when it comes to uh some development, especially in the kind of the llm day and age, what you have is you have cost.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:189",
+      "startMs": 793040,
+      "endMs": 795440,
+      "verbatim": "That's one of the sides of the triangle, right?",
+      "display": "That's one of the sides of the triangle, right?",
+      "search": "that's one of the sides of the triangle, right?",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:190",
+      "startMs": 795440,
+      "endMs": 797360,
+      "verbatim": "And then you also have speed.",
+      "display": "And then you also have speed.",
+      "search": "and then you also have speed.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:191",
+      "startMs": 797360,
+      "endMs": 802720,
+      "verbatim": "How long does it take for the LLM to kind of do something or be a part of something or to give good feedback on all that?",
+      "display": "How long does it take for the LLM to kind of do something or be a part of something or to give good feedback on all that?",
+      "search": "how long does it take for the llm to kind of do something or be a part of something or to give good feedback on all that?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:192",
+      "startMs": 802720,
+      "endMs": 805120,
+      "verbatim": "And then lastly, you're gonna have correctness.",
+      "display": "And then lastly, you're gonna have correctness.",
+      "search": "and then lastly, you're gonna have correctness.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:193",
+      "startMs": 805120,
+      "endMs": 811120,
+      "verbatim": "Now, it kind of seems like for the last few years, correctness has been the large focus of a lot of these providers.",
+      "display": "Now, it kind of seems like for the last few years, correctness has been the large focus of a lot of these providers.",
+      "search": "now, it kind of seems like for the last few years, correctness has been the large focus of a lot of these providers.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:194",
+      "startMs": 811120,
+      "endMs": 812880,
+      "verbatim": "I'm thinking about like Fable, right?",
+      "display": "I'm thinking about like Fable, right?",
+      "search": "i'm thinking about like fable, right?",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:195",
+      "startMs": 812880,
+      "endMs": 820240,
+      "verbatim": "Fable takes a long time to do anything, but when it what it gives out is generally it can be pretty close to what I would like to see in production.",
+      "display": "Fable takes a long time to do anything, but when it what it gives out is generally it can be pretty close to what I would like to see in production.",
+      "search": "fable takes a long time to do anything, but when it what it gives out is generally it can be pretty close to what i would like to see in production.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:196",
+      "startMs": 820240,
+      "endMs": 822240,
+      "verbatim": "But the speed is just atrocious.",
+      "display": "But the speed is just atrocious.",
+      "search": "but the speed is just atrocious.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:197",
+      "startMs": 822240,
+      "endMs": 827120,
+      "verbatim": "And the cost, I mean, dang, I'm gonna have to like give away my inheritance for all of this.",
+      "display": "And the cost, I mean, dang, I'm gonna have to like give away my inheritance for all of this.",
+      "search": "and the cost, i mean, dang, i'm gonna have to like give away my inheritance for all of this.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:198",
+      "startMs": 827120,
+      "endMs": 831200,
+      "verbatim": "I'm gonna have no shoes and no shirt after I get done using Fable.",
+      "display": "I'm gonna have no shoes and no shirt after I get done using Fable.",
+      "search": "i'm gonna have no shoes and no shirt after i get done using fable.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:199",
+      "startMs": 831200,
+      "endMs": 833760,
+      "verbatim": "But nonetheless, you can kind of see this.",
+      "display": "But nonetheless, you can kind of see this.",
+      "search": "but nonetheless, you can kind of see this.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:200",
+      "startMs": 833760,
+      "endMs": 836000,
+      "verbatim": "Uh, by the way, is this am I seeing?",
+      "display": "Uh, by the way, is this am I seeing?",
+      "search": "uh, by the way, is this am i seeing?",
+      "confidence": 0.662
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:201",
+      "startMs": 836000,
+      "endMs": 837760,
+      "verbatim": "Am I seeing what I think I'm seeing here, boys?",
+      "display": "Am I seeing what I think I'm seeing here, boys?",
+      "search": "am i seeing what i think i'm seeing here, boys?",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:202",
+      "startMs": 837920,
+      "endMs": 843280,
+      "verbatim": "Boys, about any okay, don't get distracted by the beautiful drawing.",
+      "display": "Boys, about any okay, don't get distracted by the beautiful drawing.",
+      "search": "boys, about any okay, don't get distracted by the beautiful drawing.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:203",
+      "startMs": 843280,
+      "endMs": 848080,
+      "verbatim": "Now, my previous prediction was that cost is gonna become something that's really important.",
+      "display": "Now, my previous prediction was that cost is gonna become something that's really important.",
+      "search": "now, my previous prediction was that cost is gonna become something that's really important.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:204",
+      "startMs": 848080,
+      "endMs": 851760,
+      "verbatim": "That we're gonna start seeing people really want to see cost kind of going down.",
+      "display": "That we're gonna start seeing people really want to see cost kind of going down.",
+      "search": "that we're gonna start seeing people really want to see cost kind of going down.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:205",
+      "startMs": 851760,
+      "endMs": 853680,
+      "verbatim": "And I think you're starting to see that more and more.",
+      "display": "And I think you're starting to see that more and more.",
+      "search": "and i think you're starting to see that more and more.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:206",
+      "startMs": 853680,
+      "endMs": 856800,
+      "verbatim": "The new Grok model is both fast, but it's also super cheap.",
+      "display": "The new Grok model is both fast, but it's also super cheap.",
+      "search": "the new grok model is both fast, but it's also super cheap.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:207",
+      "startMs": 856800,
+      "endMs": 864720,
+      "verbatim": "The new soul model is like literally like 20 times cheaper than the old fables while being, you know, approximately the same amount of correctness.",
+      "display": "The new soul model is like literally like 20 times cheaper than the old fables while being, you know, approximately the same amount of correctness.",
+      "search": "the new soul model is like literally like 20 times cheaper than the old fables while being, you know, approximately the same amount of correctness.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:208",
+      "startMs": 864720,
+      "endMs": 868080,
+      "verbatim": "You know, they're all within kind of a stone's throw of each other.",
+      "display": "You know, they're all within kind of a stone's throw of each other.",
+      "search": "you know, they're all within kind of a stone's throw of each other.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:209",
+      "startMs": 868080,
+      "endMs": 875040,
+      "verbatim": "But I think the next big thing we're gonna see is that speed is actually going to take a huge front stage step.",
+      "display": "But I think the next big thing we're gonna see is that speed is actually going to take a huge front stage step.",
+      "search": "but i think the next big thing we're gonna see is that speed is actually going to take a huge front stage step.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:210",
+      "startMs": 875040,
+      "endMs": 879600,
+      "verbatim": "Because as people start realizing the speed of iteration is really the most important thing.",
+      "display": "Because as people start realizing the speed of iteration is really the most important thing.",
+      "search": "because as people start realizing the speed of iteration is really the most important thing.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:211",
+      "startMs": 879600,
+      "endMs": 884160,
+      "verbatim": "Cause if I can go and ask, like, yo, give me three implementations of this, I just want to look at it.",
+      "display": "Cause if I can go and ask, like, yo, give me three implementations of this, I just want to look at it.",
+      "search": "cause if i can go and ask, like, yo, give me three implementations of this, i just want to look at it.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:212",
+      "startMs": 884160,
+      "endMs": 886640,
+      "verbatim": "Like, what are we what are we dealing with here?",
+      "display": "Like, what are we what are we dealing with here?",
+      "search": "like, what are we what are we dealing with here?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:213",
+      "startMs": 886640,
+      "endMs": 889680,
+      "verbatim": "And I get to see like three different implementations of something.",
+      "display": "And I get to see like three different implementations of something.",
+      "search": "and i get to see like three different implementations of something.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:214",
+      "startMs": 889680,
+      "endMs": 894320,
+      "verbatim": "If that could come back to me in three minutes, like that is a gigantic W.",
+      "display": "If that could come back to me in three minutes, like that is a gigantic W.",
+      "search": "if that could come back to me in three minutes, like that is a gigantic w.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:215",
+      "startMs": 894320,
+      "endMs": 901520,
+      "verbatim": "Even if it costs say a dollar more to be able to do that, you would choose the speed every single day of the week.",
+      "display": "Even if it costs say a dollar more to be able to do that, you would choose the speed every single day of the week.",
+      "search": "even if it costs say a dollar more to be able to do that, you would choose the speed every single day of the week.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:216",
+      "startMs": 901520,
+      "endMs": 906160,
+      "verbatim": "And so I think that speed's gonna become the big new focus.",
+      "display": "And so I think that speed's gonna become the big new focus.",
+      "search": "and so i think that speed's gonna become the big new focus.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:217",
+      "startMs": 906160,
+      "endMs": 914160,
+      "verbatim": "And so that is my big kind of you know prediction for the rest of 2026 is that that's what we're gonna hear a lot of people talking about.",
+      "display": "And so that is my big kind of you know prediction for the rest of 2026 is that that's what we're gonna hear a lot of people talking about.",
+      "search": "and so that is my big kind of you know prediction for the rest of 2026 is that that's what we're gonna hear a lot of people talking about.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:218",
+      "startMs": 914160,
+      "endMs": 916240,
+      "verbatim": "The new fast models.",
+      "display": "The new fast models.",
+      "search": "the new fast models.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:219",
+      "startMs": 916240,
+      "endMs": 917840,
+      "verbatim": "Okay, these are the fastest ones.",
+      "display": "Okay, these are the fastest ones.",
+      "search": "okay, these are the fastest ones.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:220",
+      "startMs": 917840,
+      "endMs": 919920,
+      "verbatim": "Anywho, this was a really awesome article.",
+      "display": "Anywho, this was a really awesome article.",
+      "search": "anywho, this was a really awesome article.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:221",
+      "startMs": 919920,
+      "endMs": 922000,
+      "verbatim": "Highly recommend you get all the details out of it.",
+      "display": "Highly recommend you get all the details out of it.",
+      "search": "highly recommend you get all the details out of it.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:222",
+      "startMs": 922000,
+      "endMs": 923280,
+      "verbatim": "Go take a read out of it.",
+      "display": "Go take a read out of it.",
+      "search": "go take a read out of it.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:223",
+      "startMs": 923280,
+      "endMs": 924560,
+      "verbatim": "Absolutely awesome.",
+      "display": "Absolutely awesome.",
+      "search": "absolutely awesome.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:224",
+      "startMs": 924560,
+      "endMs": 928880,
+      "verbatim": "The seven years in production, and Scarf has finally moved away from Haskell.",
+      "display": "The seven years in production, and Scarf has finally moved away from Haskell.",
+      "search": "the seven years in production, and scarf has finally moved away from haskell.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:225",
+      "startMs": 928880,
+      "endMs": 931760,
+      "verbatim": "It kind of marks a unique time period we're living in.",
+      "display": "It kind of marks a unique time period we're living in.",
+      "search": "it kind of marks a unique time period we're living in.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:226",
+      "startMs": 931760,
+      "endMs": 943440,
+      "verbatim": "Like for me, this is the big kind of flag for we're living in a new time period that it's important enough that even Haskell Andes are saying, Hey, I need to change.",
+      "display": "Like for me, this is the big kind of flag for we're living in a new time period that it's important enough that even Haskell Andes are saying, Hey, I need to change.",
+      "search": "like for me, this is the big kind of flag for we're living in a new time period that it's important enough that even haskell andes are saying, hey, i need to change.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:227",
+      "startMs": 943600,
+      "endMs": 948080,
+      "verbatim": "That's not something I ever thought I would personally see.",
+      "display": "That's not something I ever thought I would personally see.",
+      "search": "that's not something i ever thought i would personally see.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:zZ5-KVDIaPg:segment:228",
+      "startMs": 948400,
+      "endMs": 950000,
+      "verbatim": "The name is the primogen",
+      "display": "The name is the primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.629
+    }
+  ]
+}

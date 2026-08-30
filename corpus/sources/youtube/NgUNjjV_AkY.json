@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:NgUNjjV_AkY",
+  "platform": "youtube",
+  "platformId": "NgUNjjV_AkY",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "The Great Bun Rewrite",
+  "description": "Infinite Red builds serious mobile apps for companies that need strong engineering, thoughtful architecture, and code that can actually scale. Learn more: https://trm.sh/infinite-red\n\nSources:\n\n- https://bun.com/blog/bun-in-rust\n\nTopics Covered:\n\n- Rewriting Bun in Rust\n- AI Rewrites\n- Token Costs\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=NgUNjjV_AkY",
+  "publishedAt": "2026-07-15T12:16:19.000Z",
+  "durationMs": 867000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:54:04.674Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:54:04.674Z",
+    "runId": "2026-08-30T22-45-04-059Z-3159b82f"
+  }
+}

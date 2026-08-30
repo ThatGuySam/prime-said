@@ -1,0 +1,1841 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_da7dd7767f302ecd63143ffe",
+  "sourceId": "youtube:NgUNjjV_AkY",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:54:04.674Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:1",
+      "startMs": 160,
+      "endMs": 3600,
+      "verbatim": "What is Bun moving from Zig to Rust?",
+      "display": "What is Bun moving from Zig to Rust?",
+      "search": "what is bun moving from zig to rust?",
+      "confidence": 0.633
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:2",
+      "startMs": 3600,
+      "endMs": 4480,
+      "verbatim": "May 4th.",
+      "display": "May 4th.",
+      "search": "may 4th.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:3",
+      "startMs": 4480,
+      "endMs": 6240,
+      "verbatim": "Look, a community note.",
+      "display": "Look, a community note.",
+      "search": "look, a community note.",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:4",
+      "startMs": 6240,
+      "endMs": 10640,
+      "verbatim": "Bun's creator states it's a fun experiment, not a decision to rewrite.",
+      "display": "Bun's creator states it's a fun experiment, not a decision to rewrite.",
+      "search": "bun's creator states it's a fun experiment, not a decision to rewrite.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:5",
+      "startMs": 10640,
+      "endMs": 14640,
+      "verbatim": "Don't worry, we're not rewriting Bun from Zig to Rust, right?",
+      "display": "Don't worry, we're not rewriting Bun from Zig to Rust, right?",
+      "search": "don't worry, we're not rewriting bun from zig to rust, right?",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:6",
+      "startMs": 14880,
+      "endMs": 16320,
+      "verbatim": "I mean, that would be silly, right?",
+      "display": "I mean, that would be silly, right?",
+      "search": "i mean, that would be silly, right?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:7",
+      "startMs": 16320,
+      "endMs": 22720,
+      "verbatim": "And nine days later, the plan for tomorrow's dog food bun's Rust port on Claude Code internally and start writing a blog post.",
+      "display": "And nine days later, the plan for tomorrow's dog food bun's Rust port on Claude Code internally and start writing a blog post.",
+      "search": "and nine days later, the plan for tomorrow's dog food bun's rust port on claude code internally and start writing a blog post.",
+      "confidence": 0.737
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:8",
+      "startMs": 22720,
+      "endMs": 23920,
+      "verbatim": "I thought it was just for fun.",
+      "display": "I thought it was just for fun.",
+      "search": "i thought it was just for fun.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:9",
+      "startMs": 23920,
+      "endMs": 29600,
+      "verbatim": "Two months later, rewriting Bun in Rust, the blog post of why and how they did it.",
+      "display": "Two months later, rewriting Bun in Rust, the blog post of why and how they did it.",
+      "search": "two months later, rewriting bun in rust, the blog post of why and how they did it.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:10",
+      "startMs": 29920,
+      "endMs": 31440,
+      "verbatim": "That escalated quickly.",
+      "display": "That escalated quickly.",
+      "search": "that escalated quickly.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:11",
+      "startMs": 31440,
+      "endMs": 35360,
+      "verbatim": "Okay, that went from funsy to production in almost no time.",
+      "display": "Okay, that went from funsy to production in almost no time.",
+      "search": "okay, that went from funsy to production in almost no time.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:12",
+      "startMs": 35360,
+      "endMs": 42560,
+      "verbatim": "Of course, this rewrite took 11 days with the help of Claude Fable pre-release before all of us plebs had the chance to use it.",
+      "display": "Of course, this rewrite took 11 days with the help of Claude Fable pre-release before all of us plebs had the chance to use it.",
+      "search": "of course, this rewrite took 11 days with the help of claude fable pre-release before all of us plebs had the chance to use it.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:13",
+      "startMs": 42560,
+      "endMs": 46480,
+      "verbatim": "Jared was out there just crushing rewrites in 11 days.",
+      "display": "Jared was out there just crushing rewrites in 11 days.",
+      "search": "jared was out there just crushing rewrites in 11 days.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:14",
+      "startMs": 46480,
+      "endMs": 62000,
+      "verbatim": "And of course, that rewrite took 690 million output tokens, 5.9 billion uncashed input token reads, and 72 billion cashed input token reads for around $165,000 of API pricing.",
+      "display": "And of course, that rewrite took 690 million output tokens, 5.9 billion uncashed input token reads, and 72 billion cashed input token reads for around $165,000 of API pricing.",
+      "search": "and of course, that rewrite took 690 million output tokens, 5.9 billion uncashed input token reads, and 72 billion cashed input token reads for around $165,000 of api pricing.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:15",
+      "startMs": 62000,
+      "endMs": 65760,
+      "verbatim": "Hey, brother, that's a steal of a deal, okay?",
+      "display": "Hey, brother, that's a steal of a deal, okay?",
+      "search": "hey, brother, that's a steal of a deal, okay?",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:16",
+      "startMs": 65760,
+      "endMs": 70960,
+      "verbatim": "So yes, obviously, after reading all of this, I I just have to we we have to talk about this, okay?",
+      "display": "So yes, obviously, after reading all of this, I I just have to we we have to talk about this, okay?",
+      "search": "so yes, obviously, after reading all of this, i i just have to we we have to talk about this, okay?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:17",
+      "startMs": 70960,
+      "endMs": 77840,
+      "verbatim": "So I I just want you to sit down and I I'm just gonna tell you something that honestly, I don't think this is the worst use of tokens ever.",
+      "display": "So I I just want you to sit down and I I'm just gonna tell you something that honestly, I don't think this is the worst use of tokens ever.",
+      "search": "so i i just want you to sit down and i i'm just gonna tell you something that honestly, i don't think this is the worst use of tokens ever.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:18",
+      "startMs": 77840,
+      "endMs": 79440,
+      "verbatim": "I actually think this is a pretty good idea.",
+      "display": "I actually think this is a pretty good idea.",
+      "search": "i actually think this is a pretty good idea.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:19",
+      "startMs": 79440,
+      "endMs": 80880,
+      "verbatim": "I know okay, hold hold on.",
+      "display": "I know okay, hold hold on.",
+      "search": "i know okay, hold hold on.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:20",
+      "startMs": 81200,
+      "endMs": 82560,
+      "verbatim": "Put down your pitchfork, okay.",
+      "display": "Put down your pitchfork, okay.",
+      "search": "put down your pitchfork, okay.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:21",
+      "startMs": 82560,
+      "endMs": 84240,
+      "verbatim": "Hey, hey, we're just sitting down.",
+      "display": "Hey, hey, we're just sitting down.",
+      "search": "hey, hey, we're just sitting down.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:22",
+      "startMs": 84240,
+      "endMs": 86720,
+      "verbatim": "Let's just sit down, let's just talk about it for a little bit, okay?",
+      "display": "Let's just sit down, let's just talk about it for a little bit, okay?",
+      "search": "let's just sit down, let's just talk about it for a little bit, okay?",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:23",
+      "startMs": 86720,
+      "endMs": 90480,
+      "verbatim": "And while you center yourself and calm yourself down, I'd like to say thank you to my sponsor.",
+      "display": "And while you center yourself and calm yourself down, I'd like to say thank you to my sponsor.",
+      "search": "and while you center yourself and calm yourself down, i'd like to say thank you to my sponsor.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:24",
+      "startMs": 90480,
+      "endMs": 94240,
+      "verbatim": "One of the more terrifying things you can do as a company is to contract out software.",
+      "display": "One of the more terrifying things you can do as a company is to contract out software.",
+      "search": "one of the more terrifying things you can do as a company is to contract out software.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:25",
+      "startMs": 94240,
+      "endMs": 98400,
+      "verbatim": "And I know a lot of companies are contracting out their mobile applications.",
+      "display": "And I know a lot of companies are contracting out their mobile applications.",
+      "search": "and i know a lot of companies are contracting out their mobile applications.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:26",
+      "startMs": 98400,
+      "endMs": 101920,
+      "verbatim": "The thing that makes this so dangerous is that it's a black box experience.",
+      "display": "The thing that makes this so dangerous is that it's a black box experience.",
+      "search": "the thing that makes this so dangerous is that it's a black box experience.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:27",
+      "startMs": 101920,
+      "endMs": 109440,
+      "verbatim": "You hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "display": "You hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "search": "you hope you get back software that is complete, that is going to be well tested, that ultimately will be extensible as future needs require.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:28",
+      "startMs": 109440,
+      "endMs": 113280,
+      "verbatim": "The last thing I wanted someone else to say to Claude, hey, mobile app, no mistakes.",
+      "display": "The last thing I wanted someone else to say to Claude, hey, mobile app, no mistakes.",
+      "search": "the last thing i wanted someone else to say to claude, hey, mobile app, no mistakes.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:29",
+      "startMs": 113280,
+      "endMs": 114640,
+      "verbatim": "It does make mistakes.",
+      "display": "It does make mistakes.",
+      "search": "it does make mistakes.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:30",
+      "startMs": 114640,
+      "endMs": 117280,
+      "verbatim": "This is why I trust the guys over at Infinite Red.",
+      "display": "This is why I trust the guys over at Infinite Red.",
+      "search": "this is why i trust the guys over at infinite red.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:31",
+      "startMs": 117280,
+      "endMs": 123920,
+      "verbatim": "I have had many a long talk with the CEO about software quality and the way to really build robust and good systems.",
+      "display": "I have had many a long talk with the CEO about software quality and the way to really build robust and good systems.",
+      "search": "i have had many a long talk with the ceo about software quality and the way to really build robust and good systems.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:32",
+      "startMs": 123920,
+      "endMs": 126000,
+      "verbatim": "And I love everything he has to say.",
+      "display": "And I love everything he has to say.",
+      "search": "and i love everything he has to say.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:33",
+      "startMs": 126000,
+      "endMs": 131520,
+      "verbatim": "And everything that I have seen with my own eyes, the quality of software that they build is very, very good.",
+      "display": "And everything that I have seen with my own eyes, the quality of software that they build is very, very good.",
+      "search": "and everything that i have seen with my own eyes, the quality of software that they build is very, very good.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:34",
+      "startMs": 131520,
+      "endMs": 133280,
+      "verbatim": "I hope we're feeling better now, are we?",
+      "display": "I hope we're feeling better now, are we?",
+      "search": "i hope we're feeling better now, are we?",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:35",
+      "startMs": 133280,
+      "endMs": 133680,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.489
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:36",
+      "startMs": 133680,
+      "endMs": 134000,
+      "verbatim": "Good.",
+      "display": "Good.",
+      "search": "good.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:37",
+      "startMs": 134000,
+      "endMs": 137680,
+      "verbatim": "What I'm gonna do is I'm gonna tell you why they did this kind of rewrite.",
+      "display": "What I'm gonna do is I'm gonna tell you why they did this kind of rewrite.",
+      "search": "what i'm gonna do is i'm gonna tell you why they did this kind of rewrite.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:38",
+      "startMs": 137680,
+      "endMs": 139040,
+      "verbatim": "And we're gonna go over the blog on that.",
+      "display": "And we're gonna go over the blog on that.",
+      "search": "and we're gonna go over the blog on that.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:39",
+      "startMs": 139040,
+      "endMs": 144160,
+      "verbatim": "And then I'm gonna tell you kind of my thoughts on the cost of the $165,000 bill.",
+      "display": "And then I'm gonna tell you kind of my thoughts on the cost of the $165,000 bill.",
+      "search": "and then i'm gonna tell you kind of my thoughts on the cost of the $165,000 bill.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:40",
+      "startMs": 144160,
+      "endMs": 150960,
+      "verbatim": "And then lastly, we're gonna go over some what I would consider actually pretty cool techniques that you can use in your day-to-day.",
+      "display": "And then lastly, we're gonna go over some what I would consider actually pretty cool techniques that you can use in your day-to-day.",
+      "search": "and then lastly, we're gonna go over some what i would consider actually pretty cool techniques that you can use in your day-to-day.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:41",
+      "startMs": 150960,
+      "endMs": 151760,
+      "verbatim": "So let's get started.",
+      "display": "So let's get started.",
+      "search": "so let's get started.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:42",
+      "startMs": 151760,
+      "endMs": 157360,
+      "verbatim": "So I think the best place to start in this blog post is to start with why did they do this?",
+      "display": "So I think the best place to start in this blog post is to start with why did they do this?",
+      "search": "so i think the best place to start in this blog post is to start with why did they do this?",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:43",
+      "startMs": 157360,
+      "endMs": 163040,
+      "verbatim": "And at the very tippity top, he talks about how, hey, Zig was super instrumental for them getting started.",
+      "display": "And at the very tippity top, he talks about how, hey, Zig was super instrumental for them getting started.",
+      "search": "and at the very tippity top, he talks about how, hey, zig was super instrumental for them getting started.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:44",
+      "startMs": 163040,
+      "endMs": 164640,
+      "verbatim": "He's very happy that he used it.",
+      "display": "He's very happy that he used it.",
+      "search": "he's very happy that he used it.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:45",
+      "startMs": 164640,
+      "endMs": 168800,
+      "verbatim": "But he said, hey, Bun Scope has been a challenge for stability.",
+      "display": "But he said, hey, Bun Scope has been a challenge for stability.",
+      "search": "but he said, hey, bun scope has been a challenge for stability.",
+      "confidence": 0.65
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:46",
+      "startMs": 168800,
+      "endMs": 172560,
+      "verbatim": "Here's a small sample of bugs we fixed in one, three, fourteen.",
+      "display": "Here's a small sample of bugs we fixed in one, three, fourteen.",
+      "search": "here's a small sample of bugs we fixed in one, three, fourteen.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:47",
+      "startMs": 172560,
+      "endMs": 185360,
+      "verbatim": "Use after free crash, use after free, use after free, use after free, crash out of bounds, heap out of bounds, memory leak, memory leak, memory leak, uh, something to do with SSL wrapper init, double free crash, race conditions.",
+      "display": "Use after free crash, use after free, use after free, use after free, crash out of bounds, heap out of bounds, memory leak, memory leak, memory leak, uh, something to do with SSL wrapper init, double free crash, race conditions.",
+      "search": "use after free crash, use after free, use after free, use after free, crash out of bounds, heap out of bounds, memory leak, memory leak, memory leak, uh, something to do with ssl wrapper init, double free crash, race conditions.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:48",
+      "startMs": 185360,
+      "endMs": 186960,
+      "verbatim": "This thing was never freed.",
+      "display": "This thing was never freed.",
+      "search": "this thing was never freed.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:49",
+      "startMs": 186960,
+      "endMs": 191360,
+      "verbatim": "As you can see, memory problem after memory problem after memory problem.",
+      "display": "As you can see, memory problem after memory problem after memory problem.",
+      "search": "as you can see, memory problem after memory problem after memory problem.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:50",
+      "startMs": 191360,
+      "endMs": 199680,
+      "verbatim": "Now, Jared attributes a lot of the difficulty with handling memory and all these problems due to just the unusual set of software he is writing.",
+      "display": "Now, Jared attributes a lot of the difficulty with handling memory and all these problems due to just the unusual set of software he is writing.",
+      "search": "now, jared attributes a lot of the difficulty with handling memory and all these problems due to just the unusual set of software he is writing.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:51",
+      "startMs": 199680,
+      "endMs": 202240,
+      "verbatim": "Other users of Zig don't have the bugs we had.",
+      "display": "Other users of Zig don't have the bugs we had.",
+      "search": "other users of zig don't have the bugs we had.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:52",
+      "startMs": 202240,
+      "endMs": 210160,
+      "verbatim": "And mixing GC with manually managed memory is an uncommon enough thing for software to need that no language really designs for it.",
+      "display": "And mixing GC with manually managed memory is an uncommon enough thing for software to need that no language really designs for it.",
+      "search": "and mixing gc with manually managed memory is an uncommon enough thing for software to need that no language really designs for it.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:53",
+      "startMs": 210160,
+      "endMs": 212160,
+      "verbatim": "He goes on and continues to pray Zig.",
+      "display": "He goes on and continues to pray Zig.",
+      "search": "he goes on and continues to pray zig.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:54",
+      "startMs": 212160,
+      "endMs": 215200,
+      "verbatim": "We wouldn't have gotten this far if not for Zig.",
+      "display": "We wouldn't have gotten this far if not for Zig.",
+      "search": "we wouldn't have gotten this far if not for zig.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:55",
+      "startMs": 215200,
+      "endMs": 217200,
+      "verbatim": "I've always been grateful.",
+      "display": "I've always been grateful.",
+      "search": "i've always been grateful.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:56",
+      "startMs": 217200,
+      "endMs": 222720,
+      "verbatim": "Until very recently, programming language choice was a one-way decision for a project like Bun.",
+      "display": "Until very recently, programming language choice was a one-way decision for a project like Bun.",
+      "search": "until very recently, programming language choice was a one-way decision for a project like bun.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:57",
+      "startMs": 222720,
+      "endMs": 238160,
+      "verbatim": "He goes on and gives kind of his justification for why defer is a bit more tricky and why something like Ray or Drop in Rust is just gonna be a superior way for him to be able to handle managed memory inside of this garbage-collected universe.",
+      "display": "He goes on and gives kind of his justification for why defer is a bit more tricky and why something like Ray or Drop in Rust is just gonna be a superior way for him to be able to handle managed memory inside of this garbage-collected universe.",
+      "search": "he goes on and gives kind of his justification for why defer is a bit more tricky and why something like ray or drop in rust is just gonna be a superior way for him to be able to handle managed memory inside of this garbage-collected universe.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:58",
+      "startMs": 238160,
+      "endMs": 240400,
+      "verbatim": "And the core of his argument is right here.",
+      "display": "And the core of his argument is right here.",
+      "search": "and the core of his argument is right here.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:59",
+      "startMs": 240400,
+      "endMs": 244400,
+      "verbatim": "Many projects opt to answer these kind of questions through a style guide.",
+      "display": "Many projects opt to answer these kind of questions through a style guide.",
+      "search": "many projects opt to answer these kind of questions through a style guide.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:60",
+      "startMs": 244400,
+      "endMs": 251440,
+      "verbatim": "Tiger Beetle's Tiger Style is an example in Zig, and Google's one 31,000 word C style guide is another.",
+      "display": "Tiger Beetle's Tiger Style is an example in Zig, and Google's one 31,000 word C style guide is another.",
+      "search": "tiger beetle's tiger style is an example in zig, and google's one 31,000 word c style guide is another.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:61",
+      "startMs": 251440,
+      "endMs": 253600,
+      "verbatim": "The challenge with style guides is enforcement.",
+      "display": "The challenge with style guides is enforcement.",
+      "search": "the challenge with style guides is enforcement.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:62",
+      "startMs": 253600,
+      "endMs": 256000,
+      "verbatim": "How do you make sure the style guide is followed?",
+      "display": "How do you make sure the style guide is followed?",
+      "search": "how do you make sure the style guide is followed?",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:63",
+      "startMs": 256000,
+      "endMs": 261040,
+      "verbatim": "Historically, code review was the answer with the best effort enforcement via linters and static analyzers.",
+      "display": "Historically, code review was the answer with the best effort enforcement via linters and static analyzers.",
+      "search": "historically, code review was the answer with the best effort enforcement via linters and static analyzers.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:64",
+      "startMs": 261040,
+      "endMs": 263920,
+      "verbatim": "What he's trying to say is that there's not a language enforcement.",
+      "display": "What he's trying to say is that there's not a language enforcement.",
+      "search": "what he's trying to say is that there's not a language enforcement.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:65",
+      "startMs": 263920,
+      "endMs": 267360,
+      "verbatim": "Instead, there is a community enforcement around here.",
+      "display": "Instead, there is a community enforcement around here.",
+      "search": "instead, there is a community enforcement around here.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:66",
+      "startMs": 267360,
+      "endMs": 270480,
+      "verbatim": "Like, hey, we've all agreed to write code in a very specific way.",
+      "display": "Like, hey, we've all agreed to write code in a very specific way.",
+      "search": "like, hey, we've all agreed to write code in a very specific way.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:67",
+      "startMs": 270480,
+      "endMs": 275360,
+      "verbatim": "Anybody who breaks this pact, if not caught in review, could lead to bugs.",
+      "display": "Anybody who breaks this pact, if not caught in review, could lead to bugs.",
+      "search": "anybody who breaks this pact, if not caught in review, could lead to bugs.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:68",
+      "startMs": 275360,
+      "endMs": 278560,
+      "verbatim": "And he says, hey, this is getting really difficult for us to maintain.",
+      "display": "And he says, hey, this is getting really difficult for us to maintain.",
+      "search": "and he says, hey, this is getting really difficult for us to maintain.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:69",
+      "startMs": 278560,
+      "endMs": 286080,
+      "verbatim": "Then he even specifically calls out uh C, about 20% of Bun's code is written in C, but Bun embeds several C libraries.",
+      "display": "Then he even specifically calls out uh C, about 20% of Bun's code is written in C, but Bun embeds several C libraries.",
+      "search": "then he even specifically calls out uh c, about 20% of bun's code is written in c, but bun embeds several c libraries.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:70",
+      "startMs": 286080,
+      "endMs": 288800,
+      "verbatim": "It would have been really easy to use C.",
+      "display": "It would have been really easy to use C.",
+      "search": "it would have been really easy to use c.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:71",
+      "startMs": 288880,
+      "endMs": 293760,
+      "verbatim": "But then at the end of the day, you're still doing style guide enforcement, is his general argument.",
+      "display": "But then at the end of the day, you're still doing style guide enforcement, is his general argument.",
+      "search": "but then at the end of the day, you're still doing style guide enforcement, is his general argument.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:72",
+      "startMs": 293760,
+      "endMs": 296320,
+      "verbatim": "And so that's why he looked towards Rust.",
+      "display": "And so that's why he looked towards Rust.",
+      "search": "and so that's why he looked towards rust.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:73",
+      "startMs": 296320,
+      "endMs": 299120,
+      "verbatim": "Because Rust, it's not a style guide enforcement.",
+      "display": "Because Rust, it's not a style guide enforcement.",
+      "search": "because rust, it's not a style guide enforcement.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:74",
+      "startMs": 299120,
+      "endMs": 302720,
+      "verbatim": "It's not like, hey, did you make sure you used a shared pointer there or a unique pointer there?",
+      "display": "It's not like, hey, did you make sure you used a shared pointer there or a unique pointer there?",
+      "search": "it's not like, hey, did you make sure you used a shared pointer there or a unique pointer there?",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:75",
+      "startMs": 302720,
+      "endMs": 305680,
+      "verbatim": "No, it's like, hey, you can't, you don't have an option.",
+      "display": "No, it's like, hey, you can't, you don't have an option.",
+      "search": "no, it's like, hey, you can't, you don't have an option.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:76",
+      "startMs": 305680,
+      "endMs": 309760,
+      "verbatim": "This is a language that enforces it at the language at the compiler level.",
+      "display": "This is a language that enforces it at the language at the compiler level.",
+      "search": "this is a language that enforces it at the language at the compiler level.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:77",
+      "startMs": 309760,
+      "endMs": 319520,
+      "verbatim": "Now, I'm positive there's a lot of arguments that are gonna be like, well, actually, this is just a scale issue on his behalf, and just you know, Rust, sure, Rust will save you, but at the end of the day, you could have just done this with SIG.",
+      "display": "Now, I'm positive there's a lot of arguments that are gonna be like, well, actually, this is just a scale issue on his behalf, and just you know, Rust, sure, Rust will save you, but at the end of the day, you could have just done this with SIG.",
+      "search": "now, i'm positive there's a lot of arguments that are gonna be like, well, actually, this is just a scale issue on his behalf, and just you know, rust, sure, rust will save you, but at the end of the day, you could have just done this with sig.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:78",
+      "startMs": 319520,
+      "endMs": 325920,
+      "verbatim": "Sure, I do agree with all those general sentiments, and I think that that is a real thing, but I also think it's a very hard project.",
+      "display": "Sure, I do agree with all those general sentiments, and I think that that is a real thing, but I also think it's a very hard project.",
+      "search": "sure, i do agree with all those general sentiments, and i think that that is a real thing, but i also think it's a very hard project.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:79",
+      "startMs": 325920,
+      "endMs": 328800,
+      "verbatim": "I'm not the one pain maintaining it, I'm not the one in charge of it.",
+      "display": "I'm not the one pain maintaining it, I'm not the one in charge of it.",
+      "search": "i'm not the one pain maintaining it, i'm not the one in charge of it.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:80",
+      "startMs": 328800,
+      "endMs": 335200,
+      "verbatim": "So if he wants to go robo rewrite something via the help of an LLM to get rid of this class of bugs, you know what?",
+      "display": "So if he wants to go robo rewrite something via the help of an LLM to get rid of this class of bugs, you know what?",
+      "search": "so if he wants to go robo rewrite something via the help of an llm to get rid of this class of bugs, you know what?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:81",
+      "startMs": 335200,
+      "endMs": 336480,
+      "verbatim": "More power to the guy.",
+      "display": "More power to the guy.",
+      "search": "more power to the guy.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:82",
+      "startMs": 336480,
+      "endMs": 336800,
+      "verbatim": "All right.",
+      "display": "All right.",
+      "search": "all right.",
+      "confidence": 0.591
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:83",
+      "startMs": 336800,
+      "endMs": 341520,
+      "verbatim": "So I think it's best to talk about the $165,000 thing now, okay?",
+      "display": "So I think it's best to talk about the $165,000 thing now, okay?",
+      "search": "so i think it's best to talk about the $165,000 thing now, okay?",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:84",
+      "startMs": 341520,
+      "endMs": 347840,
+      "verbatim": "I think a lot of people out there, when they hear that, they just hear that money up front and they go, oh, this was a terrible idea.",
+      "display": "I think a lot of people out there, when they hear that, they just hear that money up front and they go, oh, this was a terrible idea.",
+      "search": "i think a lot of people out there, when they hear that, they just hear that money up front and they go, oh, this was a terrible idea.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:85",
+      "startMs": 347840,
+      "endMs": 350160,
+      "verbatim": "How could you pay $165,000?",
+      "display": "How could you pay $165,000?",
+      "search": "how could you pay $165,000?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:86",
+      "startMs": 350160,
+      "endMs": 352320,
+      "verbatim": "Okay, Claude Token, rich man.",
+      "display": "Okay, Claude Token, rich man.",
+      "search": "okay, claude token, rich man.",
+      "confidence": 0.648
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:87",
+      "startMs": 352320,
+      "endMs": 354320,
+      "verbatim": "Not everybody, uh one of us has that.",
+      "display": "Not everybody, uh one of us has that.",
+      "search": "not everybody, uh one of us has that.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:88",
+      "startMs": 354320,
+      "endMs": 356480,
+      "verbatim": "But I've been a part of a rewrite.",
+      "display": "But I've been a part of a rewrite.",
+      "search": "but i've been a part of a rewrite.",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:89",
+      "startMs": 356480,
+      "endMs": 361360,
+      "verbatim": "The rewrite I did was for an intern of like an internal data consistency thing for Netflix.",
+      "display": "The rewrite I did was for an intern of like an internal data consistency thing for Netflix.",
+      "search": "the rewrite i did was for an intern of like an internal data consistency thing for netflix.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:90",
+      "startMs": 361360,
+      "endMs": 366800,
+      "verbatim": "And when I did that rewrite, it took three of us approximately one year to get everything back into place pretty well.",
+      "display": "And when I did that rewrite, it took three of us approximately one year to get everything back into place pretty well.",
+      "search": "and when i did that rewrite, it took three of us approximately one year to get everything back into place pretty well.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:91",
+      "startMs": 366800,
+      "endMs": 377120,
+      "verbatim": "Now, that one year effectively cost that company over a million dollars when you consider all the management, all the interacting with other teams, plus my time, plus somebody else's time, plus another person's time.",
+      "display": "Now, that one year effectively cost that company over a million dollars when you consider all the management, all the interacting with other teams, plus my time, plus somebody else's time, plus another person's time.",
+      "search": "now, that one year effectively cost that company over a million dollars when you consider all the management, all the interacting with other teams, plus my time, plus somebody else's time, plus another person's time.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:92",
+      "startMs": 377120,
+      "endMs": 379040,
+      "verbatim": "One of those people was a staff engineer.",
+      "display": "One of those people was a staff engineer.",
+      "search": "one of those people was a staff engineer.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:93",
+      "startMs": 379040,
+      "endMs": 383920,
+      "verbatim": "You can just imagine that all those costs come together, plus, you know, medical insurance, all that stuff.",
+      "display": "You can just imagine that all those costs come together, plus, you know, medical insurance, all that stuff.",
+      "search": "you can just imagine that all those costs come together, plus, you know, medical insurance, all that stuff.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:94",
+      "startMs": 383920,
+      "endMs": 395440,
+      "verbatim": "When you think about the actual cost of an engineer, like Netflix paid a lot of money for us three to go on effectively a mental adventure on rewriting a piece of software that already worked previously.",
+      "display": "When you think about the actual cost of an engineer, like Netflix paid a lot of money for us three to go on effectively a mental adventure on rewriting a piece of software that already worked previously.",
+      "search": "when you think about the actual cost of an engineer, like netflix paid a lot of money for us three to go on effectively a mental adventure on rewriting a piece of software that already worked previously.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:95",
+      "startMs": 395440,
+      "endMs": 401360,
+      "verbatim": "Granted, the new thing was better, but nonetheless, it took a long time, a lot of money, and features froze.",
+      "display": "Granted, the new thing was better, but nonetheless, it took a long time, a lot of money, and features froze.",
+      "search": "granted, the new thing was better, but nonetheless, it took a long time, a lot of money, and features froze.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:96",
+      "startMs": 401360,
+      "endMs": 409520,
+      "verbatim": "So now when you think of it in that kind of perspective, 11 days to rewrite $160,000, to me, that actually doesn't seem bad.",
+      "display": "So now when you think of it in that kind of perspective, 11 days to rewrite $160,000, to me, that actually doesn't seem bad.",
+      "search": "so now when you think of it in that kind of perspective, 11 days to rewrite $160,000, to me, that actually doesn't seem bad.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:97",
+      "startMs": 409520,
+      "endMs": 413200,
+      "verbatim": "And the reason why I don't say it seems bad, I think it seems actually awesome.",
+      "display": "And the reason why I don't say it seems bad, I think it seems actually awesome.",
+      "search": "and the reason why i don't say it seems bad, i think it seems actually awesome.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:98",
+      "startMs": 413200,
+      "endMs": 424320,
+      "verbatim": "Because let's just pretend that given enough kind of style guides and and assisting, you could get software that looks maybe 50% the way you actually wanted it to look at the end.",
+      "display": "Because let's just pretend that given enough kind of style guides and and assisting, you could get software that looks maybe 50% the way you actually wanted it to look at the end.",
+      "search": "because let's just pretend that given enough kind of style guides and and assisting, you could get software that looks maybe 50% the way you actually wanted it to look at the end.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:99",
+      "startMs": 424320,
+      "endMs": 436160,
+      "verbatim": "Well, for the next month, engineers could sit there and help kind of reshape it and get it into something they actually really like, and you're still leaps and bounds cheaper and significantly faster.",
+      "display": "Well, for the next month, engineers could sit there and help kind of reshape it and get it into something they actually really like, and you're still leaps and bounds cheaper and significantly faster.",
+      "search": "well, for the next month, engineers could sit there and help kind of reshape it and get it into something they actually really like, and you're still leaps and bounds cheaper and significantly faster.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:100",
+      "startMs": 436160,
+      "endMs": 438880,
+      "verbatim": "So to me, this rewrite is not absurd.",
+      "display": "So to me, this rewrite is not absurd.",
+      "search": "so to me, this rewrite is not absurd.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:101",
+      "startMs": 438880,
+      "endMs": 441680,
+      "verbatim": "I think a lot of people just immediately go, Oh, this is just so stupid.",
+      "display": "I think a lot of people just immediately go, Oh, this is just so stupid.",
+      "search": "i think a lot of people just immediately go, oh, this is just so stupid.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:102",
+      "startMs": 441760,
+      "endMs": 453280,
+      "verbatim": "They don't actually think about it from maybe a more holistic perspective, which is okay, let's pretend it took three engineers three months to get the code base back into shape after this kind of robo rewrite.",
+      "display": "They don't actually think about it from maybe a more holistic perspective, which is okay, let's pretend it took three engineers three months to get the code base back into shape after this kind of robo rewrite.",
+      "search": "they don't actually think about it from maybe a more holistic perspective, which is okay, let's pretend it took three engineers three months to get the code base back into shape after this kind of robo rewrite.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:103",
+      "startMs": 453280,
+      "endMs": 454080,
+      "verbatim": "Well, guess what?",
+      "display": "Well, guess what?",
+      "search": "well, guess what?",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:104",
+      "startMs": 454160,
+      "endMs": 459840,
+      "verbatim": "That's still way faster, and it's likely way cheaper than it would have been some other direction.",
+      "display": "That's still way faster, and it's likely way cheaper than it would have been some other direction.",
+      "search": "that's still way faster, and it's likely way cheaper than it would have been some other direction.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:105",
+      "startMs": 459840,
+      "endMs": 465120,
+      "verbatim": "Like it's literally the cost, quality, and speed thing all put together at the exact same time.",
+      "display": "Like it's literally the cost, quality, and speed thing all put together at the exact same time.",
+      "search": "like it's literally the cost, quality, and speed thing all put together at the exact same time.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:106",
+      "startMs": 465120,
+      "endMs": 467520,
+      "verbatim": "It's one of the rare three-point triangle W's.",
+      "display": "It's one of the rare three-point triangle W's.",
+      "search": "it's one of the rare three-point triangle w's.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:107",
+      "startMs": 467520,
+      "endMs": 476000,
+      "verbatim": "So when I see like posts or tweets talking about how ridiculous it was to spend 160 grand, I look at that like, damn, that's a steal.",
+      "display": "So when I see like posts or tweets talking about how ridiculous it was to spend 160 grand, I look at that like, damn, that's a steal.",
+      "search": "so when i see like posts or tweets talking about how ridiculous it was to spend 160 grand, i look at that like, damn, that's a steal.",
+      "confidence": 0.744
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:108",
+      "startMs": 476000,
+      "endMs": 479040,
+      "verbatim": "That is an absolute steal.",
+      "display": "That is an absolute steal.",
+      "search": "that is an absolute steal.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:109",
+      "startMs": 479040,
+      "endMs": 483520,
+      "verbatim": "And then afterwards, you get a I get to do refactorbation, my favorite activity.",
+      "display": "And then afterwards, you get a I get to do refactorbation, my favorite activity.",
+      "search": "and then afterwards, you get a i get to do refactorbation, my favorite activity.",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:110",
+      "startMs": 483520,
+      "endMs": 484960,
+      "verbatim": "Bro, let me in.",
+      "display": "Bro, let me in.",
+      "search": "bro, let me in.",
+      "confidence": 0.588
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:111",
+      "startMs": 484960,
+      "endMs": 488640,
+      "verbatim": "Alright, so let's actually go over what he did effectively.",
+      "display": "Alright, so let's actually go over what he did effectively.",
+      "search": "alright, so let's actually go over what he did effectively.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:112",
+      "startMs": 488640,
+      "endMs": 492320,
+      "verbatim": "He kind of gives this nice little piece of pseudocode that says, hey, go do the task.",
+      "display": "He kind of gives this nice little piece of pseudocode that says, hey, go do the task.",
+      "search": "he kind of gives this nice little piece of pseudocode that says, hey, go do the task.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:113",
+      "startMs": 492320,
+      "endMs": 499200,
+      "verbatim": "Then after doing the task, I want you to go get two reviews, and then I want you to apply the review feedback to each one of those.",
+      "display": "Then after doing the task, I want you to go get two reviews, and then I want you to apply the review feedback to each one of those.",
+      "search": "then after doing the task, i want you to go get two reviews, and then i want you to apply the review feedback to each one of those.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:114",
+      "startMs": 499200,
+      "endMs": 508160,
+      "verbatim": "And how he does the reviews is he actually spawns a completely separate agent with no context, then says, Hey, here's the change set, here's what I wanted it to do.",
+      "display": "And how he does the reviews is he actually spawns a completely separate agent with no context, then says, Hey, here's the change set, here's what I wanted it to do.",
+      "search": "and how he does the reviews is he actually spawns a completely separate agent with no context, then says, hey, here's the change set, here's what i wanted it to do.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:115",
+      "startMs": 508160,
+      "endMs": 509840,
+      "verbatim": "Tell me, did it do the thing?",
+      "display": "Tell me, did it do the thing?",
+      "search": "tell me, did it do the thing?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:116",
+      "startMs": 509840,
+      "endMs": 511040,
+      "verbatim": "Can you find any problems?",
+      "display": "Can you find any problems?",
+      "search": "can you find any problems?",
+      "confidence": 0.994
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:117",
+      "startMs": 511040,
+      "endMs": 512880,
+      "verbatim": "Can you write about any of the bugs you see?",
+      "display": "Can you write about any of the bugs you see?",
+      "search": "can you write about any of the bugs you see?",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:118",
+      "startMs": 512880,
+      "endMs": 515280,
+      "verbatim": "Can you write about, like, you know, gives it some basic things?",
+      "display": "Can you write about, like, you know, gives it some basic things?",
+      "search": "can you write about, like, you know, gives it some basic things?",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:119",
+      "startMs": 515280,
+      "endMs": 517040,
+      "verbatim": "I don't know why he does two reviews.",
+      "display": "I don't know why he does two reviews.",
+      "search": "i don't know why he does two reviews.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:120",
+      "startMs": 517040,
+      "endMs": 520720,
+      "verbatim": "I wonder if there's like maybe two different things they had the reviewers do.",
+      "display": "I wonder if there's like maybe two different things they had the reviewers do.",
+      "search": "i wonder if there's like maybe two different things they had the reviewers do.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:121",
+      "startMs": 520720,
+      "endMs": 528240,
+      "verbatim": "I don't know, but you could imagine that each of the reviews brought a different kind of goal or orientation to it, and this allowed good feedback.",
+      "display": "I don't know, but you could imagine that each of the reviews brought a different kind of goal or orientation to it, and this allowed good feedback.",
+      "search": "i don't know, but you could imagine that each of the reviews brought a different kind of goal or orientation to it, and this allowed good feedback.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:122",
+      "startMs": 528240,
+      "endMs": 537840,
+      "verbatim": "And honestly, I've been doing effectively this approach for the last eight months, and this has been one of the greatest uses of AI I have had so far.",
+      "display": "And honestly, I've been doing effectively this approach for the last eight months, and this has been one of the greatest uses of AI I have had so far.",
+      "search": "and honestly, i've been doing effectively this approach for the last eight months, and this has been one of the greatest uses of ai i have had so far.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:123",
+      "startMs": 537840,
+      "endMs": 545200,
+      "verbatim": "In fact, I have this guy right here, where when I go, hey, prime agent review, it's gonna say, Hey, is this from like a cursor cloud agent run?",
+      "display": "In fact, I have this guy right here, where when I go, hey, prime agent review, it's gonna say, Hey, is this from like a cursor cloud agent run?",
+      "search": "in fact, i have this guy right here, where when i go, hey, prime agent review, it's gonna say, hey, is this from like a cursor cloud agent run?",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:124",
+      "startMs": 545200,
+      "endMs": 547680,
+      "verbatim": "Or do you just want me to go straight to a GitHub PR?",
+      "display": "Or do you just want me to go straight to a GitHub PR?",
+      "search": "or do you just want me to go straight to a github pr?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:125",
+      "startMs": 547680,
+      "endMs": 554480,
+      "verbatim": "And when I do that, it's gonna go say, Okay, go give me the URL, which I can go give it a URL, then it's gonna ask me what context files do you want to include into it?",
+      "display": "And when I do that, it's gonna go say, Okay, go give me the URL, which I can go give it a URL, then it's gonna ask me what context files do you want to include into it?",
+      "search": "and when i do that, it's gonna go say, okay, go give me the url, which i can go give it a url, then it's gonna ask me what context files do you want to include into it?",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:126",
+      "startMs": 554480,
+      "endMs": 555520,
+      "verbatim": "Hey, what's the prompt?",
+      "display": "Hey, what's the prompt?",
+      "search": "hey, what's the prompt?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:127",
+      "startMs": 555520,
+      "endMs": 557280,
+      "verbatim": "What's like the way you want me to review it?",
+      "display": "What's like the way you want me to review it?",
+      "search": "what's like the way you want me to review it?",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:128",
+      "startMs": 557280,
+      "endMs": 562160,
+      "verbatim": "And then it'll go off and churn out a review and actually give good feedback leaving on.",
+      "display": "And then it'll go off and churn out a review and actually give good feedback leaving on.",
+      "search": "and then it'll go off and churn out a review and actually give good feedback leaving on.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:129",
+      "startMs": 562160,
+      "endMs": 567200,
+      "verbatim": "And often what I find is that about 50% of the feedback is actually good.",
+      "display": "And often what I find is that about 50% of the feedback is actually good.",
+      "search": "and often what i find is that about 50% of the feedback is actually good.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:130",
+      "startMs": 567200,
+      "endMs": 570080,
+      "verbatim": "Like, hey, that's an actually good thing to go catch.",
+      "display": "Like, hey, that's an actually good thing to go catch.",
+      "search": "like, hey, that's an actually good thing to go catch.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:131",
+      "startMs": 570080,
+      "endMs": 571360,
+      "verbatim": "Don't forget to go do that.",
+      "display": "Don't forget to go do that.",
+      "search": "don't forget to go do that.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:132",
+      "startMs": 571360,
+      "endMs": 573840,
+      "verbatim": "And I so I'm a huge fan of this.",
+      "display": "And I so I'm a huge fan of this.",
+      "search": "and i so i'm a huge fan of this.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:133",
+      "startMs": 573840,
+      "endMs": 578080,
+      "verbatim": "So this thing right here is honestly super cool to spare you the long reading.",
+      "display": "So this thing right here is honestly super cool to spare you the long reading.",
+      "search": "so this thing right here is honestly super cool to spare you the long reading.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:134",
+      "startMs": 578080,
+      "endMs": 579840,
+      "verbatim": "I'll just kind of give you the fast track.",
+      "display": "I'll just kind of give you the fast track.",
+      "search": "i'll just kind of give you the fast track.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:135",
+      "startMs": 579840,
+      "endMs": 588640,
+      "verbatim": "Effectively, what the LLM did, it would like whole translate a one zig file into one Rust file and then do those two reviews.",
+      "display": "Effectively, what the LLM did, it would like whole translate a one zig file into one Rust file and then do those two reviews.",
+      "search": "effectively, what the llm did, it would like whole translate a one zig file into one rust file and then do those two reviews.",
+      "confidence": 0.719
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:136",
+      "startMs": 588640,
+      "endMs": 598320,
+      "verbatim": "And then after going through all of the zig code and just literally mechanically translating it at the end of the day, there was 16,000 errors.",
+      "display": "And then after going through all of the zig code and just literally mechanically translating it at the end of the day, there was 16,000 errors.",
+      "search": "and then after going through all of the zig code and just literally mechanically translating it at the end of the day, there was 16,000 errors.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:137",
+      "startMs": 598320,
+      "endMs": 603200,
+      "verbatim": "And so, as you can watch this thing go, this is the replaying of those errors being fixed.",
+      "display": "And so, as you can watch this thing go, this is the replaying of those errors being fixed.",
+      "search": "and so, as you can watch this thing go, this is the replaying of those errors being fixed.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:138",
+      "startMs": 603200,
+      "endMs": 623440,
+      "verbatim": "Effectively, what happened is that they had a whole bunch of agents running in different work trees, just taking one error, fixing the error, then having the two reviewers review, then fixing the feedback, and then just keep on going through this process all the way until all of the items were fixed, all the errors were fixed, and now all of a sudden you have a working version of Bun.",
+      "display": "Effectively, what happened is that they had a whole bunch of agents running in different work trees, just taking one error, fixing the error, then having the two reviewers review, then fixing the feedback, and then just keep on going through this process all the way until all of the items were fixed, all the errors were fixed, and now all of a sudden you have a working version of Bun.",
+      "search": "effectively, what happened is that they had a whole bunch of agents running in different work trees, just taking one error, fixing the error, then having the two reviewers review, then fixing the feedback, and then just keep on going through this process all the way until all of the items were fixed, all the errors were fixed, and now all of a sudden you have a working version of bun.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:139",
+      "startMs": 623440,
+      "endMs": 628560,
+      "verbatim": "Of course, the moment that he ran bun-version, uh it had immediately linked uh linker error.",
+      "display": "Of course, the moment that he ran bun-version, uh it had immediately linked uh linker error.",
+      "search": "of course, the moment that he ran bun-version, uh it had immediately linked uh linker error.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:140",
+      "startMs": 628560,
+      "endMs": 630800,
+      "verbatim": "So it didn't really work, it just immediately panicked.",
+      "display": "So it didn't really work, it just immediately panicked.",
+      "search": "so it didn't really work, it just immediately panicked.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:141",
+      "startMs": 630800,
+      "endMs": 636000,
+      "verbatim": "So the next step was to actually start going through and making every single unit test pass.",
+      "display": "So the next step was to actually start going through and making every single unit test pass.",
+      "search": "so the next step was to actually start going through and making every single unit test pass.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:142",
+      "startMs": 636000,
+      "endMs": 645920,
+      "verbatim": "And so he did the exact same thing again, set up these huge amounts of clawed code workers to all run, and they'd all slice up the amount of tests and just fix them.",
+      "display": "And so he did the exact same thing again, set up these huge amounts of clawed code workers to all run, and they'd all slice up the amount of tests and just fix them.",
+      "search": "and so he did the exact same thing again, set up these huge amounts of clawed code workers to all run, and they'd all slice up the amount of tests and just fix them.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:143",
+      "startMs": 645920,
+      "endMs": 652480,
+      "verbatim": "And it looked something like this if visualized, where all these uh different shards are off running and making sure everything is working.",
+      "display": "And it looked something like this if visualized, where all these uh different shards are off running and making sure everything is working.",
+      "search": "and it looked something like this if visualized, where all these uh different shards are off running and making sure everything is working.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:144",
+      "startMs": 652480,
+      "endMs": 658160,
+      "verbatim": "And eventually he got to the point where after so many days, effectively all the tests pass.",
+      "display": "And eventually he got to the point where after so many days, effectively all the tests pass.",
+      "search": "and eventually he got to the point where after so many days, effectively all the tests pass.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:145",
+      "startMs": 658160,
+      "endMs": 662800,
+      "verbatim": "And it was at this point where he decided, okay, yeah, this rewrite might actually work.",
+      "display": "And it was at this point where he decided, okay, yeah, this rewrite might actually work.",
+      "search": "and it was at this point where he decided, okay, yeah, this rewrite might actually work.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:146",
+      "startMs": 662800,
+      "endMs": 664240,
+      "verbatim": "This actually might be a thing.",
+      "display": "This actually might be a thing.",
+      "search": "this actually might be a thing.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:147",
+      "startMs": 664240,
+      "endMs": 675440,
+      "verbatim": "So after 11 days, there were 6,502 commits yielding approximately 1.8 million lines written slash rewritten, $165,000.",
+      "display": "So after 11 days, there were 6,502 commits yielding approximately 1.8 million lines written slash rewritten, $165,000.",
+      "search": "so after 11 days, there were 6,502 commits yielding approximately 1.8 million lines written slash rewritten, $165,000.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:148",
+      "startMs": 675440,
+      "endMs": 677760,
+      "verbatim": "And honestly, it's kind of a neat thing.",
+      "display": "And honestly, it's kind of a neat thing.",
+      "search": "and honestly, it's kind of a neat thing.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:149",
+      "startMs": 677760,
+      "endMs": 685200,
+      "verbatim": "I mean, I know that I rag a lot on AI, but I do think that this is one of its strong suits, which is translating one thing to the next thing.",
+      "display": "I mean, I know that I rag a lot on AI, but I do think that this is one of its strong suits, which is translating one thing to the next thing.",
+      "search": "i mean, i know that i rag a lot on ai, but i do think that this is one of its strong suits, which is translating one thing to the next thing.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:150",
+      "startMs": 685200,
+      "endMs": 688320,
+      "verbatim": "Like I think that this probably worked out reasonably well.",
+      "display": "Like I think that this probably worked out reasonably well.",
+      "search": "like i think that this probably worked out reasonably well.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:151",
+      "startMs": 688320,
+      "endMs": 694240,
+      "verbatim": "At least the Rust code will be, you know, somewhat in the same shape that the Zig code was in.",
+      "display": "At least the Rust code will be, you know, somewhat in the same shape that the Zig code was in.",
+      "search": "at least the rust code will be, you know, somewhat in the same shape that the zig code was in.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:152",
+      "startMs": 694240,
+      "endMs": 698880,
+      "verbatim": "And so their ability to move through the code base is probably not honestly all that bad.",
+      "display": "And so their ability to move through the code base is probably not honestly all that bad.",
+      "search": "and so their ability to move through the code base is probably not honestly all that bad.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:153",
+      "startMs": 698880,
+      "endMs": 701520,
+      "verbatim": "Now, is this gonna be great idiomatic Rust?",
+      "display": "Now, is this gonna be great idiomatic Rust?",
+      "search": "now, is this gonna be great idiomatic rust?",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:154",
+      "startMs": 701520,
+      "endMs": 704480,
+      "verbatim": "You know, I know there's a lot of porting, there's a lot of style guides.",
+      "display": "You know, I know there's a lot of porting, there's a lot of style guides.",
+      "search": "you know, i know there's a lot of porting, there's a lot of style guides.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:155",
+      "startMs": 704480,
+      "endMs": 711840,
+      "verbatim": "Hey, there's a lot of work on the uh how they're gonna be doing lifetimes and everything up front, so it's probably not all that far off.",
+      "display": "Hey, there's a lot of work on the uh how they're gonna be doing lifetimes and everything up front, so it's probably not all that far off.",
+      "search": "hey, there's a lot of work on the uh how they're gonna be doing lifetimes and everything up front, so it's probably not all that far off.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:156",
+      "startMs": 711840,
+      "endMs": 719280,
+      "verbatim": "But my guess is that they had to put in a lot of effort afterwards to really start kind of cleaning up the code base and making everything work.",
+      "display": "But my guess is that they had to put in a lot of effort afterwards to really start kind of cleaning up the code base and making everything work.",
+      "search": "but my guess is that they had to put in a lot of effort afterwards to really start kind of cleaning up the code base and making everything work.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:157",
+      "startMs": 719280,
+      "endMs": 721440,
+      "verbatim": "But, you know, they also have a lot of engineers.",
+      "display": "But, you know, they also have a lot of engineers.",
+      "search": "but, you know, they also have a lot of engineers.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:158",
+      "startMs": 721440,
+      "endMs": 724480,
+      "verbatim": "They have a lot, they got a lot of fable tokens, okay?",
+      "display": "They have a lot, they got a lot of fable tokens, okay?",
+      "search": "they have a lot, they got a lot of fable tokens, okay?",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:159",
+      "startMs": 724480,
+      "endMs": 727760,
+      "verbatim": "They got that, they got that unguard rated fable, okay?",
+      "display": "They got that, they got that unguard rated fable, okay?",
+      "search": "they got that, they got that unguard rated fable, okay?",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:160",
+      "startMs": 727760,
+      "endMs": 730800,
+      "verbatim": "They got that operator fable, not us pores, okay?",
+      "display": "They got that operator fable, not us pores, okay?",
+      "search": "they got that operator fable, not us pores, okay?",
+      "confidence": 0.698
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:161",
+      "startMs": 730800,
+      "endMs": 733360,
+      "verbatim": "We don't even get we don't even get that kind of fable at all, okay?",
+      "display": "We don't even get we don't even get that kind of fable at all, okay?",
+      "search": "we don't even get we don't even get that kind of fable at all, okay?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:162",
+      "startMs": 733360,
+      "endMs": 734480,
+      "verbatim": "We get a fable at home.",
+      "display": "We get a fable at home.",
+      "search": "we get a fable at home.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:163",
+      "startMs": 734480,
+      "endMs": 740000,
+      "verbatim": "I guess the real takeaway is gonna be this at some point bun 1.4 is gonna be released to the public.",
+      "display": "I guess the real takeaway is gonna be this at some point bun 1.4 is gonna be released to the public.",
+      "search": "i guess the real takeaway is gonna be this at some point bun 1.4 is gonna be released to the public.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:164",
+      "startMs": 740000,
+      "endMs": 742480,
+      "verbatim": "And when they release it, what's gonna happen?",
+      "display": "And when they release it, what's gonna happen?",
+      "search": "and when they release it, what's gonna happen?",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:165",
+      "startMs": 742480,
+      "endMs": 743360,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:166",
+      "startMs": 743360,
+      "endMs": 744480,
+      "verbatim": "Will it be awesome?",
+      "display": "Will it be awesome?",
+      "search": "will it be awesome?",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:167",
+      "startMs": 744480,
+      "endMs": 748400,
+      "verbatim": "Will everything be all thumbs up, or is it gonna be absolutely horrifying?",
+      "display": "Will everything be all thumbs up, or is it gonna be absolutely horrifying?",
+      "search": "will everything be all thumbs up, or is it gonna be absolutely horrifying?",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:168",
+      "startMs": 748400,
+      "endMs": 753680,
+      "verbatim": "We're gonna find out because there is a non-zero chance that bun 1.4 gets released.",
+      "display": "We're gonna find out because there is a non-zero chance that bun 1.4 gets released.",
+      "search": "we're gonna find out because there is a non-zero chance that bun 1.4 gets released.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:169",
+      "startMs": 753680,
+      "endMs": 754640,
+      "verbatim": "And guess what?",
+      "display": "And guess what?",
+      "search": "and guess what?",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:170",
+      "startMs": 754640,
+      "endMs": 762400,
+      "verbatim": "Hundreds of thousands of people just have their stuff broken on their computer because they update bun breaks CI that gets the latest bun breaks.",
+      "display": "Hundreds of thousands of people just have their stuff broken on their computer because they update bun breaks CI that gets the latest bun breaks.",
+      "search": "hundreds of thousands of people just have their stuff broken on their computer because they update bun breaks ci that gets the latest bun breaks.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:171",
+      "startMs": 762400,
+      "endMs": 763040,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:172",
+      "startMs": 763040,
+      "endMs": 768160,
+      "verbatim": "It's gonna be really interesting, or nothing happens, and then everybody goes, huh.",
+      "display": "It's gonna be really interesting, or nothing happens, and then everybody goes, huh.",
+      "search": "it's gonna be really interesting, or nothing happens, and then everybody goes, huh.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:173",
+      "startMs": 768160,
+      "endMs": 769680,
+      "verbatim": "I guess that's pretty cool.",
+      "display": "I guess that's pretty cool.",
+      "search": "i guess that's pretty cool.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:174",
+      "startMs": 769680,
+      "endMs": 773680,
+      "verbatim": "By the way, if I'm sweating, if I'm looking shiny, I think I am looking shiny in here.",
+      "display": "By the way, if I'm sweating, if I'm looking shiny, I think I am looking shiny in here.",
+      "search": "by the way, if i'm sweating, if i'm looking shiny, i think i am looking shiny in here.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:175",
+      "startMs": 773680,
+      "endMs": 780000,
+      "verbatim": "Oh my gosh, I it's a hundred degrees out in my horse barn, is not in fact keeping me cool.",
+      "display": "Oh my gosh, I it's a hundred degrees out in my horse barn, is not in fact keeping me cool.",
+      "search": "oh my gosh, i it's a hundred degrees out in my horse barn, is not in fact keeping me cool.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:176",
+      "startMs": 780000,
+      "endMs": 785360,
+      "verbatim": "Now you're probably wondering why I am not having just like a oh, this is such a sucky thing kind of response to all this.",
+      "display": "Now you're probably wondering why I am not having just like a oh, this is such a sucky thing kind of response to all this.",
+      "search": "now you're probably wondering why i am not having just like a oh, this is such a sucky thing kind of response to all this.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:177",
+      "startMs": 785360,
+      "endMs": 787120,
+      "verbatim": "Uh, I just kind of want to throw this out there.",
+      "display": "Uh, I just kind of want to throw this out there.",
+      "search": "uh, i just kind of want to throw this out there.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:178",
+      "startMs": 787120,
+      "endMs": 791200,
+      "verbatim": "One of my favorite things in the universe to do is to build tools.",
+      "display": "One of my favorite things in the universe to do is to build tools.",
+      "search": "one of my favorite things in the universe to do is to build tools.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:179",
+      "startMs": 791200,
+      "endMs": 799520,
+      "verbatim": "And when I looked at this, especially when I looked at how he kind of organized changes, the feedback, and the fixes, like when I look at this, I'm like, oh man, I love this.",
+      "display": "And when I looked at this, especially when I looked at how he kind of organized changes, the feedback, and the fixes, like when I look at this, I'm like, oh man, I love this.",
+      "search": "and when i looked at this, especially when i looked at how he kind of organized changes, the feedback, and the fixes, like when i look at this, i'm like, oh man, i love this.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:180",
+      "startMs": 799520,
+      "endMs": 800640,
+      "verbatim": "This is dev tools.",
+      "display": "This is dev tools.",
+      "search": "this is dev tools.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:181",
+      "startMs": 800640,
+      "endMs": 802160,
+      "verbatim": "I love dev tool stuff.",
+      "display": "I love dev tool stuff.",
+      "search": "i love dev tool stuff.",
+      "confidence": 0.699
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:182",
+      "startMs": 802160,
+      "endMs": 805680,
+      "verbatim": "And this is kind of why I built actually this prime agent review.",
+      "display": "And this is kind of why I built actually this prime agent review.",
+      "search": "and this is kind of why i built actually this prime agent review.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:183",
+      "startMs": 805680,
+      "endMs": 808400,
+      "verbatim": "I've been doing this more manually or using other tools.",
+      "display": "I've been doing this more manually or using other tools.",
+      "search": "i've been doing this more manually or using other tools.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:184",
+      "startMs": 808400,
+      "endMs": 820880,
+      "verbatim": "And I was like, dude, I should just start really integrating a lot of this stuff into my environment and start building it out such that I actually have a pretty excellent integration with cloud agents, my local NeoVim, and like how I like to develop.",
+      "display": "And I was like, dude, I should just start really integrating a lot of this stuff into my environment and start building it out such that I actually have a pretty excellent integration with cloud agents, my local NeoVim, and like how I like to develop.",
+      "search": "and i was like, dude, i should just start really integrating a lot of this stuff into my environment and start building it out such that i actually have a pretty excellent integration with cloud agents, my local neovim, and like how i like to develop.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:185",
+      "startMs": 820880,
+      "endMs": 822960,
+      "verbatim": "And so for me, I just love good tools.",
+      "display": "And so for me, I just love good tools.",
+      "search": "and so for me, i just love good tools.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:186",
+      "startMs": 822960,
+      "endMs": 824320,
+      "verbatim": "I love seeing good tools.",
+      "display": "I love seeing good tools.",
+      "search": "i love seeing good tools.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:187",
+      "startMs": 824320,
+      "endMs": 827200,
+      "verbatim": "I love the fact that he was actually able to get this all done.",
+      "display": "I love the fact that he was actually able to get this all done.",
+      "search": "i love the fact that he was actually able to get this all done.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:188",
+      "startMs": 827200,
+      "endMs": 832640,
+      "verbatim": "Now, whether or not it's gonna be a success, I guess, will be just gauged by the reception of 1.4.",
+      "display": "Now, whether or not it's gonna be a success, I guess, will be just gauged by the reception of 1.4.",
+      "search": "now, whether or not it's gonna be a success, i guess, will be just gauged by the reception of 1.4.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:189",
+      "startMs": 832640,
+      "endMs": 835280,
+      "verbatim": "But for me, I honestly thought it was pretty cool.",
+      "display": "But for me, I honestly thought it was pretty cool.",
+      "search": "but for me, i honestly thought it was pretty cool.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:190",
+      "startMs": 835280,
+      "endMs": 838560,
+      "verbatim": "I know it's kind of a it's kind of a weak take from me.",
+      "display": "I know it's kind of a it's kind of a weak take from me.",
+      "search": "i know it's kind of a it's kind of a weak take from me.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:191",
+      "startMs": 838560,
+      "endMs": 839200,
+      "verbatim": "I get it.",
+      "display": "I get it.",
+      "search": "i get it.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:192",
+      "startMs": 839200,
+      "endMs": 843440,
+      "verbatim": "You guys, you guys probably wanted something more, but I don't really have something more on this.",
+      "display": "You guys, you guys probably wanted something more, but I don't really have something more on this.",
+      "search": "you guys, you guys probably wanted something more, but i don't really have something more on this.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:193",
+      "startMs": 843440,
+      "endMs": 845200,
+      "verbatim": "I, you know, I just love technology.",
+      "display": "I, you know, I just love technology.",
+      "search": "i, you know, i just love technology.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:194",
+      "startMs": 845200,
+      "endMs": 846800,
+      "verbatim": "I like seeing cool things.",
+      "display": "I like seeing cool things.",
+      "search": "i like seeing cool things.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:195",
+      "startMs": 846800,
+      "endMs": 850240,
+      "verbatim": "And honestly, being a part of multiple rewrites, this is pretty awesome.",
+      "display": "And honestly, being a part of multiple rewrites, this is pretty awesome.",
+      "search": "and honestly, being a part of multiple rewrites, this is pretty awesome.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:196",
+      "startMs": 850240,
+      "endMs": 853040,
+      "verbatim": "Like the last time I was a part of a rewrite, people got fired.",
+      "display": "Like the last time I was a part of a rewrite, people got fired.",
+      "search": "like the last time i was a part of a rewrite, people got fired.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:197",
+      "startMs": 853200,
+      "endMs": 856000,
+      "verbatim": "This one, it's just like, I don't think anyone's getting fired.",
+      "display": "This one, it's just like, I don't think anyone's getting fired.",
+      "search": "this one, it's just like, i don't think anyone's getting fired.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:198",
+      "startMs": 856000,
+      "endMs": 856720,
+      "verbatim": "That's awesome.",
+      "display": "That's awesome.",
+      "search": "that's awesome.",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:199",
+      "startMs": 856720,
+      "endMs": 861520,
+      "verbatim": "The name is hey, the you know, I'm I I get excited, okay?",
+      "display": "The name is hey, the you know, I'm I I get excited, okay?",
+      "search": "the name is hey, the you know, i'm i i get excited, okay?",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:200",
+      "startMs": 861680,
+      "endMs": 862400,
+      "verbatim": "You know what?",
+      "display": "You know what?",
+      "search": "you know what?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:201",
+      "startMs": 862400,
+      "endMs": 865040,
+      "verbatim": "Honestly, I have strong beginner energy, okay?",
+      "display": "Honestly, I have strong beginner energy, okay?",
+      "search": "honestly, i have strong beginner energy, okay?",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:202",
+      "startMs": 865040,
+      "endMs": 866000,
+      "verbatim": "That's all it is.",
+      "display": "That's all it is.",
+      "search": "that's all it is.",
+      "confidence": 0.748
+    },
+    {
+      "segmentId": "youtube:NgUNjjV_AkY:segment:203",
+      "startMs": 866000,
+      "endMs": 866800,
+      "verbatim": "Uh Jen.",
+      "display": "Uh Jen.",
+      "search": "uh jen.",
+      "confidence": 0.293
+    }
+  ]
+}

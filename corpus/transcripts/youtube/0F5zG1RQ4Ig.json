@@ -1,0 +1,1643 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_bb2ede1d4f101475bcb3c7eb",
+  "sourceId": "youtube:0F5zG1RQ4Ig",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:47:37.180Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:1",
+      "startMs": 160,
+      "endMs": 12960,
+      "verbatim": "There's a new apparent trend where people who get way too into the AI psychosis things find themselves programming and using AI so much that they end up like going to the hospital.",
+      "display": "There's a new apparent trend where people who get way too into the AI psychosis things find themselves programming and using AI so much that they end up like going to the hospital.",
+      "search": "there's a new apparent trend where people who get way too into the ai psychosis things find themselves programming and using ai so much that they end up like going to the hospital.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:2",
+      "startMs": 12960,
+      "endMs": 17280,
+      "verbatim": "Which, if you've been keeping up with anything that's been going on, that shouldn't be a surprise.",
+      "display": "Which, if you've been keeping up with anything that's been going on, that shouldn't be a surprise.",
+      "search": "which, if you've been keeping up with anything that's been going on, that shouldn't be a surprise.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:3",
+      "startMs": 17280,
+      "endMs": 22400,
+      "verbatim": "The report also finds 45% of developers feel the value of their current skill sets are threatened.",
+      "display": "The report also finds 45% of developers feel the value of their current skill sets are threatened.",
+      "search": "the report also finds 45% of developers feel the value of their current skill sets are threatened.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:4",
+      "startMs": 22400,
+      "endMs": 23520,
+      "verbatim": "This is from PluralSight.",
+      "display": "This is from PluralSight.",
+      "search": "this is from pluralsight.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:5",
+      "startMs": 23600,
+      "endMs": 30880,
+      "verbatim": "AI skill threat describes developers' fear, anxiety, and worry that their current competencies will become obsolete as they adapt to AI assisted coding.",
+      "display": "AI skill threat describes developers' fear, anxiety, and worry that their current competencies will become obsolete as they adapt to AI assisted coding.",
+      "search": "ai skill threat describes developers' fear, anxiety, and worry that their current competencies will become obsolete as they adapt to ai assisted coding.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:6",
+      "startMs": 30880,
+      "endMs": 31760,
+      "verbatim": "PluralSight.",
+      "display": "PluralSight.",
+      "search": "pluralsight.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:7",
+      "startMs": 31760,
+      "endMs": 35120,
+      "verbatim": "This study focuses on the fear of being left behind or fear of missing out.",
+      "display": "This study focuses on the fear of being left behind or fear of missing out.",
+      "search": "this study focuses on the fear of being left behind or fear of missing out.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:8",
+      "startMs": 35120,
+      "endMs": 38560,
+      "verbatim": "FOMO to understand employees' perception of AI adoption, science direct.",
+      "display": "FOMO to understand employees' perception of AI adoption, science direct.",
+      "search": "fomo to understand employees' perception of ai adoption, science direct.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:9",
+      "startMs": 38560,
+      "endMs": 45520,
+      "verbatim": "Individual fear of missing out on the benefits of AI technology and being rendered obsolete by others or by society, science direct.",
+      "display": "Individual fear of missing out on the benefits of AI technology and being rendered obsolete by others or by society, science direct.",
+      "search": "individual fear of missing out on the benefits of ai technology and being rendered obsolete by others or by society, science direct.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:10",
+      "startMs": 45520,
+      "endMs": 54400,
+      "verbatim": "FOMO AI may drive individuals to engage in complex behavior such as obsessive focus on acquiring AI skills or overzealous use of AI technologies.",
+      "display": "FOMO AI may drive individuals to engage in complex behavior such as obsessive focus on acquiring AI skills or overzealous use of AI technologies.",
+      "search": "fomo ai may drive individuals to engage in complex behavior such as obsessive focus on acquiring ai skills or overzealous use of ai technologies.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:11",
+      "startMs": 54400,
+      "endMs": 55120,
+      "verbatim": "Science Direct.",
+      "display": "Science Direct.",
+      "search": "science direct.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:12",
+      "startMs": 55120,
+      "endMs": 59280,
+      "verbatim": "Our results show that Gen AI adoption heightens burnout by increasing job demands.",
+      "display": "Our results show that Gen AI adoption heightens burnout by increasing job demands.",
+      "search": "our results show that gen ai adoption heightens burnout by increasing job demands.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:13",
+      "startMs": 59280,
+      "endMs": 60080,
+      "verbatim": "That's from Archive.",
+      "display": "That's from Archive.",
+      "search": "that's from archive.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:14",
+      "startMs": 60080,
+      "endMs": 67520,
+      "verbatim": "Gen AI tools can amplify cognitive load, inducing new forms of oversight labor and escalate expectations around output and pace.",
+      "display": "Gen AI tools can amplify cognitive load, inducing new forms of oversight labor and escalate expectations around output and pace.",
+      "search": "gen ai tools can amplify cognitive load, inducing new forms of oversight labor and escalate expectations around output and pace.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:15",
+      "startMs": 67520,
+      "endMs": 68480,
+      "verbatim": "This is from Archive.",
+      "display": "This is from Archive.",
+      "search": "this is from archive.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:16",
+      "startMs": 68480,
+      "endMs": 75520,
+      "verbatim": "The Gen AI movement is also transforming professional norms and altering career entry points, demanding continuous adaptation from Archive.",
+      "display": "The Gen AI movement is also transforming professional norms and altering career entry points, demanding continuous adaptation from Archive.",
+      "search": "the gen ai movement is also transforming professional norms and altering career entry points, demanding continuous adaptation from archive.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:17",
+      "startMs": 75520,
+      "endMs": 77120,
+      "verbatim": "And it goes on and it goes on.",
+      "display": "And it goes on and it goes on.",
+      "search": "and it goes on and it goes on.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:18",
+      "startMs": 77120,
+      "endMs": 81040,
+      "verbatim": "Now I think a lot of people are seeing this as some kind of new experience that is happening.",
+      "display": "Now I think a lot of people are seeing this as some kind of new experience that is happening.",
+      "search": "now i think a lot of people are seeing this as some kind of new experience that is happening.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:19",
+      "startMs": 81200,
+      "endMs": 94320,
+      "verbatim": "First off, I don't think that this experience is new, but I will say that this experience is kind of pressured by a whole new set of outcomes that say I, when I was first learning how to program or getting into technology, did not have to have.",
+      "display": "First off, I don't think that this experience is new, but I will say that this experience is kind of pressured by a whole new set of outcomes that say I, when I was first learning how to program or getting into technology, did not have to have.",
+      "search": "first off, i don't think that this experience is new, but i will say that this experience is kind of pressured by a whole new set of outcomes that say i, when i was first learning how to program or getting into technology, did not have to have.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:20",
+      "startMs": 94320,
+      "endMs": 103040,
+      "verbatim": "So this video is gonna be a little bit different because I'm gonna talk a little bit about my past, some of the things that uh caused some pretty big issues for me uh in the same type of category.",
+      "display": "So this video is gonna be a little bit different because I'm gonna talk a little bit about my past, some of the things that uh caused some pretty big issues for me uh in the same type of category.",
+      "search": "so this video is gonna be a little bit different because i'm gonna talk a little bit about my past, some of the things that uh caused some pretty big issues for me uh in the same type of category.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:21",
+      "startMs": 103040,
+      "endMs": 108080,
+      "verbatim": "And more than that, we're also gonna hear from my boy George Hotz about this exact topic.",
+      "display": "And more than that, we're also gonna hear from my boy George Hotz about this exact topic.",
+      "search": "and more than that, we're also gonna hear from my boy george hotz about this exact topic.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:22",
+      "startMs": 108080,
+      "endMs": 111680,
+      "verbatim": "But before we begin, I'd like to say thank you to the sponsors.",
+      "display": "But before we begin, I'd like to say thank you to the sponsors.",
+      "search": "but before we begin, i'd like to say thank you to the sponsors.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:23",
+      "startMs": 111680,
+      "endMs": 113760,
+      "verbatim": "Hey, is that HTTP?",
+      "display": "Hey, is that HTTP?",
+      "search": "hey, is that http?",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:24",
+      "startMs": 113760,
+      "endMs": 114880,
+      "verbatim": "Get that out of here.",
+      "display": "Get that out of here.",
+      "search": "get that out of here.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:25",
+      "startMs": 114880,
+      "endMs": 116480,
+      "verbatim": "That's not how we order coffee.",
+      "display": "That's not how we order coffee.",
+      "search": "that's not how we order coffee.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:26",
+      "startMs": 116480,
+      "endMs": 119440,
+      "verbatim": "We order coffee via SSH, terminal.shop.",
+      "display": "We order coffee via SSH, terminal.shop.",
+      "search": "we order coffee via ssh, terminal.shop.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:27",
+      "startMs": 119440,
+      "endMs": 120960,
+      "verbatim": "Yeah, you want a real experience?",
+      "display": "Yeah, you want a real experience?",
+      "search": "yeah, you want a real experience?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:28",
+      "startMs": 120960,
+      "endMs": 122320,
+      "verbatim": "You want real coffee?",
+      "display": "You want real coffee?",
+      "search": "you want real coffee?",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:29",
+      "startMs": 122320,
+      "endMs": 125520,
+      "verbatim": "You want awesome subscriptions so you never have to remember again?",
+      "display": "You want awesome subscriptions so you never have to remember again?",
+      "search": "you want awesome subscriptions so you never have to remember again?",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:30",
+      "startMs": 125520,
+      "endMs": 131040,
+      "verbatim": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "display": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "search": "oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:31",
+      "startMs": 131040,
+      "endMs": 132320,
+      "verbatim": "Then check out Kron.",
+      "display": "Then check out Kron.",
+      "search": "then check out kron.",
+      "confidence": 0.709
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:32",
+      "startMs": 132320,
+      "endMs": 133760,
+      "verbatim": "You don't know what SSH is?",
+      "display": "You don't know what SSH is?",
+      "search": "you don't know what ssh is?",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:33",
+      "startMs": 134560,
+      "endMs": 136960,
+      "verbatim": "Well, maybe the coffee is not for you.",
+      "display": "Well, maybe the coffee is not for you.",
+      "search": "well, maybe the coffee is not for you.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:34",
+      "startMs": 137120,
+      "endMs": 145280,
+      "verbatim": "Terminal coffee in hand live in the tree.",
+      "display": "Terminal coffee in hand live in the tree.",
+      "search": "terminal coffee in hand live in the tree.",
+      "confidence": 0.436
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:35",
+      "startMs": 145280,
+      "endMs": 148960,
+      "verbatim": "Now, when I was a lot younger, I was about 24, 25 years old.",
+      "display": "Now, when I was a lot younger, I was about 24, 25 years old.",
+      "search": "now, when i was a lot younger, i was about 24, 25 years old.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:36",
+      "startMs": 148960,
+      "endMs": 152000,
+      "verbatim": "I was freshly married and I was attempting to start a company.",
+      "display": "I was freshly married and I was attempting to start a company.",
+      "search": "i was freshly married and i was attempting to start a company.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:37",
+      "startMs": 152000,
+      "endMs": 155840,
+      "verbatim": "One of the big things I would do is I would program for over 24 hours straight.",
+      "display": "One of the big things I would do is I would program for over 24 hours straight.",
+      "search": "one of the big things i would do is i would program for over 24 hours straight.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:38",
+      "startMs": 155840,
+      "endMs": 158160,
+      "verbatim": "And you can my wife will attest to it.",
+      "display": "And you can my wife will attest to it.",
+      "search": "and you can my wife will attest to it.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:39",
+      "startMs": 158160,
+      "endMs": 168800,
+      "verbatim": "I would sit in the studio apartment, sit next to the actual door to leave our studio apartment, and just program nonstop by myself while my wife would sleep all throughout the entire night.",
+      "display": "I would sit in the studio apartment, sit next to the actual door to leave our studio apartment, and just program nonstop by myself while my wife would sleep all throughout the entire night.",
+      "search": "i would sit in the studio apartment, sit next to the actual door to leave our studio apartment, and just program nonstop by myself while my wife would sleep all throughout the entire night.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:40",
+      "startMs": 168800,
+      "endMs": 171040,
+      "verbatim": "And that's because A, I just really loved programming.",
+      "display": "And that's because A, I just really loved programming.",
+      "search": "and that's because a, i just really loved programming.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:41",
+      "startMs": 171040,
+      "endMs": 184080,
+      "verbatim": "I loved the act of programming, but even more so, I was trying to start a company and I had this like constant fearslash anxiety that I was falling behind, that I wasn't quite actually outputting enough, that I wasn't gonna be able to launch this product successfully.",
+      "display": "I loved the act of programming, but even more so, I was trying to start a company and I had this like constant fearslash anxiety that I was falling behind, that I wasn't quite actually outputting enough, that I wasn't gonna be able to launch this product successfully.",
+      "search": "i loved the act of programming, but even more so, i was trying to start a company and i had this like constant fearslash anxiety that i was falling behind, that i wasn't quite actually outputting enough, that i wasn't gonna be able to launch this product successfully.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:42",
+      "startMs": 184080,
+      "endMs": 186720,
+      "verbatim": "And it was something that weighed on me constantly.",
+      "display": "And it was something that weighed on me constantly.",
+      "search": "and it was something that weighed on me constantly.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:43",
+      "startMs": 186720,
+      "endMs": 189200,
+      "verbatim": "All my social interactions were colored by this.",
+      "display": "All my social interactions were colored by this.",
+      "search": "all my social interactions were colored by this.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:44",
+      "startMs": 189200,
+      "endMs": 193760,
+      "verbatim": "I would often find myself hanging out with friends and then asking myself, man, I gotta get back home.",
+      "display": "I would often find myself hanging out with friends and then asking myself, man, I gotta get back home.",
+      "search": "i would often find myself hanging out with friends and then asking myself, man, i gotta get back home.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:45",
+      "startMs": 193760,
+      "endMs": 195040,
+      "verbatim": "Like this is taking too long.",
+      "display": "Like this is taking too long.",
+      "search": "like this is taking too long.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:46",
+      "startMs": 195040,
+      "endMs": 203680,
+      "verbatim": "I was like freaking out, and I was actually having almost some sort of like mental breakdown there for quite some time, quite a large period of my life.",
+      "display": "I was like freaking out, and I was actually having almost some sort of like mental breakdown there for quite some time, quite a large period of my life.",
+      "search": "i was like freaking out, and i was actually having almost some sort of like mental breakdown there for quite some time, quite a large period of my life.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:47",
+      "startMs": 203680,
+      "endMs": 205520,
+      "verbatim": "And this obviously caused a lot of issues.",
+      "display": "And this obviously caused a lot of issues.",
+      "search": "and this obviously caused a lot of issues.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:48",
+      "startMs": 205520,
+      "endMs": 209040,
+      "verbatim": "Like, honestly, it caused a lot of undue stress on my wife.",
+      "display": "Like, honestly, it caused a lot of undue stress on my wife.",
+      "search": "like, honestly, it caused a lot of undue stress on my wife.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:49",
+      "startMs": 209040,
+      "endMs": 212480,
+      "verbatim": "Uh, this actually probably hurt our marriage for quite some time.",
+      "display": "Uh, this actually probably hurt our marriage for quite some time.",
+      "search": "uh, this actually probably hurt our marriage for quite some time.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:50",
+      "startMs": 212480,
+      "endMs": 215760,
+      "verbatim": "And I do look back on that as kind of one of my more foolish moments.",
+      "display": "And I do look back on that as kind of one of my more foolish moments.",
+      "search": "and i do look back on that as kind of one of my more foolish moments.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:51",
+      "startMs": 215760,
+      "endMs": 219920,
+      "verbatim": "Now, I really do want it to be well understood that I'm not saying that you shouldn't work hard.",
+      "display": "Now, I really do want it to be well understood that I'm not saying that you shouldn't work hard.",
+      "search": "now, i really do want it to be well understood that i'm not saying that you shouldn't work hard.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:52",
+      "startMs": 219920,
+      "endMs": 226480,
+      "verbatim": "I actually am a huge proponent of, especially in your younger years, to go out there and really try hard at something.",
+      "display": "I actually am a huge proponent of, especially in your younger years, to go out there and really try hard at something.",
+      "search": "i actually am a huge proponent of, especially in your younger years, to go out there and really try hard at something.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:53",
+      "startMs": 226480,
+      "endMs": 231040,
+      "verbatim": "That you shouldn't half ass anything, two butt cheeks, whole ass that attempt.",
+      "display": "That you shouldn't half ass anything, two butt cheeks, whole ass that attempt.",
+      "search": "that you shouldn't half ass anything, two butt cheeks, whole ass that attempt.",
+      "confidence": 0.673
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:54",
+      "startMs": 231040,
+      "endMs": 241200,
+      "verbatim": "Really go out there and make the most of it because honestly, learning and becoming deeply competent at something and becoming excellent at your craft is an extremely rewarding thing.",
+      "display": "Really go out there and make the most of it because honestly, learning and becoming deeply competent at something and becoming excellent at your craft is an extremely rewarding thing.",
+      "search": "really go out there and make the most of it because honestly, learning and becoming deeply competent at something and becoming excellent at your craft is an extremely rewarding thing.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:55",
+      "startMs": 241200,
+      "endMs": 247680,
+      "verbatim": "And we live in such a world that your imagination is the only thing that's holding you back.",
+      "display": "And we live in such a world that your imagination is the only thing that's holding you back.",
+      "search": "and we live in such a world that your imagination is the only thing that's holding you back.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:56",
+      "startMs": 247680,
+      "endMs": 252960,
+      "verbatim": "And of course, that and the fable five limits that they keep on resetting for us over and over again.",
+      "display": "And of course, that and the fable five limits that they keep on resetting for us over and over again.",
+      "search": "and of course, that and the fable five limits that they keep on resetting for us over and over again.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:57",
+      "startMs": 252960,
+      "endMs": 256800,
+      "verbatim": "Come on, Dario, just give me a couple, just give me a couple more of them tokens, Dario!",
+      "display": "Come on, Dario, just give me a couple, just give me a couple more of them tokens, Dario!",
+      "search": "come on, dario, just give me a couple, just give me a couple more of them tokens, dario!",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:58",
+      "startMs": 256800,
+      "endMs": 262000,
+      "verbatim": "And the reason why I tell you that is that you'll probably notice that there's a lot of similarities to the things you're seeing.",
+      "display": "And the reason why I tell you that is that you'll probably notice that there's a lot of similarities to the things you're seeing.",
+      "search": "and the reason why i tell you that is that you'll probably notice that there's a lot of similarities to the things you're seeing.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:59",
+      "startMs": 262000,
+      "endMs": 266080,
+      "verbatim": "People are feeling the same kind of general, like, oh, we're gonna be left behind.",
+      "display": "People are feeling the same kind of general, like, oh, we're gonna be left behind.",
+      "search": "people are feeling the same kind of general, like, oh, we're gonna be left behind.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:60",
+      "startMs": 266080,
+      "endMs": 269440,
+      "verbatim": "Now, the reason why I felt it is obviously very, very different.",
+      "display": "Now, the reason why I felt it is obviously very, very different.",
+      "search": "now, the reason why i felt it is obviously very, very different.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:61",
+      "startMs": 269440,
+      "endMs": 270800,
+      "verbatim": "I was trying to start a company.",
+      "display": "I was trying to start a company.",
+      "search": "i was trying to start a company.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:62",
+      "startMs": 270800,
+      "endMs": 272400,
+      "verbatim": "There were competitors in the space.",
+      "display": "There were competitors in the space.",
+      "search": "there were competitors in the space.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:63",
+      "startMs": 272400,
+      "endMs": 274000,
+      "verbatim": "I wanted to be the best one.",
+      "display": "I wanted to be the best one.",
+      "search": "i wanted to be the best one.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:64",
+      "startMs": 274000,
+      "endMs": 278160,
+      "verbatim": "Now, that is gonna cause a natural kind of competition, slash, oh, I better hurry up.",
+      "display": "Now, that is gonna cause a natural kind of competition, slash, oh, I better hurry up.",
+      "search": "now, that is gonna cause a natural kind of competition, slash, oh, i better hurry up.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:65",
+      "startMs": 278160,
+      "endMs": 279600,
+      "verbatim": "I don't want to be left behind.",
+      "display": "I don't want to be left behind.",
+      "search": "i don't want to be left behind.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:66",
+      "startMs": 279600,
+      "endMs": 294080,
+      "verbatim": "Now, this did not come from a general angst that everyone's gonna be left behind, that this AI hype beast ain't stopping, and jobs are in between the AI hype beast and its goal, and it's gonna ramrod most of them away, and everybody's gonna become part of the permanent underclass.",
+      "display": "Now, this did not come from a general angst that everyone's gonna be left behind, that this AI hype beast ain't stopping, and jobs are in between the AI hype beast and its goal, and it's gonna ramrod most of them away, and everybody's gonna become part of the permanent underclass.",
+      "search": "now, this did not come from a general angst that everyone's gonna be left behind, that this ai hype beast ain't stopping, and jobs are in between the ai hype beast and its goal, and it's gonna ramrod most of them away, and everybody's gonna become part of the permanent underclass.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:67",
+      "startMs": 294080,
+      "endMs": 304000,
+      "verbatim": "And this is kind of like this new wave, this new talking point that you see nonstop, where people are just constantly telling you that you're missing out, that you're going to be left behind.",
+      "display": "And this is kind of like this new wave, this new talking point that you see nonstop, where people are just constantly telling you that you're missing out, that you're going to be left behind.",
+      "search": "and this is kind of like this new wave, this new talking point that you see nonstop, where people are just constantly telling you that you're missing out, that you're going to be left behind.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:68",
+      "startMs": 304000,
+      "endMs": 311360,
+      "verbatim": "Now, the same person, Seth Rose, that actually gave me that nice list of all the different kind of statements and studies, kind of going over this feeling.",
+      "display": "Now, the same person, Seth Rose, that actually gave me that nice list of all the different kind of statements and studies, kind of going over this feeling.",
+      "search": "now, the same person, seth rose, that actually gave me that nice list of all the different kind of statements and studies, kind of going over this feeling.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:69",
+      "startMs": 311360,
+      "endMs": 313440,
+      "verbatim": "I just said, Hey, you're not being left behind.",
+      "display": "I just said, Hey, you're not being left behind.",
+      "search": "i just said, hey, you're not being left behind.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:70",
+      "startMs": 313440,
+      "endMs": 319360,
+      "verbatim": "And he said, I know it's weird because it's the feeling of falling behind, not necessarily the reality.",
+      "display": "And he said, I know it's weird because it's the feeling of falling behind, not necessarily the reality.",
+      "search": "and he said, i know it's weird because it's the feeling of falling behind, not necessarily the reality.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:71",
+      "startMs": 319360,
+      "endMs": 324000,
+      "verbatim": "When models and tools are changing every few days, it creates that constant shit.",
+      "display": "When models and tools are changing every few days, it creates that constant shit.",
+      "search": "when models and tools are changing every few days, it creates that constant shit.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:72",
+      "startMs": 324000,
+      "endMs": 326640,
+      "verbatim": "I need to keep up mentality, and it's super toxic.",
+      "display": "I need to keep up mentality, and it's super toxic.",
+      "search": "i need to keep up mentality, and it's super toxic.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:73",
+      "startMs": 326640,
+      "endMs": 329760,
+      "verbatim": "I realize I'm in a bubble and already ahead of so many people.",
+      "display": "I realize I'm in a bubble and already ahead of so many people.",
+      "search": "i realize i'm in a bubble and already ahead of so many people.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:74",
+      "startMs": 329760,
+      "endMs": 338960,
+      "verbatim": "This AI thing is it's not the first time this has happened, and it's happened to a lot of people in a lot of different situations, including just generally to a whole bunch of people graduating.",
+      "display": "This AI thing is it's not the first time this has happened, and it's happened to a lot of people in a lot of different situations, including just generally to a whole bunch of people graduating.",
+      "search": "this ai thing is it's not the first time this has happened, and it's happened to a lot of people in a lot of different situations, including just generally to a whole bunch of people graduating.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:75",
+      "startMs": 338960,
+      "endMs": 351200,
+      "verbatim": "Like, how many people graduating during 2020, 2021 or going through boot camps felt this just onslaught of all these different technologies they had to learn or they were gonna be falling behind?",
+      "display": "Like, how many people graduating during 2020, 2021 or going through boot camps felt this just onslaught of all these different technologies they had to learn or they were gonna be falling behind?",
+      "search": "like, how many people graduating during 2020, 2021 or going through boot camps felt this just onslaught of all these different technologies they had to learn or they were gonna be falling behind?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:76",
+      "startMs": 351200,
+      "endMs": 356640,
+      "verbatim": "I remember actually getting in an argument on Twitter saying, hey, React Server Components are not that big of a deal.",
+      "display": "I remember actually getting in an argument on Twitter saying, hey, React Server Components are not that big of a deal.",
+      "search": "i remember actually getting in an argument on twitter saying, hey, react server components are not that big of a deal.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:77",
+      "startMs": 356640,
+      "endMs": 358080,
+      "verbatim": "I don't think you need to use them.",
+      "display": "I don't think you need to use them.",
+      "search": "i don't think you need to use them.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:78",
+      "startMs": 358080,
+      "endMs": 360560,
+      "verbatim": "I don't think you need to go and switch your company over to them.",
+      "display": "I don't think you need to go and switch your company over to them.",
+      "search": "i don't think you need to go and switch your company over to them.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:79",
+      "startMs": 360560,
+      "endMs": 363200,
+      "verbatim": "I don't think your resume needs to be sprinkled with them.",
+      "display": "I don't think your resume needs to be sprinkled with them.",
+      "search": "i don't think your resume needs to be sprinkled with them.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:80",
+      "startMs": 363200,
+      "endMs": 365120,
+      "verbatim": "I think you're gonna be going down the wrong way.",
+      "display": "I think you're gonna be going down the wrong way.",
+      "search": "i think you're gonna be going down the wrong way.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:81",
+      "startMs": 365120,
+      "endMs": 369760,
+      "verbatim": "And I still, I mean, hey, I still actually feel justified by that with all the different vulnerabilities and everything.",
+      "display": "And I still, I mean, hey, I still actually feel justified by that with all the different vulnerabilities and everything.",
+      "search": "and i still, i mean, hey, i still actually feel justified by that with all the different vulnerabilities and everything.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:82",
+      "startMs": 369760,
+      "endMs": 373840,
+      "verbatim": "But I had people quote tweet me being like, this guy gives you the worst advice.",
+      "display": "But I had people quote tweet me being like, this guy gives you the worst advice.",
+      "search": "but i had people quote tweet me being like, this guy gives you the worst advice.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:83",
+      "startMs": 373840,
+      "endMs": 380240,
+      "verbatim": "If you're not keeping up, if you're not just like it's just causing this swirl and this anxiousness in people.",
+      "display": "If you're not keeping up, if you're not just like it's just causing this swirl and this anxiousness in people.",
+      "search": "if you're not keeping up, if you're not just like it's just causing this swirl and this anxiousness in people.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:84",
+      "startMs": 380240,
+      "endMs": 389280,
+      "verbatim": "And I just really want to make sure that people understand that if every single day you are learning and you're making a step forward, that's a good day.",
+      "display": "And I just really want to make sure that people understand that if every single day you are learning and you're making a step forward, that's a good day.",
+      "search": "and i just really want to make sure that people understand that if every single day you are learning and you're making a step forward, that's a good day.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:85",
+      "startMs": 389280,
+      "endMs": 390080,
+      "verbatim": "And guess what?",
+      "display": "And guess what?",
+      "search": "and guess what?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:86",
+      "startMs": 390080,
+      "endMs": 395680,
+      "verbatim": "On a couple days, if you take a weekend off, that's not gonna dramatically change the course of your life.",
+      "display": "On a couple days, if you take a weekend off, that's not gonna dramatically change the course of your life.",
+      "search": "on a couple days, if you take a weekend off, that's not gonna dramatically change the course of your life.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:87",
+      "startMs": 395680,
+      "endMs": 408640,
+      "verbatim": "And that's what people don't understand is that, and I had to unfortunately learn it by kind of hurting my marriage and not being a good husband and really not being a great father during my kids' very early years, is that I didn't know how to step away.",
+      "display": "And that's what people don't understand is that, and I had to unfortunately learn it by kind of hurting my marriage and not being a good husband and really not being a great father during my kids' very early years, is that I didn't know how to step away.",
+      "search": "and that's what people don't understand is that, and i had to unfortunately learn it by kind of hurting my marriage and not being a good husband and really not being a great father during my kids' very early years, is that i didn't know how to step away.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:88",
+      "startMs": 408640,
+      "endMs": 410080,
+      "verbatim": "I didn't know how to take that break.",
+      "display": "I didn't know how to take that break.",
+      "search": "i didn't know how to take that break.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:89",
+      "startMs": 410080,
+      "endMs": 412480,
+      "verbatim": "And honestly, I still struggle with that today.",
+      "display": "And honestly, I still struggle with that today.",
+      "search": "and honestly, i still struggle with that today.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:90",
+      "startMs": 412480,
+      "endMs": 427040,
+      "verbatim": "It's like such a learned or ingrained problem inside of me that I have to learn how to step away from things because ultimately, taking a day off, taking a bit of time off, is not gonna dramatically alter the course of your life.",
+      "display": "It's like such a learned or ingrained problem inside of me that I have to learn how to step away from things because ultimately, taking a day off, taking a bit of time off, is not gonna dramatically alter the course of your life.",
+      "search": "it's like such a learned or ingrained problem inside of me that i have to learn how to step away from things because ultimately, taking a day off, taking a bit of time off, is not gonna dramatically alter the course of your life.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:91",
+      "startMs": 427040,
+      "endMs": 432880,
+      "verbatim": "Being engaged and focused and working hard when it's time to work, that is gonna pay tons of dividends.",
+      "display": "Being engaged and focused and working hard when it's time to work, that is gonna pay tons of dividends.",
+      "search": "being engaged and focused and working hard when it's time to work, that is gonna pay tons of dividends.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:92",
+      "startMs": 432880,
+      "endMs": 438160,
+      "verbatim": "Learning and actually understanding the underlying thing instead of pressing the I'm gonna be lucky tonight button.",
+      "display": "Learning and actually understanding the underlying thing instead of pressing the I'm gonna be lucky tonight button.",
+      "search": "learning and actually understanding the underlying thing instead of pressing the i'm gonna be lucky tonight button.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:93",
+      "startMs": 438160,
+      "endMs": 440480,
+      "verbatim": "Yeah, that's gonna pay off a lot of dividends.",
+      "display": "Yeah, that's gonna pay off a lot of dividends.",
+      "search": "yeah, that's gonna pay off a lot of dividends.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:94",
+      "startMs": 440480,
+      "endMs": 443040,
+      "verbatim": "So choose the good things, choose the good work.",
+      "display": "So choose the good things, choose the good work.",
+      "search": "so choose the good things, choose the good work.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:95",
+      "startMs": 443040,
+      "endMs": 444640,
+      "verbatim": "You don't have to keep up with everything.",
+      "display": "You don't have to keep up with everything.",
+      "search": "you don't have to keep up with everything.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:96",
+      "startMs": 444640,
+      "endMs": 449520,
+      "verbatim": "And I do want to say this also when Chat Gipity 3.5 came out, this was not that long ago.",
+      "display": "And I do want to say this also when Chat Gipity 3.5 came out, this was not that long ago.",
+      "search": "and i do want to say this also when chat gipity 3.5 came out, this was not that long ago.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:97",
+      "startMs": 449520,
+      "endMs": 453200,
+      "verbatim": "People actually looked at Chat Gipity 3.5 and said, That's replacing me.",
+      "display": "People actually looked at Chat Gipity 3.5 and said, That's replacing me.",
+      "search": "people actually looked at chat gipity 3.5 and said, that's replacing me.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:98",
+      "startMs": 453200,
+      "endMs": 454640,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.279
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:99",
+      "startMs": 454880,
+      "endMs": 456400,
+      "verbatim": "That's crazy, right?",
+      "display": "That's crazy, right?",
+      "search": "that's crazy, right?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:100",
+      "startMs": 456400,
+      "endMs": 465520,
+      "verbatim": "But people looked at that, they said that, and what did you constantly hear during the Chat Gipity 3.5 and the Opus 3, Opus 3.5 uh era?",
+      "display": "But people looked at that, they said that, and what did you constantly hear during the Chat Gipity 3.5 and the Opus 3, Opus 3.5 uh era?",
+      "search": "but people looked at that, they said that, and what did you constantly hear during the chat gipity 3.5 and the opus 3, opus 3.5 uh era?",
+      "confidence": 0.705
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:101",
+      "startMs": 465520,
+      "endMs": 467680,
+      "verbatim": "Oh, if you're not using these tools, you're gonna be left behind.",
+      "display": "Oh, if you're not using these tools, you're gonna be left behind.",
+      "search": "oh, if you're not using these tools, you're gonna be left behind.",
+      "confidence": 0.99
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:102",
+      "startMs": 467680,
+      "endMs": 469440,
+      "verbatim": "Anything you did during that time useful?",
+      "display": "Anything you did during that time useful?",
+      "search": "anything you did during that time useful?",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:103",
+      "startMs": 469440,
+      "endMs": 470240,
+      "verbatim": "Virtually none.",
+      "display": "Virtually none.",
+      "search": "virtually none.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:104",
+      "startMs": 470240,
+      "endMs": 476800,
+      "verbatim": "The way you set up context, the way you use it, the way you interact with it today looks almost nothing like it did in the beginning.",
+      "display": "The way you set up context, the way you use it, the way you interact with it today looks almost nothing like it did in the beginning.",
+      "search": "the way you set up context, the way you use it, the way you interact with it today looks almost nothing like it did in the beginning.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:105",
+      "startMs": 476800,
+      "endMs": 486800,
+      "verbatim": "Yet in the beginning, so many people were given this kind of hype, scared mentality that if they're not completely engaged in the most latest and greatest ways to do something, they're gonna fall behind.",
+      "display": "Yet in the beginning, so many people were given this kind of hype, scared mentality that if they're not completely engaged in the most latest and greatest ways to do something, they're gonna fall behind.",
+      "search": "yet in the beginning, so many people were given this kind of hype, scared mentality that if they're not completely engaged in the most latest and greatest ways to do something, they're gonna fall behind.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:106",
+      "startMs": 486800,
+      "endMs": 487760,
+      "verbatim": "And now look at it.",
+      "display": "And now look at it.",
+      "search": "and now look at it.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:107",
+      "startMs": 487760,
+      "endMs": 491680,
+      "verbatim": "Every last single thing about that era is effectively void.",
+      "display": "Every last single thing about that era is effectively void.",
+      "search": "every last single thing about that era is effectively void.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:108",
+      "startMs": 491680,
+      "endMs": 493680,
+      "verbatim": "You're not falling behind.",
+      "display": "You're not falling behind.",
+      "search": "you're not falling behind.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:109",
+      "startMs": 493680,
+      "endMs": 494800,
+      "verbatim": "And I do mean that.",
+      "display": "And I do mean that.",
+      "search": "and i do mean that.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:110",
+      "startMs": 494800,
+      "endMs": 496000,
+      "verbatim": "You're not falling behind.",
+      "display": "You're not falling behind.",
+      "search": "you're not falling behind.",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:111",
+      "startMs": 496000,
+      "endMs": 497840,
+      "verbatim": "All right, now time for my boy George Hotz.",
+      "display": "All right, now time for my boy George Hotz.",
+      "search": "all right, now time for my boy george hotz.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:112",
+      "startMs": 497840,
+      "endMs": 499840,
+      "verbatim": "Hey, by the way, George Hotz, open invite.",
+      "display": "Hey, by the way, George Hotz, open invite.",
+      "search": "hey, by the way, george hotz, open invite.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:113",
+      "startMs": 499840,
+      "endMs": 503760,
+      "verbatim": "Uh anytime you want to come onto the stand up and yap, let me know.",
+      "display": "Uh anytime you want to come onto the stand up and yap, let me know.",
+      "search": "uh anytime you want to come onto the stand up and yap, let me know.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:114",
+      "startMs": 503760,
+      "endMs": 506320,
+      "verbatim": "I love LLMs, I hate the hype.",
+      "display": "I love LLMs, I hate the hype.",
+      "search": "i love llms, i hate the hype.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:115",
+      "startMs": 506320,
+      "endMs": 509120,
+      "verbatim": "Now, there's a couple things I wanted to point out in this blog post.",
+      "display": "Now, there's a couple things I wanted to point out in this blog post.",
+      "search": "now, there's a couple things i wanted to point out in this blog post.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:116",
+      "startMs": 509120,
+      "endMs": 515840,
+      "verbatim": "First off, this one right here, I set up a Linux box with open code on my local GLM 5.2 last week.",
+      "display": "First off, this one right here, I set up a Linux box with open code on my local GLM 5.2 last week.",
+      "search": "first off, this one right here, i set up a linux box with open code on my local glm 5.2 last week.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:117",
+      "startMs": 515840,
+      "endMs": 521440,
+      "verbatim": "Bro, is flexing just running a quick local GLM 5.2.",
+      "display": "Bro, is flexing just running a quick local GLM 5.2.",
+      "search": "bro, is flexing just running a quick local glm 5.2.",
+      "confidence": 0.668
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:118",
+      "startMs": 521440,
+      "endMs": 524240,
+      "verbatim": "Damn, that's a sweet ass machine you got there.",
+      "display": "Damn, that's a sweet ass machine you got there.",
+      "search": "damn, that's a sweet ass machine you got there.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:119",
+      "startMs": 524240,
+      "endMs": 526080,
+      "verbatim": "Also, open code, good choice.",
+      "display": "Also, open code, good choice.",
+      "search": "also, open code, good choice.",
+      "confidence": 0.711
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:120",
+      "startMs": 526080,
+      "endMs": 526560,
+      "verbatim": "Love it.",
+      "display": "Love it.",
+      "search": "love it.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:121",
+      "startMs": 526560,
+      "endMs": 530480,
+      "verbatim": "And wow, I just said install Tmux with GeoHot configuration works.",
+      "display": "And wow, I just said install Tmux with GeoHot configuration works.",
+      "search": "and wow, i just said install tmux with geohot configuration works.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:122",
+      "startMs": 530480,
+      "endMs": 532640,
+      "verbatim": "The year of the Linux desktop is finally here.",
+      "display": "The year of the Linux desktop is finally here.",
+      "search": "the year of the linux desktop is finally here.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:123",
+      "startMs": 532640,
+      "endMs": 533280,
+      "verbatim": "Let's go.",
+      "display": "Let's go.",
+      "search": "let's go.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:124",
+      "startMs": 533280,
+      "endMs": 537680,
+      "verbatim": "It's actually not because of models, it's because Microsoft keeps fumbling the bag.",
+      "display": "It's actually not because of models, it's because Microsoft keeps fumbling the bag.",
+      "search": "it's actually not because of models, it's because microsoft keeps fumbling the bag.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:125",
+      "startMs": 537680,
+      "endMs": 542400,
+      "verbatim": "But I really specifically wanted to read these two paragraphs because I think they are incredible.",
+      "display": "But I really specifically wanted to read these two paragraphs because I think they are incredible.",
+      "search": "but i really specifically wanted to read these two paragraphs because i think they are incredible.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:126",
+      "startMs": 542400,
+      "endMs": 544800,
+      "verbatim": "What I don't like is two things.",
+      "display": "What I don't like is two things.",
+      "search": "what i don't like is two things.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:127",
+      "startMs": 544800,
+      "endMs": 551360,
+      "verbatim": "One, the constant bullshit about the window closing or the perpetual underclass or falling hopelessly behind.",
+      "display": "One, the constant bullshit about the window closing or the perpetual underclass or falling hopelessly behind.",
+      "search": "one, the constant bullshit about the window closing or the perpetual underclass or falling hopelessly behind.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:128",
+      "startMs": 551360,
+      "endMs": 553680,
+      "verbatim": "This is negative valence hype.",
+      "display": "This is negative valence hype.",
+      "search": "this is negative valence hype.",
+      "confidence": 0.67
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:129",
+      "startMs": 553680,
+      "endMs": 564960,
+      "verbatim": "Not only is it not true, it's mostly designed to make you feel bad about yourself and to move to shitty San Francisco where everything really does suck, like how these people claim.",
+      "display": "Not only is it not true, it's mostly designed to make you feel bad about yourself and to move to shitty San Francisco where everything really does suck, like how these people claim.",
+      "search": "not only is it not true, it's mostly designed to make you feel bad about yourself and to move to shitty san francisco where everything really does suck, like how these people claim.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:130",
+      "startMs": 564960,
+      "endMs": 567360,
+      "verbatim": "We don't love George Hotz enough, okay?",
+      "display": "We don't love George Hotz enough, okay?",
+      "search": "we don't love george hotz enough, okay?",
+      "confidence": 0.728
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:131",
+      "startMs": 567360,
+      "endMs": 569120,
+      "verbatim": "We don't love him enough.",
+      "display": "We don't love him enough.",
+      "search": "we don't love him enough.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:132",
+      "startMs": 569120,
+      "endMs": 577520,
+      "verbatim": "And two, the straw man jumped from, oh hey, it's a fancy autocomplete, smart compiler, better search engine, to it's gonna like own the whole light cone, bro.",
+      "display": "And two, the straw man jumped from, oh hey, it's a fancy autocomplete, smart compiler, better search engine, to it's gonna like own the whole light cone, bro.",
+      "search": "and two, the straw man jumped from, oh hey, it's a fancy autocomplete, smart compiler, better search engine, to it's gonna like own the whole light cone, bro.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:133",
+      "startMs": 577520,
+      "endMs": 584640,
+      "verbatim": "Like if you aren't in SF and at the right parties, there's gonna be a flash of light in the sky one day, and you're not even gonna know what happened.",
+      "display": "Like if you aren't in SF and at the right parties, there's gonna be a flash of light in the sky one day, and you're not even gonna know what happened.",
+      "search": "like if you aren't in sf and at the right parties, there's gonna be a flash of light in the sky one day, and you're not even gonna know what happened.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:134",
+      "startMs": 584640,
+      "endMs": 585920,
+      "verbatim": "But everything just changed.",
+      "display": "But everything just changed.",
+      "search": "but everything just changed.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:135",
+      "startMs": 585920,
+      "endMs": 587920,
+      "verbatim": "He's talking about it like Jesus is coming back.",
+      "display": "He's talking about it like Jesus is coming back.",
+      "search": "he's talking about it like jesus is coming back.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:136",
+      "startMs": 587920,
+      "endMs": 588880,
+      "verbatim": "This is crazy.",
+      "display": "This is crazy.",
+      "search": "this is crazy.",
+      "confidence": 0.656
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:137",
+      "startMs": 588880,
+      "endMs": 592080,
+      "verbatim": "I'll bet everything I have that this doesn't happen.",
+      "display": "I'll bet everything I have that this doesn't happen.",
+      "search": "i'll bet everything i have that this doesn't happen.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:138",
+      "startMs": 592080,
+      "endMs": 600560,
+      "verbatim": "The people perpetuating this are terrible people, but the justice is that this is how they feel inside all the time themselves.",
+      "display": "The people perpetuating this are terrible people, but the justice is that this is how they feel inside all the time themselves.",
+      "search": "the people perpetuating this are terrible people, but the justice is that this is how they feel inside all the time themselves.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:139",
+      "startMs": 600560,
+      "endMs": 601360,
+      "verbatim": "Now, two things.",
+      "display": "Now, two things.",
+      "search": "now, two things.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:140",
+      "startMs": 601360,
+      "endMs": 604800,
+      "verbatim": "Obviously, first off, he says everything way cooler than I ever say.",
+      "display": "Obviously, first off, he says everything way cooler than I ever say.",
+      "search": "obviously, first off, he says everything way cooler than i ever say.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:141",
+      "startMs": 604800,
+      "endMs": 608720,
+      "verbatim": "Dude, I just I just love I just loved all those words in that particular order.",
+      "display": "Dude, I just I just love I just loved all those words in that particular order.",
+      "search": "dude, i just i just love i just loved all those words in that particular order.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:142",
+      "startMs": 608720,
+      "endMs": 610320,
+      "verbatim": "It was absolutely fantastic.",
+      "display": "It was absolutely fantastic.",
+      "search": "it was absolutely fantastic.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:143",
+      "startMs": 610320,
+      "endMs": 612400,
+      "verbatim": "But also, can we just take aside?",
+      "display": "But also, can we just take aside?",
+      "search": "but also, can we just take aside?",
+      "confidence": 0.748
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:144",
+      "startMs": 612400,
+      "endMs": 616400,
+      "verbatim": "I didn't I didn't realize that George Hotz was related to GK Chesterton.",
+      "display": "I didn't I didn't realize that George Hotz was related to GK Chesterton.",
+      "search": "i didn't i didn't realize that george hotz was related to gk chesterton.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:145",
+      "startMs": 616400,
+      "endMs": 620560,
+      "verbatim": "I mean, this man is writing like he's a philosopher from 1927.",
+      "display": "I mean, this man is writing like he's a philosopher from 1927.",
+      "search": "i mean, this man is writing like he's a philosopher from 1927.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:146",
+      "startMs": 620560,
+      "endMs": 622320,
+      "verbatim": "What is going on here?",
+      "display": "What is going on here?",
+      "search": "what is going on here?",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:147",
+      "startMs": 622320,
+      "endMs": 623680,
+      "verbatim": "But he's absolutely right.",
+      "display": "But he's absolutely right.",
+      "search": "but he's absolutely right.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:148",
+      "startMs": 623680,
+      "endMs": 628560,
+      "verbatim": "At the end of the day, you're not being left behind in this moment if you're not token maxing, okay?",
+      "display": "At the end of the day, you're not being left behind in this moment if you're not token maxing, okay?",
+      "search": "at the end of the day, you're not being left behind in this moment if you're not token maxing, okay?",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:149",
+      "startMs": 628560,
+      "endMs": 632880,
+      "verbatim": "These companies telling you to go token max, they make money off of you token maxing.",
+      "display": "These companies telling you to go token max, they make money off of you token maxing.",
+      "search": "these companies telling you to go token max, they make money off of you token maxing.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:150",
+      "startMs": 632960,
+      "endMs": 634320,
+      "verbatim": "You do understand that, right?",
+      "display": "You do understand that, right?",
+      "search": "you do understand that, right?",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:151",
+      "startMs": 634320,
+      "endMs": 643600,
+      "verbatim": "Don't you realize that there's a little bit of a perverse incentive when the people who are selling shovels telling you the only thing you ever need to practice or do is dig holes?",
+      "display": "Don't you realize that there's a little bit of a perverse incentive when the people who are selling shovels telling you the only thing you ever need to practice or do is dig holes?",
+      "search": "don't you realize that there's a little bit of a perverse incentive when the people who are selling shovels telling you the only thing you ever need to practice or do is dig holes?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:152",
+      "startMs": 643600,
+      "endMs": 646080,
+      "verbatim": "Now, I'm not saying that you shouldn't go investigate.",
+      "display": "Now, I'm not saying that you shouldn't go investigate.",
+      "search": "now, i'm not saying that you shouldn't go investigate.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:153",
+      "startMs": 646080,
+      "endMs": 652560,
+      "verbatim": "In fact, right now, if we go over here and we jump right over to here, you'll see I actually have a little loopity loop running right here.",
+      "display": "In fact, right now, if we go over here and we jump right over to here, you'll see I actually have a little loopity loop running right here.",
+      "search": "in fact, right now, if we go over here and we jump right over to here, you'll see i actually have a little loopity loop running right here.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:154",
+      "startMs": 652560,
+      "endMs": 654560,
+      "verbatim": "Because I want to know, does this actually work?",
+      "display": "Because I want to know, does this actually work?",
+      "search": "because i want to know, does this actually work?",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:155",
+      "startMs": 654560,
+      "endMs": 660800,
+      "verbatim": "Is this a waste of time or is this something that's actually super duper valuable and I should spend more time kind of being in tune with it?",
+      "display": "Is this a waste of time or is this something that's actually super duper valuable and I should spend more time kind of being in tune with it?",
+      "search": "is this a waste of time or is this something that's actually super duper valuable and i should spend more time kind of being in tune with it?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:156",
+      "startMs": 660800,
+      "endMs": 666560,
+      "verbatim": "Because at the end of the day, I want to have an informed opinion, but I'm also just not betting everything on this.",
+      "display": "Because at the end of the day, I want to have an informed opinion, but I'm also just not betting everything on this.",
+      "search": "because at the end of the day, i want to have an informed opinion, but i'm also just not betting everything on this.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:157",
+      "startMs": 666560,
+      "endMs": 670880,
+      "verbatim": "And I understand the risk of just spending entirely too much money with this thing.",
+      "display": "And I understand the risk of just spending entirely too much money with this thing.",
+      "search": "and i understand the risk of just spending entirely too much money with this thing.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:158",
+      "startMs": 670880,
+      "endMs": 675120,
+      "verbatim": "So, my personal best advice is this enjoy this time period.",
+      "display": "So, my personal best advice is this enjoy this time period.",
+      "search": "so, my personal best advice is this enjoy this time period.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:159",
+      "startMs": 675120,
+      "endMs": 678320,
+      "verbatim": "You get to build whatever you want, you get to investigate whatever you want.",
+      "display": "You get to build whatever you want, you get to investigate whatever you want.",
+      "search": "you get to build whatever you want, you get to investigate whatever you want.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:160",
+      "startMs": 678320,
+      "endMs": 689200,
+      "verbatim": "When you don't understand something, you get to ask something that is a fantastic search engine that can bring up the answer to what you're asking, even in just some terrible English like I have, it still works.",
+      "display": "When you don't understand something, you get to ask something that is a fantastic search engine that can bring up the answer to what you're asking, even in just some terrible English like I have, it still works.",
+      "search": "when you don't understand something, you get to ask something that is a fantastic search engine that can bring up the answer to what you're asking, even in just some terrible english like i have, it still works.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:161",
+      "startMs": 689200,
+      "endMs": 690480,
+      "verbatim": "I never got that.",
+      "display": "I never got that.",
+      "search": "i never got that.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:162",
+      "startMs": 690480,
+      "endMs": 694240,
+      "verbatim": "When I had a question, my best solution was Stack Overflow.",
+      "display": "When I had a question, my best solution was Stack Overflow.",
+      "search": "when i had a question, my best solution was stack overflow.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:163",
+      "startMs": 694240,
+      "endMs": 697120,
+      "verbatim": "And if it wasn't on Stack Overflow, I'm reading the code.",
+      "display": "And if it wasn't on Stack Overflow, I'm reading the code.",
+      "search": "and if it wasn't on stack overflow, i'm reading the code.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:164",
+      "startMs": 697120,
+      "endMs": 699040,
+      "verbatim": "Like, that's it, those were my two options.",
+      "display": "Like, that's it, those were my two options.",
+      "search": "like, that's it, those were my two options.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:165",
+      "startMs": 699040,
+      "endMs": 700480,
+      "verbatim": "I couldn't be like, yo, this is broken.",
+      "display": "I couldn't be like, yo, this is broken.",
+      "search": "i couldn't be like, yo, this is broken.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:166",
+      "startMs": 700480,
+      "endMs": 701120,
+      "verbatim": "What's going on?",
+      "display": "What's going on?",
+      "search": "what's going on?",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:167",
+      "startMs": 701120,
+      "endMs": 703040,
+      "verbatim": "Why, why, why poor K does this happen?",
+      "display": "Why, why, why poor K does this happen?",
+      "search": "why, why, why poor k does this happen?",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:168",
+      "startMs": 703040,
+      "endMs": 706880,
+      "verbatim": "In fact, last night I accidentally introduced a regression into the game I was building.",
+      "display": "In fact, last night I accidentally introduced a regression into the game I was building.",
+      "search": "in fact, last night i accidentally introduced a regression into the game i was building.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:169",
+      "startMs": 706880,
+      "endMs": 710480,
+      "verbatim": "So I was just like, yo, launch perf and tell me what function did I just screw up.",
+      "display": "So I was just like, yo, launch perf and tell me what function did I just screw up.",
+      "search": "so i was just like, yo, launch perf and tell me what function did i just screw up.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:170",
+      "startMs": 710480,
+      "endMs": 714240,
+      "verbatim": "It went off and a half an hour later sent me back, being like, yo, here you go.",
+      "display": "It went off and a half an hour later sent me back, being like, yo, here you go.",
+      "search": "it went off and a half an hour later sent me back, being like, yo, here you go.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:171",
+      "startMs": 714240,
+      "endMs": 715520,
+      "verbatim": "Here's exactly what you did wrong.",
+      "display": "Here's exactly what you did wrong.",
+      "search": "here's exactly what you did wrong.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:172",
+      "startMs": 715520,
+      "endMs": 717280,
+      "verbatim": "And I was like, oh yeah, I remember doing that.",
+      "display": "And I was like, oh yeah, I remember doing that.",
+      "search": "and i was like, oh yeah, i remember doing that.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:173",
+      "startMs": 717280,
+      "endMs": 718800,
+      "verbatim": "That makes me a complete idiot.",
+      "display": "That makes me a complete idiot.",
+      "search": "that makes me a complete idiot.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:174",
+      "startMs": 718800,
+      "endMs": 719680,
+      "verbatim": "That is incredible.",
+      "display": "That is incredible.",
+      "search": "that is incredible.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:175",
+      "startMs": 719680,
+      "endMs": 720800,
+      "verbatim": "Like, that is fantastic.",
+      "display": "Like, that is fantastic.",
+      "search": "like, that is fantastic.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:176",
+      "startMs": 720800,
+      "endMs": 723120,
+      "verbatim": "That saved me a lot of time and it was super cool.",
+      "display": "That saved me a lot of time and it was super cool.",
+      "search": "that saved me a lot of time and it was super cool.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:177",
+      "startMs": 723120,
+      "endMs": 727200,
+      "verbatim": "So just like have fun, go explore, see what you can build.",
+      "display": "So just like have fun, go explore, see what you can build.",
+      "search": "so just like have fun, go explore, see what you can build.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:178",
+      "startMs": 727200,
+      "endMs": 733040,
+      "verbatim": "This is a one of the few time periods in which nobody knows what the future is actually going to hold right now.",
+      "display": "This is a one of the few time periods in which nobody knows what the future is actually going to hold right now.",
+      "search": "this is a one of the few time periods in which nobody knows what the future is actually going to hold right now.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:179",
+      "startMs": 733040,
+      "endMs": 744480,
+      "verbatim": "I have no idea, but I can tell you this much that learning and becoming better at your craft, still like I said a couple years ago, like I said last year, and like I still say today, is an excellent choice.",
+      "display": "I have no idea, but I can tell you this much that learning and becoming better at your craft, still like I said a couple years ago, like I said last year, and like I still say today, is an excellent choice.",
+      "search": "i have no idea, but i can tell you this much that learning and becoming better at your craft, still like i said a couple years ago, like i said last year, and like i still say today, is an excellent choice.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:180",
+      "startMs": 744480,
+      "endMs": 747200,
+      "verbatim": "And I don't think you're being left behind.",
+      "display": "And I don't think you're being left behind.",
+      "search": "and i don't think you're being left behind.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:0F5zG1RQ4Ig:segment:181",
+      "startMs": 747680,
+      "endMs": 750160,
+      "verbatim": "The name is the data gen.",
+      "display": "The name is the data gen.",
+      "search": "the name is the data gen.",
+      "confidence": 0.523
+    }
+  ]
+}

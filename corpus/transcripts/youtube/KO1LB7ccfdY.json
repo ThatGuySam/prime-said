@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_7eaa2faf6dfab664a980df2d",
+  "sourceId": "youtube:KO1LB7ccfdY",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T22:57:46.151Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:1",
+      "startMs": 160,
+      "endMs": 1440,
+      "verbatim": "Welcome to the stand-up.",
+      "display": "Welcome to the stand-up.",
+      "search": "welcome to the stand-up.",
+      "confidence": 0.655
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:2",
+      "startMs": 1440,
+      "endMs": 3520,
+      "verbatim": "Today we have a very special episode.",
+      "display": "Today we have a very special episode.",
+      "search": "today we have a very special episode.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:3",
+      "startMs": 3520,
+      "endMs": 5920,
+      "verbatim": "You may notice that it looks lower quality video.",
+      "display": "You may notice that it looks lower quality video.",
+      "search": "you may notice that it looks lower quality video.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:4",
+      "startMs": 5920,
+      "endMs": 12320,
+      "verbatim": "That is because we have nobody here to record, and I'm just raw dog recording the screen straight from Riverside.",
+      "display": "That is because we have nobody here to record, and I'm just raw dog recording the screen straight from Riverside.",
+      "search": "that is because we have nobody here to record, and i'm just raw dog recording the screen straight from riverside.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:5",
+      "startMs": 17440,
+      "endMs": 19760,
+      "verbatim": "With that, we are gonna be talking about Microsoft layoffs.",
+      "display": "With that, we are gonna be talking about Microsoft layoffs.",
+      "search": "with that, we are gonna be talking about microsoft layoffs.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:6",
+      "startMs": 19760,
+      "endMs": 25520,
+      "verbatim": "Now, Microsoft has just recently released an entire kind of expose of exactly what happened.",
+      "display": "Now, Microsoft has just recently released an entire kind of expose of exactly what happened.",
+      "search": "now, microsoft has just recently released an entire kind of expose of exactly what happened.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:7",
+      "startMs": 25520,
+      "endMs": 29840,
+      "verbatim": "This is by Asha right here, the new CEO of Xbox.",
+      "display": "This is by Asha right here, the new CEO of Xbox.",
+      "search": "this is by asha right here, the new ceo of xbox.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:8",
+      "startMs": 29840,
+      "endMs": 52880,
+      "verbatim": "She has let everybody know that they are laying off a whole bunch of people, a bunch of reasons in here, things that they want to accomplish, including a bunch of crazy pieces of information I did not think we were gonna learn, along with also crazy management style of Xbox itself, and a bunch of studios and people have been hit today directly because 1,600 were laid off, and 1600 more throughout the fiscal year of 2027.",
+      "display": "She has let everybody know that they are laying off a whole bunch of people, a bunch of reasons in here, things that they want to accomplish, including a bunch of crazy pieces of information I did not think we were gonna learn, along with also crazy management style of Xbox itself, and a bunch of studios and people have been hit today directly because 1,600 were laid off, and 1600 more throughout the fiscal year of 2027.",
+      "search": "she has let everybody know that they are laying off a whole bunch of people, a bunch of reasons in here, things that they want to accomplish, including a bunch of crazy pieces of information i did not think we were gonna learn, along with also crazy management style of xbox itself, and a bunch of studios and people have been hit today directly because 1,600 were laid off, and 1600 more throughout the fiscal year of 2027.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:9",
+      "startMs": 52880,
+      "endMs": 55760,
+      "verbatim": "Also, really weird way to measure time is the fiscal year.",
+      "display": "Also, really weird way to measure time is the fiscal year.",
+      "search": "also, really weird way to measure time is the fiscal year.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:10",
+      "startMs": 55760,
+      "endMs": 56720,
+      "verbatim": "I'm just throwing that out there.",
+      "display": "I'm just throwing that out there.",
+      "search": "i'm just throwing that out there.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:11",
+      "startMs": 56720,
+      "endMs": 58400,
+      "verbatim": "I think that's just weird personally.",
+      "display": "I think that's just weird personally.",
+      "search": "i think that's just weird personally.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:12",
+      "startMs": 58400,
+      "endMs": 63040,
+      "verbatim": "Uh, but at the end of the day, that is what has happened, and we're here to discuss it.",
+      "display": "Uh, but at the end of the day, that is what has happened, and we're here to discuss it.",
+      "search": "uh, but at the end of the day, that is what has happened, and we're here to discuss it.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:13",
+      "startMs": 63040,
+      "endMs": 69120,
+      "verbatim": "And I figured one of the uh big burning topics that I see all over the internet is about id studios.",
+      "display": "And I figured one of the uh big burning topics that I see all over the internet is about id studios.",
+      "search": "and i figured one of the uh big burning topics that i see all over the internet is about id studios.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:14",
+      "startMs": 69120,
+      "endMs": 74400,
+      "verbatim": "Id right now is kind of like the uh the star of the layoff, if you will.",
+      "display": "Id right now is kind of like the uh the star of the layoff, if you will.",
+      "search": "id right now is kind of like the uh the star of the layoff, if you will.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:15",
+      "startMs": 74400,
+      "endMs": 83360,
+      "verbatim": "Approximately 10% of the total layoffs, 132 out of 1,600 of the layoffs, I believe it's 132 or 135, came from id studios.",
+      "display": "Approximately 10% of the total layoffs, 132 out of 1,600 of the layoffs, I believe it's 132 or 135, came from id studios.",
+      "search": "approximately 10% of the total layoffs, 132 out of 1,600 of the layoffs, i believe it's 132 or 135, came from id studios.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:16",
+      "startMs": 83360,
+      "endMs": 87520,
+      "verbatim": "Most of the engine team has been gutted, a bunch of designers, a bunch of people running it.",
+      "display": "Most of the engine team has been gutted, a bunch of designers, a bunch of people running it.",
+      "search": "most of the engine team has been gutted, a bunch of designers, a bunch of people running it.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:17",
+      "startMs": 87520,
+      "endMs": 101440,
+      "verbatim": "Uh effectively, the the heart and soul of id has been ripped out, and now what is left is just whoever's remaining there right now, and it'd probably be impossible if uh or improbable if not impossible to be able to make anything.",
+      "display": "Uh effectively, the the heart and soul of id has been ripped out, and now what is left is just whoever's remaining there right now, and it'd probably be impossible if uh or improbable if not impossible to be able to make anything.",
+      "search": "uh effectively, the the heart and soul of id has been ripped out, and now what is left is just whoever's remaining there right now, and it'd probably be impossible if uh or improbable if not impossible to be able to make anything.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:18",
+      "startMs": 101440,
+      "endMs": 107040,
+      "verbatim": "And so I first wanted to talk a little bit about that because I am not in the video games industry.",
+      "display": "And so I first wanted to talk a little bit about that because I am not in the video games industry.",
+      "search": "and so i first wanted to talk a little bit about that because i am not in the video games industry.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:19",
+      "startMs": 107040,
+      "endMs": 120720,
+      "verbatim": "I don't know what it takes to create uh an engine, I don't know what it takes to maintain an engine, I don't know what it takes to move forward an engine, and we do have with us a legendary game programmer, Casey Miratori, who does engine work in fact.",
+      "display": "I don't know what it takes to create uh an engine, I don't know what it takes to maintain an engine, I don't know what it takes to move forward an engine, and we do have with us a legendary game programmer, Casey Miratori, who does engine work in fact.",
+      "search": "i don't know what it takes to create uh an engine, i don't know what it takes to maintain an engine, i don't know what it takes to move forward an engine, and we do have with us a legendary game programmer, casey miratori, who does engine work in fact.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:20",
+      "startMs": 120720,
+      "endMs": 129680,
+      "verbatim": "And so I would just like to hear some of your thoughts, maybe from the engine perspective, of like, how does it is it just doomed to become yet another Unreal 5?",
+      "display": "And so I would just like to hear some of your thoughts, maybe from the engine perspective, of like, how does it is it just doomed to become yet another Unreal 5?",
+      "search": "and so i would just like to hear some of your thoughts, maybe from the engine perspective, of like, how does it is it just doomed to become yet another unreal 5?",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:21",
+      "startMs": 130000,
+      "endMs": 131280,
+      "verbatim": "Was that a pun?",
+      "display": "Was that a pun?",
+      "search": "was that a pun?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:22",
+      "startMs": 131280,
+      "endMs": 132640,
+      "verbatim": "Was that was that a pun?",
+      "display": "Was that was that a pun?",
+      "search": "was that was that a pun?",
+      "confidence": 0.577
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:23",
+      "startMs": 132720,
+      "endMs": 133920,
+      "verbatim": "It actually wasn't a pun.",
+      "display": "It actually wasn't a pun.",
+      "search": "it actually wasn't a pun.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:24",
+      "startMs": 133920,
+      "endMs": 139600,
+      "verbatim": "I didn't even realize it was a pun until you said it, but is it doomed to become another Unreal Engine game?",
+      "display": "I didn't even realize it was a pun until you said it, but is it doomed to become another Unreal Engine game?",
+      "search": "i didn't even realize it was a pun until you said it, but is it doomed to become another unreal engine game?",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:25",
+      "startMs": 140080,
+      "endMs": 147520,
+      "verbatim": "Before we attempt to answer that question, I wanted to talk about something you mentioned in that lead up as well.",
+      "display": "Before we attempt to answer that question, I wanted to talk about something you mentioned in that lead up as well.",
+      "search": "before we attempt to answer that question, i wanted to talk about something you mentioned in that lead up as well.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:26",
+      "startMs": 147520,
+      "endMs": 148160,
+      "verbatim": "Oh, yeah.",
+      "display": "Oh, yeah.",
+      "search": "oh, yeah.",
+      "confidence": 0.547
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:27",
+      "startMs": 148160,
+      "endMs": 151200,
+      "verbatim": "Which was you were pointing out like fiscal year 2027.",
+      "display": "Which was you were pointing out like fiscal year 2027.",
+      "search": "which was you were pointing out like fiscal year 2027.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:28",
+      "startMs": 151200,
+      "endMs": 161280,
+      "verbatim": "I I don't know about you guys, but in my mind, I imagine like Sacha Nadella and Asha Sharma, and I don't I mean I guess I don't know who runs the other divisions there.",
+      "display": "I I don't know about you guys, but in my mind, I imagine like Sacha Nadella and Asha Sharma, and I don't I mean I guess I don't know who runs the other divisions there.",
+      "search": "i i don't know about you guys, but in my mind, i imagine like sacha nadella and asha sharma, and i don't i mean i guess i don't know who runs the other divisions there.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:29",
+      "startMs": 161280,
+      "endMs": 164560,
+      "verbatim": "Do they like get together for a fiscal New Year's party?",
+      "display": "Do they like get together for a fiscal New Year's party?",
+      "search": "do they like get together for a fiscal new year's party?",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:30",
+      "startMs": 164560,
+      "endMs": 171840,
+      "verbatim": "Like whenever this year, like do they all do they like stay up till midnight and then they pop the champagne and they're like, Happy New Year!",
+      "display": "Like whenever this year, like do they all do they like stay up till midnight and then they pop the champagne and they're like, Happy New Year!",
+      "search": "like whenever this year, like do they all do they like stay up till midnight and then they pop the champagne and they're like, happy new year!",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:31",
+      "startMs": 171840,
+      "endMs": 173840,
+      "verbatim": "Happy New Year!",
+      "display": "Happy New Year!",
+      "search": "happy new year!",
+      "confidence": 0.617
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:32",
+      "startMs": 173920,
+      "endMs": 180800,
+      "verbatim": "Together, like when it rolls over, they're like, new filings, SECS, they press it and everybody freaks out.",
+      "display": "Together, like when it rolls over, they're like, new filings, SECS, they press it and everybody freaks out.",
+      "search": "together, like when it rolls over, they're like, new filings, secs, they press it and everybody freaks out.",
+      "confidence": 0.55
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:33",
+      "startMs": 181360,
+      "endMs": 188640,
+      "verbatim": "And then they sing a song that's like old Lang Zyme, but it's about, you know, uh accountability margins or something for so you know, or whatever.",
+      "display": "And then they sing a song that's like old Lang Zyme, but it's about, you know, uh accountability margins or something for so you know, or whatever.",
+      "search": "and then they sing a song that's like old lang zyme, but it's about, you know, uh accountability margins or something for so you know, or whatever.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:34",
+      "startMs": 188720,
+      "endMs": 189520,
+      "verbatim": "Teach!",
+      "display": "Teach!",
+      "search": "teach!",
+      "confidence": 0.426
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:35",
+      "startMs": 189520,
+      "endMs": 190640,
+      "verbatim": "Production's down.",
+      "display": "Production's down.",
+      "search": "production's down.",
+      "confidence": 0.433
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:36",
+      "startMs": 191440,
+      "endMs": 193360,
+      "verbatim": "I don't concern myself with such matters.",
+      "display": "I don't concern myself with such matters.",
+      "search": "i don't concern myself with such matters.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:37",
+      "startMs": 193360,
+      "endMs": 195440,
+      "verbatim": "What do you mean production doesn't concern you?",
+      "display": "What do you mean production doesn't concern you?",
+      "search": "what do you mean production doesn't concern you?",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:38",
+      "startMs": 195440,
+      "endMs": 202640,
+      "verbatim": "I've shipped 37 features today.",
+      "display": "I've shipped 37 features today.",
+      "search": "i've shipped 37 features today.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:39",
+      "startMs": 202640,
+      "endMs": 205440,
+      "verbatim": "Teach always makes the mess and I always clean it up.",
+      "display": "Teach always makes the mess and I always clean it up.",
+      "search": "teach always makes the mess and i always clean it up.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:40",
+      "startMs": 205440,
+      "endMs": 206400,
+      "verbatim": "I'm better than that.",
+      "display": "I'm better than that.",
+      "search": "i'm better than that.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:41",
+      "startMs": 206400,
+      "endMs": 210160,
+      "verbatim": "I don't have to be a janitor, someone has to be the adult around here.",
+      "display": "I don't have to be a janitor, someone has to be the adult around here.",
+      "search": "i don't have to be a janitor, someone has to be the adult around here.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:42",
+      "startMs": 210160,
+      "endMs": 212800,
+      "verbatim": "Oh, who is that?",
+      "display": "Oh, who is that?",
+      "search": "oh, who is that?",
+      "confidence": 0.562
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:43",
+      "startMs": 212800,
+      "endMs": 215600,
+      "verbatim": "It's me, your Westerlay godfather.",
+      "display": "It's me, your Westerlay godfather.",
+      "search": "it's me, your westerlay godfather.",
+      "confidence": 0.682
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:44",
+      "startMs": 215600,
+      "endMs": 216960,
+      "verbatim": "John John Carmack?",
+      "display": "John John Carmack?",
+      "search": "john john carmack?",
+      "confidence": 0.609
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:45",
+      "startMs": 216960,
+      "endMs": 217280,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:46",
+      "startMs": 217280,
+      "endMs": 218800,
+      "verbatim": "No, it's me, trash.",
+      "display": "No, it's me, trash.",
+      "search": "no, it's me, trash.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:47",
+      "startMs": 218800,
+      "endMs": 219920,
+      "verbatim": "Oh.",
+      "display": "Oh.",
+      "search": "oh.",
+      "confidence": 0.538
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:48",
+      "startMs": 219920,
+      "endMs": 220560,
+      "verbatim": "Wait!",
+      "display": "Wait!",
+      "search": "wait!",
+      "confidence": 0.483
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:49",
+      "startMs": 220720,
+      "endMs": 223440,
+      "verbatim": "Are you here to finally get management to understand software?",
+      "display": "Are you here to finally get management to understand software?",
+      "search": "are you here to finally get management to understand software?",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:50",
+      "startMs": 223440,
+      "endMs": 223760,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:51",
+      "startMs": 223760,
+      "endMs": 226560,
+      "verbatim": "I'm a Westerlay godfather, not a miracle worker.",
+      "display": "I'm a Westerlay godfather, not a miracle worker.",
+      "search": "i'm a westerlay godfather, not a miracle worker.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:52",
+      "startMs": 226560,
+      "endMs": 228640,
+      "verbatim": "Oh, then why are you here?",
+      "display": "Oh, then why are you here?",
+      "search": "oh, then why are you here?",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:53",
+      "startMs": 228640,
+      "endMs": 237680,
+      "verbatim": "I'm here to tell you about Sear by Sentry, the world's first AI debugger that actually has access to all of your logs, stack traces, code, commit history, and more.",
+      "display": "I'm here to tell you about Sear by Sentry, the world's first AI debugger that actually has access to all of your logs, stack traces, code, commit history, and more.",
+      "search": "i'm here to tell you about sear by sentry, the world's first ai debugger that actually has access to all of your logs, stack traces, code, commit history, and more.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:54",
+      "startMs": 237680,
+      "endMs": 238640,
+      "verbatim": "Code breaks.",
+      "display": "Code breaks.",
+      "search": "code breaks.",
+      "confidence": 0.634
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:55",
+      "startMs": 238640,
+      "endMs": 240960,
+      "verbatim": "But you can get the fixed faster with Sear.",
+      "display": "But you can get the fixed faster with Sear.",
+      "search": "but you can get the fixed faster with sear.",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:56",
+      "startMs": 240960,
+      "endMs": 242160,
+      "verbatim": "Who are you talking to?",
+      "display": "Who are you talking to?",
+      "search": "who are you talking to?",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:57",
+      "startMs": 242160,
+      "endMs": 242800,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.677
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:58",
+      "startMs": 242800,
+      "endMs": 246560,
+      "verbatim": "Build with AI, fix with century.",
+      "display": "Build with AI, fix with century.",
+      "search": "build with ai, fix with century.",
+      "confidence": 0.584
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:59",
+      "startMs": 246560,
+      "endMs": 250240,
+      "verbatim": "I think there's a couple problems here with trying to answer it.",
+      "display": "I think there's a couple problems here with trying to answer it.",
+      "search": "i think there's a couple problems here with trying to answer it.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:60",
+      "startMs": 250240,
+      "endMs": 263760,
+      "verbatim": "Uh we can talk about some abstract stuff, but the the biggest problem, or the thing that I don't know, is we have like no, like I don't know any inside stories or anything from the people there and what happened, right?",
+      "display": "Uh we can talk about some abstract stuff, but the the biggest problem, or the thing that I don't know, is we have like no, like I don't know any inside stories or anything from the people there and what happened, right?",
+      "search": "uh we can talk about some abstract stuff, but the the biggest problem, or the thing that i don't know, is we have like no, like i don't know any inside stories or anything from the people there and what happened, right?",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:61",
+      "startMs": 264080,
+      "endMs": 266640,
+      "verbatim": "So everything is on the table.",
+      "display": "So everything is on the table.",
+      "search": "so everything is on the table.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:62",
+      "startMs": 266640,
+      "endMs": 272400,
+      "verbatim": "Like everything from uh literally they just got handed layoff notices.",
+      "display": "Like everything from uh literally they just got handed layoff notices.",
+      "search": "like everything from uh literally they just got handed layoff notices.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:63",
+      "startMs": 272400,
+      "endMs": 307040,
+      "verbatim": "So, like, you know, a substantial portion of the engine team just wakes up in the morning to like a thing where like someone from HR told them that you don't have a job anymore, all the way to like they were approached and said, Look, we need people to do programming on stuff because we want to build out these other properties, like Minecraft and Forza or what well, not Forza, that Playground has their own engine team, but um, you know, these other properties we have, King, like we want to put put you on these other things and you'll be a centralized engine division.",
+      "display": "So, like, you know, a substantial portion of the engine team just wakes up in the morning to like a thing where like someone from HR told them that you don't have a job anymore, all the way to like they were approached and said, Look, we need people to do programming on stuff because we want to build out these other properties, like Minecraft and Forza or what well, not Forza, that Playground has their own engine team, but um, you know, these other properties we have, King, like we want to put put you on these other things and you'll be a centralized engine division.",
+      "search": "so, like, you know, a substantial portion of the engine team just wakes up in the morning to like a thing where like someone from hr told them that you don't have a job anymore, all the way to like they were approached and said, look, we need people to do programming on stuff because we want to build out these other properties, like minecraft and forza or what well, not forza, that playground has their own engine team, but um, you know, these other properties we have, king, like we want to put put you on these other things and you'll be a centralized engine division.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:64",
+      "startMs": 307040,
+      "endMs": 311920,
+      "verbatim": "Um, and they were like, we don't want to do that, we would rather take voluntary layoff or something.",
+      "display": "Um, and they were like, we don't want to do that, we would rather take voluntary layoff or something.",
+      "search": "um, and they were like, we don't want to do that, we would rather take voluntary layoff or something.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:65",
+      "startMs": 311920,
+      "endMs": 314960,
+      "verbatim": "Like, you know, I literally just have no idea.",
+      "display": "Like, you know, I literally just have no idea.",
+      "search": "like, you know, i literally just have no idea.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:66",
+      "startMs": 314960,
+      "endMs": 323200,
+      "verbatim": "So I don't feel like I can really comment on anything specific to the id software layouts with layoffs with no with no data, right?",
+      "display": "So I don't feel like I can really comment on anything specific to the id software layouts with layoffs with no with no data, right?",
+      "search": "so i don't feel like i can really comment on anything specific to the id software layouts with layoffs with no with no data, right?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:67",
+      "startMs": 323200,
+      "endMs": 326640,
+      "verbatim": "Because there's there, it's not good.",
+      "display": "Because there's there, it's not good.",
+      "search": "because there's there, it's not good.",
+      "confidence": 0.61
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:68",
+      "startMs": 326640,
+      "endMs": 342240,
+      "verbatim": "So it's not like there's any out there's not there, there really isn't probably anything where I would be like, yeah, great, unless it was they were approached with something and they all decided screw this, we're gonna go form our own company and took a voluntary and and now we're gonna have like a new like id thing somewhere else.",
+      "display": "So it's not like there's any out there's not there, there really isn't probably anything where I would be like, yeah, great, unless it was they were approached with something and they all decided screw this, we're gonna go form our own company and took a voluntary and and now we're gonna have like a new like id thing somewhere else.",
+      "search": "so it's not like there's any out there's not there, there really isn't probably anything where i would be like, yeah, great, unless it was they were approached with something and they all decided screw this, we're gonna go form our own company and took a voluntary and and now we're gonna have like a new like id thing somewhere else.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:69",
+      "startMs": 342240,
+      "endMs": 343760,
+      "verbatim": "I suppose that would be good.",
+      "display": "I suppose that would be good.",
+      "search": "i suppose that would be good.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:70",
+      "startMs": 343760,
+      "endMs": 349360,
+      "verbatim": "Um, but short of that, there's there's no real like way to spin this as a good outcome, probably.",
+      "display": "Um, but short of that, there's there's no real like way to spin this as a good outcome, probably.",
+      "search": "um, but short of that, there's there's no real like way to spin this as a good outcome, probably.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:71",
+      "startMs": 349360,
+      "endMs": 363600,
+      "verbatim": "But how bad this is depends a lot and how um how like frowned upon I would say that the behavior by Microsoft was is a sliding scale based on what really occurred, and I just don't know.",
+      "display": "But how bad this is depends a lot and how um how like frowned upon I would say that the behavior by Microsoft was is a sliding scale based on what really occurred, and I just don't know.",
+      "search": "but how bad this is depends a lot and how um how like frowned upon i would say that the behavior by microsoft was is a sliding scale based on what really occurred, and i just don't know.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:72",
+      "startMs": 363600,
+      "endMs": 364720,
+      "verbatim": "Is that yeah?",
+      "display": "Is that yeah?",
+      "search": "is that yeah?",
+      "confidence": 0.38
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:73",
+      "startMs": 364800,
+      "endMs": 365840,
+      "verbatim": "Yeah, yeah, that's fair.",
+      "display": "Yeah, yeah, that's fair.",
+      "search": "yeah, yeah, that's fair.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:74",
+      "startMs": 365840,
+      "endMs": 368400,
+      "verbatim": "I wasn't really trying to look for like the the moral side of things.",
+      "display": "I wasn't really trying to look for like the the moral side of things.",
+      "search": "i wasn't really trying to look for like the the moral side of things.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:75",
+      "startMs": 368400,
+      "endMs": 381120,
+      "verbatim": "It was more of like, is it possible for id to continue being id and being, you know, its own game engine producing these kind of technical masterpieces as I often see people claim the Doom series is?",
+      "display": "It was more of like, is it possible for id to continue being id and being, you know, its own game engine producing these kind of technical masterpieces as I often see people claim the Doom series is?",
+      "search": "it was more of like, is it possible for id to continue being id and being, you know, its own game engine producing these kind of technical masterpieces as i often see people claim the doom series is?",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:76",
+      "startMs": 381120,
+      "endMs": 391920,
+      "verbatim": "Uh is it possible with the gutting, or is it I mean, just in your experience as a as an engine creator, how hard is it to move forward when you have a significant portion of your team gone?",
+      "display": "Uh is it possible with the gutting, or is it I mean, just in your experience as a as an engine creator, how hard is it to move forward when you have a significant portion of your team gone?",
+      "search": "uh is it possible with the gutting, or is it i mean, just in your experience as a as an engine creator, how hard is it to move forward when you have a significant portion of your team gone?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:77",
+      "startMs": 392480,
+      "endMs": 402080,
+      "verbatim": "I mean, it really depends on what you're going to be doing and like what that what the moving forward uh requires, right?",
+      "display": "I mean, it really depends on what you're going to be doing and like what that what the moving forward uh requires, right?",
+      "search": "i mean, it really depends on what you're going to be doing and like what that what the moving forward uh requires, right?",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:78",
+      "startMs": 402160,
+      "endMs": 418720,
+      "verbatim": "So the first thing I'll say is that in sort of modern in modern engine development, usually the the bottleneck, if you have good engine people, the bottleneck is not like that we had to sit down and write some code for this engine.",
+      "display": "So the first thing I'll say is that in sort of modern in modern engine development, usually the the bottleneck, if you have good engine people, the bottleneck is not like that we had to sit down and write some code for this engine.",
+      "search": "so the first thing i'll say is that in sort of modern in modern engine development, usually the the bottleneck, if you have good engine people, the bottleneck is not like that we had to sit down and write some code for this engine.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:79",
+      "startMs": 418880,
+      "endMs": 422240,
+      "verbatim": "Um in other words, the stuff that Fable does or whatever, right?",
+      "display": "Um in other words, the stuff that Fable does or whatever, right?",
+      "search": "um in other words, the stuff that fable does or whatever, right?",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:80",
+      "startMs": 422240,
+      "endMs": 426800,
+      "verbatim": "Uh usually that is not gonna be your super the hard part of the problem, right?",
+      "display": "Uh usually that is not gonna be your super the hard part of the problem, right?",
+      "search": "uh usually that is not gonna be your super the hard part of the problem, right?",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:81",
+      "startMs": 427200,
+      "endMs": 435280,
+      "verbatim": "The harder part of the problem is usually on two other on like two other um in two other domains.",
+      "display": "The harder part of the problem is usually on two other on like two other um in two other domains.",
+      "search": "the harder part of the problem is usually on two other on like two other um in two other domains.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:82",
+      "startMs": 435520,
+      "endMs": 441280,
+      "verbatim": "One is just figuring out what actually should be built at all, right?",
+      "display": "One is just figuring out what actually should be built at all, right?",
+      "search": "one is just figuring out what actually should be built at all, right?",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:83",
+      "startMs": 441280,
+      "endMs": 441760,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.559
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:84",
+      "startMs": 441760,
+      "endMs": 448480,
+      "verbatim": "And this is basically active research into like what is our strategy going to be for like dynamic lighting?",
+      "display": "And this is basically active research into like what is our strategy going to be for like dynamic lighting?",
+      "search": "and this is basically active research into like what is our strategy going to be for like dynamic lighting?",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:85",
+      "startMs": 448480,
+      "endMs": 452880,
+      "verbatim": "What's our strategy going to be for like level of detail, like those sorts of things?",
+      "display": "What's our strategy going to be for like level of detail, like those sorts of things?",
+      "search": "what's our strategy going to be for like level of detail, like those sorts of things?",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:86",
+      "startMs": 453360,
+      "endMs": 468720,
+      "verbatim": "Uh those technologies sort of they change shape over time because the underlying capabilities of the hardware change, and so every so often they're like you have they're disc discontinuous.",
+      "display": "Uh those technologies sort of they change shape over time because the underlying capabilities of the hardware change, and so every so often they're like you have they're disc discontinuous.",
+      "search": "uh those technologies sort of they change shape over time because the underlying capabilities of the hardware change, and so every so often they're like you have they're disc discontinuous.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:87",
+      "startMs": 468720,
+      "endMs": 484880,
+      "verbatim": "So, you know, previously we were doing things without ray tracing, and then we get enough hardware to make ray tracing make sense, or we make enough software progress to figure out ways to do ray tracing in ways we weren't doing it before that make it economic uh to do so.",
+      "display": "So, you know, previously we were doing things without ray tracing, and then we get enough hardware to make ray tracing make sense, or we make enough software progress to figure out ways to do ray tracing in ways we weren't doing it before that make it economic uh to do so.",
+      "search": "so, you know, previously we were doing things without ray tracing, and then we get enough hardware to make ray tracing make sense, or we make enough software progress to figure out ways to do ray tracing in ways we weren't doing it before that make it economic uh to do so.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:88",
+      "startMs": 484880,
+      "endMs": 499440,
+      "verbatim": "And now we have to like re-architect the way that our engine is working, and that it again, while sometimes, and certainly for novices it can be the case, uh, sometimes, you know, you look at that and be like, oh, well, so it's all about writing this code.",
+      "display": "And now we have to like re-architect the way that our engine is working, and that it again, while sometimes, and certainly for novices it can be the case, uh, sometimes, you know, you look at that and be like, oh, well, so it's all about writing this code.",
+      "search": "and now we have to like re-architect the way that our engine is working, and that it again, while sometimes, and certainly for novices it can be the case, uh, sometimes, you know, you look at that and be like, oh, well, so it's all about writing this code.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:89",
+      "startMs": 499440,
+      "endMs": 501440,
+      "verbatim": "No, like that's not the hard part for experts.",
+      "display": "No, like that's not the hard part for experts.",
+      "search": "no, like that's not the hard part for experts.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:90",
+      "startMs": 501440,
+      "endMs": 504160,
+      "verbatim": "The hard part is knowing what you are supposed to do.",
+      "display": "The hard part is knowing what you are supposed to do.",
+      "search": "the hard part is knowing what you are supposed to do.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:91",
+      "startMs": 504160,
+      "endMs": 505520,
+      "verbatim": "What are the algorithms?",
+      "display": "What are the algorithms?",
+      "search": "what are the algorithms?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:92",
+      "startMs": 505520,
+      "endMs": 507360,
+      "verbatim": "What's all the math have to be?",
+      "display": "What's all the math have to be?",
+      "search": "what's all the math have to be?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:93",
+      "startMs": 507360,
+      "endMs": 509200,
+      "verbatim": "How does it all work out cleanly?",
+      "display": "How does it all work out cleanly?",
+      "search": "how does it all work out cleanly?",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:94",
+      "startMs": 509200,
+      "endMs": 512400,
+      "verbatim": "How does it all move through the system at a fast enough speed?",
+      "display": "How does it all move through the system at a fast enough speed?",
+      "search": "how does it all move through the system at a fast enough speed?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:95",
+      "startMs": 512400,
+      "endMs": 516320,
+      "verbatim": "All of that stuff requires a lot of experimentation, a lot of testing.",
+      "display": "All of that stuff requires a lot of experimentation, a lot of testing.",
+      "search": "all of that stuff requires a lot of experimentation, a lot of testing.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:96",
+      "startMs": 516320,
+      "endMs": 523120,
+      "verbatim": "And if you look at stories from people who have done like these sort of big technical pushes, there's often just a lot of that.",
+      "display": "And if you look at stories from people who have done like these sort of big technical pushes, there's often just a lot of that.",
+      "search": "and if you look at stories from people who have done like these sort of big technical pushes, there's often just a lot of that.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:97",
+      "startMs": 523120,
+      "endMs": 525360,
+      "verbatim": "It's like, well, we tried this and we tried this and we tried this.",
+      "display": "It's like, well, we tried this and we tried this and we tried this.",
+      "search": "it's like, well, we tried this and we tried this and we tried this.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:98",
+      "startMs": 525360,
+      "endMs": 531840,
+      "verbatim": "You know, you could go look at the um presentation by the guy who made nanite, for example, and you'll hear that.",
+      "display": "You know, you could go look at the um presentation by the guy who made nanite, for example, and you'll hear that.",
+      "search": "you know, you could go look at the um presentation by the guy who made nanite, for example, and you'll hear that.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:99",
+      "startMs": 531840,
+      "endMs": 538320,
+      "verbatim": "You can go look back at John Carmack's stuff or Michael Abrach's stuff uh that he put out uh when they were working on Quake.",
+      "display": "You can go look back at John Carmack's stuff or Michael Abrach's stuff uh that he put out uh when they were working on Quake.",
+      "search": "you can go look back at john carmack's stuff or michael abrach's stuff uh that he put out uh when they were working on quake.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:100",
+      "startMs": 538320,
+      "endMs": 544080,
+      "verbatim": "There's just a lot of like, we had to try this, we tried this, we tried this, we finally found that this was the right thing, right?",
+      "display": "There's just a lot of like, we had to try this, we tried this, we tried this, we finally found that this was the right thing, right?",
+      "search": "there's just a lot of like, we had to try this, we tried this, we tried this, we finally found that this was the right thing, right?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:101",
+      "startMs": 544080,
+      "endMs": 559200,
+      "verbatim": "And so um that requires currently uh a lot of just people because for every one of those that you want to try to do experimentation on, somebody's got to be sitting there doing it.",
+      "display": "And so um that requires currently uh a lot of just people because for every one of those that you want to try to do experimentation on, somebody's got to be sitting there doing it.",
+      "search": "and so um that requires currently uh a lot of just people because for every one of those that you want to try to do experimentation on, somebody's got to be sitting there doing it.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:102",
+      "startMs": 559200,
+      "endMs": 568240,
+      "verbatim": "Uh, and even if you are buying into the new like AI future or whatever, uh AIs still need a ton of guidance for that kind of work.",
+      "display": "Uh, and even if you are buying into the new like AI future or whatever, uh AIs still need a ton of guidance for that kind of work.",
+      "search": "uh, and even if you are buying into the new like ai future or whatever, uh ais still need a ton of guidance for that kind of work.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:103",
+      "startMs": 568240,
+      "endMs": 578240,
+      "verbatim": "They need somebody there to like tell them what to do constructively and to build test cases and to say, I need you to try doing this, and then to look to see if they actually did that right or if they screw something up, you know.",
+      "display": "They need somebody there to like tell them what to do constructively and to build test cases and to say, I need you to try doing this, and then to look to see if they actually did that right or if they screw something up, you know.",
+      "search": "they need somebody there to like tell them what to do constructively and to build test cases and to say, i need you to try doing this, and then to look to see if they actually did that right or if they screw something up, you know.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:104",
+      "startMs": 578240,
+      "endMs": 580960,
+      "verbatim": "And so let me jump in there for a second too.",
+      "display": "And so let me jump in there for a second too.",
+      "search": "and so let me jump in there for a second too.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:105",
+      "startMs": 580960,
+      "endMs": 585280,
+      "verbatim": "Even if you could do all the looping and all the fancy words that they say, let me give you some AI speak.",
+      "display": "Even if you could do all the looping and all the fancy words that they say, let me give you some AI speak.",
+      "search": "even if you could do all the looping and all the fancy words that they say, let me give you some ai speak.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:106",
+      "startMs": 585280,
+      "endMs": 590080,
+      "verbatim": "Even if they could do all that looping and all that, the actual getting the data out and all that could take some amount of time.",
+      "display": "Even if they could do all that looping and all that, the actual getting the data out and all that could take some amount of time.",
+      "search": "even if they could do all that looping and all that, the actual getting the data out and all that could take some amount of time.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:107",
+      "startMs": 590080,
+      "endMs": 602160,
+      "verbatim": "And so that loop itself could, for each one of these experiments, could cost you $10,000, $20,000 worth of fable time plus two weeks of actually running, gathering, testing, running, gathering, testing, and testing.",
+      "display": "And so that loop itself could, for each one of these experiments, could cost you $10,000, $20,000 worth of fable time plus two weeks of actually running, gathering, testing, running, gathering, testing, and testing.",
+      "search": "and so that loop itself could, for each one of these experiments, could cost you $10,000, $20,000 worth of fable time plus two weeks of actually running, gathering, testing, running, gathering, testing, and testing.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:108",
+      "startMs": 602160,
+      "endMs": 606080,
+      "verbatim": "So it's like, it's not a it's not just like a oh, just put AI, it just makes it free.",
+      "display": "So it's like, it's not a it's not just like a oh, just put AI, it just makes it free.",
+      "search": "so it's like, it's not a it's not just like a oh, just put ai, it just makes it free.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:109",
+      "startMs": 606080,
+      "endMs": 610480,
+      "verbatim": "It's like, no, it could actually also cost a large chunk of money plus the engineer's time.",
+      "display": "It's like, no, it could actually also cost a large chunk of money plus the engineer's time.",
+      "search": "it's like, no, it could actually also cost a large chunk of money plus the engineer's time.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:110",
+      "startMs": 610480,
+      "endMs": 631040,
+      "verbatim": "And and I just like I haven't seen a lot of evidence that there's any kinds of significant speed ups happening yet in that domain where it's like, oh yeah, like we can just now, you know, you some studio got it to the point where like one engine coder can just kick off tons of agents and run all the experiments and it it works out, like maybe that's a future that can exist, but like no one has that at the moment.",
+      "display": "And and I just like I haven't seen a lot of evidence that there's any kinds of significant speed ups happening yet in that domain where it's like, oh yeah, like we can just now, you know, you some studio got it to the point where like one engine coder can just kick off tons of agents and run all the experiments and it it works out, like maybe that's a future that can exist, but like no one has that at the moment.",
+      "search": "and and i just like i haven't seen a lot of evidence that there's any kinds of significant speed ups happening yet in that domain where it's like, oh yeah, like we can just now, you know, you some studio got it to the point where like one engine coder can just kick off tons of agents and run all the experiments and it it works out, like maybe that's a future that can exist, but like no one has that at the moment.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:111",
+      "startMs": 631040,
+      "endMs": 647520,
+      "verbatim": "And so this, so just to answer your question, so so depending on how much of that you envision doing, that changes pretty dramatically the kinds of budget that you're gonna need for the technical side, right?",
+      "display": "And so this, so just to answer your question, so so depending on how much of that you envision doing, that changes pretty dramatically the kinds of budget that you're gonna need for the technical side, right?",
+      "search": "and so this, so just to answer your question, so so depending on how much of that you envision doing, that changes pretty dramatically the kinds of budget that you're gonna need for the technical side, right?",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:112",
+      "startMs": 647520,
+      "endMs": 649040,
+      "verbatim": "And that's like prong one.",
+      "display": "And that's like prong one.",
+      "search": "and that's like prong one.",
+      "confidence": 0.564
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:113",
+      "startMs": 649040,
+      "endMs": 655280,
+      "verbatim": "Hey guys, if you like this episode, then you can watch the rest of it on uh Spotify and don't forget to like and subscribe.",
+      "display": "Hey guys, if you like this episode, then you can watch the rest of it on uh Spotify and don't forget to like and subscribe.",
+      "search": "hey guys, if you like this episode, then you can watch the rest of it on uh spotify and don't forget to like and subscribe.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:114",
+      "startMs": 655280,
+      "endMs": 656480,
+      "verbatim": "Woo!",
+      "display": "Woo!",
+      "search": "woo!",
+      "confidence": 0.477
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:115",
+      "startMs": 656480,
+      "endMs": 657520,
+      "verbatim": "See you later.",
+      "display": "See you later.",
+      "search": "see you later.",
+      "confidence": 0.55
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:116",
+      "startMs": 660560,
+      "endMs": 665040,
+      "verbatim": "Five coat and errors on my screen.",
+      "display": "Five coat and errors on my screen.",
+      "search": "five coat and errors on my screen.",
+      "confidence": 0.352
+    },
+    {
+      "segmentId": "youtube:KO1LB7ccfdY:segment:117",
+      "startMs": 665040,
+      "endMs": 666800,
+      "verbatim": "Terminal card.",
+      "display": "Terminal card.",
+      "search": "terminal card.",
+      "confidence": 0.373
+    }
+  ]
+}

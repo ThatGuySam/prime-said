@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:KO1LB7ccfdY",
+  "platform": "youtube",
+  "platformId": "KO1LB7ccfdY",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Microsoft DOOMs ID with layoffs | TheStandup",
+  "description": "[Sponsor]\nSentry: Catch, trace, and fix bugs across your entire stack. Use code: prime for $100 in free sentry credits → https://trm.sh/sentry\n\nFull Episode:\nYoutube: https://youtu.be/Ttfo1IfrKkA\nSpotify: https://open.spotify.com/episode/43uSuGnyFIwCpHFolPc2ns\n\n[Description]\nIn this episode of The Standup, we dig into the Microsoft and Xbox layoffs, what they could mean for id Software, and whether id Tech can survive after major cuts to its engine team.\n\n[Chapters]\n00:00:00 - Intro\n00:01:10 - Star of the layoff (ID Studios)\n00:03:07 - Sentry\n00:04:07 - Back to Star of the layoff (ID Studios)\n00:05:19 - Engine Engineers\n00:09:50 - IDs Engine Team\n\n[Hosts/Guests]\nPrime: https://thestanduppod.com/contributor/theprimeagen\nTrash: https://thestanduppod.com/contributor/trash\nCasey: https://thestanduppod.com/contributor/cmuratori\nSomeCodingGuy: https://thestanduppod.com/contributor/SomeCodingGuy\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\n[Socials]\nx.com/thestanduppod\ninstagram.com/thestanduppod\ntiktok.com/@thestanduppod\nfacebook.com/profile.php?id=61573286173150\n\n[Other Places to find us]\nSpotify: https://open.spotify.com/show/01A062kejnXFkJE01bjN5J\nRSS: thestanduppod.com/feed.xml\nClips: @TheStandupPodClips\nWebsite: thestanduppod.com\n\n[Tags]\n#Microsoft layoffs, #Xbox layoffs, #Xbox, #Microsoft gaming, #id Software, #id Tech, #Doom engine, #game engine development, #Unreal Engine, #Unreal Engine 5, #game dev, #game development, #game programming, #engine programming, #Casey Muratori, #ThePrimeagen, #The Standup, #Some Coding Guy, #Netflix, #Netflix engineering, #Game Pass, #Xbox Game Pass, #Steam, #Steam games, #Netflix of gaming, #gaming industry, #video game industry, #corporate management, #middle management, #software engineering, #programming podcast, #tech podcast, #asset pipeline, #game assets, #game tools, #custom game engine, #Epic Games, #Fortnite, #Microsoft management, #14 layers of management, #Xbox strategy, #gaming layoffs, #AAA games, #indie games, #game studios, #Bethesda, #Activision Blizzard, #cloud gaming, #subscription gaming, #game ownership, #software architecture",
+  "canonicalUrl": "https://www.youtube.com/watch?v=KO1LB7ccfdY",
+  "publishedAt": "2026-07-12T13:00:03.000Z",
+  "durationMs": 675000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-30T22:57:46.151Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-30T22:57:46.151Z",
+    "runId": "2026-08-30T22-45-04-059Z-3159b82f"
+  }
+}

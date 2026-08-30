@@ -1,0 +1,2111 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_a576ad1245ca5aaee5eef4bf",
+  "sourceId": "youtube:Obc3wnL06SQ",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T23:01:24.156Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:1",
+      "startMs": 80,
+      "endMs": 4640,
+      "verbatim": "All right, so I can't believe it's happened, but Microsoft is doing more layoffs.",
+      "display": "All right, so I can't believe it's happened, but Microsoft is doing more layoffs.",
+      "search": "all right, so i can't believe it's happened, but microsoft is doing more layoffs.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:2",
+      "startMs": 4640,
+      "endMs": 5040,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:3",
+      "startMs": 5040,
+      "endMs": 5840,
+      "verbatim": "Shocking, right?",
+      "display": "Shocking, right?",
+      "search": "shocking, right?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:4",
+      "startMs": 5840,
+      "endMs": 13520,
+      "verbatim": "The company that has not cared about its user in a decade is having problems actually making money on the software they've made for consumers.",
+      "display": "The company that has not cared about its user in a decade is having problems actually making money on the software they've made for consumers.",
+      "search": "the company that has not cared about its user in a decade is having problems actually making money on the software they've made for consumers.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:5",
+      "startMs": 13520,
+      "endMs": 14560,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.602
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:6",
+      "startMs": 14560,
+      "endMs": 15840,
+      "verbatim": "Crazy, right?",
+      "display": "Crazy, right?",
+      "search": "crazy, right?",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:7",
+      "startMs": 15840,
+      "endMs": 27360,
+      "verbatim": "Well, what I'm talking about today, of course, is the all employees at Xbox message that Asha, this new current CEO of Xbox, just got done sending out both on Twitter and internally.",
+      "display": "Well, what I'm talking about today, of course, is the all employees at Xbox message that Asha, this new current CEO of Xbox, just got done sending out both on Twitter and internally.",
+      "search": "well, what i'm talking about today, of course, is the all employees at xbox message that asha, this new current ceo of xbox, just got done sending out both on twitter and internally.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:8",
+      "startMs": 27360,
+      "endMs": 31760,
+      "verbatim": "And there's two points inside of it that I find astronomically crazy.",
+      "display": "And there's two points inside of it that I find astronomically crazy.",
+      "search": "and there's two points inside of it that i find astronomically crazy.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:9",
+      "startMs": 31760,
+      "endMs": 34960,
+      "verbatim": "Like when I look at it, I'm like, what am I even looking at?",
+      "display": "Like when I look at it, I'm like, what am I even looking at?",
+      "search": "like when i look at it, i'm like, what am i even looking at?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:10",
+      "startMs": 34960,
+      "endMs": 37200,
+      "verbatim": "And I figured we have to make a video about this.",
+      "display": "And I figured we have to make a video about this.",
+      "search": "and i figured we have to make a video about this.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:11",
+      "startMs": 37200,
+      "endMs": 42240,
+      "verbatim": "I have to yap about this because I can't actually believe what I am looking at, okay?",
+      "display": "I have to yap about this because I can't actually believe what I am looking at, okay?",
+      "search": "i have to yap about this because i can't actually believe what i am looking at, okay?",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:12",
+      "startMs": 42240,
+      "endMs": 53280,
+      "verbatim": "Because Microsoft has done a lot of insane things, but I feel like this right here is the epitome, it's the epidome of why Microsoft just has to fail.",
+      "display": "Because Microsoft has done a lot of insane things, but I feel like this right here is the epitome, it's the epidome of why Microsoft just has to fail.",
+      "search": "because microsoft has done a lot of insane things, but i feel like this right here is the epitome, it's the epidome of why microsoft just has to fail.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:13",
+      "startMs": 53280,
+      "endMs": 56160,
+      "verbatim": "They're incapable of making good decisions.",
+      "display": "They're incapable of making good decisions.",
+      "search": "they're incapable of making good decisions.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:14",
+      "startMs": 56160,
+      "endMs": 62160,
+      "verbatim": "They're incapable of actually becoming something that makes real impactful material again.",
+      "display": "They're incapable of actually becoming something that makes real impactful material again.",
+      "search": "they're incapable of actually becoming something that makes real impactful material again.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:15",
+      "startMs": 62160,
+      "endMs": 73280,
+      "verbatim": "If you look at the games they've released for Xbox and everything for the last decade, is pretty much just buying IP, hoping to ride on the coattails as they take that IP and mash it into the ground.",
+      "display": "If you look at the games they've released for Xbox and everything for the last decade, is pretty much just buying IP, hoping to ride on the coattails as they take that IP and mash it into the ground.",
+      "search": "if you look at the games they've released for xbox and everything for the last decade, is pretty much just buying ip, hoping to ride on the coattails as they take that ip and mash it into the ground.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:16",
+      "startMs": 73280,
+      "endMs": 73680,
+      "verbatim": "I.e.",
+      "display": "I.e.",
+      "search": "i.e.",
+      "confidence": 0.699
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:17",
+      "startMs": 73760,
+      "endMs": 74480,
+      "verbatim": "Master Chief.",
+      "display": "Master Chief.",
+      "search": "master chief.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:18",
+      "startMs": 74480,
+      "endMs": 75920,
+      "verbatim": "I love you 117.",
+      "display": "I love you 117.",
+      "search": "i love you 117.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:19",
+      "startMs": 75920,
+      "endMs": 79360,
+      "verbatim": "John, John, I'm so sorry what they did to you, John.",
+      "display": "John, John, I'm so sorry what they did to you, John.",
+      "search": "john, john, i'm so sorry what they did to you, john.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:20",
+      "startMs": 79360,
+      "endMs": 79920,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.481
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:21",
+      "startMs": 79920,
+      "endMs": 82960,
+      "verbatim": "I'm just gonna pretend that the last couple halos don't even exist.",
+      "display": "I'm just gonna pretend that the last couple halos don't even exist.",
+      "search": "i'm just gonna pretend that the last couple halos don't even exist.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:22",
+      "startMs": 82960,
+      "endMs": 87680,
+      "verbatim": "All right, but before we yap about all this Microsoft stuff and my thoughts, quick word from the sponsors.",
+      "display": "All right, but before we yap about all this Microsoft stuff and my thoughts, quick word from the sponsors.",
+      "search": "all right, but before we yap about all this microsoft stuff and my thoughts, quick word from the sponsors.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:23",
+      "startMs": 87680,
+      "endMs": 88560,
+      "verbatim": "Thank you very much.",
+      "display": "Thank you very much.",
+      "search": "thank you very much.",
+      "confidence": 0.997
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:24",
+      "startMs": 88560,
+      "endMs": 93360,
+      "verbatim": "I know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "display": "I know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "search": "i know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:25",
+      "startMs": 93360,
+      "endMs": 94080,
+      "verbatim": "Stop it!",
+      "display": "Stop it!",
+      "search": "stop it!",
+      "confidence": 0.631
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:26",
+      "startMs": 94240,
+      "endMs": 96800,
+      "verbatim": "That's the easiest way to shoot yourself in the foot.",
+      "display": "That's the easiest way to shoot yourself in the foot.",
+      "search": "that's the easiest way to shoot yourself in the foot.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:27",
+      "startMs": 96800,
+      "endMs": 105920,
+      "verbatim": "This is why you need today's video sponsor, kernel.sh, the crazy fast and open source infra for your AI agents to access the internet.",
+      "display": "This is why you need today's video sponsor, kernel.sh, the crazy fast and open source infra for your AI agents to access the internet.",
+      "search": "this is why you need today's video sponsor, kernel.sh, the crazy fast and open source infra for your ai agents to access the internet.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:28",
+      "startMs": 105920,
+      "endMs": 111440,
+      "verbatim": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "display": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "search": "it takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:29",
+      "startMs": 111440,
+      "endMs": 114240,
+      "verbatim": "And authentication is automagically handled.",
+      "display": "And authentication is automagically handled.",
+      "search": "and authentication is automagically handled.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:30",
+      "startMs": 114240,
+      "endMs": 119920,
+      "verbatim": "Right now, over 3,000 teams already use this in production, including Framer and Cash App.",
+      "display": "Right now, over 3,000 teams already use this in production, including Framer and Cash App.",
+      "search": "right now, over 3,000 teams already use this in production, including framer and cash app.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:31",
+      "startMs": 119920,
+      "endMs": 122560,
+      "verbatim": "So quit nerfing your agents and give them a real browser.",
+      "display": "So quit nerfing your agents and give them a real browser.",
+      "search": "so quit nerfing your agents and give them a real browser.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:32",
+      "startMs": 122560,
+      "endMs": 125600,
+      "verbatim": "Head on over to kernel.sh and let them use the internet.",
+      "display": "Head on over to kernel.sh and let them use the internet.",
+      "search": "head on over to kernel.sh and let them use the internet.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:33",
+      "startMs": 125600,
+      "endMs": 126480,
+      "verbatim": "Hey, welcome back.",
+      "display": "Hey, welcome back.",
+      "search": "hey, welcome back.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:34",
+      "startMs": 126480,
+      "endMs": 129920,
+      "verbatim": "Hey, so the first thing we do have to look at is the actual let go.",
+      "display": "Hey, so the first thing we do have to look at is the actual let go.",
+      "search": "hey, so the first thing we do have to look at is the actual let go.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:35",
+      "startMs": 129920,
+      "endMs": 131280,
+      "verbatim": "So let me just read it for you.",
+      "display": "So let me just read it for you.",
+      "search": "so let me just read it for you.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:36",
+      "startMs": 131280,
+      "endMs": 134080,
+      "verbatim": "We are beginning the most significant restructured Xbox history.",
+      "display": "We are beginning the most significant restructured Xbox history.",
+      "search": "we are beginning the most significant restructured xbox history.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:37",
+      "startMs": 134080,
+      "endMs": 137120,
+      "verbatim": "After careful consideration, I've made the difficult decision.",
+      "display": "After careful consideration, I've made the difficult decision.",
+      "search": "after careful consideration, i've made the difficult decision.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:38",
+      "startMs": 137120,
+      "endMs": 139600,
+      "verbatim": "By the way, every CEO always calls it difficult.",
+      "display": "By the way, every CEO always calls it difficult.",
+      "search": "by the way, every ceo always calls it difficult.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:39",
+      "startMs": 139600,
+      "endMs": 141440,
+      "verbatim": "They're always firing all these people.",
+      "display": "They're always firing all these people.",
+      "search": "they're always firing all these people.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:40",
+      "startMs": 141440,
+      "endMs": 142720,
+      "verbatim": "Fire yourself.",
+      "display": "Fire yourself.",
+      "search": "fire yourself.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:41",
+      "startMs": 144080,
+      "endMs": 147280,
+      "verbatim": "Hey, if you have to fire a bunch of people, you've made some bad decisions.",
+      "display": "Hey, if you have to fire a bunch of people, you've made some bad decisions.",
+      "search": "hey, if you have to fire a bunch of people, you've made some bad decisions.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:42",
+      "startMs": 147280,
+      "endMs": 148720,
+      "verbatim": "I'm gonna give her a pass, though.",
+      "display": "I'm gonna give her a pass, though.",
+      "search": "i'm gonna give her a pass, though.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:43",
+      "startMs": 148720,
+      "endMs": 154160,
+      "verbatim": "She's brand new, making up for a bunch of mistakes of the previous generation that was running uh running Xbox.",
+      "display": "She's brand new, making up for a bunch of mistakes of the previous generation that was running uh running Xbox.",
+      "search": "she's brand new, making up for a bunch of mistakes of the previous generation that was running uh running xbox.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:44",
+      "startMs": 154160,
+      "endMs": 158400,
+      "verbatim": "So maybe just maybe this is just her being handed a bad plate, okay?",
+      "display": "So maybe just maybe this is just her being handed a bad plate, okay?",
+      "search": "so maybe just maybe this is just her being handed a bad plate, okay?",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:45",
+      "startMs": 158400,
+      "endMs": 158880,
+      "verbatim": "Whatever.",
+      "display": "Whatever.",
+      "search": "whatever.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:46",
+      "startMs": 158880,
+      "endMs": 164240,
+      "verbatim": "Anyways, to reduce our team by approximately 3,200 throughout the fiscal year of 27.",
+      "display": "Anyways, to reduce our team by approximately 3,200 throughout the fiscal year of 27.",
+      "search": "anyways, to reduce our team by approximately 3,200 throughout the fiscal year of 27.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:47",
+      "startMs": 164240,
+      "endMs": 170880,
+      "verbatim": "This will include approximately 1,600 role eliminations today, and in addition, four studios will leave Xbox to new management.",
+      "display": "This will include approximately 1,600 role eliminations today, and in addition, four studios will leave Xbox to new management.",
+      "search": "this will include approximately 1,600 role eliminations today, and in addition, four studios will leave xbox to new management.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:48",
+      "startMs": 170880,
+      "endMs": 176320,
+      "verbatim": "So I want to talk about this because this has to be the most insane way to do layoffs ever.",
+      "display": "So I want to talk about this because this has to be the most insane way to do layoffs ever.",
+      "search": "so i want to talk about this because this has to be the most insane way to do layoffs ever.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:49",
+      "startMs": 176320,
+      "endMs": 180960,
+      "verbatim": "Absolutely, undeniably, this is the worst one I have ever seen in my lifetime.",
+      "display": "Absolutely, undeniably, this is the worst one I have ever seen in my lifetime.",
+      "search": "absolutely, undeniably, this is the worst one i have ever seen in my lifetime.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:50",
+      "startMs": 180960,
+      "endMs": 183360,
+      "verbatim": "Because there is like the classic ones you see, right?",
+      "display": "Because there is like the classic ones you see, right?",
+      "search": "because there is like the classic ones you see, right?",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:51",
+      "startMs": 183360,
+      "endMs": 186640,
+      "verbatim": "Facebook, 8,000, Oracle, 30,000.",
+      "display": "Facebook, 8,000, Oracle, 30,000.",
+      "search": "facebook, 8,000, oracle, 30,000.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:52",
+      "startMs": 186640,
+      "endMs": 190880,
+      "verbatim": "You know, like just these layoffs that hit and a bunch of people get fired on day one.",
+      "display": "You know, like just these layoffs that hit and a bunch of people get fired on day one.",
+      "search": "you know, like just these layoffs that hit and a bunch of people get fired on day one.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:53",
+      "startMs": 190880,
+      "endMs": 192640,
+      "verbatim": "This one is so much different.",
+      "display": "This one is so much different.",
+      "search": "this one is so much different.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:54",
+      "startMs": 192640,
+      "endMs": 202160,
+      "verbatim": "This one is firing half of them and being like, hey, bro, if you look, if you look over at Doom uh at id studios, Doom, you know, you heard of Doom, you know how there's like all those really excellent engineers.",
+      "display": "This one is firing half of them and being like, hey, bro, if you look, if you look over at Doom uh at id studios, Doom, you know, you heard of Doom, you know how there's like all those really excellent engineers.",
+      "search": "this one is firing half of them and being like, hey, bro, if you look, if you look over at doom uh at id studios, doom, you know, you heard of doom, you know how there's like all those really excellent engineers.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:55",
+      "startMs": 202160,
+      "endMs": 203680,
+      "verbatim": "Yeah, we fired half of them.",
+      "display": "Yeah, we fired half of them.",
+      "search": "yeah, we fired half of them.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:56",
+      "startMs": 203680,
+      "endMs": 204720,
+      "verbatim": "We're gonna fire some more.",
+      "display": "We're gonna fire some more.",
+      "search": "we're gonna fire some more.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:57",
+      "startMs": 204720,
+      "endMs": 205200,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:58",
+      "startMs": 205200,
+      "endMs": 206240,
+      "verbatim": "Maybe that could be you.",
+      "display": "Maybe that could be you.",
+      "search": "maybe that could be you.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:59",
+      "startMs": 206240,
+      "endMs": 206720,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:60",
+      "startMs": 206720,
+      "endMs": 209520,
+      "verbatim": "It's gonna happen over the course of next in the next year and a half.",
+      "display": "It's gonna happen over the course of next in the next year and a half.",
+      "search": "it's gonna happen over the course of next in the next year and a half.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:61",
+      "startMs": 209520,
+      "endMs": 210960,
+      "verbatim": "Like, to me, that's insane.",
+      "display": "Like, to me, that's insane.",
+      "search": "like, to me, that's insane.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:62",
+      "startMs": 210960,
+      "endMs": 217520,
+      "verbatim": "Saying you're gonna lay off 1,600 more people in the next approximate year and a half.",
+      "display": "Saying you're gonna lay off 1,600 more people in the next approximate year and a half.",
+      "search": "saying you're gonna lay off 1,600 more people in the next approximate year and a half.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:63",
+      "startMs": 220080,
+      "endMs": 225120,
+      "verbatim": "Like everybody working there is knowing that they are maybe on a time clock.",
+      "display": "Like everybody working there is knowing that they are maybe on a time clock.",
+      "search": "like everybody working there is knowing that they are maybe on a time clock.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:64",
+      "startMs": 225120,
+      "endMs": 226640,
+      "verbatim": "They know they're going to be let go.",
+      "display": "They know they're going to be let go.",
+      "search": "they know they're going to be let go.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:65",
+      "startMs": 226640,
+      "endMs": 228160,
+      "verbatim": "Like, how do you produce good work?",
+      "display": "Like, how do you produce good work?",
+      "search": "like, how do you produce good work?",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:66",
+      "startMs": 228160,
+      "endMs": 236880,
+      "verbatim": "How do you become a good teammate when you think that if you're not somehow the best of the best, maybe that somehow you're sucking up to management so they don't fire you?",
+      "display": "How do you become a good teammate when you think that if you're not somehow the best of the best, maybe that somehow you're sucking up to management so they don't fire you?",
+      "search": "how do you become a good teammate when you think that if you're not somehow the best of the best, maybe that somehow you're sucking up to management so they don't fire you?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:67",
+      "startMs": 236880,
+      "endMs": 250400,
+      "verbatim": "This is gonna cause like a game of thrones style culture where you effectively have to betray everybody to remain on top, like, oh my gosh, this is it's just the craziest one to be like, hey, I'm gonna fire a lot of people.",
+      "display": "This is gonna cause like a game of thrones style culture where you effectively have to betray everybody to remain on top, like, oh my gosh, this is it's just the craziest one to be like, hey, I'm gonna fire a lot of people.",
+      "search": "this is gonna cause like a game of thrones style culture where you effectively have to betray everybody to remain on top, like, oh my gosh, this is it's just the craziest one to be like, hey, i'm gonna fire a lot of people.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:68",
+      "startMs": 250400,
+      "endMs": 254960,
+      "verbatim": "Just got done doing it, but we're gonna double that number in the next 18 months.",
+      "display": "Just got done doing it, but we're gonna double that number in the next 18 months.",
+      "search": "just got done doing it, but we're gonna double that number in the next 18 months.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:69",
+      "startMs": 255360,
+      "endMs": 257600,
+      "verbatim": "Just like, why?",
+      "display": "Just like, why?",
+      "search": "just like, why?",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:70",
+      "startMs": 257600,
+      "endMs": 259280,
+      "verbatim": "Why are we doing this?",
+      "display": "Why are we doing this?",
+      "search": "why are we doing this?",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:71",
+      "startMs": 259280,
+      "endMs": 267040,
+      "verbatim": "But somehow that's not like uh what I consider one of the most bizarre points of this all because that is just kind of nuts.",
+      "display": "But somehow that's not like uh what I consider one of the most bizarre points of this all because that is just kind of nuts.",
+      "search": "but somehow that's not like uh what i consider one of the most bizarre points of this all because that is just kind of nuts.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:72",
+      "startMs": 267040,
+      "endMs": 270480,
+      "verbatim": "Next, the letter goes through some basic stuff about like growing pains.",
+      "display": "Next, the letter goes through some basic stuff about like growing pains.",
+      "search": "next, the letter goes through some basic stuff about like growing pains.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:73",
+      "startMs": 270480,
+      "endMs": 276000,
+      "verbatim": "I know this is painful, these changes will directly affect people who have poured their creativity into building Xbox.",
+      "display": "I know this is painful, these changes will directly affect people who have poured their creativity into building Xbox.",
+      "search": "i know this is painful, these changes will directly affect people who have poured their creativity into building xbox.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:74",
+      "startMs": 276000,
+      "endMs": 279680,
+      "verbatim": "Many joined us through acquisitions, others were recruited here.",
+      "display": "Many joined us through acquisitions, others were recruited here.",
+      "search": "many joined us through acquisitions, others were recruited here.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:75",
+      "startMs": 279680,
+      "endMs": 281440,
+      "verbatim": "Our business today is not healthy.",
+      "display": "Our business today is not healthy.",
+      "search": "our business today is not healthy.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:76",
+      "startMs": 281440,
+      "endMs": 286720,
+      "verbatim": "We are operating at margins that are 3 to 10x lower than comparable platform and publishing businesses, i.e.",
+      "display": "We are operating at margins that are 3 to 10x lower than comparable platform and publishing businesses, i.e.",
+      "search": "we are operating at margins that are 3 to 10x lower than comparable platform and publishing businesses, i.e.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:77",
+      "startMs": 286800,
+      "endMs": 287520,
+      "verbatim": "Steam.",
+      "display": "Steam.",
+      "search": "steam.",
+      "confidence": 0.679
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:78",
+      "startMs": 287520,
+      "endMs": 290000,
+      "verbatim": "Gabe, just just being a champion right now.",
+      "display": "Gabe, just just being a champion right now.",
+      "search": "gabe, just just being a champion right now.",
+      "confidence": 0.73
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:79",
+      "startMs": 290000,
+      "endMs": 292640,
+      "verbatim": "Gabe is just sitting there just like, bro, I nailed this.",
+      "display": "Gabe is just sitting there just like, bro, I nailed this.",
+      "search": "gabe is just sitting there just like, bro, i nailed this.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:80",
+      "startMs": 292640,
+      "endMs": 294560,
+      "verbatim": "I I created the best platform.",
+      "display": "I I created the best platform.",
+      "search": "i i created the best platform.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:81",
+      "startMs": 294560,
+      "endMs": 296320,
+      "verbatim": "I created the best platform ever.",
+      "display": "I created the best platform ever.",
+      "search": "i created the best platform ever.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:82",
+      "startMs": 296320,
+      "endMs": 302640,
+      "verbatim": "In fact, I even created a platform that had gambling that took advantage of many uh young kids, and people still love us.",
+      "display": "In fact, I even created a platform that had gambling that took advantage of many uh young kids, and people still love us.",
+      "search": "in fact, i even created a platform that had gambling that took advantage of many uh young kids, and people still love us.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:83",
+      "startMs": 302640,
+      "endMs": 305600,
+      "verbatim": "We're the best platform that has ever existed in humankind.",
+      "display": "We're the best platform that has ever existed in humankind.",
+      "search": "we're the best platform that has ever existed in humankind.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:84",
+      "startMs": 305600,
+      "endMs": 306720,
+      "verbatim": "It's hard not to love Steam.",
+      "display": "It's hard not to love Steam.",
+      "search": "it's hard not to love steam.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:85",
+      "startMs": 306800,
+      "endMs": 307600,
+      "verbatim": "Like, it's good stuff.",
+      "display": "Like, it's good stuff.",
+      "search": "like, it's good stuff.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:86",
+      "startMs": 307600,
+      "endMs": 308640,
+      "verbatim": "They're crushing it.",
+      "display": "They're crushing it.",
+      "search": "they're crushing it.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:87",
+      "startMs": 308640,
+      "endMs": 312480,
+      "verbatim": "We've entered the Gen 9 with a smaller install base and a higher cost structure.",
+      "display": "We've entered the Gen 9 with a smaller install base and a higher cost structure.",
+      "search": "we've entered the gen 9 with a smaller install base and a higher cost structure.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:88",
+      "startMs": 312480,
+      "endMs": 313440,
+      "verbatim": "Thanks AI.",
+      "display": "Thanks AI.",
+      "search": "thanks ai.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:89",
+      "startMs": 313440,
+      "endMs": 314240,
+      "verbatim": "Thanks AI.",
+      "display": "Thanks AI.",
+      "search": "thanks ai.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:90",
+      "startMs": 314240,
+      "endMs": 316960,
+      "verbatim": "Also, by the way, how did they get a higher uh cost structure?",
+      "display": "Also, by the way, how did they get a higher uh cost structure?",
+      "search": "also, by the way, how did they get a higher uh cost structure?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:91",
+      "startMs": 316960,
+      "endMs": 318160,
+      "verbatim": "I'm just super curious.",
+      "display": "I'm just super curious.",
+      "search": "i'm just super curious.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:92",
+      "startMs": 318160,
+      "endMs": 320560,
+      "verbatim": "Uh Asha, what were you doing before this?",
+      "display": "Uh Asha, what were you doing before this?",
+      "search": "uh asha, what were you doing before this?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:93",
+      "startMs": 320560,
+      "endMs": 324080,
+      "verbatim": "Oh, yeah, you were a VP of Core AI, right?",
+      "display": "Oh, yeah, you were a VP of Core AI, right?",
+      "search": "oh, yeah, you were a vp of core ai, right?",
+      "confidence": 0.687
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:94",
+      "startMs": 324080,
+      "endMs": 325600,
+      "verbatim": "Oh, you were involved in AI.",
+      "display": "Oh, you were involved in AI.",
+      "search": "oh, you were involved in ai.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:95",
+      "startMs": 325600,
+      "endMs": 332080,
+      "verbatim": "Yeah, that's why you have high cost structures, because you've also devoured the internet's uh hardware and software.",
+      "display": "Yeah, that's why you have high cost structures, because you've also devoured the internet's uh hardware and software.",
+      "search": "yeah, that's why you have high cost structures, because you've also devoured the internet's uh hardware and software.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:96",
+      "startMs": 332080,
+      "endMs": 333360,
+      "verbatim": "Like, ah!",
+      "display": "Like, ah!",
+      "search": "like, ah!",
+      "confidence": 0.214
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:97",
+      "startMs": 333360,
+      "endMs": 334800,
+      "verbatim": "Anyways, back to it.",
+      "display": "Anyways, back to it.",
+      "search": "anyways, back to it.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:98",
+      "startMs": 334800,
+      "endMs": 339040,
+      "verbatim": "To grow, we bet on Game Pass, a multi-platform and broader portfolio of content.",
+      "display": "To grow, we bet on Game Pass, a multi-platform and broader portfolio of content.",
+      "search": "to grow, we bet on game pass, a multi-platform and broader portfolio of content.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:99",
+      "startMs": 339040,
+      "endMs": 343120,
+      "verbatim": "While those businesses have created meaningful value, they did not grow at the pace we expected.",
+      "display": "While those businesses have created meaningful value, they did not grow at the pace we expected.",
+      "search": "while those businesses have created meaningful value, they did not grow at the pace we expected.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:100",
+      "startMs": 343120,
+      "endMs": 349760,
+      "verbatim": "As that happened, our core business weakened, and we added more teams, more investment, and more time hoping for a better outcome.",
+      "display": "As that happened, our core business weakened, and we added more teams, more investment, and more time hoping for a better outcome.",
+      "search": "as that happened, our core business weakened, and we added more teams, more investment, and more time hoping for a better outcome.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:101",
+      "startMs": 349760,
+      "endMs": 353760,
+      "verbatim": "And now the industry is facing the most severe hardware crisis in its history.",
+      "display": "And now the industry is facing the most severe hardware crisis in its history.",
+      "search": "and now the industry is facing the most severe hardware crisis in its history.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:102",
+      "startMs": 353760,
+      "endMs": 355520,
+      "verbatim": "We must reset Xbox.",
+      "display": "We must reset Xbox.",
+      "search": "we must reset xbox.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:103",
+      "startMs": 355520,
+      "endMs": 358960,
+      "verbatim": "It goes on and kind of describes a lot more detail about what's happening.",
+      "display": "It goes on and kind of describes a lot more detail about what's happening.",
+      "search": "it goes on and kind of describes a lot more detail about what's happening.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:104",
+      "startMs": 358960,
+      "endMs": 364560,
+      "verbatim": "Of course, this is where the 64 cents loss for every dollar invested into Xbox, a lot of the stuff across here.",
+      "display": "Of course, this is where the 64 cents loss for every dollar invested into Xbox, a lot of the stuff across here.",
+      "search": "of course, this is where the 64 cents loss for every dollar invested into xbox, a lot of the stuff across here.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:105",
+      "startMs": 364560,
+      "endMs": 373200,
+      "verbatim": "Here's a lot of the troubles and things that they're having reductions in, including the Xenimax, which is the thing that owns id software, which is where all the id layoffs happened.",
+      "display": "Here's a lot of the troubles and things that they're having reductions in, including the Xenimax, which is the thing that owns id software, which is where all the id layoffs happened.",
+      "search": "here's a lot of the troubles and things that they're having reductions in, including the xenimax, which is the thing that owns id software, which is where all the id layoffs happened.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:106",
+      "startMs": 373200,
+      "endMs": 380720,
+      "verbatim": "Uh, in addition, Mojang, which of course is Minecraft, their big cash cow, they're gonna be reporting directly to the CEO.",
+      "display": "Uh, in addition, Mojang, which of course is Minecraft, their big cash cow, they're gonna be reporting directly to the CEO.",
+      "search": "uh, in addition, mojang, which of course is minecraft, their big cash cow, they're gonna be reporting directly to the ceo.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:107",
+      "startMs": 380720,
+      "endMs": 383840,
+      "verbatim": "But those are kind of all like the fuzzy details, right?",
+      "display": "But those are kind of all like the fuzzy details, right?",
+      "search": "but those are kind of all like the fuzzy details, right?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:108",
+      "startMs": 383840,
+      "endMs": 385840,
+      "verbatim": "Where things really get big is right here.",
+      "display": "Where things really get big is right here.",
+      "search": "where things really get big is right here.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:109",
+      "startMs": 385840,
+      "endMs": 392400,
+      "verbatim": "Now, this is the other part that I just I can't, for the life of me, imagine how did this happen?",
+      "display": "Now, this is the other part that I just I can't, for the life of me, imagine how did this happen?",
+      "search": "now, this is the other part that i just i can't, for the life of me, imagine how did this happen?",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:110",
+      "startMs": 392400,
+      "endMs": 395520,
+      "verbatim": "I know this is a lot like the I don't know what I expected meme.",
+      "display": "I know this is a lot like the I don't know what I expected meme.",
+      "search": "i know this is a lot like the i don't know what i expected meme.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:111",
+      "startMs": 395520,
+      "endMs": 399600,
+      "verbatim": "I'm gonna open it up, look inside, and go, I I don't know what I was expecting to find.",
+      "display": "I'm gonna open it up, look inside, and go, I I don't know what I was expecting to find.",
+      "search": "i'm gonna open it up, look inside, and go, i i don't know what i was expecting to find.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:112",
+      "startMs": 399600,
+      "endMs": 405200,
+      "verbatim": "But this is what Asha has to say about the state of Xbox and how it's being ran.",
+      "display": "But this is what Asha has to say about the state of Xbox and how it's being ran.",
+      "search": "but this is what asha has to say about the state of xbox and how it's being ran.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:113",
+      "startMs": 405200,
+      "endMs": 408960,
+      "verbatim": "We know that great technology gets better when it gets simpler.",
+      "display": "We know that great technology gets better when it gets simpler.",
+      "search": "we know that great technology gets better when it gets simpler.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:114",
+      "startMs": 408960,
+      "endMs": 409760,
+      "verbatim": "Also true.",
+      "display": "Also true.",
+      "search": "also true.",
+      "confidence": 0.69
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:115",
+      "startMs": 409760,
+      "endMs": 412720,
+      "verbatim": "Very great insight, not bigger, also true.",
+      "display": "Very great insight, not bigger, also true.",
+      "search": "very great insight, not bigger, also true.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:116",
+      "startMs": 412720,
+      "endMs": 419680,
+      "verbatim": "Today, in some parts of the company, work passes through as many as 14 layers of management.",
+      "display": "Today, in some parts of the company, work passes through as many as 14 layers of management.",
+      "search": "today, in some parts of the company, work passes through as many as 14 layers of management.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:117",
+      "startMs": 419680,
+      "endMs": 421360,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:118",
+      "startMs": 421360,
+      "endMs": 422720,
+      "verbatim": "How did this happen?",
+      "display": "How did this happen?",
+      "search": "how did this happen?",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:119",
+      "startMs": 422720,
+      "endMs": 423760,
+      "verbatim": "Now I get it.",
+      "display": "Now I get it.",
+      "search": "now i get it.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:120",
+      "startMs": 423760,
+      "endMs": 429680,
+      "verbatim": "I don't know a lot about the inner workings of Microsoft or Xbox or how you would ever get there.",
+      "display": "I don't know a lot about the inner workings of Microsoft or Xbox or how you would ever get there.",
+      "search": "i don't know a lot about the inner workings of microsoft or xbox or how you would ever get there.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:121",
+      "startMs": 429680,
+      "endMs": 433360,
+      "verbatim": "But in my head, you'd have something like the C suite, right?",
+      "display": "But in my head, you'd have something like the C suite, right?",
+      "search": "but in my head, you'd have something like the c suite, right?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:122",
+      "startMs": 433360,
+      "endMs": 436640,
+      "verbatim": "This is gonna be the group of people that are managing the company.",
+      "display": "This is gonna be the group of people that are managing the company.",
+      "search": "this is gonna be the group of people that are managing the company.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:123",
+      "startMs": 436640,
+      "endMs": 438480,
+      "verbatim": "You probably have large orcs, right?",
+      "display": "You probably have large orcs, right?",
+      "search": "you probably have large orcs, right?",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:124",
+      "startMs": 438480,
+      "endMs": 439280,
+      "verbatim": "You have infra.",
+      "display": "You have infra.",
+      "search": "you have infra.",
+      "confidence": 0.685
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:125",
+      "startMs": 439280,
+      "endMs": 442000,
+      "verbatim": "They're running all the Xbox infrastructure and all that.",
+      "display": "They're running all the Xbox infrastructure and all that.",
+      "search": "they're running all the xbox infrastructure and all that.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:126",
+      "startMs": 442000,
+      "endMs": 443120,
+      "verbatim": "You probably have hardware.",
+      "display": "You probably have hardware.",
+      "search": "you probably have hardware.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:127",
+      "startMs": 443120,
+      "endMs": 449040,
+      "verbatim": "This is gonna be all the actual hardware operations to build the Xbox, to produce that, all the physical world stuff.",
+      "display": "This is gonna be all the actual hardware operations to build the Xbox, to produce that, all the physical world stuff.",
+      "search": "this is gonna be all the actual hardware operations to build the xbox, to produce that, all the physical world stuff.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:128",
+      "startMs": 449040,
+      "endMs": 458880,
+      "verbatim": "You probably have hardware partnerslash partner engineering, as it's often called, where you're working with all the established partners to bring all the stuff together to empower the hardware right here.",
+      "display": "You probably have hardware partnerslash partner engineering, as it's often called, where you're working with all the established partners to bring all the stuff together to empower the hardware right here.",
+      "search": "you probably have hardware partnerslash partner engineering, as it's often called, where you're working with all the established partners to bring all the stuff together to empower the hardware right here.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:129",
+      "startMs": 458880,
+      "endMs": 461520,
+      "verbatim": "You probably have something that's like a software org.",
+      "display": "You probably have something that's like a software org.",
+      "search": "you probably have something that's like a software org.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:130",
+      "startMs": 461520,
+      "endMs": 464160,
+      "verbatim": "You have the UI, you have all that kind of stuff.",
+      "display": "You have the UI, you have all that kind of stuff.",
+      "search": "you have the ui, you have all that kind of stuff.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:131",
+      "startMs": 464160,
+      "endMs": 468080,
+      "verbatim": "And then you probably have some set of sales and customer-focused stuff, right?",
+      "display": "And then you probably have some set of sales and customer-focused stuff, right?",
+      "search": "and then you probably have some set of sales and customer-focused stuff, right?",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:132",
+      "startMs": 468080,
+      "endMs": 471760,
+      "verbatim": "So this is just me completely riffing, just completely guessing.",
+      "display": "So this is just me completely riffing, just completely guessing.",
+      "search": "so this is just me completely riffing, just completely guessing.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:133",
+      "startMs": 471760,
+      "endMs": 477760,
+      "verbatim": "Uh, you can imagine that maybe under software or maybe to the side you also have some sort of localization language thing.",
+      "display": "Uh, you can imagine that maybe under software or maybe to the side you also have some sort of localization language thing.",
+      "search": "uh, you can imagine that maybe under software or maybe to the side you also have some sort of localization language thing.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:134",
+      "startMs": 477760,
+      "endMs": 480400,
+      "verbatim": "But my guess is this actually probably falls under software.",
+      "display": "But my guess is this actually probably falls under software.",
+      "search": "but my guess is this actually probably falls under software.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:135",
+      "startMs": 480400,
+      "endMs": 491040,
+      "verbatim": "And then somehow, what Microsoft has done in this crazy little org chart right here is that they proceeded to add so for it, like what is it, 12 more levels of software?",
+      "display": "And then somehow, what Microsoft has done in this crazy little org chart right here is that they proceeded to add so for it, like what is it, 12 more levels of software?",
+      "search": "and then somehow, what microsoft has done in this crazy little org chart right here is that they proceeded to add so for it, like what is it, 12 more levels of software?",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:136",
+      "startMs": 491040,
+      "endMs": 498400,
+      "verbatim": "Like, how do you even break apart a division that much to get 14 levels of management?",
+      "display": "Like, how do you even break apart a division that much to get 14 levels of management?",
+      "search": "like, how do you even break apart a division that much to get 14 levels of management?",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:137",
+      "startMs": 498400,
+      "endMs": 500240,
+      "verbatim": "How is that even good at all?",
+      "display": "How is that even good at all?",
+      "search": "how is that even good at all?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:138",
+      "startMs": 500240,
+      "endMs": 502880,
+      "verbatim": "Like, this is what I constantly talk about.",
+      "display": "Like, this is what I constantly talk about.",
+      "search": "like, this is what i constantly talk about.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:139",
+      "startMs": 502880,
+      "endMs": 506880,
+      "verbatim": "This is what T just talked about, this is what a lot of us have talked about on the internet.",
+      "display": "This is what T just talked about, this is what a lot of us have talked about on the internet.",
+      "search": "this is what t just talked about, this is what a lot of us have talked about on the internet.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:140",
+      "startMs": 506880,
+      "endMs": 511520,
+      "verbatim": "Microsoft just doesn't have the will to get anything done because look at the size of that.",
+      "display": "Microsoft just doesn't have the will to get anything done because look at the size of that.",
+      "search": "microsoft just doesn't have the will to get anything done because look at the size of that.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:141",
+      "startMs": 511520,
+      "endMs": 516480,
+      "verbatim": "How could you get anything done with 14 levels of management?",
+      "display": "How could you get anything done with 14 levels of management?",
+      "search": "how could you get anything done with 14 levels of management?",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:142",
+      "startMs": 516480,
+      "endMs": 522160,
+      "verbatim": "What kind of insane human centipede of information has been created here?",
+      "display": "What kind of insane human centipede of information has been created here?",
+      "search": "what kind of insane human centipede of information has been created here?",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:143",
+      "startMs": 522160,
+      "endMs": 523760,
+      "verbatim": "This can't possibly work.",
+      "display": "This can't possibly work.",
+      "search": "this can't possibly work.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:144",
+      "startMs": 523760,
+      "endMs": 526080,
+      "verbatim": "Like, this should have been identified years ago.",
+      "display": "Like, this should have been identified years ago.",
+      "search": "like, this should have been identified years ago.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:145",
+      "startMs": 526080,
+      "endMs": 530560,
+      "verbatim": "Like, hey, how did we get to seven managers between me and a software engineer?",
+      "display": "Like, hey, how did we get to seven managers between me and a software engineer?",
+      "search": "like, hey, how did we get to seven managers between me and a software engineer?",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:146",
+      "startMs": 530560,
+      "endMs": 534960,
+      "verbatim": "Like, how could you even get my message in a coherent way to that person?",
+      "display": "Like, how could you even get my message in a coherent way to that person?",
+      "search": "like, how could you even get my message in a coherent way to that person?",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:147",
+      "startMs": 534960,
+      "endMs": 536320,
+      "verbatim": "This seems like it's bad.",
+      "display": "This seems like it's bad.",
+      "search": "this seems like it's bad.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:148",
+      "startMs": 536320,
+      "endMs": 542000,
+      "verbatim": "Instead, they go all the way to 14 in betwixt the CEO and the average person.",
+      "display": "Instead, they go all the way to 14 in betwixt the CEO and the average person.",
+      "search": "instead, they go all the way to 14 in betwixt the ceo and the average person.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:149",
+      "startMs": 542000,
+      "endMs": 549040,
+      "verbatim": "Now I'm sure I'm missing some organizations up here, and I'm sure it's a little bit more complex than I made it, but 14?",
+      "display": "Now I'm sure I'm missing some organizations up here, and I'm sure it's a little bit more complex than I made it, but 14?",
+      "search": "now i'm sure i'm missing some organizations up here, and i'm sure it's a little bit more complex than i made it, but 14?",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:150",
+      "startMs": 549040,
+      "endMs": 554160,
+      "verbatim": "They literally created a an LLM of managers with reporting.",
+      "display": "They literally created a an LLM of managers with reporting.",
+      "search": "they literally created a an llm of managers with reporting.",
+      "confidence": 0.769
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:151",
+      "startMs": 554160,
+      "endMs": 560560,
+      "verbatim": "Like they're actually simulating how a large language model works, and this is just like middle manager hell.",
+      "display": "Like they're actually simulating how a large language model works, and this is just like middle manager hell.",
+      "search": "like they're actually simulating how a large language model works, and this is just like middle manager hell.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:152",
+      "startMs": 560560,
+      "endMs": 568880,
+      "verbatim": "Like, they could probably solve some crazy math problems in undiscovered physics by just simply passing numbers around in here.",
+      "display": "Like, they could probably solve some crazy math problems in undiscovered physics by just simply passing numbers around in here.",
+      "search": "like, they could probably solve some crazy math problems in undiscovered physics by just simply passing numbers around in here.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:153",
+      "startMs": 568880,
+      "endMs": 571760,
+      "verbatim": "Bro, have you heard about the new 14T model?",
+      "display": "Bro, have you heard about the new 14T model?",
+      "search": "bro, have you heard about the new 14t model?",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:154",
+      "startMs": 571760,
+      "endMs": 574000,
+      "verbatim": "Yeah, 14 levels of management model.",
+      "display": "Yeah, 14 levels of management model.",
+      "search": "yeah, 14 levels of management model.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:155",
+      "startMs": 574000,
+      "endMs": 575200,
+      "verbatim": "It's like this new model.",
+      "display": "It's like this new model.",
+      "search": "it's like this new model.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:156",
+      "startMs": 575200,
+      "endMs": 582960,
+      "verbatim": "Like you put something in the top, and what comes out the bottom is 1000 Google documents explaining how to do what was put up top.",
+      "display": "Like you put something in the top, and what comes out the bottom is 1000 Google documents explaining how to do what was put up top.",
+      "search": "like you put something in the top, and what comes out the bottom is 1000 google documents explaining how to do what was put up top.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:157",
+      "startMs": 582960,
+      "endMs": 583600,
+      "verbatim": "It's a new skill.",
+      "display": "It's a new skill.",
+      "search": "it's a new skill.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:158",
+      "startMs": 583600,
+      "endMs": 584400,
+      "verbatim": "You gotta check it out.",
+      "display": "You gotta check it out.",
+      "search": "you gotta check it out.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:159",
+      "startMs": 584400,
+      "endMs": 586000,
+      "verbatim": "It's actually native with G Brain.",
+      "display": "It's actually native with G Brain.",
+      "search": "it's actually native with g brain.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:160",
+      "startMs": 586000,
+      "endMs": 586560,
+      "verbatim": "She goes on.",
+      "display": "She goes on.",
+      "search": "she goes on.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:161",
+      "startMs": 586560,
+      "endMs": 595360,
+      "verbatim": "Our platform teams are 40% larger than they were at the start of this generation, even as our player base and playtime has declined, meaning they're actually like going down.",
+      "display": "Our platform teams are 40% larger than they were at the start of this generation, even as our player base and playtime has declined, meaning they're actually like going down.",
+      "search": "our platform teams are 40% larger than they were at the start of this generation, even as our player base and playtime has declined, meaning they're actually like going down.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:162",
+      "startMs": 595360,
+      "endMs": 596240,
+      "verbatim": "Like she's letting it out.",
+      "display": "Like she's letting it out.",
+      "search": "like she's letting it out.",
+      "confidence": 0.993
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:163",
+      "startMs": 596240,
+      "endMs": 597920,
+      "verbatim": "This is actually, by the way, I do like this.",
+      "display": "This is actually, by the way, I do like this.",
+      "search": "this is actually, by the way, i do like this.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:164",
+      "startMs": 597920,
+      "endMs": 605520,
+      "verbatim": "I do like that we're having a bit more candid talk for once, as opposed to just like nonsense, like as we strive for a better future.",
+      "display": "I do like that we're having a bit more candid talk for once, as opposed to just like nonsense, like as we strive for a better future.",
+      "search": "i do like that we're having a bit more candid talk for once, as opposed to just like nonsense, like as we strive for a better future.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:165",
+      "startMs": 605520,
+      "endMs": 609680,
+      "verbatim": "No, it's like, yo, bro, it's like things are going down, not as good as they once were.",
+      "display": "No, it's like, yo, bro, it's like things are going down, not as good as they once were.",
+      "search": "no, it's like, yo, bro, it's like things are going down, not as good as they once were.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:166",
+      "startMs": 609680,
+      "endMs": 610880,
+      "verbatim": "Gotta fix that shit.",
+      "display": "Gotta fix that shit.",
+      "search": "gotta fix that shit.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:167",
+      "startMs": 610880,
+      "endMs": 615520,
+      "verbatim": "That complexity has slowed decisions, blurred accountability, and made it harder to deliver for players.",
+      "display": "That complexity has slowed decisions, blurred accountability, and made it harder to deliver for players.",
+      "search": "that complexity has slowed decisions, blurred accountability, and made it harder to deliver for players.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:168",
+      "startMs": 615520,
+      "endMs": 617920,
+      "verbatim": "As we reset Xbox, we will simplify.",
+      "display": "As we reset Xbox, we will simplify.",
+      "search": "as we reset xbox, we will simplify.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:169",
+      "startMs": 617920,
+      "endMs": 622560,
+      "verbatim": "We will reduce management layers to no more than five, and where possible, three.",
+      "display": "We will reduce management layers to no more than five, and where possible, three.",
+      "search": "we will reduce management layers to no more than five, and where possible, three.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:170",
+      "startMs": 622560,
+      "endMs": 623840,
+      "verbatim": "To me, this makes perfect sense.",
+      "display": "To me, this makes perfect sense.",
+      "search": "to me, this makes perfect sense.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:171",
+      "startMs": 623840,
+      "endMs": 624960,
+      "verbatim": "Like, that's a good goal.",
+      "display": "Like, that's a good goal.",
+      "search": "like, that's a good goal.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:172",
+      "startMs": 624960,
+      "endMs": 630560,
+      "verbatim": "I feel somewhat sad for the amount of middle management that's gonna be absolutely slaughtered.",
+      "display": "I feel somewhat sad for the amount of middle management that's gonna be absolutely slaughtered.",
+      "search": "i feel somewhat sad for the amount of middle management that's gonna be absolutely slaughtered.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:173",
+      "startMs": 630560,
+      "endMs": 631440,
+      "verbatim": "Like, they're people too.",
+      "display": "Like, they're people too.",
+      "search": "like, they're people too.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:174",
+      "startMs": 631440,
+      "endMs": 633920,
+      "verbatim": "Like, hey, middle managers are people too, okay?",
+      "display": "Like, hey, middle managers are people too, okay?",
+      "search": "like, hey, middle managers are people too, okay?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:175",
+      "startMs": 633920,
+      "endMs": 636000,
+      "verbatim": "They also have homes to go to, okay?",
+      "display": "They also have homes to go to, okay?",
+      "search": "they also have homes to go to, okay?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:176",
+      "startMs": 636000,
+      "endMs": 640320,
+      "verbatim": "They also have spreadsheets they like to edit, they also like to make their own slopware with cursor.",
+      "display": "They also have spreadsheets they like to edit, they also like to make their own slopware with cursor.",
+      "search": "they also have spreadsheets they like to edit, they also like to make their own slopware with cursor.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:177",
+      "startMs": 640320,
+      "endMs": 640880,
+      "verbatim": "I get it.",
+      "display": "I get it.",
+      "search": "i get it.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:178",
+      "startMs": 640880,
+      "endMs": 643200,
+      "verbatim": "Like, I am not here judging them, okay?",
+      "display": "Like, I am not here judging them, okay?",
+      "search": "like, i am not here judging them, okay?",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:179",
+      "startMs": 643200,
+      "endMs": 646000,
+      "verbatim": "But how do you get to the point of 14 layers?",
+      "display": "But how do you get to the point of 14 layers?",
+      "search": "but how do you get to the point of 14 layers?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:180",
+      "startMs": 646000,
+      "endMs": 649040,
+      "verbatim": "I just have to know, like, who was the person?",
+      "display": "I just have to know, like, who was the person?",
+      "search": "i just have to know, like, who was the person?",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:181",
+      "startMs": 649040,
+      "endMs": 650080,
+      "verbatim": "Who was the VP?",
+      "display": "Who was the VP?",
+      "search": "who was the vp?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:182",
+      "startMs": 650080,
+      "endMs": 654880,
+      "verbatim": "Like, there's 12 sets of managers below me to be able to deliver this feature.",
+      "display": "Like, there's 12 sets of managers below me to be able to deliver this feature.",
+      "search": "like, there's 12 sets of managers below me to be able to deliver this feature.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:183",
+      "startMs": 654880,
+      "endMs": 657520,
+      "verbatim": "This is gonna be a very successful and good endeavor.",
+      "display": "This is gonna be a very successful and good endeavor.",
+      "search": "this is gonna be a very successful and good endeavor.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:184",
+      "startMs": 657520,
+      "endMs": 659680,
+      "verbatim": "Like, who thinks that?",
+      "display": "Like, who thinks that?",
+      "search": "like, who thinks that?",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:185",
+      "startMs": 659680,
+      "endMs": 667920,
+      "verbatim": "The entire organization, all the way down, like in my head, the why this happens is that the entire structure below it is all self-serving.",
+      "display": "The entire organization, all the way down, like in my head, the why this happens is that the entire structure below it is all self-serving.",
+      "search": "the entire organization, all the way down, like in my head, the why this happens is that the entire structure below it is all self-serving.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:186",
+      "startMs": 667920,
+      "endMs": 672320,
+      "verbatim": "They all want to keep on living, they all want to keep on doing land grabs and power grabs.",
+      "display": "They all want to keep on living, they all want to keep on doing land grabs and power grabs.",
+      "search": "they all want to keep on living, they all want to keep on doing land grabs and power grabs.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:187",
+      "startMs": 672320,
+      "endMs": 676000,
+      "verbatim": "Therefore, no one's gonna point out the problem, the obvious problem.",
+      "display": "Therefore, no one's gonna point out the problem, the obvious problem.",
+      "search": "therefore, no one's gonna point out the problem, the obvious problem.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:188",
+      "startMs": 676000,
+      "endMs": 681760,
+      "verbatim": "Hey, there's way too many of us, because by admitting that problem, you also admit that maybe you are useless.",
+      "display": "Hey, there's way too many of us, because by admitting that problem, you also admit that maybe you are useless.",
+      "search": "hey, there's way too many of us, because by admitting that problem, you also admit that maybe you are useless.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:189",
+      "startMs": 681760,
+      "endMs": 685760,
+      "verbatim": "And so there's definitely like an entire preserve, pro preserve, preserve.",
+      "display": "And so there's definitely like an entire preserve, pro preserve, preserve.",
+      "search": "and so there's definitely like an entire preserve, pro preserve, preserve.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:190",
+      "startMs": 685760,
+      "endMs": 686960,
+      "verbatim": "Oh my goodness, what's the word?",
+      "display": "Oh my goodness, what's the word?",
+      "search": "oh my goodness, what's the word?",
+      "confidence": 0.587
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:191",
+      "startMs": 687200,
+      "endMs": 687920,
+      "verbatim": "Preserve.",
+      "display": "Preserve.",
+      "search": "preserve.",
+      "confidence": 0.575
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:192",
+      "startMs": 688160,
+      "endMs": 689440,
+      "verbatim": "I can't say the word.",
+      "display": "I can't say the word.",
+      "search": "i can't say the word.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:193",
+      "startMs": 689440,
+      "endMs": 691440,
+      "verbatim": "Oh my goodness, I can't say the word!",
+      "display": "Oh my goodness, I can't say the word!",
+      "search": "oh my goodness, i can't say the word!",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:194",
+      "startMs": 691440,
+      "endMs": 693280,
+      "verbatim": "Perverse, perverse, got it.",
+      "display": "Perverse, perverse, got it.",
+      "search": "perverse, perverse, got it.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:195",
+      "startMs": 693280,
+      "endMs": 702800,
+      "verbatim": "There's an entire perverse incentive problem going on there where management will, by its own like attempt to grow and survive, will grow by itself.",
+      "display": "There's an entire perverse incentive problem going on there where management will, by its own like attempt to grow and survive, will grow by itself.",
+      "search": "there's an entire perverse incentive problem going on there where management will, by its own like attempt to grow and survive, will grow by itself.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:196",
+      "startMs": 702800,
+      "endMs": 704320,
+      "verbatim": "It's like a bacteria, really.",
+      "display": "It's like a bacteria, really.",
+      "search": "it's like a bacteria, really.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:197",
+      "startMs": 704320,
+      "endMs": 714880,
+      "verbatim": "We will deliver success through a flattened organization that is built around makers, individual contributors focusing on building, player coaches, leaders who remain deeply involved in the work while developing their teams.",
+      "display": "We will deliver success through a flattened organization that is built around makers, individual contributors focusing on building, player coaches, leaders who remain deeply involved in the work while developing their teams.",
+      "search": "we will deliver success through a flattened organization that is built around makers, individual contributors focusing on building, player coaches, leaders who remain deeply involved in the work while developing their teams.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:198",
+      "startMs": 714880,
+      "endMs": 717840,
+      "verbatim": "Uh is player coaches, by the way, are those is that Scrum Masters?",
+      "display": "Uh is player coaches, by the way, are those is that Scrum Masters?",
+      "search": "uh is player coaches, by the way, are those is that scrum masters?",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:199",
+      "startMs": 717840,
+      "endMs": 720560,
+      "verbatim": "Is that the new term for Scrum Masters that we're hearing here?",
+      "display": "Is that the new term for Scrum Masters that we're hearing here?",
+      "search": "is that the new term for scrum masters that we're hearing here?",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:200",
+      "startMs": 720560,
+      "endMs": 723040,
+      "verbatim": "Yo, I'm a player, but I'm also a coach.",
+      "display": "Yo, I'm a player, but I'm also a coach.",
+      "search": "yo, i'm a player, but i'm also a coach.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:201",
+      "startMs": 723040,
+      "endMs": 724400,
+      "verbatim": "So, okay, oh, okay.",
+      "display": "So, okay, oh, okay.",
+      "search": "so, okay, oh, okay.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:202",
+      "startMs": 724400,
+      "endMs": 729360,
+      "verbatim": "So it's just a manager who slings a slop generated from AI into your code base.",
+      "display": "So it's just a manager who slings a slop generated from AI into your code base.",
+      "search": "so it's just a manager who slings a slop generated from ai into your code base.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:203",
+      "startMs": 729360,
+      "endMs": 730400,
+      "verbatim": "Okay, that's gonna be good.",
+      "display": "Okay, that's gonna be good.",
+      "search": "okay, that's gonna be good.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:204",
+      "startMs": 730400,
+      "endMs": 736080,
+      "verbatim": "Yeah, hey, bro, that's hey, bro, that's super hey, that's super cool.",
+      "display": "Yeah, hey, bro, that's hey, bro, that's super hey, that's super cool.",
+      "search": "yeah, hey, bro, that's hey, bro, that's super hey, that's super cool.",
+      "confidence": 0.716
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:205",
+      "startMs": 736080,
+      "endMs": 740160,
+      "verbatim": "I don't know about that last one, and directly responsible individuals.",
+      "display": "I don't know about that last one, and directly responsible individuals.",
+      "search": "i don't know about that last one, and directly responsible individuals.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:206",
+      "startMs": 740400,
+      "endMs": 744800,
+      "verbatim": "It is funny that they're now how many years into Xbox at this point?",
+      "display": "It is funny that they're now how many years into Xbox at this point?",
+      "search": "it is funny that they're now how many years into xbox at this point?",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:207",
+      "startMs": 744800,
+      "endMs": 747120,
+      "verbatim": "20 some years into Xbox going, you know what?",
+      "display": "20 some years into Xbox going, you know what?",
+      "search": "20 some years into xbox going, you know what?",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:208",
+      "startMs": 747120,
+      "endMs": 750480,
+      "verbatim": "It's crazy because management didn't make accountability, huh?",
+      "display": "It's crazy because management didn't make accountability, huh?",
+      "search": "it's crazy because management didn't make accountability, huh?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:209",
+      "startMs": 750720,
+      "endMs": 755600,
+      "verbatim": "It's almost like how Microsoft runs things is fundamentally flawed.",
+      "display": "It's almost like how Microsoft runs things is fundamentally flawed.",
+      "search": "it's almost like how microsoft runs things is fundamentally flawed.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:210",
+      "startMs": 755600,
+      "endMs": 756560,
+      "verbatim": "Crazy.",
+      "display": "Crazy.",
+      "search": "crazy.",
+      "confidence": 0.676
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:211",
+      "startMs": 756560,
+      "endMs": 762640,
+      "verbatim": "And we will streamline how we work across our tools with cleaner code base and shared services and 50% reduced vendor spend.",
+      "display": "And we will streamline how we work across our tools with cleaner code base and shared services and 50% reduced vendor spend.",
+      "search": "and we will streamline how we work across our tools with cleaner code base and shared services and 50% reduced vendor spend.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:212",
+      "startMs": 762640,
+      "endMs": 763360,
+      "verbatim": "I like that last one.",
+      "display": "I like that last one.",
+      "search": "i like that last one.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:213",
+      "startMs": 763360,
+      "endMs": 764800,
+      "verbatim": "Just hey, we're gonna spend less with vendors.",
+      "display": "Just hey, we're gonna spend less with vendors.",
+      "search": "just hey, we're gonna spend less with vendors.",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:214",
+      "startMs": 764800,
+      "endMs": 766480,
+      "verbatim": "I don't know what that means, but okay.",
+      "display": "I don't know what that means, but okay.",
+      "search": "i don't know what that means, but okay.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:215",
+      "startMs": 766480,
+      "endMs": 768000,
+      "verbatim": "Also, a cleaner code base.",
+      "display": "Also, a cleaner code base.",
+      "search": "also, a cleaner code base.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:216",
+      "startMs": 768000,
+      "endMs": 769360,
+      "verbatim": "That's also very interesting.",
+      "display": "That's also very interesting.",
+      "search": "that's also very interesting.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:217",
+      "startMs": 769360,
+      "endMs": 775680,
+      "verbatim": "I think she's saying right now that the code base totally sucks, but I also don't know how you're going to get that with player coaches, right?",
+      "display": "I think she's saying right now that the code base totally sucks, but I also don't know how you're going to get that with player coaches, right?",
+      "search": "i think she's saying right now that the code base totally sucks, but i also don't know how you're going to get that with player coaches, right?",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:218",
+      "startMs": 775680,
+      "endMs": 785200,
+      "verbatim": "Because I assume player coaches are in fact managers, or they're team leads, or they're supposed to be staff engineers that are shepherding the project, but also expected to contribute like an IC.",
+      "display": "Because I assume player coaches are in fact managers, or they're team leads, or they're supposed to be staff engineers that are shepherding the project, but also expected to contribute like an IC.",
+      "search": "because i assume player coaches are in fact managers, or they're team leads, or they're supposed to be staff engineers that are shepherding the project, but also expected to contribute like an ic.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:219",
+      "startMs": 785200,
+      "endMs": 788240,
+      "verbatim": "Like, very kind of confusing some of these things.",
+      "display": "Like, very kind of confusing some of these things.",
+      "search": "like, very kind of confusing some of these things.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:220",
+      "startMs": 788240,
+      "endMs": 795840,
+      "verbatim": "It's very difficult to get a uh to a good clean code base when you're pushed for time to the point where AI is your only saving grace.",
+      "display": "It's very difficult to get a uh to a good clean code base when you're pushed for time to the point where AI is your only saving grace.",
+      "search": "it's very difficult to get a uh to a good clean code base when you're pushed for time to the point where ai is your only saving grace.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:221",
+      "startMs": 795840,
+      "endMs": 799040,
+      "verbatim": "Now I'm sure there's a lot of people right now crothing at the mouth.",
+      "display": "Now I'm sure there's a lot of people right now crothing at the mouth.",
+      "search": "now i'm sure there's a lot of people right now crothing at the mouth.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:222",
+      "startMs": 799040,
+      "endMs": 801040,
+      "verbatim": "Don't talk about Fable like that.",
+      "display": "Don't talk about Fable like that.",
+      "search": "don't talk about fable like that.",
+      "confidence": 0.747
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:223",
+      "startMs": 801040,
+      "endMs": 802480,
+      "verbatim": "I hate to tell you this.",
+      "display": "I hate to tell you this.",
+      "search": "i hate to tell you this.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:224",
+      "startMs": 802480,
+      "endMs": 804000,
+      "verbatim": "Fable's not a girl.",
+      "display": "Fable's not a girl.",
+      "search": "fable's not a girl.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:225",
+      "startMs": 804000,
+      "endMs": 805360,
+      "verbatim": "She's a model, okay?",
+      "display": "She's a model, okay?",
+      "search": "she's a model, okay?",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:226",
+      "startMs": 805360,
+      "endMs": 809280,
+      "verbatim": "I don't know what that phrase means, but I heard Vegan say it, and I think it's really funny.",
+      "display": "I don't know what that phrase means, but I heard Vegan say it, and I think it's really funny.",
+      "search": "i don't know what that phrase means, but i heard vegan say it, and i think it's really funny.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:227",
+      "startMs": 809280,
+      "endMs": 813040,
+      "verbatim": "Anyways, this is just what I wanted to yap about the management situation, the firing situation.",
+      "display": "Anyways, this is just what I wanted to yap about the management situation, the firing situation.",
+      "search": "anyways, this is just what i wanted to yap about the management situation, the firing situation.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:228",
+      "startMs": 813040,
+      "endMs": 825200,
+      "verbatim": "I know that Asha's the new CEO, relatively new in this Xbox thing, and perhaps these are gonna be good changes long term, and maybe the Xbox of old, you know, the bygone days of your could happen.",
+      "display": "I know that Asha's the new CEO, relatively new in this Xbox thing, and perhaps these are gonna be good changes long term, and maybe the Xbox of old, you know, the bygone days of your could happen.",
+      "search": "i know that asha's the new ceo, relatively new in this xbox thing, and perhaps these are gonna be good changes long term, and maybe the xbox of old, you know, the bygone days of your could happen.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:229",
+      "startMs": 825200,
+      "endMs": 834640,
+      "verbatim": "Maybe Master Chief Halo 1, brand new remake, because we've ran out of ideas edition, is actually gonna be really fantastic.",
+      "display": "Maybe Master Chief Halo 1, brand new remake, because we've ran out of ideas edition, is actually gonna be really fantastic.",
+      "search": "maybe master chief halo 1, brand new remake, because we've ran out of ideas edition, is actually gonna be really fantastic.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:230",
+      "startMs": 834640,
+      "endMs": 835760,
+      "verbatim": "I have no idea.",
+      "display": "I have no idea.",
+      "search": "i have no idea.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:231",
+      "startMs": 835760,
+      "endMs": 840160,
+      "verbatim": "I can hope for the best, but it's also Microsoft.",
+      "display": "I can hope for the best, but it's also Microsoft.",
+      "search": "i can hope for the best, but it's also microsoft.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:232",
+      "startMs": 840160,
+      "endMs": 844560,
+      "verbatim": "It's hard not to be just just just butt chugging black pills when it comes to Microsoft.",
+      "display": "It's hard not to be just just just butt chugging black pills when it comes to Microsoft.",
+      "search": "it's hard not to be just just just butt chugging black pills when it comes to microsoft.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:Obc3wnL06SQ:segment:233",
+      "startMs": 844560,
+      "endMs": 846960,
+      "verbatim": "Hey, the name is the Primogen",
+      "display": "Hey, the name is the Primogen",
+      "search": "hey, the name is the primogen",
+      "confidence": 0.605
+    }
+  ]
+}

@@ -1,0 +1,1958 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_4617dcad4b7668ae56015edc",
+  "sourceId": "youtube:OQMPhkmeru0",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T23:15:32.008Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:1",
+      "startMs": 80,
+      "endMs": 1200,
+      "verbatim": "Can you trust them?",
+      "display": "Can you trust them?",
+      "search": "can you trust them?",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:2",
+      "startMs": 1680,
+      "endMs": 2720,
+      "verbatim": "No, seriously.",
+      "display": "No, seriously.",
+      "search": "no, seriously.",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:3",
+      "startMs": 4400,
+      "endMs": 5920,
+      "verbatim": "Can you trust them?",
+      "display": "Can you trust them?",
+      "search": "can you trust them?",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:4",
+      "startMs": 5920,
+      "endMs": 10000,
+      "verbatim": "To understand what I'm talking about, you first must know who Palantir is.",
+      "display": "To understand what I'm talking about, you first must know who Palantir is.",
+      "search": "to understand what i'm talking about, you first must know who palantir is.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:5",
+      "startMs": 10000,
+      "endMs": 17760,
+      "verbatim": "Now, if you're not familiar with Palantir, Palantir, best known for surveilling um the whole world in every last person.",
+      "display": "Now, if you're not familiar with Palantir, Palantir, best known for surveilling um the whole world in every last person.",
+      "search": "now, if you're not familiar with palantir, palantir, best known for surveilling um the whole world in every last person.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:6",
+      "startMs": 17760,
+      "endMs": 28400,
+      "verbatim": "Yeah, that company, uh, led by the way by Alex Carp, which can do this sweet move, and also is known for being geographically monogamous, which is in fact the definition of not being monogamous.",
+      "display": "Yeah, that company, uh, led by the way by Alex Carp, which can do this sweet move, and also is known for being geographically monogamous, which is in fact the definition of not being monogamous.",
+      "search": "yeah, that company, uh, led by the way by alex carp, which can do this sweet move, and also is known for being geographically monogamous, which is in fact the definition of not being monogamous.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:7",
+      "startMs": 28400,
+      "endMs": 38800,
+      "verbatim": "Well, that Alex Carp of Palantir has called the AI industry effing insane in a 20-minute kind of uh crash out on CNBC.",
+      "display": "Well, that Alex Carp of Palantir has called the AI industry effing insane in a 20-minute kind of uh crash out on CNBC.",
+      "search": "well, that alex carp of palantir has called the ai industry effing insane in a 20-minute kind of uh crash out on cnbc.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:8",
+      "startMs": 38800,
+      "endMs": 42160,
+      "verbatim": "But here's the thing is that he made a lot of good points, okay?",
+      "display": "But here's the thing is that he made a lot of good points, okay?",
+      "search": "but here's the thing is that he made a lot of good points, okay?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:9",
+      "startMs": 42160,
+      "endMs": 43280,
+      "verbatim": "And can you trust them?",
+      "display": "And can you trust them?",
+      "search": "and can you trust them?",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:10",
+      "startMs": 43280,
+      "endMs": 48160,
+      "verbatim": "The them in this situation, the model providers, can you actually trust him?",
+      "display": "The them in this situation, the model providers, can you actually trust him?",
+      "search": "the them in this situation, the model providers, can you actually trust him?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:11",
+      "startMs": 48720,
+      "endMs": 49520,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:12",
+      "startMs": 49520,
+      "endMs": 51120,
+      "verbatim": "I'm watching you, Dario.",
+      "display": "I'm watching you, Dario.",
+      "search": "i'm watching you, dario.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:13",
+      "startMs": 51120,
+      "endMs": 53440,
+      "verbatim": "Also, can we sidebar here for a second?",
+      "display": "Also, can we sidebar here for a second?",
+      "search": "also, can we sidebar here for a second?",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:14",
+      "startMs": 53440,
+      "endMs": 62080,
+      "verbatim": "So if if you're being accused of shenanigans by Palantir, I feel like you gotta, you know, take a moment and ask yourself some pretty tough questions.",
+      "display": "So if if you're being accused of shenanigans by Palantir, I feel like you gotta, you know, take a moment and ask yourself some pretty tough questions.",
+      "search": "so if if you're being accused of shenanigans by palantir, i feel like you gotta, you know, take a moment and ask yourself some pretty tough questions.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:15",
+      "startMs": 62080,
+      "endMs": 63920,
+      "verbatim": "Are we the baddies?",
+      "display": "Are we the baddies?",
+      "search": "are we the baddies?",
+      "confidence": 0.642
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:16",
+      "startMs": 64640,
+      "endMs": 74000,
+      "verbatim": "So we're gonna actually look at some of this kind of crash out, this mental breakdown that Alex Carp had on CNBC, and shockingly, I actually agree with a whole bunch of it.",
+      "display": "So we're gonna actually look at some of this kind of crash out, this mental breakdown that Alex Carp had on CNBC, and shockingly, I actually agree with a whole bunch of it.",
+      "search": "so we're gonna actually look at some of this kind of crash out, this mental breakdown that alex carp had on cnbc, and shockingly, i actually agree with a whole bunch of it.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:17",
+      "startMs": 74000,
+      "endMs": 79360,
+      "verbatim": "And even more importantly, the things he actually said, well, I actually think they they're they're happening.",
+      "display": "And even more importantly, the things he actually said, well, I actually think they they're they're happening.",
+      "search": "and even more importantly, the things he actually said, well, i actually think they they're they're happening.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:18",
+      "startMs": 79360,
+      "endMs": 80480,
+      "verbatim": "There they have happened.",
+      "display": "There they have happened.",
+      "search": "there they have happened.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:19",
+      "startMs": 80480,
+      "endMs": 82880,
+      "verbatim": "Like what he is saying is actually correct.",
+      "display": "Like what he is saying is actually correct.",
+      "search": "like what he is saying is actually correct.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:20",
+      "startMs": 82880,
+      "endMs": 86320,
+      "verbatim": "And I'll show you exactly what I'm talking about after we talk about Alex Carp himself.",
+      "display": "And I'll show you exactly what I'm talking about after we talk about Alex Carp himself.",
+      "search": "and i'll show you exactly what i'm talking about after we talk about alex carp himself.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:21",
+      "startMs": 86320,
+      "endMs": 89280,
+      "verbatim": "So, first, we gotta say thank you to the sponsors.",
+      "display": "So, first, we gotta say thank you to the sponsors.",
+      "search": "so, first, we gotta say thank you to the sponsors.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:22",
+      "startMs": 89280,
+      "endMs": 93120,
+      "verbatim": "I've personally conducted hundreds of interviews, and I know how hard hiring is.",
+      "display": "I've personally conducted hundreds of interviews, and I know how hard hiring is.",
+      "search": "i've personally conducted hundreds of interviews, and i know how hard hiring is.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:23",
+      "startMs": 93120,
+      "endMs": 102240,
+      "verbatim": "And that's not even with today's problems of fake AI profiles, resumes that are difficult to read, and senior engineers who have never even read code.",
+      "display": "And that's not even with today's problems of fake AI profiles, resumes that are difficult to read, and senior engineers who have never even read code.",
+      "search": "and that's not even with today's problems of fake ai profiles, resumes that are difficult to read, and senior engineers who have never even read code.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:24",
+      "startMs": 102240,
+      "endMs": 103760,
+      "verbatim": "G2I fixes that.",
+      "display": "G2I fixes that.",
+      "search": "g2i fixes that.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:25",
+      "startMs": 103760,
+      "endMs": 106080,
+      "verbatim": "Not the reading code part, the hiring part.",
+      "display": "Not the reading code part, the hiring part.",
+      "search": "not the reading code part, the hiring part.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:26",
+      "startMs": 106080,
+      "endMs": 110800,
+      "verbatim": "G2I can help you hire front-end, back end, and even AI engineers.",
+      "display": "G2I can help you hire front-end, back end, and even AI engineers.",
+      "search": "g2i can help you hire front-end, back end, and even ai engineers.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:27",
+      "startMs": 110800,
+      "endMs": 115920,
+      "verbatim": "Because they have pre-vetted 8,000 plus engineers through real technical interviews.",
+      "display": "Because they have pre-vetted 8,000 plus engineers through real technical interviews.",
+      "search": "because they have pre-vetted 8,000 plus engineers through real technical interviews.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:28",
+      "startMs": 115920,
+      "endMs": 119280,
+      "verbatim": "So you can review quality candidates in days, not months.",
+      "display": "So you can review quality candidates in days, not months.",
+      "search": "so you can review quality candidates in days, not months.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:29",
+      "startMs": 119280,
+      "endMs": 123200,
+      "verbatim": "Check out g2i.co slash prime and take the headache out of hiring.",
+      "display": "Check out g2i.co slash prime and take the headache out of hiring.",
+      "search": "check out g2i.co slash prime and take the headache out of hiring.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:30",
+      "startMs": 123200,
+      "endMs": 125920,
+      "verbatim": "Alright, so the first thing he talks about is token maxing.",
+      "display": "Alright, so the first thing he talks about is token maxing.",
+      "search": "alright, so the first thing he talks about is token maxing.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:31",
+      "startMs": 125920,
+      "endMs": 131840,
+      "verbatim": "Now, if you're not familiar with token maxing, just imagine you go into a boat store and you're like, yo, I would like to get a fishing boat.",
+      "display": "Now, if you're not familiar with token maxing, just imagine you go into a boat store and you're like, yo, I would like to get a fishing boat.",
+      "search": "now, if you're not familiar with token maxing, just imagine you go into a boat store and you're like, yo, i would like to get a fishing boat.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:32",
+      "startMs": 131840,
+      "endMs": 135680,
+      "verbatim": "And the fishing boat store was just like, yeah, well, why why get a fishing boat when you can get a yacht?",
+      "display": "And the fishing boat store was just like, yeah, well, why why get a fishing boat when you can get a yacht?",
+      "search": "and the fishing boat store was just like, yeah, well, why why get a fishing boat when you can get a yacht?",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:33",
+      "startMs": 135680,
+      "endMs": 135920,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:34",
+      "startMs": 135920,
+      "endMs": 137760,
+      "verbatim": "Like you can fish on a yacht, you know that, right?",
+      "display": "Like you can fish on a yacht, you know that, right?",
+      "search": "like you can fish on a yacht, you know that, right?",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:35",
+      "startMs": 137760,
+      "endMs": 139120,
+      "verbatim": "And you're like, well, I don't know about that.",
+      "display": "And you're like, well, I don't know about that.",
+      "search": "and you're like, well, i don't know about that.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:36",
+      "startMs": 139120,
+      "endMs": 142560,
+      "verbatim": "And they're like, yeah, but why even get a 100-foot yacht when you can get a 300 foot yacht?",
+      "display": "And they're like, yeah, but why even get a 100-foot yacht when you can get a 300 foot yacht?",
+      "search": "and they're like, yeah, but why even get a 100-foot yacht when you can get a 300 foot yacht?",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:37",
+      "startMs": 142560,
+      "endMs": 145360,
+      "verbatim": "Like you get a mega yacht, you get like the world's biggest yacht.",
+      "display": "Like you get a mega yacht, you get like the world's biggest yacht.",
+      "search": "like you get a mega yacht, you get like the world's biggest yacht.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:38",
+      "startMs": 145360,
+      "endMs": 148800,
+      "verbatim": "Like, why would you ever want a fishing boat when you can get a yacht?",
+      "display": "Like, why would you ever want a fishing boat when you can get a yacht?",
+      "search": "like, why would you ever want a fishing boat when you can get a yacht?",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:39",
+      "startMs": 148800,
+      "endMs": 150880,
+      "verbatim": "To us, that'd be quite obvious what they're trying to do.",
+      "display": "To us, that'd be quite obvious what they're trying to do.",
+      "search": "to us, that'd be quite obvious what they're trying to do.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:40",
+      "startMs": 150880,
+      "endMs": 152480,
+      "verbatim": "They're trying to sell the most amount of money.",
+      "display": "They're trying to sell the most amount of money.",
+      "search": "they're trying to sell the most amount of money.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:41",
+      "startMs": 152480,
+      "endMs": 158400,
+      "verbatim": "But for some odd reason, when it comes to token spend, spend maxing, as the kids call it, we just have zero care.",
+      "display": "But for some odd reason, when it comes to token spend, spend maxing, as the kids call it, we just have zero care.",
+      "search": "but for some odd reason, when it comes to token spend, spend maxing, as the kids call it, we just have zero care.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:42",
+      "startMs": 158480,
+      "endMs": 162000,
+      "verbatim": "It is I'm not throwing shade at them, but something has gone completely wrong.",
+      "display": "It is I'm not throwing shade at them, but something has gone completely wrong.",
+      "search": "it is i'm not throwing shade at them, but something has gone completely wrong.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:43",
+      "startMs": 162000,
+      "endMs": 168720,
+      "verbatim": "And the basic view among enterprises in this country is I'm gonna chillax uh and waste my time with tokens.",
+      "display": "And the basic view among enterprises in this country is I'm gonna chillax uh and waste my time with tokens.",
+      "search": "and the basic view among enterprises in this country is i'm gonna chillax uh and waste my time with tokens.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:44",
+      "startMs": 168720,
+      "endMs": 170960,
+      "verbatim": "I'm gonna get no value, and they're gonna get my IP.",
+      "display": "I'm gonna get no value, and they're gonna get my IP.",
+      "search": "i'm gonna get no value, and they're gonna get my ip.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:45",
+      "startMs": 171120,
+      "endMs": 172240,
+      "verbatim": "That sounds like shade.",
+      "display": "That sounds like shade.",
+      "search": "that sounds like shade.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:46",
+      "startMs": 172240,
+      "endMs": 175360,
+      "verbatim": "First off, it's very strange for me to watch the news.",
+      "display": "First off, it's very strange for me to watch the news.",
+      "search": "first off, it's very strange for me to watch the news.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:47",
+      "startMs": 175360,
+      "endMs": 175680,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:48",
+      "startMs": 178720,
+      "endMs": 180240,
+      "verbatim": "Why is this sounding like a Twitch stream?",
+      "display": "Why is this sounding like a Twitch stream?",
+      "search": "why is this sounding like a twitch stream?",
+      "confidence": 0.987
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:49",
+      "startMs": 180240,
+      "endMs": 180720,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.446
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:50",
+      "startMs": 180720,
+      "endMs": 183760,
+      "verbatim": "Who is saying chillax and shade on CNBC?",
+      "display": "Who is saying chillax and shade on CNBC?",
+      "search": "who is saying chillax and shade on cnbc?",
+      "confidence": 0.769
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:51",
+      "startMs": 183760,
+      "endMs": 190080,
+      "verbatim": "Okay, I want the business news to be the business, not some sort of weird Zoomer millennial coded language.",
+      "display": "Okay, I want the business news to be the business, not some sort of weird Zoomer millennial coded language.",
+      "search": "okay, i want the business news to be the business, not some sort of weird zoomer millennial coded language.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:52",
+      "startMs": 190080,
+      "endMs": 191600,
+      "verbatim": "What's happening to the news?",
+      "display": "What's happening to the news?",
+      "search": "what's happening to the news?",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:53",
+      "startMs": 191600,
+      "endMs": 193520,
+      "verbatim": "But this was just an unusual experience.",
+      "display": "But this was just an unusual experience.",
+      "search": "but this was just an unusual experience.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:54",
+      "startMs": 193520,
+      "endMs": 196000,
+      "verbatim": "But what he said was so dang correct.",
+      "display": "But what he said was so dang correct.",
+      "search": "but what he said was so dang correct.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:55",
+      "startMs": 196000,
+      "endMs": 198080,
+      "verbatim": "First off, token maxing and getting little value.",
+      "display": "First off, token maxing and getting little value.",
+      "search": "first off, token maxing and getting little value.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:56",
+      "startMs": 198080,
+      "endMs": 200800,
+      "verbatim": "It is obvious the value you get out of token maxing.",
+      "display": "It is obvious the value you get out of token maxing.",
+      "search": "it is obvious the value you get out of token maxing.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:57",
+      "startMs": 200800,
+      "endMs": 206800,
+      "verbatim": "When you incentivize employees to just use as much as you possibly can, that is not good.",
+      "display": "When you incentivize employees to just use as much as you possibly can, that is not good.",
+      "search": "when you incentivize employees to just use as much as you possibly can, that is not good.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:58",
+      "startMs": 206800,
+      "endMs": 213760,
+      "verbatim": "Because really, as he kind of alluded to, like the really big kind of piece of feedback wasn't the fact that you're spending a whole bunch and getting little value.",
+      "display": "Because really, as he kind of alluded to, like the really big kind of piece of feedback wasn't the fact that you're spending a whole bunch and getting little value.",
+      "search": "because really, as he kind of alluded to, like the really big kind of piece of feedback wasn't the fact that you're spending a whole bunch and getting little value.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:59",
+      "startMs": 213760,
+      "endMs": 218080,
+      "verbatim": "It's the fact that what you're spending is on all of your business strategy.",
+      "display": "It's the fact that what you're spending is on all of your business strategy.",
+      "search": "it's the fact that what you're spending is on all of your business strategy.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:60",
+      "startMs": 218080,
+      "endMs": 228000,
+      "verbatim": "You are handing over to Claude, you're handing over to OpenAI, all of the alpha, as they keep saying, by the way, the alpha, uh, has two meanings.",
+      "display": "You are handing over to Claude, you're handing over to OpenAI, all of the alpha, as they keep saying, by the way, the alpha, uh, has two meanings.",
+      "search": "you are handing over to claude, you're handing over to openai, all of the alpha, as they keep saying, by the way, the alpha, uh, has two meanings.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:61",
+      "startMs": 228000,
+      "endMs": 235840,
+      "verbatim": "Obviously, the first one is like your defensible position as a company, your trade secrets, the things that make your company be able to withstand or out-compete your competitors.",
+      "display": "Obviously, the first one is like your defensible position as a company, your trade secrets, the things that make your company be able to withstand or out-compete your competitors.",
+      "search": "obviously, the first one is like your defensible position as a company, your trade secrets, the things that make your company be able to withstand or out-compete your competitors.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:62",
+      "startMs": 235840,
+      "endMs": 244240,
+      "verbatim": "And the second version of alpha is a word you hear, and then you know that whatever comes next is going to be the dumbest thing you've ever heard because you're talking to a crypto bro.",
+      "display": "And the second version of alpha is a word you hear, and then you know that whatever comes next is going to be the dumbest thing you've ever heard because you're talking to a crypto bro.",
+      "search": "and the second version of alpha is a word you hear, and then you know that whatever comes next is going to be the dumbest thing you've ever heard because you're talking to a crypto bro.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:63",
+      "startMs": 244240,
+      "endMs": 247200,
+      "verbatim": "Now, in this case, it's the it's the former, not the latter.",
+      "display": "Now, in this case, it's the it's the former, not the latter.",
+      "search": "now, in this case, it's the it's the former, not the latter.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:64",
+      "startMs": 247200,
+      "endMs": 251920,
+      "verbatim": "And of course, with this Crash Out, Palantir also released a nine-point manifesto.",
+      "display": "And of course, with this Crash Out, Palantir also released a nine-point manifesto.",
+      "search": "and of course, with this crash out, palantir also released a nine-point manifesto.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:65",
+      "startMs": 251920,
+      "endMs": 257680,
+      "verbatim": "Now, I don't know if you know this, but manifestos when it comes to tech pretty much always lead to good outcomes.",
+      "display": "Now, I don't know if you know this, but manifestos when it comes to tech pretty much always lead to good outcomes.",
+      "search": "now, i don't know if you know this, but manifestos when it comes to tech pretty much always lead to good outcomes.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:66",
+      "startMs": 257680,
+      "endMs": 259760,
+      "verbatim": "I can't think of a single bad thing that has happened.",
+      "display": "I can't think of a single bad thing that has happened.",
+      "search": "i can't think of a single bad thing that has happened.",
+      "confidence": 0.986
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:67",
+      "startMs": 259760,
+      "endMs": 270160,
+      "verbatim": "But if you look at point three on the manifesto, the Palantir manifesto, you'll see that token maxing hijacks your value orientation and decreases institutional fortitude and intelligence.",
+      "display": "But if you look at point three on the manifesto, the Palantir manifesto, you'll see that token maxing hijacks your value orientation and decreases institutional fortitude and intelligence.",
+      "search": "but if you look at point three on the manifesto, the palantir manifesto, you'll see that token maxing hijacks your value orientation and decreases institutional fortitude and intelligence.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:68",
+      "startMs": 270160,
+      "endMs": 277760,
+      "verbatim": "The pursuit of high token usage incentivizes disposable scripts over robust software with the addictive feeling of false progress.",
+      "display": "The pursuit of high token usage incentivizes disposable scripts over robust software with the addictive feeling of false progress.",
+      "search": "the pursuit of high token usage incentivizes disposable scripts over robust software with the addictive feeling of false progress.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:69",
+      "startMs": 277760,
+      "endMs": 283040,
+      "verbatim": "It is absolutely an incredible and insightful point right there.",
+      "display": "It is absolutely an incredible and insightful point right there.",
+      "search": "it is absolutely an incredible and insightful point right there.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:70",
+      "startMs": 283040,
+      "endMs": 284240,
+      "verbatim": "I love it.",
+      "display": "I love it.",
+      "search": "i love it.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:71",
+      "startMs": 284240,
+      "endMs": 292560,
+      "verbatim": "And as somebody who is actively trying to do my own token maxing, my own looping to really kind of understand what these zoomers keep talking about.",
+      "display": "And as somebody who is actively trying to do my own token maxing, my own looping to really kind of understand what these zoomers keep talking about.",
+      "search": "and as somebody who is actively trying to do my own token maxing, my own looping to really kind of understand what these zoomers keep talking about.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:72",
+      "startMs": 292560,
+      "endMs": 297600,
+      "verbatim": "I just seem like I'm spending all my all my all my tokens and I'm not really getting much value out.",
+      "display": "I just seem like I'm spending all my all my all my tokens and I'm not really getting much value out.",
+      "search": "i just seem like i'm spending all my all my all my tokens and i'm not really getting much value out.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:73",
+      "startMs": 297600,
+      "endMs": 304400,
+      "verbatim": "But the argument for token maxing, uh, at least from his perspective, you'll notice that it wasn't just about the spend.",
+      "display": "But the argument for token maxing, uh, at least from his perspective, you'll notice that it wasn't just about the spend.",
+      "search": "but the argument for token maxing, uh, at least from his perspective, you'll notice that it wasn't just about the spend.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:74",
+      "startMs": 304400,
+      "endMs": 307120,
+      "verbatim": "It really was about handing over your IP.",
+      "display": "It really was about handing over your IP.",
+      "search": "it really was about handing over your ip.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:75",
+      "startMs": 307120,
+      "endMs": 308880,
+      "verbatim": "And he says that best here.",
+      "display": "And he says that best here.",
+      "search": "and he says that best here.",
+      "confidence": 0.737
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:76",
+      "startMs": 308880,
+      "endMs": 321360,
+      "verbatim": "So safe because it doesn't touch your unlearned data, safe because it prevents the large language model from caching your data and replicating your business, uh, uh safe because it doesn't transfer your IP of how to fight secret data, top secret data, or in a clinical context.",
+      "display": "So safe because it doesn't touch your unlearned data, safe because it prevents the large language model from caching your data and replicating your business, uh, uh safe because it doesn't transfer your IP of how to fight secret data, top secret data, or in a clinical context.",
+      "search": "so safe because it doesn't touch your unlearned data, safe because it prevents the large language model from caching your data and replicating your business, uh, uh safe because it doesn't transfer your ip of how to fight secret data, top secret data, or in a clinical context.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:77",
+      "startMs": 321360,
+      "endMs": 322720,
+      "verbatim": "He keeps using the term safe there.",
+      "display": "He keeps using the term safe there.",
+      "search": "he keeps using the term safe there.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:78",
+      "startMs": 322720,
+      "endMs": 325280,
+      "verbatim": "What he's talking about is the usage of these models.",
+      "display": "What he's talking about is the usage of these models.",
+      "search": "what he's talking about is the usage of these models.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:79",
+      "startMs": 325280,
+      "endMs": 326320,
+      "verbatim": "How do you make it safe?",
+      "display": "How do you make it safe?",
+      "search": "how do you make it safe?",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:80",
+      "startMs": 326320,
+      "endMs": 333520,
+      "verbatim": "Well, the reality is to make it safe, the actual safety that we all need to be pursuing is that you need to know who's storing your data.",
+      "display": "Well, the reality is to make it safe, the actual safety that we all need to be pursuing is that you need to know who's storing your data.",
+      "search": "well, the reality is to make it safe, the actual safety that we all need to be pursuing is that you need to know who's storing your data.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:81",
+      "startMs": 333520,
+      "endMs": 336240,
+      "verbatim": "Like as a company, are you giving away the secrets?",
+      "display": "Like as a company, are you giving away the secrets?",
+      "search": "like as a company, are you giving away the secrets?",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:82",
+      "startMs": 336240,
+      "endMs": 343840,
+      "verbatim": "Are you giving it all away to these these companies to just go off and be able to use all of your hard fought wisdom against you?",
+      "display": "Are you giving it all away to these these companies to just go off and be able to use all of your hard fought wisdom against you?",
+      "search": "are you giving it all away to these these companies to just go off and be able to use all of your hard fought wisdom against you?",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:83",
+      "startMs": 343840,
+      "endMs": 346160,
+      "verbatim": "Now you're probably thinking, okay, that's a little ridiculous.",
+      "display": "Now you're probably thinking, okay, that's a little ridiculous.",
+      "search": "now you're probably thinking, okay, that's a little ridiculous.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:84",
+      "startMs": 346160,
+      "endMs": 347760,
+      "verbatim": "Is it ridiculous?",
+      "display": "Is it ridiculous?",
+      "search": "is it ridiculous?",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:85",
+      "startMs": 347760,
+      "endMs": 348800,
+      "verbatim": "Is it?",
+      "display": "Is it?",
+      "search": "is it?",
+      "confidence": 0.608
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:86",
+      "startMs": 348800,
+      "endMs": 350800,
+      "verbatim": "No company would ever do that.",
+      "display": "No company would ever do that.",
+      "search": "no company would ever do that.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:87",
+      "startMs": 350800,
+      "endMs": 352080,
+      "verbatim": "That's not actually happened.",
+      "display": "That's not actually happened.",
+      "search": "that's not actually happened.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:88",
+      "startMs": 352080,
+      "endMs": 353120,
+      "verbatim": "Well, just hold on.",
+      "display": "Well, just hold on.",
+      "search": "well, just hold on.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:89",
+      "startMs": 353120,
+      "endMs": 358800,
+      "verbatim": "We got one more little part I want to go over, and I think I can prove that that notion wrong, okay, buddy.",
+      "display": "We got one more little part I want to go over, and I think I can prove that that notion wrong, okay, buddy.",
+      "search": "we got one more little part i want to go over, and i think i can prove that that notion wrong, okay, buddy.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:90",
+      "startMs": 358800,
+      "endMs": 365600,
+      "verbatim": "Because here's the deal if what these big companies were selling was actually just able to derive value immediately, right?",
+      "display": "Because here's the deal if what these big companies were selling was actually just able to derive value immediately, right?",
+      "search": "because here's the deal if what these big companies were selling was actually just able to derive value immediately, right?",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:91",
+      "startMs": 365600,
+      "endMs": 371440,
+      "verbatim": "You didn't need the token max into potentially just dead end spending just a ridiculous amount of money.",
+      "display": "You didn't need the token max into potentially just dead end spending just a ridiculous amount of money.",
+      "search": "you didn't need the token max into potentially just dead end spending just a ridiculous amount of money.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:92",
+      "startMs": 371440,
+      "endMs": 372160,
+      "verbatim": "Seriously, though.",
+      "display": "Seriously, though.",
+      "search": "seriously, though.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:93",
+      "startMs": 372160,
+      "endMs": 373440,
+      "verbatim": "Like, look at Meta.",
+      "display": "Like, look at Meta.",
+      "search": "like, look at meta.",
+      "confidence": 0.554
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:94",
+      "startMs": 373440,
+      "endMs": 376000,
+      "verbatim": "$73.7 trillion.",
+      "display": "$73.7 trillion.",
+      "search": "$73.7 trillion.",
+      "confidence": 0.647
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:95",
+      "startMs": 376000,
+      "endMs": 381200,
+      "verbatim": "They're claiming it's a two plus billion dollar a year bill that they're spending on AI.",
+      "display": "They're claiming it's a two plus billion dollar a year bill that they're spending on AI.",
+      "search": "they're claiming it's a two plus billion dollar a year bill that they're spending on ai.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:96",
+      "startMs": 381200,
+      "endMs": 384720,
+      "verbatim": "Like, what the what are they even doing over there?",
+      "display": "Like, what the what are they even doing over there?",
+      "search": "like, what the what are they even doing over there?",
+      "confidence": 0.698
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:97",
+      "startMs": 384720,
+      "endMs": 389440,
+      "verbatim": "You can't tell me they're getting two billion dollars worth of value out of their tokens right now.",
+      "display": "You can't tell me they're getting two billion dollars worth of value out of their tokens right now.",
+      "search": "you can't tell me they're getting two billion dollars worth of value out of their tokens right now.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:98",
+      "startMs": 389440,
+      "endMs": 389920,
+      "verbatim": "Nope.",
+      "display": "Nope.",
+      "search": "nope.",
+      "confidence": 0.632
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:99",
+      "startMs": 389920,
+      "endMs": 391040,
+      "verbatim": "Refuse to believe it.",
+      "display": "Refuse to believe it.",
+      "search": "refuse to believe it.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:100",
+      "startMs": 391040,
+      "endMs": 396720,
+      "verbatim": "Unless, of course, they're doing exactly what we're talking about, which is getting some information, getting that sweet data.",
+      "display": "Unless, of course, they're doing exactly what we're talking about, which is getting some information, getting that sweet data.",
+      "search": "unless, of course, they're doing exactly what we're talking about, which is getting some information, getting that sweet data.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:101",
+      "startMs": 396720,
+      "endMs": 399680,
+      "verbatim": "If it was so valuable, let's say I can make you a billion dollars right tomorrow.",
+      "display": "If it was so valuable, let's say I can make you a billion dollars right tomorrow.",
+      "search": "if it was so valuable, let's say i can make you a billion dollars right tomorrow.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:102",
+      "startMs": 399680,
+      "endMs": 402560,
+      "verbatim": "Wouldn't I say I'll make you a billion dollars and I want 30%?",
+      "display": "Wouldn't I say I'll make you a billion dollars and I want 30%?",
+      "search": "wouldn't i say i'll make you a billion dollars and i want 30%?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:103",
+      "startMs": 402560,
+      "endMs": 404640,
+      "verbatim": "Why are they charging for tokens if it's so valuable?",
+      "display": "Why are they charging for tokens if it's so valuable?",
+      "search": "why are they charging for tokens if it's so valuable?",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:104",
+      "startMs": 404640,
+      "endMs": 405040,
+      "verbatim": "So good.",
+      "display": "So good.",
+      "search": "so good.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:105",
+      "startMs": 405040,
+      "endMs": 407680,
+      "verbatim": "Why are they charging for tokens if it's so valuable?",
+      "display": "Why are they charging for tokens if it's so valuable?",
+      "search": "why are they charging for tokens if it's so valuable?",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:106",
+      "startMs": 407680,
+      "endMs": 409520,
+      "verbatim": "Like that is a very big question.",
+      "display": "Like that is a very big question.",
+      "search": "like that is a very big question.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:107",
+      "startMs": 409520,
+      "endMs": 411920,
+      "verbatim": "Because, like, just just really just walk with me on this.",
+      "display": "Because, like, just just really just walk with me on this.",
+      "search": "because, like, just just really just walk with me on this.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:108",
+      "startMs": 411920,
+      "endMs": 420720,
+      "verbatim": "If AI was so freaking amazing that it's going to take whatever revenue you have now and triple it, you just have to integrate it into your uh into your system.",
+      "display": "If AI was so freaking amazing that it's going to take whatever revenue you have now and triple it, you just have to integrate it into your uh into your system.",
+      "search": "if ai was so freaking amazing that it's going to take whatever revenue you have now and triple it, you just have to integrate it into your uh into your system.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:109",
+      "startMs": 420720,
+      "endMs": 422880,
+      "verbatim": "Why would Anthropic even have a consumer side?",
+      "display": "Why would Anthropic even have a consumer side?",
+      "search": "why would anthropic even have a consumer side?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:110",
+      "startMs": 422880,
+      "endMs": 423440,
+      "verbatim": "They wouldn't.",
+      "display": "They wouldn't.",
+      "search": "they wouldn't.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:111",
+      "startMs": 423440,
+      "endMs": 426320,
+      "verbatim": "All they would do is simply be like, yo, business A, here's the deal.",
+      "display": "All they would do is simply be like, yo, business A, here's the deal.",
+      "search": "all they would do is simply be like, yo, business a, here's the deal.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:112",
+      "startMs": 426320,
+      "endMs": 429120,
+      "verbatim": "We're gonna come in, we're gonna triple your revenue, you're gonna give us 30%.",
+      "display": "We're gonna come in, we're gonna triple your revenue, you're gonna give us 30%.",
+      "search": "we're gonna come in, we're gonna triple your revenue, you're gonna give us 30%.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:113",
+      "startMs": 429120,
+      "endMs": 429840,
+      "verbatim": "The yen.",
+      "display": "The yen.",
+      "search": "the yen.",
+      "confidence": 0.588
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:114",
+      "startMs": 429840,
+      "endMs": 430240,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.666
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:115",
+      "startMs": 430240,
+      "endMs": 432320,
+      "verbatim": "And you'd say, absolutely, yes, sir, very much.",
+      "display": "And you'd say, absolutely, yes, sir, very much.",
+      "search": "and you'd say, absolutely, yes, sir, very much.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:116",
+      "startMs": 432320,
+      "endMs": 433280,
+      "verbatim": "Please, thank you very much.",
+      "display": "Please, thank you very much.",
+      "search": "please, thank you very much.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:117",
+      "startMs": 433280,
+      "endMs": 434640,
+      "verbatim": "I would absolutely love that.",
+      "display": "I would absolutely love that.",
+      "search": "i would absolutely love that.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:118",
+      "startMs": 434640,
+      "endMs": 438480,
+      "verbatim": "I would uh I would hands down do like no company would say no to that.",
+      "display": "I would uh I would hands down do like no company would say no to that.",
+      "search": "i would uh i would hands down do like no company would say no to that.",
+      "confidence": 0.695
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:119",
+      "startMs": 438480,
+      "endMs": 444000,
+      "verbatim": "I mean, other than Anthropic themselves, considering they're currently losing, they they would triple their losses.",
+      "display": "I mean, other than Anthropic themselves, considering they're currently losing, they they would triple their losses.",
+      "search": "i mean, other than anthropic themselves, considering they're currently losing, they they would triple their losses.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:120",
+      "startMs": 444000,
+      "endMs": 452800,
+      "verbatim": "Okay, but besides for them and say open AI, like the rest of the companies would clearly jump on and say, Absolutely, I would love to triple my revenue and I would gladly pay you for that.",
+      "display": "Okay, but besides for them and say open AI, like the rest of the companies would clearly jump on and say, Absolutely, I would love to triple my revenue and I would gladly pay you for that.",
+      "search": "okay, but besides for them and say open ai, like the rest of the companies would clearly jump on and say, absolutely, i would love to triple my revenue and i would gladly pay you for that.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:121",
+      "startMs": 452800,
+      "endMs": 460960,
+      "verbatim": "And that's of course, it's because it's about the data, the secrets, the hard fought knowledge, the alpha as I don't like that term.",
+      "display": "And that's of course, it's because it's about the data, the secrets, the hard fought knowledge, the alpha as I don't like that term.",
+      "search": "and that's of course, it's because it's about the data, the secrets, the hard fought knowledge, the alpha as i don't like that term.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:122",
+      "startMs": 460960,
+      "endMs": 464960,
+      "verbatim": "All right, so now is the part where I show you real world examples, you know, that thing.",
+      "display": "All right, so now is the part where I show you real world examples, you know, that thing.",
+      "search": "all right, so now is the part where i show you real world examples, you know, that thing.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:123",
+      "startMs": 465200,
+      "endMs": 472320,
+      "verbatim": "Which by the way, if I were to tell you that these companies were doing things that were shady, I think a lot of people just instinctively go, yeah, I could probably see that coming.",
+      "display": "Which by the way, if I were to tell you that these companies were doing things that were shady, I think a lot of people just instinctively go, yeah, I could probably see that coming.",
+      "search": "which by the way, if i were to tell you that these companies were doing things that were shady, i think a lot of people just instinctively go, yeah, i could probably see that coming.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:124",
+      "startMs": 472320,
+      "endMs": 482160,
+      "verbatim": "Because the reality is if you have all these users, millions upon millions of users making queries into your system, you're gonna be able to see shapes of data and which most people will never be able to see.",
+      "display": "Because the reality is if you have all these users, millions upon millions of users making queries into your system, you're gonna be able to see shapes of data and which most people will never be able to see.",
+      "search": "because the reality is if you have all these users, millions upon millions of users making queries into your system, you're gonna be able to see shapes of data and which most people will never be able to see.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:125",
+      "startMs": 482160,
+      "endMs": 484240,
+      "verbatim": "You can go, okay, this is really, really hot.",
+      "display": "You can go, okay, this is really, really hot.",
+      "search": "you can go, okay, this is really, really hot.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:126",
+      "startMs": 484240,
+      "endMs": 485600,
+      "verbatim": "This is what the people want.",
+      "display": "This is what the people want.",
+      "search": "this is what the people want.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:127",
+      "startMs": 485600,
+      "endMs": 488480,
+      "verbatim": "If we go into this industry, we're going to win.",
+      "display": "If we go into this industry, we're going to win.",
+      "search": "if we go into this industry, we're going to win.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:128",
+      "startMs": 488480,
+      "endMs": 490080,
+      "verbatim": "Well, look at this right here.",
+      "display": "Well, look at this right here.",
+      "search": "well, look at this right here.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:129",
+      "startMs": 490080,
+      "endMs": 492880,
+      "verbatim": "Inside Cursor's Wild Rise, a lot of great new details.",
+      "display": "Inside Cursor's Wild Rise, a lot of great new details.",
+      "search": "inside cursor's wild rise, a lot of great new details.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:130",
+      "startMs": 493120,
+      "endMs": 496320,
+      "verbatim": "CEO Michael uh Truell didn't pay himself for years.",
+      "display": "CEO Michael uh Truell didn't pay himself for years.",
+      "search": "ceo michael uh truell didn't pay himself for years.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:131",
+      "startMs": 496320,
+      "endMs": 499520,
+      "verbatim": "Cursor once made about 40 to 50% of Anthropic's revenue.",
+      "display": "Cursor once made about 40 to 50% of Anthropic's revenue.",
+      "search": "cursor once made about 40 to 50% of anthropic's revenue.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:132",
+      "startMs": 499520,
+      "endMs": 503040,
+      "verbatim": "Anthropic told Cursor that Claude Code was just a research effort.",
+      "display": "Anthropic told Cursor that Claude Code was just a research effort.",
+      "search": "anthropic told cursor that claude code was just a research effort.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:133",
+      "startMs": 503040,
+      "endMs": 504320,
+      "verbatim": "Well, well, yeah.",
+      "display": "Well, well, yeah.",
+      "search": "well, well, yeah.",
+      "confidence": 0.613
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:134",
+      "startMs": 504320,
+      "endMs": 507280,
+      "verbatim": "You know, you know old Claude Code, that old research effort.",
+      "display": "You know, you know old Claude Code, that old research effort.",
+      "search": "you know, you know old claude code, that old research effort.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:135",
+      "startMs": 507280,
+      "endMs": 508320,
+      "verbatim": "It's not like it's nothing.",
+      "display": "It's not like it's nothing.",
+      "search": "it's not like it's nothing.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:136",
+      "startMs": 508320,
+      "endMs": 511520,
+      "verbatim": "It's just like, oh, we're just trying something out.",
+      "display": "It's just like, oh, we're just trying something out.",
+      "search": "it's just like, oh, we're just trying something out.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:137",
+      "startMs": 511520,
+      "endMs": 515200,
+      "verbatim": "We're not like actually using all this data we've gathered.",
+      "display": "We're not like actually using all this data we've gathered.",
+      "search": "we're not like actually using all this data we've gathered.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:138",
+      "startMs": 515200,
+      "endMs": 516800,
+      "verbatim": "Where'd they get the data from?",
+      "display": "Where'd they get the data from?",
+      "search": "where'd they get the data from?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:139",
+      "startMs": 516800,
+      "endMs": 518400,
+      "verbatim": "They, by the way, thanks for all the data.",
+      "display": "They, by the way, thanks for all the data.",
+      "search": "they, by the way, thanks for all the data.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:140",
+      "startMs": 518400,
+      "endMs": 519920,
+      "verbatim": "We really do genuinely appreciate it.",
+      "display": "We really do genuinely appreciate it.",
+      "search": "we really do genuinely appreciate it.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:141",
+      "startMs": 519920,
+      "endMs": 526480,
+      "verbatim": "We're not like using it all, identifying the fact that there's millions upon billions of dollars sitting on the table here and we're gonna just simply move into that industry.",
+      "display": "We're not like using it all, identifying the fact that there's millions upon billions of dollars sitting on the table here and we're gonna just simply move into that industry.",
+      "search": "we're not like using it all, identifying the fact that there's millions upon billions of dollars sitting on the table here and we're gonna just simply move into that industry.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:142",
+      "startMs": 526480,
+      "endMs": 535440,
+      "verbatim": "There's no definitive proof that Anthropic used their position, gathered all the data, and said, okay, this is the exact market we should go into, but it's a point on the graph, okay?",
+      "display": "There's no definitive proof that Anthropic used their position, gathered all the data, and said, okay, this is the exact market we should go into, but it's a point on the graph, okay?",
+      "search": "there's no definitive proof that anthropic used their position, gathered all the data, and said, okay, this is the exact market we should go into, but it's a point on the graph, okay?",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:143",
+      "startMs": 535440,
+      "endMs": 543200,
+      "verbatim": "Oh, by the way, just in case you're wondering, our terms of service often include things like, hey, you can't build competing projects or else we're gonna drop you.",
+      "display": "Oh, by the way, just in case you're wondering, our terms of service often include things like, hey, you can't build competing projects or else we're gonna drop you.",
+      "search": "oh, by the way, just in case you're wondering, our terms of service often include things like, hey, you can't build competing projects or else we're gonna drop you.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:144",
+      "startMs": 543200,
+      "endMs": 552880,
+      "verbatim": "And of course, competing projects being Claude AI, Claude Pro, and other projects and services that we may offer for individuals along with any associated app software or websites together, known as our services.",
+      "display": "And of course, competing projects being Claude AI, Claude Pro, and other projects and services that we may offer for individuals along with any associated app software or websites together, known as our services.",
+      "search": "and of course, competing projects being claude ai, claude pro, and other projects and services that we may offer for individuals along with any associated app software or websites together, known as our services.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:145",
+      "startMs": 552880,
+      "endMs": 555840,
+      "verbatim": "Of course, this is the consumer side of the TOS.",
+      "display": "Of course, this is the consumer side of the TOS.",
+      "search": "of course, this is the consumer side of the tos.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:146",
+      "startMs": 555840,
+      "endMs": 558240,
+      "verbatim": "The commercial TOS is worded slightly different.",
+      "display": "The commercial TOS is worded slightly different.",
+      "search": "the commercial tos is worded slightly different.",
+      "confidence": 0.787
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:147",
+      "startMs": 558240,
+      "endMs": 559600,
+      "verbatim": "They have different affordances.",
+      "display": "They have different affordances.",
+      "search": "they have different affordances.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:148",
+      "startMs": 559600,
+      "endMs": 563920,
+      "verbatim": "But this David Sachs tweet right here, I didn't know about another case.",
+      "display": "But this David Sachs tweet right here, I didn't know about another case.",
+      "search": "but this david sachs tweet right here, i didn't know about another case.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:149",
+      "startMs": 563920,
+      "endMs": 565200,
+      "verbatim": "You don't think that can happen?",
+      "display": "You don't think that can happen?",
+      "search": "you don't think that can happen?",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:150",
+      "startMs": 565200,
+      "endMs": 568000,
+      "verbatim": "That being, hey, you give away all of your information.",
+      "display": "That being, hey, you give away all of your information.",
+      "search": "that being, hey, you give away all of your information.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:151",
+      "startMs": 568000,
+      "endMs": 569360,
+      "verbatim": "Just look at Figma.",
+      "display": "Just look at Figma.",
+      "search": "just look at figma.",
+      "confidence": 0.664
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:152",
+      "startMs": 569360,
+      "endMs": 573600,
+      "verbatim": "Yes, if you haven't looked at Figma, by the way, their stock, yeah, I'm so hey.",
+      "display": "Yes, if you haven't looked at Figma, by the way, their stock, yeah, I'm so hey.",
+      "search": "yes, if you haven't looked at figma, by the way, their stock, yeah, i'm so hey.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:153",
+      "startMs": 573600,
+      "endMs": 575680,
+      "verbatim": "Figma employees, I feel for you, okay?",
+      "display": "Figma employees, I feel for you, okay?",
+      "search": "figma employees, i feel for you, okay?",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:154",
+      "startMs": 575680,
+      "endMs": 577760,
+      "verbatim": "Anthropic employees, I don't feel for you.",
+      "display": "Anthropic employees, I don't feel for you.",
+      "search": "anthropic employees, i don't feel for you.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:155",
+      "startMs": 577760,
+      "endMs": 578480,
+      "verbatim": "Look at that.",
+      "display": "Look at that.",
+      "search": "look at that.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:156",
+      "startMs": 578480,
+      "endMs": 582880,
+      "verbatim": "Anthropic, your stock looks so good, but man, Figma absolutely decimated.",
+      "display": "Anthropic, your stock looks so good, but man, Figma absolutely decimated.",
+      "search": "anthropic, your stock looks so good, but man, figma absolutely decimated.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:157",
+      "startMs": 582880,
+      "endMs": 585600,
+      "verbatim": "Anyways, when you jump back here and say, just look at Figma.",
+      "display": "Anyways, when you jump back here and say, just look at Figma.",
+      "search": "anyways, when you jump back here and say, just look at figma.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:158",
+      "startMs": 585600,
+      "endMs": 591680,
+      "verbatim": "According to the information, Anthropic blindsided its b its then business partner with the launch of Claude Design.",
+      "display": "According to the information, Anthropic blindsided its b its then business partner with the launch of Claude Design.",
+      "search": "according to the information, anthropic blindsided its b its then business partner with the launch of claude design.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:159",
+      "startMs": 591680,
+      "endMs": 596000,
+      "verbatim": "Figma's founder said Anthropic had not been consistently honest with them.",
+      "display": "Figma's founder said Anthropic had not been consistently honest with them.",
+      "search": "figma's founder said anthropic had not been consistently honest with them.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:160",
+      "startMs": 596000,
+      "endMs": 608560,
+      "verbatim": "Anthropic's chief product officer, Anthropic's chief product officer had even served on Figma's board until three days before the launch of Claude Design.",
+      "display": "Anthropic's chief product officer, Anthropic's chief product officer had even served on Figma's board until three days before the launch of Claude Design.",
+      "search": "anthropic's chief product officer, anthropic's chief product officer had even served on figma's board until three days before the launch of claude design.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:161",
+      "startMs": 608560,
+      "endMs": 609680,
+      "verbatim": "I did two fingers up.",
+      "display": "I did two fingers up.",
+      "search": "i did two fingers up.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:162",
+      "startMs": 609680,
+      "endMs": 610160,
+      "verbatim": "Three days.",
+      "display": "Three days.",
+      "search": "three days.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:163",
+      "startMs": 610160,
+      "endMs": 611920,
+      "verbatim": "I meant to do threes, not twos.",
+      "display": "I meant to do threes, not twos.",
+      "search": "i meant to do threes, not twos.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:164",
+      "startMs": 611920,
+      "endMs": 613840,
+      "verbatim": "Either way, just think about that for a second.",
+      "display": "Either way, just think about that for a second.",
+      "search": "either way, just think about that for a second.",
+      "confidence": 0.99
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:165",
+      "startMs": 613840,
+      "endMs": 618800,
+      "verbatim": "If you're on the board for a company, you're there for the best interest of that company.",
+      "display": "If you're on the board for a company, you're there for the best interest of that company.",
+      "search": "if you're on the board for a company, you're there for the best interest of that company.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:166",
+      "startMs": 618800,
+      "endMs": 620000,
+      "verbatim": "We can all agree to that.",
+      "display": "We can all agree to that.",
+      "search": "we can all agree to that.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:167",
+      "startMs": 620000,
+      "endMs": 624080,
+      "verbatim": "Now, whether you're working there, if you're just an individual engineer, that's a completely different story.",
+      "display": "Now, whether you're working there, if you're just an individual engineer, that's a completely different story.",
+      "search": "now, whether you're working there, if you're just an individual engineer, that's a completely different story.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:168",
+      "startMs": 624080,
+      "endMs": 629200,
+      "verbatim": "But if you're on the board, your goal is to shepherd the company long term towards success.",
+      "display": "But if you're on the board, your goal is to shepherd the company long term towards success.",
+      "search": "but if you're on the board, your goal is to shepherd the company long term towards success.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:169",
+      "startMs": 629200,
+      "endMs": 648560,
+      "verbatim": "The fact that if all of this stuff that is being reported by uh the information is correct, which it is saying that Anthropic blindsided its business partners, the fact that Anthropic's chief product officer knew this was going to happen, knew Claude Design was gonna drop and remained on the board for so long just seems completely crazy to me.",
+      "display": "The fact that if all of this stuff that is being reported by uh the information is correct, which it is saying that Anthropic blindsided its business partners, the fact that Anthropic's chief product officer knew this was going to happen, knew Claude Design was gonna drop and remained on the board for so long just seems completely crazy to me.",
+      "search": "the fact that if all of this stuff that is being reported by uh the information is correct, which it is saying that anthropic blindsided its business partners, the fact that anthropic's chief product officer knew this was going to happen, knew claude design was gonna drop and remained on the board for so long just seems completely crazy to me.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:170",
+      "startMs": 648560,
+      "endMs": 650560,
+      "verbatim": "I just can't even imagine that.",
+      "display": "I just can't even imagine that.",
+      "search": "i just can't even imagine that.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:171",
+      "startMs": 650560,
+      "endMs": 653840,
+      "verbatim": "That is like being not just stabbed in the back, you're being stabbed in the front.",
+      "display": "That is like being not just stabbed in the back, you're being stabbed in the front.",
+      "search": "that is like being not just stabbed in the back, you're being stabbed in the front.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:172",
+      "startMs": 653840,
+      "endMs": 661680,
+      "verbatim": "You're getting right just sitting there looking in your eyes and stabbing you, and you don't even know about it until three days after they quit.",
+      "display": "You're getting right just sitting there looking in your eyes and stabbing you, and you don't even know about it until three days after they quit.",
+      "search": "you're getting right just sitting there looking in your eyes and stabbing you, and you don't even know about it until three days after they quit.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:173",
+      "startMs": 661680,
+      "endMs": 664880,
+      "verbatim": "Think about all of that juicy data they got from Figma 2.",
+      "display": "Think about all of that juicy data they got from Figma 2.",
+      "search": "think about all of that juicy data they got from figma 2.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:174",
+      "startMs": 665600,
+      "endMs": 671040,
+      "verbatim": "The data must have been absolutely fine, like a nice, delicious French wine.",
+      "display": "The data must have been absolutely fine, like a nice, delicious French wine.",
+      "search": "the data must have been absolutely fine, like a nice, delicious french wine.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:175",
+      "startMs": 671040,
+      "endMs": 674400,
+      "verbatim": "Okay, I'm not a I don't do French people drink wine, I assume so.",
+      "display": "Okay, I'm not a I don't do French people drink wine, I assume so.",
+      "search": "okay, i'm not a i don't do french people drink wine, i assume so.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:176",
+      "startMs": 674560,
+      "endMs": 676480,
+      "verbatim": "This seems like they drink the wine.",
+      "display": "This seems like they drink the wine.",
+      "search": "this seems like they drink the wine.",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:177",
+      "startMs": 676480,
+      "endMs": 678240,
+      "verbatim": "There's not even a good French accent.",
+      "display": "There's not even a good French accent.",
+      "search": "there's not even a good french accent.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:178",
+      "startMs": 678240,
+      "endMs": 680560,
+      "verbatim": "I don't even know how to do a French accent.",
+      "display": "I don't even know how to do a French accent.",
+      "search": "i don't even know how to do a french accent.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:179",
+      "startMs": 680560,
+      "endMs": 682720,
+      "verbatim": "I don't even know what that accent is.",
+      "display": "I don't even know what that accent is.",
+      "search": "i don't even know what that accent is.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:180",
+      "startMs": 682720,
+      "endMs": 687600,
+      "verbatim": "But now we have two points on a graph, and two points on a graph makes, well, a line.",
+      "display": "But now we have two points on a graph, and two points on a graph makes, well, a line.",
+      "search": "but now we have two points on a graph, and two points on a graph makes, well, a line.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:181",
+      "startMs": 687600,
+      "endMs": 693600,
+      "verbatim": "And if you zoom out just a bit, you'll notice that Anthropic also stole the world's books.",
+      "display": "And if you zoom out just a bit, you'll notice that Anthropic also stole the world's books.",
+      "search": "and if you zoom out just a bit, you'll notice that anthropic also stole the world's books.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:182",
+      "startMs": 693600,
+      "endMs": 698160,
+      "verbatim": "So it's not like this is the first time that they have been inside of the data stuff.",
+      "display": "So it's not like this is the first time that they have been inside of the data stuff.",
+      "search": "so it's not like this is the first time that they have been inside of the data stuff.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:183",
+      "startMs": 698160,
+      "endMs": 703920,
+      "verbatim": "And plus, if you really zoom out and think about it, they also stole the world's knowledge.",
+      "display": "And plus, if you really zoom out and think about it, they also stole the world's knowledge.",
+      "search": "and plus, if you really zoom out and think about it, they also stole the world's knowledge.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:184",
+      "startMs": 703920,
+      "endMs": 708000,
+      "verbatim": "I mean, that's a that's a pretty big straight line, if you ask me.",
+      "display": "I mean, that's a that's a pretty big straight line, if you ask me.",
+      "search": "i mean, that's a that's a pretty big straight line, if you ask me.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:185",
+      "startMs": 708000,
+      "endMs": 714320,
+      "verbatim": "Now there's no definitive proof or like papers written of how they used Figma's data and then said, oh, okay, yeah, hey, that's us now.",
+      "display": "Now there's no definitive proof or like papers written of how they used Figma's data and then said, oh, okay, yeah, hey, that's us now.",
+      "search": "now there's no definitive proof or like papers written of how they used figma's data and then said, oh, okay, yeah, hey, that's us now.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:186",
+      "startMs": 714320,
+      "endMs": 715760,
+      "verbatim": "We're we're now Figma.",
+      "display": "We're we're now Figma.",
+      "search": "we're we're now figma.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:187",
+      "startMs": 715760,
+      "endMs": 719920,
+      "verbatim": "Instead, I think it's pretty obvious to say that they saw the success of Claude Code.",
+      "display": "Instead, I think it's pretty obvious to say that they saw the success of Claude Code.",
+      "search": "instead, i think it's pretty obvious to say that they saw the success of claude code.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:188",
+      "startMs": 719920,
+      "endMs": 727760,
+      "verbatim": "They saw them moving into the coding space, they saw how popular the design space is that's paired with the coding space and said, we need to move into that.",
+      "display": "They saw them moving into the coding space, they saw how popular the design space is that's paired with the coding space and said, we need to move into that.",
+      "search": "they saw them moving into the coding space, they saw how popular the design space is that's paired with the coding space and said, we need to move into that.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:189",
+      "startMs": 727760,
+      "endMs": 729760,
+      "verbatim": "And they could see the usage already.",
+      "display": "And they could see the usage already.",
+      "search": "and they could see the usage already.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:190",
+      "startMs": 729760,
+      "endMs": 734800,
+      "verbatim": "They already had the proof, they already had the pudding to know if they could just put the little toes again.",
+      "display": "They already had the proof, they already had the pudding to know if they could just put the little toes again.",
+      "search": "they already had the proof, they already had the pudding to know if they could just put the little toes again.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:191",
+      "startMs": 734800,
+      "endMs": 738960,
+      "verbatim": "Also, the putting in the toes, that's that's not an analogy.",
+      "display": "Also, the putting in the toes, that's that's not an analogy.",
+      "search": "also, the putting in the toes, that's that's not an analogy.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:192",
+      "startMs": 738960,
+      "endMs": 740080,
+      "verbatim": "It's just not one.",
+      "display": "It's just not one.",
+      "search": "it's just not one.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:193",
+      "startMs": 740080,
+      "endMs": 751040,
+      "verbatim": "They probably have many other things that are in the works that is being designed off the data that is being handed to them so that they can commandeer parts of the industry and then effectively be able to push people out with the terms of service.",
+      "display": "They probably have many other things that are in the works that is being designed off the data that is being handed to them so that they can commandeer parts of the industry and then effectively be able to push people out with the terms of service.",
+      "search": "they probably have many other things that are in the works that is being designed off the data that is being handed to them so that they can commandeer parts of the industry and then effectively be able to push people out with the terms of service.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:194",
+      "startMs": 751040,
+      "endMs": 754080,
+      "verbatim": "This is a very unusual experience.",
+      "display": "This is a very unusual experience.",
+      "search": "this is a very unusual experience.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:195",
+      "startMs": 754080,
+      "endMs": 761600,
+      "verbatim": "Now, I can't say all of this is actually happening or what is all their motivations behind things, but it does seem like this is exactly what you would use the data for.",
+      "display": "Now, I can't say all of this is actually happening or what is all their motivations behind things, but it does seem like this is exactly what you would use the data for.",
+      "search": "now, i can't say all of this is actually happening or what is all their motivations behind things, but it does seem like this is exactly what you would use the data for.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:196",
+      "startMs": 761600,
+      "endMs": 765520,
+      "verbatim": "You would use it as a means to determine which industry you're going to capture.",
+      "display": "You would use it as a means to determine which industry you're going to capture.",
+      "search": "you would use it as a means to determine which industry you're going to capture.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:197",
+      "startMs": 765520,
+      "endMs": 777520,
+      "verbatim": "Because if you have unlimited token spend, you can effectively swap together any product you want to be able to be close enough with its competitors because you know that the most amount of people are in this realm.",
+      "display": "Because if you have unlimited token spend, you can effectively swap together any product you want to be able to be close enough with its competitors because you know that the most amount of people are in this realm.",
+      "search": "because if you have unlimited token spend, you can effectively swap together any product you want to be able to be close enough with its competitors because you know that the most amount of people are in this realm.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:198",
+      "startMs": 777520,
+      "endMs": 791360,
+      "verbatim": "So you can use all of your insider information, you can use all that hard-fought knowledge, you can see how people are doing stuff in an industry, and you can build the product that best matches other people's desires because you have the data, all the data.",
+      "display": "So you can use all of your insider information, you can use all that hard-fought knowledge, you can see how people are doing stuff in an industry, and you can build the product that best matches other people's desires because you have the data, all the data.",
+      "search": "so you can use all of your insider information, you can use all that hard-fought knowledge, you can see how people are doing stuff in an industry, and you can build the product that best matches other people's desires because you have the data, all the data.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:199",
+      "startMs": 791360,
+      "endMs": 794720,
+      "verbatim": "You have every single prompt and every single answer, every single reprompt.",
+      "display": "You have every single prompt and every single answer, every single reprompt.",
+      "search": "you have every single prompt and every single answer, every single reprompt.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:200",
+      "startMs": 794720,
+      "endMs": 797600,
+      "verbatim": "It's crazy what they actually have available.",
+      "display": "It's crazy what they actually have available.",
+      "search": "it's crazy what they actually have available.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:201",
+      "startMs": 797600,
+      "endMs": 804000,
+      "verbatim": "Now, this Alex Carp clip goes on for about 20 minutes, and yes, it's absolutely legendary, some of the things he has to say.",
+      "display": "Now, this Alex Carp clip goes on for about 20 minutes, and yes, it's absolutely legendary, some of the things he has to say.",
+      "search": "now, this alex carp clip goes on for about 20 minutes, and yes, it's absolutely legendary, some of the things he has to say.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:202",
+      "startMs": 804000,
+      "endMs": 805920,
+      "verbatim": "You should definitely watch the thing.",
+      "display": "You should definitely watch the thing.",
+      "search": "you should definitely watch the thing.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:203",
+      "startMs": 805920,
+      "endMs": 808240,
+      "verbatim": "I really am on Alex Carp's side.",
+      "display": "I really am on Alex Carp's side.",
+      "search": "i really am on alex carp's side.",
+      "confidence": 0.728
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:204",
+      "startMs": 808240,
+      "endMs": 809360,
+      "verbatim": "I can't believe I'm saying that.",
+      "display": "I can't believe I'm saying that.",
+      "search": "i can't believe i'm saying that.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:205",
+      "startMs": 809360,
+      "endMs": 814720,
+      "verbatim": "I'm on the uh geographically monogamous side of Alex Carp, which wait, I shouldn't say it that way.",
+      "display": "I'm on the uh geographically monogamous side of Alex Carp, which wait, I shouldn't say it that way.",
+      "search": "i'm on the uh geographically monogamous side of alex carp, which wait, i shouldn't say it that way.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:206",
+      "startMs": 814720,
+      "endMs": 816800,
+      "verbatim": "That's not that's not what it meant.",
+      "display": "That's not that's not what it meant.",
+      "search": "that's not that's not what it meant.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:207",
+      "startMs": 816800,
+      "endMs": 830880,
+      "verbatim": "I am definitely on the geographically monogamous Alex Carp's side of this argument, which is that the AI industry is effing insane because the effing insane part isn't the fact that they're losing a bunch of money, which I think is what everybody points to right now.",
+      "display": "I am definitely on the geographically monogamous Alex Carp's side of this argument, which is that the AI industry is effing insane because the effing insane part isn't the fact that they're losing a bunch of money, which I think is what everybody points to right now.",
+      "search": "i am definitely on the geographically monogamous alex carp's side of this argument, which is that the ai industry is effing insane because the effing insane part isn't the fact that they're losing a bunch of money, which i think is what everybody points to right now.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:208",
+      "startMs": 830880,
+      "endMs": 840560,
+      "verbatim": "It's the complete destruction of so many companies and the data they're able to yield and potentially able to weaponize against other people to be able to capture industries.",
+      "display": "It's the complete destruction of so many companies and the data they're able to yield and potentially able to weaponize against other people to be able to capture industries.",
+      "search": "it's the complete destruction of so many companies and the data they're able to yield and potentially able to weaponize against other people to be able to capture industries.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:209",
+      "startMs": 840560,
+      "endMs": 842080,
+      "verbatim": "Very, very interesting.",
+      "display": "Very, very interesting.",
+      "search": "very, very interesting.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:210",
+      "startMs": 842080,
+      "endMs": 846640,
+      "verbatim": "And again, the nine point manifest on AI sovereignty probably says it the best.",
+      "display": "And again, the nine point manifest on AI sovereignty probably says it the best.",
+      "search": "and again, the nine point manifest on ai sovereignty probably says it the best.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:211",
+      "startMs": 846640,
+      "endMs": 848400,
+      "verbatim": "Data retention is your treasure.",
+      "display": "Data retention is your treasure.",
+      "search": "data retention is your treasure.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:212",
+      "startMs": 848400,
+      "endMs": 850160,
+      "verbatim": "Transfer it at your own peril.",
+      "display": "Transfer it at your own peril.",
+      "search": "transfer it at your own peril.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:213",
+      "startMs": 850160,
+      "endMs": 859040,
+      "verbatim": "Your ability to win is dictated by your ability to recognize and use your unique edges, and you keep winning by compounding the underlying data to generate new insights.",
+      "display": "Your ability to win is dictated by your ability to recognize and use your unique edges, and you keep winning by compounding the underlying data to generate new insights.",
+      "search": "your ability to win is dictated by your ability to recognize and use your unique edges, and you keep winning by compounding the underlying data to generate new insights.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:214",
+      "startMs": 859040,
+      "endMs": 865760,
+      "verbatim": "Transferring that data hands over access to your pre existing winning plays and yields the means of production for new ones.",
+      "display": "Transferring that data hands over access to your pre existing winning plays and yields the means of production for new ones.",
+      "search": "transferring that data hands over access to your pre existing winning plays and yields the means of production for new ones.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:215",
+      "startMs": 865760,
+      "endMs": 871280,
+      "verbatim": "Meaning somebody else can figure out how to win your industry based on your data.",
+      "display": "Meaning somebody else can figure out how to win your industry based on your data.",
+      "search": "meaning somebody else can figure out how to win your industry based on your data.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:OQMPhkmeru0:segment:216",
+      "startMs": 871280,
+      "endMs": 873840,
+      "verbatim": "The name is the Primogen",
+      "display": "The name is the Primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.454
+    }
+  ]
+}

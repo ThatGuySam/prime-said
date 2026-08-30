@@ -1,0 +1,986 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_cd991cd2754e440ea7ac5b58",
+  "sourceId": "youtube:UHJgQVmIajY",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-30T23:12:57.465Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:1",
+      "startMs": 80,
+      "endMs": 3600,
+      "verbatim": "There are a few people in the programming world that I consider legendary.",
+      "display": "There are a few people in the programming world that I consider legendary.",
+      "search": "there are a few people in the programming world that i consider legendary.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:2",
+      "startMs": 3600,
+      "endMs": 5520,
+      "verbatim": "John Carmack is one of them.",
+      "display": "John Carmack is one of them.",
+      "search": "john carmack is one of them.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:3",
+      "startMs": 5520,
+      "endMs": 11040,
+      "verbatim": "And when he tweets this, he is almost certainly a better overall programmer than I am.",
+      "display": "And when he tweets this, he is almost certainly a better overall programmer than I am.",
+      "search": "and when he tweets this, he is almost certainly a better overall programmer than i am.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:4",
+      "startMs": 11040,
+      "endMs": 13360,
+      "verbatim": "I have to know what this guy has done.",
+      "display": "I have to know what this guy has done.",
+      "search": "i have to know what this guy has done.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:5",
+      "startMs": 13360,
+      "endMs": 16880,
+      "verbatim": "Now, this legendary programmer does not have a Twitter.",
+      "display": "Now, this legendary programmer does not have a Twitter.",
+      "search": "now, this legendary programmer does not have a twitter.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:6",
+      "startMs": 16880,
+      "endMs": 18400,
+      "verbatim": "He does not have an Instagram.",
+      "display": "He does not have an Instagram.",
+      "search": "he does not have an instagram.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:7",
+      "startMs": 18400,
+      "endMs": 22240,
+      "verbatim": "In fact, he just ships software for the last 37 years in France.",
+      "display": "In fact, he just ships software for the last 37 years in France.",
+      "search": "in fact, he just ships software for the last 37 years in france.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:8",
+      "startMs": 22240,
+      "endMs": 28960,
+      "verbatim": "And when you navigate to his website, you know for a fact you're about to run into one of the most legendary programmers of all time.",
+      "display": "And when you navigate to his website, you know for a fact you're about to run into one of the most legendary programmers of all time.",
+      "search": "and when you navigate to his website, you know for a fact you're about to run into one of the most legendary programmers of all time.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:9",
+      "startMs": 28960,
+      "endMs": 42000,
+      "verbatim": "As the CEO and face of this multi-billion dollar startup, The Startup, I've decided the only way to honor somebody with a 37-year track record of amazing software is to award them Programmer of the Month here at the Startup.",
+      "display": "As the CEO and face of this multi-billion dollar startup, The Startup, I've decided the only way to honor somebody with a 37-year track record of amazing software is to award them Programmer of the Month here at the Startup.",
+      "search": "as the ceo and face of this multi-billion dollar startup, the startup, i've decided the only way to honor somebody with a 37-year track record of amazing software is to award them programmer of the month here at the startup.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:10",
+      "startMs": 42000,
+      "endMs": 51040,
+      "verbatim": "And so today we honor Fabrice Bellard, legendary programmer, and the things he has made are so incredible, and the list goes on for so long.",
+      "display": "And so today we honor Fabrice Bellard, legendary programmer, and the things he has made are so incredible, and the list goes on for so long.",
+      "search": "and so today we honor fabrice bellard, legendary programmer, and the things he has made are so incredible, and the list goes on for so long.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:11",
+      "startMs": 51040,
+      "endMs": 59600,
+      "verbatim": "Now before we begin, I'd like to say thank you to the sponsor and a quick word.",
+      "display": "Now before we begin, I'd like to say thank you to the sponsor and a quick word.",
+      "search": "now before we begin, i'd like to say thank you to the sponsor and a quick word.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:12",
+      "startMs": 65760,
+      "endMs": 74880,
+      "verbatim": "I had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did I decide to do with it?",
+      "display": "I had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did I decide to do with it?",
+      "search": "i had billions of dollars of venture capital, legions of engineers under my command, tokens on tokens on tokens, and what did i decide to do with it?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:13",
+      "startMs": 74880,
+      "endMs": 77520,
+      "verbatim": "Did I fix reconnecting web sockets?",
+      "display": "Did I fix reconnecting web sockets?",
+      "search": "did i fix reconnecting web sockets?",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:14",
+      "startMs": 77520,
+      "endMs": 81600,
+      "verbatim": "No, I shipped an electron app.",
+      "display": "No, I shipped an electron app.",
+      "search": "no, i shipped an electron app.",
+      "confidence": 0.662
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:15",
+      "startMs": 87600,
+      "endMs": 89280,
+      "verbatim": "Failed you.",
+      "display": "Failed you.",
+      "search": "failed you.",
+      "confidence": 0.513
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:16",
+      "startMs": 90000,
+      "endMs": 92560,
+      "verbatim": "I didn't mean for it to end this way.",
+      "display": "I didn't mean for it to end this way.",
+      "search": "i didn't mean for it to end this way.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:17",
+      "startMs": 109040,
+      "endMs": 112480,
+      "verbatim": "Not even the walls of this prison will hold us back.",
+      "display": "Not even the walls of this prison will hold us back.",
+      "search": "not even the walls of this prison will hold us back.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:18",
+      "startMs": 112480,
+      "endMs": 114320,
+      "verbatim": "The love of a founder!",
+      "display": "The love of a founder!",
+      "search": "the love of a founder!",
+      "confidence": 0.527
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:19",
+      "startMs": 114480,
+      "endMs": 116640,
+      "verbatim": "You can't stop us!",
+      "display": "You can't stop us!",
+      "search": "you can't stop us!",
+      "confidence": 0.505
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:20",
+      "startMs": 119040,
+      "endMs": 124240,
+      "verbatim": "My biggest regret of all is that I'll never program with you again.",
+      "display": "My biggest regret of all is that I'll never program with you again.",
+      "search": "my biggest regret of all is that i'll never program with you again.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:21",
+      "startMs": 126400,
+      "endMs": 130560,
+      "verbatim": "Tupal, we still can.",
+      "display": "Tupal, we still can.",
+      "search": "tupal, we still can.",
+      "confidence": 0.554
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:22",
+      "startMs": 130720,
+      "endMs": 135840,
+      "verbatim": "Tupal, a native app that lets you code together, even from code jail.",
+      "display": "Tupal, a native app that lets you code together, even from code jail.",
+      "search": "tupal, a native app that lets you code together, even from code jail.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:23",
+      "startMs": 135840,
+      "endMs": 142000,
+      "verbatim": "Free yourself by going to tuple.app and use code prime for 90% off your team's first three months.",
+      "display": "Free yourself by going to tuple.app and use code prime for 90% off your team's first three months.",
+      "search": "free yourself by going to tuple.app and use code prime for 90% off your team's first three months.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:24",
+      "startMs": 142000,
+      "endMs": 154000,
+      "verbatim": "Fabrice Bellard was born in 1972 in Grenoble, France, and at the ripe age of 17, he created his first very popular piece of open source technology, LZEXE.",
+      "display": "Fabrice Bellard was born in 1972 in Grenoble, France, and at the ripe age of 17, he created his first very popular piece of open source technology, LZEXE.",
+      "search": "fabrice bellard was born in 1972 in grenoble, france, and at the ripe age of 17, he created his first very popular piece of open source technology, lzexe.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:25",
+      "startMs": 154000,
+      "endMs": 163440,
+      "verbatim": "Now you may not be familiar with what LZEXE is, but LZEXE was the first wide-known executable file compression for PCs under MS DOS.",
+      "display": "Now you may not be familiar with what LZEXE is, but LZEXE was the first wide-known executable file compression for PCs under MS DOS.",
+      "search": "now you may not be familiar with what lzexe is, but lzexe was the first wide-known executable file compression for pcs under ms dos.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:26",
+      "startMs": 163440,
+      "endMs": 171120,
+      "verbatim": "It allowed MS-DOS executables, EXEs or dot com files, to be compressed and then launched without having to decompress them explicitly.",
+      "display": "It allowed MS-DOS executables, EXEs or dot com files, to be compressed and then launched without having to decompress them explicitly.",
+      "search": "it allowed ms-dos executables, exes or dot com files, to be compressed and then launched without having to decompress them explicitly.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:27",
+      "startMs": 171120,
+      "endMs": 186320,
+      "verbatim": "In other words, there's this small stub executable that knew how to decompress the actual program, and then the actual program was compressed inside of the memory, and it would read it line by line, and then at the end it was able to decompress this and turn this into an executable program and execute it.",
+      "display": "In other words, there's this small stub executable that knew how to decompress the actual program, and then the actual program was compressed inside of the memory, and it would read it line by line, and then at the end it was able to decompress this and turn this into an executable program and execute it.",
+      "search": "in other words, there's this small stub executable that knew how to decompress the actual program, and then the actual program was compressed inside of the memory, and it would read it line by line, and then at the end it was able to decompress this and turn this into an executable program and execute it.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:28",
+      "startMs": 186320,
+      "endMs": 189280,
+      "verbatim": "Now this looks like an American flag, so USA!",
+      "display": "Now this looks like an American flag, so USA!",
+      "search": "now this looks like an american flag, so usa!",
+      "confidence": 0.752
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:29",
+      "startMs": 189280,
+      "endMs": 190560,
+      "verbatim": "This is what we're talking about.",
+      "display": "This is what we're talking about.",
+      "search": "this is what we're talking about.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:30",
+      "startMs": 190560,
+      "endMs": 192400,
+      "verbatim": "He didn't mean for this to actually become popular.",
+      "display": "He didn't mean for this to actually become popular.",
+      "search": "he didn't mean for this to actually become popular.",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:31",
+      "startMs": 192400,
+      "endMs": 199040,
+      "verbatim": "He said, although I wrote LZEXE for my own use, I gave it to some friends and it was then put on some BBSs.",
+      "display": "He said, although I wrote LZEXE for my own use, I gave it to some friends and it was then put on some BBSs.",
+      "search": "he said, although i wrote lzexe for my own use, i gave it to some friends and it was then put on some bbss.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:32",
+      "startMs": 199040,
+      "endMs": 202080,
+      "verbatim": "LZEXE became then very famous.",
+      "display": "LZEXE became then very famous.",
+      "search": "lzexe became then very famous.",
+      "confidence": 0.659
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:33",
+      "startMs": 202080,
+      "endMs": 207120,
+      "verbatim": "Although I did not do anything to promote it, this success was quite unexpected for me.",
+      "display": "Although I did not do anything to promote it, this success was quite unexpected for me.",
+      "search": "although i did not do anything to promote it, this success was quite unexpected for me.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:34",
+      "startMs": 207120,
+      "endMs": 209120,
+      "verbatim": "You're probably wondering why would anybody write this?",
+      "display": "You're probably wondering why would anybody write this?",
+      "search": "you're probably wondering why would anybody write this?",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:35",
+      "startMs": 209120,
+      "endMs": 213440,
+      "verbatim": "Well, back in the late 80s, early 90s, memory was actually extremely expensive.",
+      "display": "Well, back in the late 80s, early 90s, memory was actually extremely expensive.",
+      "search": "well, back in the late 80s, early 90s, memory was actually extremely expensive.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:36",
+      "startMs": 213440,
+      "endMs": 220640,
+      "verbatim": "Kind of a reminder of today and how how Sam Jippity Alman keeps using up all about memory, making everything super expensive.",
+      "display": "Kind of a reminder of today and how how Sam Jippity Alman keeps using up all about memory, making everything super expensive.",
+      "search": "kind of a reminder of today and how how sam jippity alman keeps using up all about memory, making everything super expensive.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:37",
+      "startMs": 220640,
+      "endMs": 225760,
+      "verbatim": "So back then they had to be creative, they had to create these ways to be able to reduce disk space.",
+      "display": "So back then they had to be creative, they had to create these ways to be able to reduce disk space.",
+      "search": "so back then they had to be creative, they had to create these ways to be able to reduce disk space.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:38",
+      "startMs": 225760,
+      "endMs": 235520,
+      "verbatim": "Now, Fabrice didn't do anything major for the next about 10 years until he unveiled Bellard's formula, which is used to calculate the nth digit of pi in base 16.",
+      "display": "Now, Fabrice didn't do anything major for the next about 10 years until he unveiled Bellard's formula, which is used to calculate the nth digit of pi in base 16.",
+      "search": "now, fabrice didn't do anything major for the next about 10 years until he unveiled bellard's formula, which is used to calculate the nth digit of pi in base 16.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:39",
+      "startMs": 235520,
+      "endMs": 239600,
+      "verbatim": "It was about 43% faster than the fastest known algorithm at the time.",
+      "display": "It was about 43% faster than the fastest known algorithm at the time.",
+      "search": "it was about 43% faster than the fastest known algorithm at the time.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:40",
+      "startMs": 239600,
+      "endMs": 240960,
+      "verbatim": "And here is the algorithm.",
+      "display": "And here is the algorithm.",
+      "search": "and here is the algorithm.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:41",
+      "startMs": 240960,
+      "endMs": 245200,
+      "verbatim": "This beautiful algorithm turns out to be one of the fastest known ways for calculating pi.",
+      "display": "This beautiful algorithm turns out to be one of the fastest known ways for calculating pi.",
+      "search": "this beautiful algorithm turns out to be one of the fastest known ways for calculating pi.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:42",
+      "startMs": 245200,
+      "endMs": 248640,
+      "verbatim": "Now his obsession with pi did not actually stop back in 1997.",
+      "display": "Now his obsession with pi did not actually stop back in 1997.",
+      "search": "now his obsession with pi did not actually stop back in 1997.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:43",
+      "startMs": 248640,
+      "endMs": 257360,
+      "verbatim": "It turns out on December 31st, 2009, he claimed the world record for calculations of pie, having calculated it to nearly 2.7 trillion places in 90 days.",
+      "display": "It turns out on December 31st, 2009, he claimed the world record for calculations of pie, having calculated it to nearly 2.7 trillion places in 90 days.",
+      "search": "it turns out on december 31st, 2009, he claimed the world record for calculations of pie, having calculated it to nearly 2.7 trillion places in 90 days.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:44",
+      "startMs": 257360,
+      "endMs": 260240,
+      "verbatim": "Now you're probably thinking, okay, yeah, is that really that impressive?",
+      "display": "Now you're probably thinking, okay, yeah, is that really that impressive?",
+      "search": "now you're probably thinking, okay, yeah, is that really that impressive?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:45",
+      "startMs": 260240,
+      "endMs": 261200,
+      "verbatim": "Well, let me tell you why.",
+      "display": "Well, let me tell you why.",
+      "search": "well, let me tell you why.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:46",
+      "startMs": 261200,
+      "endMs": 273600,
+      "verbatim": "While the improvement may seem small, it is an outstanding achievement because only a single desktop PC costing less than $3,000 was used instead of multi-million dollar supercomputers as in previous records.",
+      "display": "While the improvement may seem small, it is an outstanding achievement because only a single desktop PC costing less than $3,000 was used instead of multi-million dollar supercomputers as in previous records.",
+      "search": "while the improvement may seem small, it is an outstanding achievement because only a single desktop pc costing less than $3,000 was used instead of multi-million dollar supercomputers as in previous records.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:47",
+      "startMs": 273600,
+      "endMs": 279520,
+      "verbatim": "In other words, he shattered it from consumer grade hardware as opposed to industrial weapons grade hardware.",
+      "display": "In other words, he shattered it from consumer grade hardware as opposed to industrial weapons grade hardware.",
+      "search": "in other words, he shattered it from consumer grade hardware as opposed to industrial weapons grade hardware.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:48",
+      "startMs": 279520,
+      "endMs": 283360,
+      "verbatim": "About three years later is when Fabrice decided he was going to change the world.",
+      "display": "About three years later is when Fabrice decided he was going to change the world.",
+      "search": "about three years later is when fabrice decided he was going to change the world.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:49",
+      "startMs": 283360,
+      "endMs": 289840,
+      "verbatim": "In 2000, he started a little known project called FFM Peg under the pseudonym Gerard Lantu.",
+      "display": "In 2000, he started a little known project called FFM Peg under the pseudonym Gerard Lantu.",
+      "search": "in 2000, he started a little known project called ffm peg under the pseudonym gerard lantu.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:50",
+      "startMs": 289840,
+      "endMs": 297280,
+      "verbatim": "And yes, it is actually confirmed by a Git commit in 2014 that Gerard Lantu is in fact Fabrice Bellard, which was widely known.",
+      "display": "And yes, it is actually confirmed by a Git commit in 2014 that Gerard Lantu is in fact Fabrice Bellard, which was widely known.",
+      "search": "and yes, it is actually confirmed by a git commit in 2014 that gerard lantu is in fact fabrice bellard, which was widely known.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:51",
+      "startMs": 297280,
+      "endMs": 307760,
+      "verbatim": "And it was even written about on FFM Peg's history prologue saying this as you know, FFM Peg was started by Fabrice Bellard under the pseudonym Gerard Lantu exactly 22 years ago.",
+      "display": "And it was even written about on FFM Peg's history prologue saying this as you know, FFM Peg was started by Fabrice Bellard under the pseudonym Gerard Lantu exactly 22 years ago.",
+      "search": "and it was even written about on ffm peg's history prologue saying this as you know, ffm peg was started by fabrice bellard under the pseudonym gerard lantu exactly 22 years ago.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:52",
+      "startMs": 307760,
+      "endMs": 308960,
+      "verbatim": "Why a pseudonym?",
+      "display": "Why a pseudonym?",
+      "search": "why a pseudonym?",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:53",
+      "startMs": 308960,
+      "endMs": 312560,
+      "verbatim": "Probably because back in the day it was too easy to be sued by patent holders.",
+      "display": "Probably because back in the day it was too easy to be sued by patent holders.",
+      "search": "probably because back in the day it was too easy to be sued by patent holders.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:54",
+      "startMs": 312560,
+      "endMs": 313920,
+      "verbatim": "But I may be wrong.",
+      "display": "But I may be wrong.",
+      "search": "but i may be wrong.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:55",
+      "startMs": 313920,
+      "endMs": 316880,
+      "verbatim": "Nobody actually knows why he started it under the pseudonym.",
+      "display": "Nobody actually knows why he started it under the pseudonym.",
+      "search": "nobody actually knows why he started it under the pseudonym.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:56",
+      "startMs": 316880,
+      "endMs": 339200,
+      "verbatim": "Maybe he was just tired of all the success of LZ Ham and everything, but nonetheless, back in the day, and a large reason why a huge amount of video was held back for decades is because of patents, and FFmpeg was the thing that just absolutely dominated that industry, making everybody's life actually better and still used by pretty much every single billion dollar corporation or now trillion-dollar corporation these days.",
+      "display": "Maybe he was just tired of all the success of LZ Ham and everything, but nonetheless, back in the day, and a large reason why a huge amount of video was held back for decades is because of patents, and FFmpeg was the thing that just absolutely dominated that industry, making everybody's life actually better and still used by pretty much every single billion dollar corporation or now trillion-dollar corporation these days.",
+      "search": "maybe he was just tired of all the success of lz ham and everything, but nonetheless, back in the day, and a large reason why a huge amount of video was held back for decades is because of patents, and ffmpeg was the thing that just absolutely dominated that industry, making everybody's life actually better and still used by pretty much every single billion dollar corporation or now trillion-dollar corporation these days.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:57",
+      "startMs": 339200,
+      "endMs": 350560,
+      "verbatim": "Now, the funny thing about Fabrice is besides for writing some of the most consequential open source software in 2000, he also decided to win the International Obfuscation C Code Challenge in 2000 as well.",
+      "display": "Now, the funny thing about Fabrice is besides for writing some of the most consequential open source software in 2000, he also decided to win the International Obfuscation C Code Challenge in 2000 as well.",
+      "search": "now, the funny thing about fabrice is besides for writing some of the most consequential open source software in 2000, he also decided to win the international obfuscation c code challenge in 2000 as well.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:58",
+      "startMs": 350560,
+      "endMs": 360800,
+      "verbatim": "And this is for calculating out the largest known prime to man and printing it, which of course is two to the six million nine hundred and seventy two thousand five hundred and ninety-three minus one.",
+      "display": "And this is for calculating out the largest known prime to man and printing it, which of course is two to the six million nine hundred and seventy two thousand five hundred and ninety-three minus one.",
+      "search": "and this is for calculating out the largest known prime to man and printing it, which of course is two to the six million nine hundred and seventy two thousand five hundred and ninety-three minus one.",
+      "confidence": 0.769
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:59",
+      "startMs": 360800,
+      "endMs": 363360,
+      "verbatim": "Now, at this point, you would probably hang up the keyboard, right?",
+      "display": "Now, at this point, you would probably hang up the keyboard, right?",
+      "search": "now, at this point, you would probably hang up the keyboard, right?",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:60",
+      "startMs": 363360,
+      "endMs": 365840,
+      "verbatim": "You'd be like, okay, I have done enough for the world.",
+      "display": "You'd be like, okay, I have done enough for the world.",
+      "search": "you'd be like, okay, i have done enough for the world.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:61",
+      "startMs": 365840,
+      "endMs": 368240,
+      "verbatim": "I in fact do not need to create anything else.",
+      "display": "I in fact do not need to create anything else.",
+      "search": "i in fact do not need to create anything else.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:62",
+      "startMs": 368240,
+      "endMs": 369920,
+      "verbatim": "Well, that's not what Fabrice did.",
+      "display": "Well, that's not what Fabrice did.",
+      "search": "well, that's not what fabrice did.",
+      "confidence": 0.759
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:63",
+      "startMs": 369920,
+      "endMs": 382880,
+      "verbatim": "Three short years later, he created Quick Emulator, which is still maintained and used all over the place, used as the backbone of so many services, including emulating GitHub Actions, which I, by the way, I don't want him associated with GitHub Actions.",
+      "display": "Three short years later, he created Quick Emulator, which is still maintained and used all over the place, used as the backbone of so many services, including emulating GitHub Actions, which I, by the way, I don't want him associated with GitHub Actions.",
+      "search": "three short years later, he created quick emulator, which is still maintained and used all over the place, used as the backbone of so many services, including emulating github actions, which i, by the way, i don't want him associated with github actions.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:64",
+      "startMs": 382880,
+      "endMs": 388000,
+      "verbatim": "The trashiness of GitHub Actions and its lack of, you know, availability has nothing to do with QMU.",
+      "display": "The trashiness of GitHub Actions and its lack of, you know, availability has nothing to do with QMU.",
+      "search": "the trashiness of github actions and its lack of, you know, availability has nothing to do with qmu.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:65",
+      "startMs": 388000,
+      "endMs": 392560,
+      "verbatim": "Just in case, you know, just in case you're wondering, again, starts an open source project.",
+      "display": "Just in case, you know, just in case you're wondering, again, starts an open source project.",
+      "search": "just in case, you know, just in case you're wondering, again, starts an open source project.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:66",
+      "startMs": 392560,
+      "endMs": 401440,
+      "verbatim": "Twenty years later, there's an active community still maintaining it, and it is being used by thousands upon tens of thousands, if not millions, of people.",
+      "display": "Twenty years later, there's an active community still maintaining it, and it is being used by thousands upon tens of thousands, if not millions, of people.",
+      "search": "twenty years later, there's an active community still maintaining it, and it is being used by thousands upon tens of thousands, if not millions, of people.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:67",
+      "startMs": 401440,
+      "endMs": 405760,
+      "verbatim": "And the effect of its software is being enjoyed potentially into the billions of people.",
+      "display": "And the effect of its software is being enjoyed potentially into the billions of people.",
+      "search": "and the effect of its software is being enjoyed potentially into the billions of people.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:68",
+      "startMs": 405760,
+      "endMs": 420480,
+      "verbatim": "Later on, Fabrice went to help co-found Amerisoft, which is a 4G, 5G lab testing and software stack provider, and which provides some telecoms, some of the best software known to man for running a lot of the cellular networks, where he serves as CTO.",
+      "display": "Later on, Fabrice went to help co-found Amerisoft, which is a 4G, 5G lab testing and software stack provider, and which provides some telecoms, some of the best software known to man for running a lot of the cellular networks, where he serves as CTO.",
+      "search": "later on, fabrice went to help co-found amerisoft, which is a 4g, 5g lab testing and software stack provider, and which provides some telecoms, some of the best software known to man for running a lot of the cellular networks, where he serves as cto.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:69",
+      "startMs": 420480,
+      "endMs": 421600,
+      "verbatim": "But that never stopped him.",
+      "display": "But that never stopped him.",
+      "search": "but that never stopped him.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:70",
+      "startMs": 421600,
+      "endMs": 426640,
+      "verbatim": "If you look at this, all these projects you see right here are during his tenure as CTO.",
+      "display": "If you look at this, all these projects you see right here are during his tenure as CTO.",
+      "search": "if you look at this, all these projects you see right here are during his tenure as cto.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:71",
+      "startMs": 426640,
+      "endMs": 441440,
+      "verbatim": "Not only is he running one of the world's most advanced telecom software communications company, he is also creating some of the most incredible software to this day, including the ability for me to be able to run Windows 2000 in the browser.",
+      "display": "Not only is he running one of the world's most advanced telecom software communications company, he is also creating some of the most incredible software to this day, including the ability for me to be able to run Windows 2000 in the browser.",
+      "search": "not only is he running one of the world's most advanced telecom software communications company, he is also creating some of the most incredible software to this day, including the ability for me to be able to run windows 2000 in the browser.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:72",
+      "startMs": 441440,
+      "endMs": 445920,
+      "verbatim": "Yes, this is actually Windows 2000, actually emulated in JavaScript.",
+      "display": "Yes, this is actually Windows 2000, actually emulated in JavaScript.",
+      "search": "yes, this is actually windows 2000, actually emulated in javascript.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:73",
+      "startMs": 445920,
+      "endMs": 446880,
+      "verbatim": "It is fully running.",
+      "display": "It is fully running.",
+      "search": "it is fully running.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:74",
+      "startMs": 446880,
+      "endMs": 448320,
+      "verbatim": "I can even have Firefox.",
+      "display": "I can even have Firefox.",
+      "search": "i can even have firefox.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:75",
+      "startMs": 448320,
+      "endMs": 449440,
+      "verbatim": "Now I can minimize this.",
+      "display": "Now I can minimize this.",
+      "search": "now i can minimize this.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:76",
+      "startMs": 449440,
+      "endMs": 451280,
+      "verbatim": "I can actually launch connect to the internet.",
+      "display": "I can actually launch connect to the internet.",
+      "search": "i can actually launch connect to the internet.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:77",
+      "startMs": 451280,
+      "endMs": 455840,
+      "verbatim": "Remember, back in the day, and you know, in the 2000s era, you had to connect to the internet.",
+      "display": "Remember, back in the day, and you know, in the 2000s era, you had to connect to the internet.",
+      "search": "remember, back in the day, and you know, in the 2000s era, you had to connect to the internet.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:78",
+      "startMs": 455840,
+      "endMs": 457120,
+      "verbatim": "Okay, it wasn't always on.",
+      "display": "Okay, it wasn't always on.",
+      "search": "okay, it wasn't always on.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:79",
+      "startMs": 457120,
+      "endMs": 461600,
+      "verbatim": "You think you just you can just walk into a computer and just use the internet idiot?",
+      "display": "You think you just you can just walk into a computer and just use the internet idiot?",
+      "search": "you think you just you can just walk into a computer and just use the internet idiot?",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:80",
+      "startMs": 461600,
+      "endMs": 465440,
+      "verbatim": "By the way, launching Firefox took like five minutes to it to actually launch.",
+      "display": "By the way, launching Firefox took like five minutes to it to actually launch.",
+      "search": "by the way, launching firefox took like five minutes to it to actually launch.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:81",
+      "startMs": 465440,
+      "endMs": 466480,
+      "verbatim": "Very, very funny.",
+      "display": "Very, very funny.",
+      "search": "very, very funny.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:82",
+      "startMs": 466480,
+      "endMs": 475840,
+      "verbatim": "This kind of reminds me of Gary Bernhardt's destroy all software talk called The Birth and Death of JavaScript, where he emulated GIMP inside of Firefox inside of Chrome.",
+      "display": "This kind of reminds me of Gary Bernhardt's destroy all software talk called The Birth and Death of JavaScript, where he emulated GIMP inside of Firefox inside of Chrome.",
+      "search": "this kind of reminds me of gary bernhardt's destroy all software talk called the birth and death of javascript, where he emulated gimp inside of firefox inside of chrome.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:83",
+      "startMs": 475840,
+      "endMs": 482400,
+      "verbatim": "It's literally like this hilarious software stack, except for it's the real deal, all in JavaScript.",
+      "display": "It's literally like this hilarious software stack, except for it's the real deal, all in JavaScript.",
+      "search": "it's literally like this hilarious software stack, except for it's the real deal, all in javascript.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:84",
+      "startMs": 482400,
+      "endMs": 483680,
+      "verbatim": "But he didn't just stop there.",
+      "display": "But he didn't just stop there.",
+      "search": "but he didn't just stop there.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:85",
+      "startMs": 483680,
+      "endMs": 489040,
+      "verbatim": "You can peruse this and find so many gems and so many amazing things that he has built.",
+      "display": "You can peruse this and find so many gems and so many amazing things that he has built.",
+      "search": "you can peruse this and find so many gems and so many amazing things that he has built.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:86",
+      "startMs": 489040,
+      "endMs": 497120,
+      "verbatim": "Obviously, one of the big ones was QuickJS, which is a small embeddable JavaScript engine in which he still maintains and still actually makes faster.",
+      "display": "Obviously, one of the big ones was QuickJS, which is a small embeddable JavaScript engine in which he still maintains and still actually makes faster.",
+      "search": "obviously, one of the big ones was quickjs, which is a small embeddable javascript engine in which he still maintains and still actually makes faster.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:87",
+      "startMs": 497120,
+      "endMs": 500720,
+      "verbatim": "Again, 42% faster just in the last month.",
+      "display": "Again, 42% faster just in the last month.",
+      "search": "again, 42% faster just in the last month.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:88",
+      "startMs": 500720,
+      "endMs": 502800,
+      "verbatim": "But he decided that that wasn't small enough.",
+      "display": "But he decided that that wasn't small enough.",
+      "search": "but he decided that that wasn't small enough.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:89",
+      "startMs": 502800,
+      "endMs": 505280,
+      "verbatim": "He also made micro Quick.js, which can do this.",
+      "display": "He also made micro Quick.js, which can do this.",
+      "search": "he also made micro quick.js, which can do this.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:90",
+      "startMs": 505280,
+      "endMs": 506320,
+      "verbatim": "I kid you not.",
+      "display": "I kid you not.",
+      "search": "i kid you not.",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:91",
+      "startMs": 506320,
+      "endMs": 511600,
+      "verbatim": "It compiles and runs JavaScript programs using as little as 10 kilobytes of RAM.",
+      "display": "It compiles and runs JavaScript programs using as little as 10 kilobytes of RAM.",
+      "search": "it compiles and runs javascript programs using as little as 10 kilobytes of ram.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:92",
+      "startMs": 511600,
+      "endMs": 516480,
+      "verbatim": "You can't even spell React.js with less than 10 kilobytes of RAM.",
+      "display": "You can't even spell React.js with less than 10 kilobytes of RAM.",
+      "search": "you can't even spell react.js with less than 10 kilobytes of ram.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:93",
+      "startMs": 516480,
+      "endMs": 520560,
+      "verbatim": "And this guy has managed to make something that can run in 10 kilobytes of RAM.",
+      "display": "And this guy has managed to make something that can run in 10 kilobytes of RAM.",
+      "search": "and this guy has managed to make something that can run in 10 kilobytes of ram.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:94",
+      "startMs": 520560,
+      "endMs": 521760,
+      "verbatim": "And is JavaScript?",
+      "display": "And is JavaScript?",
+      "search": "and is javascript?",
+      "confidence": 0.672
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:95",
+      "startMs": 521760,
+      "endMs": 542560,
+      "verbatim": "He is absolutely legendary from being able to write and create new audio encodes, writing FFM peg, creating virtualizers, creating an entire ability to launch several different operating systems directly in the browser to writing JavaScript engines, to also like commanding and running telecom software.",
+      "display": "He is absolutely legendary from being able to write and create new audio encodes, writing FFM peg, creating virtualizers, creating an entire ability to launch several different operating systems directly in the browser to writing JavaScript engines, to also like commanding and running telecom software.",
+      "search": "he is absolutely legendary from being able to write and create new audio encodes, writing ffm peg, creating virtualizers, creating an entire ability to launch several different operating systems directly in the browser to writing javascript engines, to also like commanding and running telecom software.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:96",
+      "startMs": 542560,
+      "endMs": 547440,
+      "verbatim": "This guy has to be the ultimate specialist and generalist at the same time.",
+      "display": "This guy has to be the ultimate specialist and generalist at the same time.",
+      "search": "this guy has to be the ultimate specialist and generalist at the same time.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:97",
+      "startMs": 547440,
+      "endMs": 556800,
+      "verbatim": "This might just be one of the smartest walking programmers of all time, and I completely understand why John Carmack said, I admire Fabrice Bellard.",
+      "display": "This might just be one of the smartest walking programmers of all time, and I completely understand why John Carmack said, I admire Fabrice Bellard.",
+      "search": "this might just be one of the smartest walking programmers of all time, and i completely understand why john carmack said, i admire fabrice bellard.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:98",
+      "startMs": 556800,
+      "endMs": 559840,
+      "verbatim": "He is almost certainly a better overall programmer than I.",
+      "display": "He is almost certainly a better overall programmer than I.",
+      "search": "he is almost certainly a better overall programmer than i.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:99",
+      "startMs": 559840,
+      "endMs": 563280,
+      "verbatim": "So the first ever programmer of the month award goes out to you, Fabrice.",
+      "display": "So the first ever programmer of the month award goes out to you, Fabrice.",
+      "search": "so the first ever programmer of the month award goes out to you, fabrice.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:100",
+      "startMs": 563280,
+      "endMs": 564960,
+      "verbatim": "Thanks for making the world a better place.",
+      "display": "Thanks for making the world a better place.",
+      "search": "thanks for making the world a better place.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:101",
+      "startMs": 564960,
+      "endMs": 567760,
+      "verbatim": "By the way, do you like the uh the name Programmer of the Month?",
+      "display": "By the way, do you like the uh the name Programmer of the Month?",
+      "search": "by the way, do you like the uh the name programmer of the month?",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:102",
+      "startMs": 567760,
+      "endMs": 576640,
+      "verbatim": "I thought like, what is the most corporate way you could like take someone's life who's accomplished so many great things and boil it down to just like the dumbest possible ward?",
+      "display": "I thought like, what is the most corporate way you could like take someone's life who's accomplished so many great things and boil it down to just like the dumbest possible ward?",
+      "search": "i thought like, what is the most corporate way you could like take someone's life who's accomplished so many great things and boil it down to just like the dumbest possible ward?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:103",
+      "startMs": 576640,
+      "endMs": 582800,
+      "verbatim": "Imagine just spending 37 years actually changing the world and actually making things better, especially with FFmpeg.",
+      "display": "Imagine just spending 37 years actually changing the world and actually making things better, especially with FFmpeg.",
+      "search": "imagine just spending 37 years actually changing the world and actually making things better, especially with ffmpeg.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:104",
+      "startMs": 582800,
+      "endMs": 586000,
+      "verbatim": "Only for the corporation to be like, hey, you're programmer of the month.",
+      "display": "Only for the corporation to be like, hey, you're programmer of the month.",
+      "search": "only for the corporation to be like, hey, you're programmer of the month.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:105",
+      "startMs": 586000,
+      "endMs": 587520,
+      "verbatim": "Thanks for all the hard work.",
+      "display": "Thanks for all the hard work.",
+      "search": "thanks for all the hard work.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:106",
+      "startMs": 587520,
+      "endMs": 588320,
+      "verbatim": "What do you get?",
+      "display": "What do you get?",
+      "search": "what do you get?",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:107",
+      "startMs": 588320,
+      "endMs": 589920,
+      "verbatim": "Probably a plaque in a picture.",
+      "display": "Probably a plaque in a picture.",
+      "search": "probably a plaque in a picture.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:UHJgQVmIajY:segment:108",
+      "startMs": 589920,
+      "endMs": 601680,
+      "verbatim": "So hey, if you enjoy this content and you gotta say something, send me the signals, like the video, let me know, hit the subscribe button, tell me who I should honor next, and go over the name is the Primogen.",
+      "display": "So hey, if you enjoy this content and you gotta say something, send me the signals, like the video, let me know, hit the subscribe button, tell me who I should honor next, and go over the name is the Primogen.",
+      "search": "so hey, if you enjoy this content and you gotta say something, send me the signals, like the video, let me know, hit the subscribe button, tell me who i should honor next, and go over the name is the primogen.",
+      "confidence": 0.824
+    }
+  ]
+}
