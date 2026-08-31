@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:nGqGrrYeYGc",
+  "platform": "youtube",
+  "platformId": "nGqGrrYeYGc",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "The Craziest AI Pivot yet",
+  "description": "Blacksmith is the fastest way to run your Github Actions. 2x faster job runs, 4x faster on caches, and 40x faster on Docker builds, slashing costs by up to 75%. Already trusted by over 3,500 companies, including Ashby, Veed, Clerk, Supabase, and Mintlify → https://trm.sh/blacksmith\n\nSources:\n\n- https://x.com/midjourney/status/2067422898407837797?s=20\n\nTopics Covered:\n\n- Midjourney\n- MRIs\n- Data and Data Limits\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=nGqGrrYeYGc",
+  "publishedAt": "2026-06-23T14:42:09.000Z",
+  "durationMs": 812000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:12:04.277Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:12:04.277Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

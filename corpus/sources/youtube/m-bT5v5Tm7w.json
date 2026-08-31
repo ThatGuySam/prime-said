@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:m-bT5v5Tm7w",
+  "platform": "youtube",
+  "platformId": "m-bT5v5Tm7w",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Unfortunately, I Was Right",
+  "description": "Cursor is the best way to build software with AI → https://trm.sh/cursor\n\nChapters\n00:00:00 - Intro\n00:00:08 - I was right about Token Cost\n00:02:35 - Prediction 0: AI Labs will trade tokens for equity\n00:02:51 - Prediction 1: Opensource Token Donations\n00:04:06 - Cursor\n00:04:46 - Prediction 2: Token Budgets/Stipends\n00:06:35 - Prediction 3: Token Poker\n00:09:07 - Prediction 4: Org & Team Wide Token Budgets\n00:11:31 - Prediction 5: Rewarding LoC with more token budget\n\nSources:\n- https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\n- https://x.com/BusinessInsider/status/2062211094450434219\n- https://www.wheresyoured.at/ai-is-too-expensive/#organizations-cannot-afford-to-keep-blowing-through-their-ai-budgets-millions-of-dollars-at-a-time-without-roi\n- https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=m-bT5v5Tm7w",
+  "publishedAt": "2026-06-10T16:54:26.000Z",
+  "durationMs": 824000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:28:10.323Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:28:10.323Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

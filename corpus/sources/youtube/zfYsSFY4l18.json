@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:zfYsSFY4l18",
+  "platform": "youtube",
+  "platformId": "zfYsSFY4l18",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "I Think They Are Lying To You",
+  "description": "Linear helps teams track issues, manage projects, collaborate on docs, and ship products - and the crazy thing is their software is actually fast and a joy to use. Learn more: https://trm.sh/linear\n\nSources:\n- Youtube: https: //www.youtube.com/watch?v=RkQQ7WEor7w\n- Graph: https://x.com/AnthropicAI/status/2062568864240836995/photo/1 \n- Wiki / Timeline of Claude: https://en.wikipedia.org/wiki/Claude_(language_model)\n- Github Issue #1: https://github.com/anthropics/claude-code/issues/392\n- Github Issue #2: https://github.com/anthropics/claude-code/issues/769 \n- Github Issue #3: https://github.com/anthropics/claude-code/issues/1913 \n- Flickering 85% solved: https://x.com/trq212/status/2001439019713073626\n- Rolled back: https://x.com/trq212/status/2001848726395269619\n- 3000 Unused Features: https://x.com/CurtTigges/status/2037038538718667103\n- Flickering Solved Feature Flag: https://x.com/bcherny/status/2039421575422980329\n- \"Fewer Error Messages\": https://x.com/ClaudeDevs/status/2059701681349353901\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+  "publishedAt": "2026-06-12T13:00:08.000Z",
+  "durationMs": 811000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:25:24.026Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:25:24.026Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

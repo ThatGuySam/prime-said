@@ -1,0 +1,1634 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_52d400421ee1c4932539be7f",
+  "sourceId": "youtube:WqSWZuGS9pc",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:29:59.419Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:1",
+      "startMs": 80,
+      "endMs": 2400,
+      "verbatim": "It's been no secret that I I love Go.",
+      "display": "It's been no secret that I I love Go.",
+      "search": "it's been no secret that i i love go.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:2",
+      "startMs": 2400,
+      "endMs": 2800,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:3",
+      "startMs": 2800,
+      "endMs": 5680,
+      "verbatim": "I have spent many an hour programming on Go.",
+      "display": "I have spent many an hour programming on Go.",
+      "search": "i have spent many an hour programming on go.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:4",
+      "startMs": 5680,
+      "endMs": 11600,
+      "verbatim": "I built an entire whole like Doom where a thousand people could play Doom all at the same time via Go.",
+      "display": "I built an entire whole like Doom where a thousand people could play Doom all at the same time via Go.",
+      "search": "i built an entire whole like doom where a thousand people could play doom all at the same time via go.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:5",
+      "startMs": 11600,
+      "endMs": 15840,
+      "verbatim": "I have been a big fan of Go for a very, very long time.",
+      "display": "I have been a big fan of Go for a very, very long time.",
+      "search": "i have been a big fan of go for a very, very long time.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:6",
+      "startMs": 15840,
+      "endMs": 24400,
+      "verbatim": "It was one of my go-to languages that I would reach for whenever I'd want to build anything that kind of interacts with the command line, anything that needs to interact with the system.",
+      "display": "It was one of my go-to languages that I would reach for whenever I'd want to build anything that kind of interacts with the command line, anything that needs to interact with the system.",
+      "search": "it was one of my go-to languages that i would reach for whenever i'd want to build anything that kind of interacts with the command line, anything that needs to interact with the system.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:7",
+      "startMs": 24400,
+      "endMs": 25840,
+      "verbatim": "Very quick, very simple.",
+      "display": "Very quick, very simple.",
+      "search": "very quick, very simple.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:8",
+      "startMs": 25840,
+      "endMs": 28080,
+      "verbatim": "And honestly, I just have a lot of warm feelings about it.",
+      "display": "And honestly, I just have a lot of warm feelings about it.",
+      "search": "and honestly, i just have a lot of warm feelings about it.",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:9",
+      "startMs": 28080,
+      "endMs": 30080,
+      "verbatim": "But I do know it's a simple language.",
+      "display": "But I do know it's a simple language.",
+      "search": "but i do know it's a simple language.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:10",
+      "startMs": 30080,
+      "endMs": 32240,
+      "verbatim": "There's nothing about it that was complex.",
+      "display": "There's nothing about it that was complex.",
+      "search": "there's nothing about it that was complex.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:11",
+      "startMs": 32240,
+      "endMs": 35760,
+      "verbatim": "There was nothing about it that you could do or represent in a complex way.",
+      "display": "There was nothing about it that you could do or represent in a complex way.",
+      "search": "there was nothing about it that you could do or represent in a complex way.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:12",
+      "startMs": 35760,
+      "endMs": 48320,
+      "verbatim": "And that's honestly been a huge appeal for me is that I could do so much because all I would care about it, all I would focus on is writing about the problem as opposed to solving the kind of ancillary problem.",
+      "display": "And that's honestly been a huge appeal for me is that I could do so much because all I would care about it, all I would focus on is writing about the problem as opposed to solving the kind of ancillary problem.",
+      "search": "and that's honestly been a huge appeal for me is that i could do so much because all i would care about it, all i would focus on is writing about the problem as opposed to solving the kind of ancillary problem.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:13",
+      "startMs": 48320,
+      "endMs": 55040,
+      "verbatim": "And this has been the Go mantra for a long, long time, which is like you go into any Go project, pretty quickly you can feel at home.",
+      "display": "And this has been the Go mantra for a long, long time, which is like you go into any Go project, pretty quickly you can feel at home.",
+      "search": "and this has been the go mantra for a long, long time, which is like you go into any go project, pretty quickly you can feel at home.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:14",
+      "startMs": 55040,
+      "endMs": 60480,
+      "verbatim": "Everyone uses the same formatter, every function effectively looks like you would write it too.",
+      "display": "Everyone uses the same formatter, every function effectively looks like you would write it too.",
+      "search": "everyone uses the same formatter, every function effectively looks like you would write it too.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:15",
+      "startMs": 60480,
+      "endMs": 65520,
+      "verbatim": "Everything is pretty constrained in the exact same way because there's really only one way to write Go.",
+      "display": "Everything is pretty constrained in the exact same way because there's really only one way to write Go.",
+      "search": "everything is pretty constrained in the exact same way because there's really only one way to write go.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:16",
+      "startMs": 65520,
+      "endMs": 69120,
+      "verbatim": "But those days, they're changed, and we're gonna be doing a lot of yapping here.",
+      "display": "But those days, they're changed, and we're gonna be doing a lot of yapping here.",
+      "search": "but those days, they're changed, and we're gonna be doing a lot of yapping here.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:17",
+      "startMs": 69120,
+      "endMs": 76800,
+      "verbatim": "So I hope that you're prepared because this is one of those passionate yaps where it's like I feel like my childhood's being ripped away from me, okay?",
+      "display": "So I hope that you're prepared because this is one of those passionate yaps where it's like I feel like my childhood's being ripped away from me, okay?",
+      "search": "so i hope that you're prepared because this is one of those passionate yaps where it's like i feel like my childhood's being ripped away from me, okay?",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:18",
+      "startMs": 76800,
+      "endMs": 83440,
+      "verbatim": "Now, before we kick off this whole Go apocalypse that I'm gonna be yapping about, uh I do want to kind of give you my first introduction into Go.",
+      "display": "Now, before we kick off this whole Go apocalypse that I'm gonna be yapping about, uh I do want to kind of give you my first introduction into Go.",
+      "search": "now, before we kick off this whole go apocalypse that i'm gonna be yapping about, uh i do want to kind of give you my first introduction into go.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:19",
+      "startMs": 83440,
+      "endMs": 85920,
+      "verbatim": "I think it was right around 2015, 2016.",
+      "display": "I think it was right around 2015, 2016.",
+      "search": "i think it was right around 2015, 2016.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:20",
+      "startMs": 85920,
+      "endMs": 96880,
+      "verbatim": "I started writing Go a little bit more seriously, and of course, I became so kind of go-pilled or go-brained that there's certain phrases that I couldn't understand about other languages if you said it to me.",
+      "display": "I started writing Go a little bit more seriously, and of course, I became so kind of go-pilled or go-brained that there's certain phrases that I couldn't understand about other languages if you said it to me.",
+      "search": "i started writing go a little bit more seriously, and of course, i became so kind of go-pilled or go-brained that there's certain phrases that i couldn't understand about other languages if you said it to me.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:21",
+      "startMs": 96880,
+      "endMs": 98400,
+      "verbatim": "Like I wouldn't land on me.",
+      "display": "Like I wouldn't land on me.",
+      "search": "like i wouldn't land on me.",
+      "confidence": 0.723
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:22",
+      "startMs": 98400,
+      "endMs": 100960,
+      "verbatim": "A good example is I was at Facebook interviewing.",
+      "display": "A good example is I was at Facebook interviewing.",
+      "search": "a good example is i was at facebook interviewing.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:23",
+      "startMs": 100960,
+      "endMs": 103280,
+      "verbatim": "Yes, I interviewed for the performance team.",
+      "display": "Yes, I interviewed for the performance team.",
+      "search": "yes, i interviewed for the performance team.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:24",
+      "startMs": 103280,
+      "endMs": 109840,
+      "verbatim": "And during that time, they asked me a simple question, which was, hey, how do you return multiple values in JavaScript?",
+      "display": "And during that time, they asked me a simple question, which was, hey, how do you return multiple values in JavaScript?",
+      "search": "and during that time, they asked me a simple question, which was, hey, how do you return multiple values in javascript?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:25",
+      "startMs": 109920,
+      "endMs": 112320,
+      "verbatim": "Now, me personally, I'm I'm in Go landed.",
+      "display": "Now, me personally, I'm I'm in Go landed.",
+      "search": "now, me personally, i'm i'm in go landed.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:26",
+      "startMs": 112320,
+      "endMs": 113600,
+      "verbatim": "I'm like, bro, you can't do that.",
+      "display": "I'm like, bro, you can't do that.",
+      "search": "i'm like, bro, you can't do that.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:27",
+      "startMs": 113600,
+      "endMs": 115840,
+      "verbatim": "Okay, Go has multiple return values.",
+      "display": "Okay, Go has multiple return values.",
+      "search": "okay, go has multiple return values.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:28",
+      "startMs": 115840,
+      "endMs": 117600,
+      "verbatim": "JavaScript doesn't have multiple.",
+      "display": "JavaScript doesn't have multiple.",
+      "search": "javascript doesn't have multiple.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:29",
+      "startMs": 117600,
+      "endMs": 118880,
+      "verbatim": "What the hell are you talking about?",
+      "display": "What the hell are you talking about?",
+      "search": "what the hell are you talking about?",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:30",
+      "startMs": 118880,
+      "endMs": 124080,
+      "verbatim": "And of course, then the person they they thought I was an idiot because they're like, you return an object to dummy or an array.",
+      "display": "And of course, then the person they they thought I was an idiot because they're like, you return an object to dummy or an array.",
+      "search": "and of course, then the person they they thought i was an idiot because they're like, you return an object to dummy or an array.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:31",
+      "startMs": 124080,
+      "endMs": 126240,
+      "verbatim": "And I'm like, but that's one value.",
+      "display": "And I'm like, but that's one value.",
+      "search": "and i'm like, but that's one value.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:32",
+      "startMs": 126560,
+      "endMs": 132080,
+      "verbatim": "And I just remember being so offended by that, and I was just so go pilled I couldn't hear what he was trying to say.",
+      "display": "And I just remember being so offended by that, and I was just so go pilled I couldn't hear what he was trying to say.",
+      "search": "and i just remember being so offended by that, and i was just so go pilled i couldn't hear what he was trying to say.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:33",
+      "startMs": 132080,
+      "endMs": 132960,
+      "verbatim": "You get the idea.",
+      "display": "You get the idea.",
+      "search": "you get the idea.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:34",
+      "startMs": 132960,
+      "endMs": 136320,
+      "verbatim": "I failed the interview so massively on such a stupid thing.",
+      "display": "I failed the interview so massively on such a stupid thing.",
+      "search": "i failed the interview so massively on such a stupid thing.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:35",
+      "startMs": 136320,
+      "endMs": 139200,
+      "verbatim": "Anywho, so my go days have been long.",
+      "display": "Anywho, so my go days have been long.",
+      "search": "anywho, so my go days have been long.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:36",
+      "startMs": 139200,
+      "endMs": 140400,
+      "verbatim": "I've really enjoyed it.",
+      "display": "I've really enjoyed it.",
+      "search": "i've really enjoyed it.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:37",
+      "startMs": 140400,
+      "endMs": 144320,
+      "verbatim": "I've used it for quite a few years, and I'd have to say, it's been one of my favorites.",
+      "display": "I've used it for quite a few years, and I'd have to say, it's been one of my favorites.",
+      "search": "i've used it for quite a few years, and i'd have to say, it's been one of my favorites.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:38",
+      "startMs": 144320,
+      "endMs": 146960,
+      "verbatim": "Now, before we begin, I'd like to say thank you to the sponsor and a quick word.",
+      "display": "Now, before we begin, I'd like to say thank you to the sponsor and a quick word.",
+      "search": "now, before we begin, i'd like to say thank you to the sponsor and a quick word.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:39",
+      "startMs": 150240,
+      "endMs": 151840,
+      "verbatim": "Hey, do you like waiting?",
+      "display": "Hey, do you like waiting?",
+      "search": "hey, do you like waiting?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:40",
+      "startMs": 151840,
+      "endMs": 152480,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.639
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:41",
+      "startMs": 152480,
+      "endMs": 153600,
+      "verbatim": "Neither do I.",
+      "display": "Neither do I.",
+      "search": "neither do i.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:42",
+      "startMs": 153600,
+      "endMs": 161760,
+      "verbatim": "With Blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster Docker builds.",
+      "display": "With Blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster Docker builds.",
+      "search": "with blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster docker builds.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:43",
+      "startMs": 161760,
+      "endMs": 163280,
+      "verbatim": "So stop waiting around.",
+      "display": "So stop waiting around.",
+      "search": "so stop waiting around.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:44",
+      "startMs": 163280,
+      "endMs": 167840,
+      "verbatim": "Use their migration wizard to easily transition your repos onto Blacksmith today.",
+      "display": "Use their migration wizard to easily transition your repos onto Blacksmith today.",
+      "search": "use their migration wizard to easily transition your repos onto blacksmith today.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:45",
+      "startMs": 167840,
+      "endMs": 172000,
+      "verbatim": "Thank you, Blacksmith, for sponsoring this video, and you check out the links down below.",
+      "display": "Thank you, Blacksmith, for sponsoring this video, and you check out the links down below.",
+      "search": "thank you, blacksmith, for sponsoring this video, and you check out the links down below.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:46",
+      "startMs": 173120,
+      "endMs": 173520,
+      "verbatim": "Hi.",
+      "display": "Hi.",
+      "search": "hi.",
+      "confidence": 0.446
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:47",
+      "startMs": 173520,
+      "endMs": 174720,
+      "verbatim": "Alright, so welcome back.",
+      "display": "Alright, so welcome back.",
+      "search": "alright, so welcome back.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:48",
+      "startMs": 174720,
+      "endMs": 182480,
+      "verbatim": "Uh, it turns out that now Go and Go 1.27, you can do uh generics even on method receivers.",
+      "display": "Uh, it turns out that now Go and Go 1.27, you can do uh generics even on method receivers.",
+      "search": "uh, it turns out that now go and go 1.27, you can do uh generics even on method receivers.",
+      "confidence": 0.736
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:49",
+      "startMs": 182480,
+      "endMs": 186720,
+      "verbatim": "For those that don't know, for a long time and go, you could only do it in functions.",
+      "display": "For those that don't know, for a long time and go, you could only do it in functions.",
+      "search": "for those that don't know, for a long time and go, you could only do it in functions.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:50",
+      "startMs": 186720,
+      "endMs": 194400,
+      "verbatim": "If you don't know what a method receiver is, effectively you can create a struct, and something that looks like a function hanging off the struct would be a method receiver.",
+      "display": "If you don't know what a method receiver is, effectively you can create a struct, and something that looks like a function hanging off the struct would be a method receiver.",
+      "search": "if you don't know what a method receiver is, effectively you can create a struct, and something that looks like a function hanging off the struct would be a method receiver.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:51",
+      "startMs": 194400,
+      "endMs": 199360,
+      "verbatim": "It'd actually be a function that's associated with some data, just like an object or a class.",
+      "display": "It'd actually be a function that's associated with some data, just like an object or a class.",
+      "search": "it'd actually be a function that's associated with some data, just like an object or a class.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:52",
+      "startMs": 199360,
+      "endMs": 201120,
+      "verbatim": "And you could never do generics on that.",
+      "display": "And you could never do generics on that.",
+      "search": "and you could never do generics on that.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:53",
+      "startMs": 201120,
+      "endMs": 203680,
+      "verbatim": "You can only just do it on freeform functions and that's it.",
+      "display": "You can only just do it on freeform functions and that's it.",
+      "search": "you can only just do it on freeform functions and that's it.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:54",
+      "startMs": 203680,
+      "endMs": 208000,
+      "verbatim": "But now in our new world that we live in, you can now do it on everything.",
+      "display": "But now in our new world that we live in, you can now do it on everything.",
+      "search": "but now in our new world that we live in, you can now do it on everything.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:55",
+      "startMs": 208000,
+      "endMs": 211440,
+      "verbatim": "So you can actually see right here, here's a result object, right?",
+      "display": "So you can actually see right here, here's a result object, right?",
+      "search": "so you can actually see right here, here's a result object, right?",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:56",
+      "startMs": 211440,
+      "endMs": 214160,
+      "verbatim": "And it can have a value V or an error error.",
+      "display": "And it can have a value V or an error error.",
+      "search": "and it can have a value v or an error error.",
+      "confidence": 0.666
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:57",
+      "startMs": 214160,
+      "endMs": 219200,
+      "verbatim": "And I have an is okay function, like, hey, are you okay if the error equals nil?",
+      "display": "And I have an is okay function, like, hey, are you okay if the error equals nil?",
+      "search": "and i have an is okay function, like, hey, are you okay if the error equals nil?",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:58",
+      "startMs": 219200,
+      "endMs": 219760,
+      "verbatim": "Yes, you are.",
+      "display": "Yes, you are.",
+      "search": "yes, you are.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:59",
+      "startMs": 219760,
+      "endMs": 220640,
+      "verbatim": "Okay, awesome.",
+      "display": "Okay, awesome.",
+      "search": "okay, awesome.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:60",
+      "startMs": 220640,
+      "endMs": 221280,
+      "verbatim": "You're okay.",
+      "display": "You're okay.",
+      "search": "you're okay.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:61",
+      "startMs": 221280,
+      "endMs": 225280,
+      "verbatim": "And this is generic over the value V, which means I can also do things like this.",
+      "display": "And this is generic over the value V, which means I can also do things like this.",
+      "search": "and this is generic over the value v, which means i can also do things like this.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:62",
+      "startMs": 225280,
+      "endMs": 236080,
+      "verbatim": "I can return a result of type foo, which means it has an error, and then I can go in here and do all of this beautiful code where now I have a results object, which means I can write code that looks a bit more like this.",
+      "display": "I can return a result of type foo, which means it has an error, and then I can go in here and do all of this beautiful code where now I have a results object, which means I can write code that looks a bit more like this.",
+      "search": "i can return a result of type foo, which means it has an error, and then i can go in here and do all of this beautiful code where now i have a results object, which means i can write code that looks a bit more like this.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:63",
+      "startMs": 236080,
+      "endMs": 239040,
+      "verbatim": "I can convert a read operation into a result.",
+      "display": "I can convert a read operation into a result.",
+      "search": "i can convert a read operation into a result.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:64",
+      "startMs": 239040,
+      "endMs": 244480,
+      "verbatim": "I can then stringify it from bytes, and then I can parse it, unwrap it, and print it right here.",
+      "display": "I can then stringify it from bytes, and then I can parse it, unwrap it, and print it right here.",
+      "search": "i can then stringify it from bytes, and then i can parse it, unwrap it, and print it right here.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:65",
+      "startMs": 244480,
+      "endMs": 250720,
+      "verbatim": "If my file contains an error, it's gonna let me know hey, there's an error in whatever you're attempting to parse.",
+      "display": "If my file contains an error, it's gonna let me know hey, there's an error in whatever you're attempting to parse.",
+      "search": "if my file contains an error, it's gonna let me know hey, there's an error in whatever you're attempting to parse.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:66",
+      "startMs": 250720,
+      "endMs": 255760,
+      "verbatim": "If I jump back over here, go in here, jump this thing and say turn it into 69, nice.",
+      "display": "If I jump back over here, go in here, jump this thing and say turn it into 69, nice.",
+      "search": "if i jump back over here, go in here, jump this thing and say turn it into 69, nice.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:67",
+      "startMs": 255760,
+      "endMs": 260080,
+      "verbatim": "Rerun this thing, you'll see right here, hello 69, everything parsed fine.",
+      "display": "Rerun this thing, you'll see right here, hello 69, everything parsed fine.",
+      "search": "rerun this thing, you'll see right here, hello 69, everything parsed fine.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:68",
+      "startMs": 260080,
+      "endMs": 265200,
+      "verbatim": "So I know at this point people are looking at this and going, hey, I kind of like that style of code.",
+      "display": "So I know at this point people are looking at this and going, hey, I kind of like that style of code.",
+      "search": "so i know at this point people are looking at this and going, hey, i kind of like that style of code.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:69",
+      "startMs": 265200,
+      "endMs": 267600,
+      "verbatim": "This would be nice code for me to work on with Go.",
+      "display": "This would be nice code for me to work on with Go.",
+      "search": "this would be nice code for me to work on with go.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:70",
+      "startMs": 267600,
+      "endMs": 268960,
+      "verbatim": "And I do hear you.",
+      "display": "And I do hear you.",
+      "search": "and i do hear you.",
+      "confidence": 0.68
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:71",
+      "startMs": 268960,
+      "endMs": 275840,
+      "verbatim": "This is generally nice code, but you have to kind of take a step back and understand Go from the very beginning.",
+      "display": "This is generally nice code, but you have to kind of take a step back and understand Go from the very beginning.",
+      "search": "this is generally nice code, but you have to kind of take a step back and understand go from the very beginning.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:72",
+      "startMs": 275840,
+      "endMs": 278480,
+      "verbatim": "The very mantra of Go is that there's one way to do anything.",
+      "display": "The very mantra of Go is that there's one way to do anything.",
+      "search": "the very mantra of go is that there's one way to do anything.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:73",
+      "startMs": 278480,
+      "endMs": 281200,
+      "verbatim": "Do you think that this is gonna lead to one way to do something?",
+      "display": "Do you think that this is gonna lead to one way to do something?",
+      "search": "do you think that this is gonna lead to one way to do something?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:74",
+      "startMs": 281200,
+      "endMs": 285200,
+      "verbatim": "Or now you're gonna have a cornucopia of different ways in which you're gonna do stuff.",
+      "display": "Or now you're gonna have a cornucopia of different ways in which you're gonna do stuff.",
+      "search": "or now you're gonna have a cornucopia of different ways in which you're gonna do stuff.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:75",
+      "startMs": 285200,
+      "endMs": 288720,
+      "verbatim": "You're gonna jump into code bases and have no idea how they work.",
+      "display": "You're gonna jump into code bases and have no idea how they work.",
+      "search": "you're gonna jump into code bases and have no idea how they work.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:76",
+      "startMs": 288720,
+      "endMs": 297920,
+      "verbatim": "You're gonna have to go through layers of abstraction and whole new ways in which to express things, in which it's just gonna be like every other language, just without all the conveniences.",
+      "display": "You're gonna have to go through layers of abstraction and whole new ways in which to express things, in which it's just gonna be like every other language, just without all the conveniences.",
+      "search": "you're gonna have to go through layers of abstraction and whole new ways in which to express things, in which it's just gonna be like every other language, just without all the conveniences.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:77",
+      "startMs": 297920,
+      "endMs": 306640,
+      "verbatim": "A good example of that is if you wanted to do a, you can't do like a generic convert function where I can convert any function with any length of arguments into a result type.",
+      "display": "A good example of that is if you wanted to do a, you can't do like a generic convert function where I can convert any function with any length of arguments into a result type.",
+      "search": "a good example of that is if you wanted to do a, you can't do like a generic convert function where i can convert any function with any length of arguments into a result type.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:78",
+      "startMs": 306640,
+      "endMs": 310480,
+      "verbatim": "So instead you have like convert one, convert zero, convert two, convert three.",
+      "display": "So instead you have like convert one, convert zero, convert two, convert three.",
+      "search": "so instead you have like convert one, convert zero, convert two, convert three.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:79",
+      "startMs": 310480,
+      "endMs": 317120,
+      "verbatim": "I've tried many times to get some version of this working, and I could not seem to get this version of this thing working right here.",
+      "display": "I've tried many times to get some version of this working, and I could not seem to get this version of this thing working right here.",
+      "search": "i've tried many times to get some version of this working, and i could not seem to get this version of this thing working right here.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:80",
+      "startMs": 317120,
+      "endMs": 320800,
+      "verbatim": "Whereas something like this in TypeScript, very easy to do, right?",
+      "display": "Whereas something like this in TypeScript, very easy to do, right?",
+      "search": "whereas something like this in typescript, very easy to do, right?",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:81",
+      "startMs": 320800,
+      "endMs": 322080,
+      "verbatim": "Like, okay, there you go.",
+      "display": "Like, okay, there you go.",
+      "search": "like, okay, there you go.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:82",
+      "startMs": 322080,
+      "endMs": 325120,
+      "verbatim": "You can convert any amount of arguments into this.",
+      "display": "You can convert any amount of arguments into this.",
+      "search": "you can convert any amount of arguments into this.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:83",
+      "startMs": 325120,
+      "endMs": 331600,
+      "verbatim": "And so it's like the actual genericism that Golang is providing is in fact not that good.",
+      "display": "And so it's like the actual genericism that Golang is providing is in fact not that good.",
+      "search": "and so it's like the actual genericism that golang is providing is in fact not that good.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:84",
+      "startMs": 331600,
+      "endMs": 336960,
+      "verbatim": "But then on top of it, it's just gonna make every code base completely different.",
+      "display": "But then on top of it, it's just gonna make every code base completely different.",
+      "search": "but then on top of it, it's just gonna make every code base completely different.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:85",
+      "startMs": 336960,
+      "endMs": 343600,
+      "verbatim": "And this was the entire argument, by the way, as to why they were not going to do error handling.",
+      "display": "And this was the entire argument, by the way, as to why they were not going to do error handling.",
+      "search": "and this was the entire argument, by the way, as to why they were not going to do error handling.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:86",
+      "startMs": 343600,
+      "endMs": 357120,
+      "verbatim": "Error handling has historically always been the butt of a joke for when it comes to Go, because if you wanted to do something like this, print some, you'd have to take the two strings coming in, convert the first string into a number, which could result in an error because that makes sense, right?",
+      "display": "Error handling has historically always been the butt of a joke for when it comes to Go, because if you wanted to do something like this, print some, you'd have to take the two strings coming in, convert the first string into a number, which could result in an error because that makes sense, right?",
+      "search": "error handling has historically always been the butt of a joke for when it comes to go, because if you wanted to do something like this, print some, you'd have to take the two strings coming in, convert the first string into a number, which could result in an error because that makes sense, right?",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:87",
+      "startMs": 357120,
+      "endMs": 361840,
+      "verbatim": "If I try to convert hello into a number, well, it's not a number, it's an error, actually.",
+      "display": "If I try to convert hello into a number, well, it's not a number, it's an error, actually.",
+      "search": "if i try to convert hello into a number, well, it's not a number, it's an error, actually.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:88",
+      "startMs": 361840,
+      "endMs": 363280,
+      "verbatim": "And so there we go, we have an area.",
+      "display": "And so there we go, we have an area.",
+      "search": "and so there we go, we have an area.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:89",
+      "startMs": 363280,
+      "endMs": 365040,
+      "verbatim": "I convert B, that's into an error.",
+      "display": "I convert B, that's into an error.",
+      "search": "i convert b, that's into an error.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:90",
+      "startMs": 365040,
+      "endMs": 367120,
+      "verbatim": "Then I can finally print, then I can finally return.",
+      "display": "Then I can finally print, then I can finally return.",
+      "search": "then i can finally print, then i can finally return.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:91",
+      "startMs": 367120,
+      "endMs": 370720,
+      "verbatim": "So that means this is error handling code, error handling code, error handling code.",
+      "display": "So that means this is error handling code, error handling code, error handling code.",
+      "search": "so that means this is error handling code, error handling code, error handling code.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:92",
+      "startMs": 370720,
+      "endMs": 381920,
+      "verbatim": "That means there are one, two, three lines of actual code, whereas there's one, four, seven lines of code dedicated to error handling.",
+      "display": "That means there are one, two, three lines of actual code, whereas there's one, four, seven lines of code dedicated to error handling.",
+      "search": "that means there are one, two, three lines of actual code, whereas there's one, four, seven lines of code dedicated to error handling.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:93",
+      "startMs": 381920,
+      "endMs": 383440,
+      "verbatim": "And this has always been the big problem.",
+      "display": "And this has always been the big problem.",
+      "search": "and this has always been the big problem.",
+      "confidence": 0.991
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:94",
+      "startMs": 383440,
+      "endMs": 393840,
+      "verbatim": "Now, I personally have enjoyed this kind of air handling because that means every single time I do something that could err, I know it and I have to explicitly handle it.",
+      "display": "Now, I personally have enjoyed this kind of air handling because that means every single time I do something that could err, I know it and I have to explicitly handle it.",
+      "search": "now, i personally have enjoyed this kind of air handling because that means every single time i do something that could err, i know it and i have to explicitly handle it.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:95",
+      "startMs": 393840,
+      "endMs": 400160,
+      "verbatim": "Now, granted, there could be some more ergonomics around it, but nonetheless, I've actually really appreciated that about Go.",
+      "display": "Now, granted, there could be some more ergonomics around it, but nonetheless, I've actually really appreciated that about Go.",
+      "search": "now, granted, there could be some more ergonomics around it, but nonetheless, i've actually really appreciated that about go.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:96",
+      "startMs": 400160,
+      "endMs": 404720,
+      "verbatim": "And the reason why they said no, hey, we're not doing fancy air handling, okay?",
+      "display": "And the reason why they said no, hey, we're not doing fancy air handling, okay?",
+      "search": "and the reason why they said no, hey, we're not doing fancy air handling, okay?",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:97",
+      "startMs": 404720,
+      "endMs": 410000,
+      "verbatim": "We're not gonna be throwing in tries, we're not gonna be throwing in some sort of extra air capture up here.",
+      "display": "We're not gonna be throwing in tries, we're not gonna be throwing in some sort of extra air capture up here.",
+      "search": "we're not gonna be throwing in tries, we're not gonna be throwing in some sort of extra air capture up here.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:98",
+      "startMs": 410000,
+      "endMs": 413520,
+      "verbatim": "No, we're not gonna be throwing in little question marks like we're rust, okay?",
+      "display": "No, we're not gonna be throwing in little question marks like we're rust, okay?",
+      "search": "no, we're not gonna be throwing in little question marks like we're rust, okay?",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:99",
+      "startMs": 413520,
+      "endMs": 415200,
+      "verbatim": "We're not doing any of that shit, brother.",
+      "display": "We're not doing any of that shit, brother.",
+      "search": "we're not doing any of that shit, brother.",
+      "confidence": 0.982
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:100",
+      "startMs": 415200,
+      "endMs": 418400,
+      "verbatim": "Okay, we're gonna keep go, go, the end.",
+      "display": "Okay, we're gonna keep go, go, the end.",
+      "search": "okay, we're gonna keep go, go, the end.",
+      "confidence": 0.684
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:101",
+      "startMs": 418400,
+      "endMs": 424720,
+      "verbatim": "And honestly, you may not like that, but to me, that is okay because that is one thing I have appreciated about it.",
+      "display": "And honestly, you may not like that, but to me, that is okay because that is one thing I have appreciated about it.",
+      "search": "and honestly, you may not like that, but to me, that is okay because that is one thing i have appreciated about it.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:102",
+      "startMs": 424720,
+      "endMs": 426880,
+      "verbatim": "Every code base is the same.",
+      "display": "Every code base is the same.",
+      "search": "every code base is the same.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:103",
+      "startMs": 426880,
+      "endMs": 428720,
+      "verbatim": "Now we have a whole new set of problems.",
+      "display": "Now we have a whole new set of problems.",
+      "search": "now we have a whole new set of problems.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:104",
+      "startMs": 428720,
+      "endMs": 430000,
+      "verbatim": "We now have iterators.",
+      "display": "We now have iterators.",
+      "search": "we now have iterators.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:105",
+      "startMs": 430000,
+      "endMs": 432160,
+      "verbatim": "So now you're hiding what's actually happening.",
+      "display": "So now you're hiding what's actually happening.",
+      "search": "so now you're hiding what's actually happening.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:106",
+      "startMs": 432160,
+      "endMs": 434400,
+      "verbatim": "Again, another thing I loved about Go.",
+      "display": "Again, another thing I loved about Go.",
+      "search": "again, another thing i loved about go.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:107",
+      "startMs": 434400,
+      "endMs": 436800,
+      "verbatim": "Everything you did, you understood the cost.",
+      "display": "Everything you did, you understood the cost.",
+      "search": "everything you did, you understood the cost.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:108",
+      "startMs": 436800,
+      "endMs": 440800,
+      "verbatim": "When you need to iterate over a list, you could understand what's happening.",
+      "display": "When you need to iterate over a list, you could understand what's happening.",
+      "search": "when you need to iterate over a list, you could understand what's happening.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:109",
+      "startMs": 440800,
+      "endMs": 444960,
+      "verbatim": "Now all sorts of stuff could be hidden from you due to iterators.",
+      "display": "Now all sorts of stuff could be hidden from you due to iterators.",
+      "search": "now all sorts of stuff could be hidden from you due to iterators.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:110",
+      "startMs": 444960,
+      "endMs": 446800,
+      "verbatim": "We now also have generics.",
+      "display": "We now also have generics.",
+      "search": "we now also have generics.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:111",
+      "startMs": 446800,
+      "endMs": 451840,
+      "verbatim": "And in fact, this has led to a very good article called Go's evolving in the wrong direction.",
+      "display": "And in fact, this has led to a very good article called Go's evolving in the wrong direction.",
+      "search": "and in fact, this has led to a very good article called go's evolving in the wrong direction.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:112",
+      "startMs": 451840,
+      "endMs": 456320,
+      "verbatim": "Because here's the deal if you want a fancy type system, don't use Go.",
+      "display": "Because here's the deal if you want a fancy type system, don't use Go.",
+      "search": "because here's the deal if you want a fancy type system, don't use go.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:113",
+      "startMs": 456320,
+      "endMs": 465840,
+      "verbatim": "So now that they're adding all these features, you still get all the crappy type system of Go that was good because of the way it was, an unabashed procedural language, right?",
+      "display": "So now that they're adding all these features, you still get all the crappy type system of Go that was good because of the way it was, an unabashed procedural language, right?",
+      "search": "so now that they're adding all these features, you still get all the crappy type system of go that was good because of the way it was, an unabashed procedural language, right?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:114",
+      "startMs": 465840,
+      "endMs": 467280,
+      "verbatim": "Is purely imperative.",
+      "display": "Is purely imperative.",
+      "search": "is purely imperative.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:115",
+      "startMs": 467280,
+      "endMs": 468800,
+      "verbatim": "Nothing about it was fancy.",
+      "display": "Nothing about it was fancy.",
+      "search": "nothing about it was fancy.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:116",
+      "startMs": 468800,
+      "endMs": 471520,
+      "verbatim": "But instead, it's like you get Rust Light.",
+      "display": "But instead, it's like you get Rust Light.",
+      "search": "but instead, it's like you get rust light.",
+      "confidence": 0.66
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:117",
+      "startMs": 471520,
+      "endMs": 476560,
+      "verbatim": "You get kind of like the worst version of Rust or the worst version of TypeScript brother.",
+      "display": "You get kind of like the worst version of Rust or the worst version of TypeScript brother.",
+      "search": "you get kind of like the worst version of rust or the worst version of typescript brother.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:118",
+      "startMs": 476560,
+      "endMs": 480560,
+      "verbatim": "If I wanted those, I should just go and use those other languages.",
+      "display": "If I wanted those, I should just go and use those other languages.",
+      "search": "if i wanted those, i should just go and use those other languages.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:119",
+      "startMs": 480560,
+      "endMs": 485520,
+      "verbatim": "They have significantly better items to offer if this is what I was going for.",
+      "display": "They have significantly better items to offer if this is what I was going for.",
+      "search": "they have significantly better items to offer if this is what i was going for.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:120",
+      "startMs": 485520,
+      "endMs": 493520,
+      "verbatim": "I used Go for what it was, not so that it could look like every other language just with the new set of syntax.",
+      "display": "I used Go for what it was, not so that it could look like every other language just with the new set of syntax.",
+      "search": "i used go for what it was, not so that it could look like every other language just with the new set of syntax.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:121",
+      "startMs": 493520,
+      "endMs": 495760,
+      "verbatim": "This is the thing that really bothers me about Go.",
+      "display": "This is the thing that really bothers me about Go.",
+      "search": "this is the thing that really bothers me about go.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:122",
+      "startMs": 495760,
+      "endMs": 497920,
+      "verbatim": "Go knew what it was.",
+      "display": "Go knew what it was.",
+      "search": "go knew what it was.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:123",
+      "startMs": 497920,
+      "endMs": 500640,
+      "verbatim": "And that's one thing that was very special about Go.",
+      "display": "And that's one thing that was very special about Go.",
+      "search": "and that's one thing that was very special about go.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:124",
+      "startMs": 500640,
+      "endMs": 503760,
+      "verbatim": "A strong standard library, a very simple language.",
+      "display": "A strong standard library, a very simple language.",
+      "search": "a strong standard library, a very simple language.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:125",
+      "startMs": 503760,
+      "endMs": 506480,
+      "verbatim": "Now, yes, could they have made error handling better?",
+      "display": "Now, yes, could they have made error handling better?",
+      "search": "now, yes, could they have made error handling better?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:126",
+      "startMs": 506480,
+      "endMs": 507520,
+      "verbatim": "Absolutely.",
+      "display": "Absolutely.",
+      "search": "absolutely.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:127",
+      "startMs": 507520,
+      "endMs": 510320,
+      "verbatim": "Could they have made enums of any kind?",
+      "display": "Could they have made enums of any kind?",
+      "search": "could they have made enums of any kind?",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:128",
+      "startMs": 510320,
+      "endMs": 515360,
+      "verbatim": "Absolutely, and I think that would have dramatically made people's life better, but they didn't.",
+      "display": "Absolutely, and I think that would have dramatically made people's life better, but they didn't.",
+      "search": "absolutely, and i think that would have dramatically made people's life better, but they didn't.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:129",
+      "startMs": 515360,
+      "endMs": 523440,
+      "verbatim": "They have chosen to actually add to the language ways in which make it so that every code base is going to be so bespoke now and so much different.",
+      "display": "They have chosen to actually add to the language ways in which make it so that every code base is going to be so bespoke now and so much different.",
+      "search": "they have chosen to actually add to the language ways in which make it so that every code base is going to be so bespoke now and so much different.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:130",
+      "startMs": 523440,
+      "endMs": 527600,
+      "verbatim": "It's going to be so much more frustrating than it used to be.",
+      "display": "It's going to be so much more frustrating than it used to be.",
+      "search": "it's going to be so much more frustrating than it used to be.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:131",
+      "startMs": 527600,
+      "endMs": 530000,
+      "verbatim": "Go is no longer the language I like.",
+      "display": "Go is no longer the language I like.",
+      "search": "go is no longer the language i like.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:132",
+      "startMs": 530000,
+      "endMs": 532000,
+      "verbatim": "I don't want to use Go anymore.",
+      "display": "I don't want to use Go anymore.",
+      "search": "i don't want to use go anymore.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:133",
+      "startMs": 532000,
+      "endMs": 535040,
+      "verbatim": "In fact, I kind of found its spiritual successor.",
+      "display": "In fact, I kind of found its spiritual successor.",
+      "search": "in fact, i kind of found its spiritual successor.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:134",
+      "startMs": 535040,
+      "endMs": 542240,
+      "verbatim": "So Odin right here, the language that you see right behind me, this thing I've actually really enjoyed because it reminds me so much of Go.",
+      "display": "So Odin right here, the language that you see right behind me, this thing I've actually really enjoyed because it reminds me so much of Go.",
+      "search": "so odin right here, the language that you see right behind me, this thing i've actually really enjoyed because it reminds me so much of go.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:135",
+      "startMs": 542240,
+      "endMs": 545600,
+      "verbatim": "It has package level or directory level packages.",
+      "display": "It has package level or directory level packages.",
+      "search": "it has package level or directory level packages.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:136",
+      "startMs": 545600,
+      "endMs": 548720,
+      "verbatim": "So everything inside a directory now shares all the types.",
+      "display": "So everything inside a directory now shares all the types.",
+      "search": "so everything inside a directory now shares all the types.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:137",
+      "startMs": 548720,
+      "endMs": 551600,
+      "verbatim": "I really prefer that over file level modules.",
+      "display": "I really prefer that over file level modules.",
+      "search": "i really prefer that over file level modules.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:138",
+      "startMs": 551600,
+      "endMs": 554400,
+      "verbatim": "I like package level modules or package level directories.",
+      "display": "I like package level modules or package level directories.",
+      "search": "i like package level modules or package level directories.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:139",
+      "startMs": 554400,
+      "endMs": 556080,
+      "verbatim": "Oh, so much better.",
+      "display": "Oh, so much better.",
+      "search": "oh, so much better.",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:140",
+      "startMs": 556080,
+      "endMs": 558960,
+      "verbatim": "It also has explicit overloading.",
+      "display": "It also has explicit overloading.",
+      "search": "it also has explicit overloading.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:141",
+      "startMs": 558960,
+      "endMs": 560400,
+      "verbatim": "I really, really like that.",
+      "display": "I really, really like that.",
+      "search": "i really, really like that.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:142",
+      "startMs": 560400,
+      "endMs": 564160,
+      "verbatim": "It does do some polymorphism, uh, parametric polymorphism and all that.",
+      "display": "It does do some polymorphism, uh, parametric polymorphism and all that.",
+      "search": "it does do some polymorphism, uh, parametric polymorphism and all that.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:143",
+      "startMs": 564160,
+      "endMs": 567120,
+      "verbatim": "But honestly, I rarely even feel like I need that.",
+      "display": "But honestly, I rarely even feel like I need that.",
+      "search": "but honestly, i rarely even feel like i need that.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:144",
+      "startMs": 567120,
+      "endMs": 570160,
+      "verbatim": "I just program the problem and it works.",
+      "display": "I just program the problem and it works.",
+      "search": "i just program the problem and it works.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:145",
+      "startMs": 570160,
+      "endMs": 571680,
+      "verbatim": "The language looks good.",
+      "display": "The language looks good.",
+      "search": "the language looks good.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:146",
+      "startMs": 571680,
+      "endMs": 580560,
+      "verbatim": "It gives you complete control over allocations and how memory works, and it's just so straightforward, absolutely lovely to work with.",
+      "display": "It gives you complete control over allocations and how memory works, and it's just so straightforward, absolutely lovely to work with.",
+      "search": "it gives you complete control over allocations and how memory works, and it's just so straightforward, absolutely lovely to work with.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:147",
+      "startMs": 580560,
+      "endMs": 584160,
+      "verbatim": "And that's because Odin knows what it wants to be, right?",
+      "display": "And that's because Odin knows what it wants to be, right?",
+      "search": "and that's because odin knows what it wants to be, right?",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:148",
+      "startMs": 584160,
+      "endMs": 594320,
+      "verbatim": "It's an unabashed, simple, C-like programming language designed and geared towards games and graphics and that kind of nature.",
+      "display": "It's an unabashed, simple, C-like programming language designed and geared towards games and graphics and that kind of nature.",
+      "search": "it's an unabashed, simple, c-like programming language designed and geared towards games and graphics and that kind of nature.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:149",
+      "startMs": 594480,
+      "endMs": 596480,
+      "verbatim": "Go used to be the same thing.",
+      "display": "Go used to be the same thing.",
+      "search": "go used to be the same thing.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:150",
+      "startMs": 596480,
+      "endMs": 607440,
+      "verbatim": "It was a simple, kind of system-level, server-level language that was designed to sit in this intersection instead of being like complicated Java land, you would have something super simple.",
+      "display": "It was a simple, kind of system-level, server-level language that was designed to sit in this intersection instead of being like complicated Java land, you would have something super simple.",
+      "search": "it was a simple, kind of system-level, server-level language that was designed to sit in this intersection instead of being like complicated java land, you would have something super simple.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:151",
+      "startMs": 607440,
+      "endMs": 612160,
+      "verbatim": "The build tool, the formatting tool, the how you run it, all into one.",
+      "display": "The build tool, the formatting tool, the how you run it, all into one.",
+      "search": "the build tool, the formatting tool, the how you run it, all into one.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:152",
+      "startMs": 612160,
+      "endMs": 621600,
+      "verbatim": "It was a self-contained, self-packaged language with a very minimal package management system built into it, such that you didn't actually overrun your project.",
+      "display": "It was a self-contained, self-packaged language with a very minimal package management system built into it, such that you didn't actually overrun your project.",
+      "search": "it was a self-contained, self-packaged language with a very minimal package management system built into it, such that you didn't actually overrun your project.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:153",
+      "startMs": 621600,
+      "endMs": 624000,
+      "verbatim": "Like it knew what it was.",
+      "display": "Like it knew what it was.",
+      "search": "like it knew what it was.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:154",
+      "startMs": 624000,
+      "endMs": 628480,
+      "verbatim": "But now, for the first time, I feel like Go is having its spiritual crisis.",
+      "display": "But now, for the first time, I feel like Go is having its spiritual crisis.",
+      "search": "but now, for the first time, i feel like go is having its spiritual crisis.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:155",
+      "startMs": 628480,
+      "endMs": 630400,
+      "verbatim": "It doesn't know what it wants to be.",
+      "display": "It doesn't know what it wants to be.",
+      "search": "it doesn't know what it wants to be.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:156",
+      "startMs": 630400,
+      "endMs": 632240,
+      "verbatim": "Now apparently it wants to be rust.",
+      "display": "Now apparently it wants to be rust.",
+      "search": "now apparently it wants to be rust.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:157",
+      "startMs": 632240,
+      "endMs": 635920,
+      "verbatim": "It wants to like, okay, I guess we have C light now.",
+      "display": "It wants to like, okay, I guess we have C light now.",
+      "search": "it wants to like, okay, i guess we have c light now.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:158",
+      "startMs": 635920,
+      "endMs": 636560,
+      "verbatim": "Fantastic.",
+      "display": "Fantastic.",
+      "search": "fantastic.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:159",
+      "startMs": 636560,
+      "endMs": 638800,
+      "verbatim": "That's all I've ever wanted in life, right?",
+      "display": "That's all I've ever wanted in life, right?",
+      "search": "that's all i've ever wanted in life, right?",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:160",
+      "startMs": 638800,
+      "endMs": 646320,
+      "verbatim": "I just wanted another thing in which I can have massive abstractions and find myself tight masturbating all day instead of actually solving the problem at hand.",
+      "display": "I just wanted another thing in which I can have massive abstractions and find myself tight masturbating all day instead of actually solving the problem at hand.",
+      "search": "i just wanted another thing in which i can have massive abstractions and find myself tight masturbating all day instead of actually solving the problem at hand.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:161",
+      "startMs": 646320,
+      "endMs": 647200,
+      "verbatim": "Thanks, Go.",
+      "display": "Thanks, Go.",
+      "search": "thanks, go.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:162",
+      "startMs": 647200,
+      "endMs": 656160,
+      "verbatim": "Anyways, I say all this because I'm just getting all fired up because it's like one of the languages that I found very appealing due to how different it was from everything else.",
+      "display": "Anyways, I say all this because I'm just getting all fired up because it's like one of the languages that I found very appealing due to how different it was from everything else.",
+      "search": "anyways, i say all this because i'm just getting all fired up because it's like one of the languages that i found very appealing due to how different it was from everything else.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:163",
+      "startMs": 656160,
+      "endMs": 662560,
+      "verbatim": "Like I knew that when I used it, I was solving a specific problem and it was like the best tool for the job.",
+      "display": "Like I knew that when I used it, I was solving a specific problem and it was like the best tool for the job.",
+      "search": "like i knew that when i used it, i was solving a specific problem and it was like the best tool for the job.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:164",
+      "startMs": 662560,
+      "endMs": 665680,
+      "verbatim": "Like it had this very nice kind of one-to-one reach.",
+      "display": "Like it had this very nice kind of one-to-one reach.",
+      "search": "like it had this very nice kind of one-to-one reach.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:165",
+      "startMs": 665680,
+      "endMs": 667840,
+      "verbatim": "And now, like Odin, it feels like that too.",
+      "display": "And now, like Odin, it feels like that too.",
+      "search": "and now, like odin, it feels like that too.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:166",
+      "startMs": 667840,
+      "endMs": 674080,
+      "verbatim": "It's a very, it has this very defined purpose, and I feel like I can just reach for it when I need to solve a certain problem.",
+      "display": "It's a very, it has this very defined purpose, and I feel like I can just reach for it when I need to solve a certain problem.",
+      "search": "it's a very, it has this very defined purpose, and i feel like i can just reach for it when i need to solve a certain problem.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:167",
+      "startMs": 674080,
+      "endMs": 675680,
+      "verbatim": "I don't feel that anymore with Go.",
+      "display": "I don't feel that anymore with Go.",
+      "search": "i don't feel that anymore with go.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:168",
+      "startMs": 675680,
+      "endMs": 677600,
+      "verbatim": "And it just makes me feel a little bit funny.",
+      "display": "And it just makes me feel a little bit funny.",
+      "search": "and it just makes me feel a little bit funny.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:169",
+      "startMs": 677600,
+      "endMs": 678080,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:170",
+      "startMs": 678480,
+      "endMs": 680800,
+      "verbatim": "Well, hey, you know, I'm supposed to do this as a YouTuber.",
+      "display": "Well, hey, you know, I'm supposed to do this as a YouTuber.",
+      "search": "well, hey, you know, i'm supposed to do this as a youtuber.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:171",
+      "startMs": 680800,
+      "endMs": 683520,
+      "verbatim": "Yo, uh, hey, bro, hey, what's your opinion on this?",
+      "display": "Yo, uh, hey, bro, hey, what's your opinion on this?",
+      "search": "yo, uh, hey, bro, hey, what's your opinion on this?",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:172",
+      "startMs": 683520,
+      "endMs": 685200,
+      "verbatim": "Honestly, I'll read them.",
+      "display": "Honestly, I'll read them.",
+      "search": "honestly, i'll read them.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:173",
+      "startMs": 685760,
+      "endMs": 686960,
+      "verbatim": "Lay me down some opinions.",
+      "display": "Lay me down some opinions.",
+      "search": "lay me down some opinions.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:174",
+      "startMs": 686960,
+      "endMs": 690000,
+      "verbatim": "Maybe smash that like button and the subscribe or something like that.",
+      "display": "Maybe smash that like button and the subscribe or something like that.",
+      "search": "maybe smash that like button and the subscribe or something like that.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:175",
+      "startMs": 690000,
+      "endMs": 691760,
+      "verbatim": "I haven't asked for this in a long time, okay?",
+      "display": "I haven't asked for this in a long time, okay?",
+      "search": "i haven't asked for this in a long time, okay?",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:176",
+      "startMs": 691760,
+      "endMs": 694080,
+      "verbatim": "I haven't asked for this in over 130,000 subs.",
+      "display": "I haven't asked for this in over 130,000 subs.",
+      "search": "i haven't asked for this in over 130,000 subs.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:177",
+      "startMs": 694160,
+      "endMs": 695120,
+      "verbatim": "So why don't you just do it?",
+      "display": "So why don't you just do it?",
+      "search": "so why don't you just do it?",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:178",
+      "startMs": 695120,
+      "endMs": 696640,
+      "verbatim": "For old time's sake, okay?",
+      "display": "For old time's sake, okay?",
+      "search": "for old time's sake, okay?",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:179",
+      "startMs": 696640,
+      "endMs": 699040,
+      "verbatim": "Me and you, we're gonna feel bit better together.",
+      "display": "Me and you, we're gonna feel bit better together.",
+      "search": "me and you, we're gonna feel bit better together.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:WqSWZuGS9pc:segment:180",
+      "startMs": 699040,
+      "endMs": 700960,
+      "verbatim": "The name is the primogen",
+      "display": "The name is the primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.66
+    }
+  ]
+}

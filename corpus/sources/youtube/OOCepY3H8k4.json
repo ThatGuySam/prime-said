@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:OOCepY3H8k4",
+  "platform": "youtube",
+  "platformId": "OOCepY3H8k4",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "What is happening at Meta?",
+  "description": "ssh terminal.shop\nYes, seriously, this is my company, and we selected and found some of the worlds best coffee.  US only (for now (the world is hard when you don't do crappy influencer coffee))\n\n## Sources\n\n- https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/\n\n## Topics Covered\n\n- Meta and Facebook AI unit\n- Programming Careers\n- The future of AI work\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=OOCepY3H8k4",
+  "publishedAt": "2026-06-18T12:30:17.000Z",
+  "durationMs": 841000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:17:23.390Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:17:23.390Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

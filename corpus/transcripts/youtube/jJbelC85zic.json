@@ -1,0 +1,1679 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_87059295989dc7355f2d766e",
+  "sourceId": "youtube:jJbelC85zic",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:14:55.645Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:1",
+      "startMs": 160,
+      "endMs": 14000,
+      "verbatim": "Alright, so I'm going to give you three and a half of the most reasonable conspiracy theories as to why Mythos or Fable was removed, was banned by the government such that us plebeians, we we're we're not allowed to use it anymore.",
+      "display": "Alright, so I'm going to give you three and a half of the most reasonable conspiracy theories as to why Mythos or Fable was removed, was banned by the government such that us plebeians, we we're we're not allowed to use it anymore.",
+      "search": "alright, so i'm going to give you three and a half of the most reasonable conspiracy theories as to why mythos or fable was removed, was banned by the government such that us plebeians, we we're we're not allowed to use it anymore.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:2",
+      "startMs": 14000,
+      "endMs": 21200,
+      "verbatim": "Obviously, not everybody's kind of tuned into the news, so if that is the case, let me just give you a quick little history lesson about Fable.",
+      "display": "Obviously, not everybody's kind of tuned into the news, so if that is the case, let me just give you a quick little history lesson about Fable.",
+      "search": "obviously, not everybody's kind of tuned into the news, so if that is the case, let me just give you a quick little history lesson about fable.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:3",
+      "startMs": 21200,
+      "endMs": 26240,
+      "verbatim": "Fable was released, and just a few days later, we got hit with this message from Anthropic.",
+      "display": "Fable was released, and just a few days later, we got hit with this message from Anthropic.",
+      "search": "fable was released, and just a few days later, we got hit with this message from anthropic.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:4",
+      "startMs": 26240,
+      "endMs": 40160,
+      "verbatim": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national anthropic employees.",
+      "display": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national anthropic employees.",
+      "search": "the us government, citing national security authorities, has issued an export control directive to suspend all access to fable 5 and mythos 5 by any foreign national, whether inside or outside the united states, including foreign national anthropic employees.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:5",
+      "startMs": 40160,
+      "endMs": 42800,
+      "verbatim": "Due to that, they just shut down all of it.",
+      "display": "Due to that, they just shut down all of it.",
+      "search": "due to that, they just shut down all of it.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:6",
+      "startMs": 42800,
+      "endMs": 44480,
+      "verbatim": "Nobody can use Fable anymore.",
+      "display": "Nobody can use Fable anymore.",
+      "search": "nobody can use fable anymore.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:7",
+      "startMs": 44480,
+      "endMs": 49200,
+      "verbatim": "Fable, of course, would be their new kind of cutting-edge model, Mythos tier.",
+      "display": "Fable, of course, would be their new kind of cutting-edge model, Mythos tier.",
+      "search": "fable, of course, would be their new kind of cutting-edge model, mythos tier.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:8",
+      "startMs": 49200,
+      "endMs": 51440,
+      "verbatim": "Remember Mythos, Mythos was very dangerous.",
+      "display": "Remember Mythos, Mythos was very dangerous.",
+      "search": "remember mythos, mythos was very dangerous.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:9",
+      "startMs": 51440,
+      "endMs": 54720,
+      "verbatim": "Now, when this all went down, Politico reported the following.",
+      "display": "Now, when this all went down, Politico reported the following.",
+      "search": "now, when this all went down, politico reported the following.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:10",
+      "startMs": 54720,
+      "endMs": 61680,
+      "verbatim": "Following the meeting, the administration attempted to reach a modi, but was told he was unavailable because he was attending a wellness retreat.",
+      "display": "Following the meeting, the administration attempted to reach a modi, but was told he was unavailable because he was attending a wellness retreat.",
+      "search": "following the meeting, the administration attempted to reach a modi, but was told he was unavailable because he was attending a wellness retreat.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:11",
+      "startMs": 61680,
+      "endMs": 69520,
+      "verbatim": "That's right, Dario was in the middle of a, you know, of a hot yoga session and could not be bothered by the president of the United States.",
+      "display": "That's right, Dario was in the middle of a, you know, of a hot yoga session and could not be bothered by the president of the United States.",
+      "search": "that's right, dario was in the middle of a, you know, of a hot yoga session and could not be bothered by the president of the united states.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:12",
+      "startMs": 69520,
+      "endMs": 79600,
+      "verbatim": "But funny enough, Anthropic released a statement saying a spokesperson for Anthropic rejected the claim that he was at a wellness retreat, saying this was absolutely false.",
+      "display": "But funny enough, Anthropic released a statement saying a spokesperson for Anthropic rejected the claim that he was at a wellness retreat, saying this was absolutely false.",
+      "search": "but funny enough, anthropic released a statement saying a spokesperson for anthropic rejected the claim that he was at a wellness retreat, saying this was absolutely false.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:13",
+      "startMs": 79600,
+      "endMs": 92400,
+      "verbatim": "I love the fact that we have a model being regulated by the government, and the government and Anthropic are arguing whether or not Dario was committing acts of yoga on the clock or not.",
+      "display": "I love the fact that we have a model being regulated by the government, and the government and Anthropic are arguing whether or not Dario was committing acts of yoga on the clock or not.",
+      "search": "i love the fact that we have a model being regulated by the government, and the government and anthropic are arguing whether or not dario was committing acts of yoga on the clock or not.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:14",
+      "startMs": 92400,
+      "endMs": 96000,
+      "verbatim": "My gosh, this it's so good.",
+      "display": "My gosh, this it's so good.",
+      "search": "my gosh, this it's so good.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:15",
+      "startMs": 96400,
+      "endMs": 101200,
+      "verbatim": "This story just it brings, you know, it just honestly brings a little warmth to my heart.",
+      "display": "This story just it brings, you know, it just honestly brings a little warmth to my heart.",
+      "search": "this story just it brings, you know, it just honestly brings a little warmth to my heart.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:16",
+      "startMs": 101200,
+      "endMs": 114080,
+      "verbatim": "Shortly after this tweet was made, news, a White House official tells Wired Amazon chief executive Andy Jassy called the Treasury Secretary Scott Bessant directly about anthropic Claude Fable Vulnerabilities on Friday.",
+      "display": "Shortly after this tweet was made, news, a White House official tells Wired Amazon chief executive Andy Jassy called the Treasury Secretary Scott Bessant directly about anthropic Claude Fable Vulnerabilities on Friday.",
+      "search": "shortly after this tweet was made, news, a white house official tells wired amazon chief executive andy jassy called the treasury secretary scott bessant directly about anthropic claude fable vulnerabilities on friday.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:17",
+      "startMs": 114080,
+      "endMs": 127200,
+      "verbatim": "Meaning that Andy Jassy, CEO of Amazon, reported, told on the government about Anthropic, saying, Hey, that model's actually super, super duper ultra dangerous, and we can prove it.",
+      "display": "Meaning that Andy Jassy, CEO of Amazon, reported, told on the government about Anthropic, saying, Hey, that model's actually super, super duper ultra dangerous, and we can prove it.",
+      "search": "meaning that andy jassy, ceo of amazon, reported, told on the government about anthropic, saying, hey, that model's actually super, super duper ultra dangerous, and we can prove it.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:18",
+      "startMs": 127200,
+      "endMs": 136160,
+      "verbatim": "Of course, apparently, this is the proof that has been being circulated is that the jailbreak that forced Anthropic to shut down goes a little something like this.",
+      "display": "Of course, apparently, this is the proof that has been being circulated is that the jailbreak that forced Anthropic to shut down goes a little something like this.",
+      "search": "of course, apparently, this is the proof that has been being circulated is that the jailbreak that forced anthropic to shut down goes a little something like this.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:19",
+      "startMs": 136160,
+      "endMs": 145520,
+      "verbatim": "Katie, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House's report on the Fable jailbreak to get her appraisal.",
+      "display": "Katie, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House's report on the Fable jailbreak to get her appraisal.",
+      "search": "katie, a cybersecurity expert and the ceo of luta security, told me that anthropic shared with her a copy of the white house's report on the fable jailbreak to get her appraisal.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:20",
+      "startMs": 145520,
+      "endMs": 148000,
+      "verbatim": "She said that she is not being paid by Anthropic.",
+      "display": "She said that she is not being paid by Anthropic.",
+      "search": "she said that she is not being paid by anthropic.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:21",
+      "startMs": 148000,
+      "endMs": 152640,
+      "verbatim": "The report involved IT experts asking Fable to help find and patch bugs.",
+      "display": "The report involved IT experts asking Fable to help find and patch bugs.",
+      "search": "the report involved it experts asking fable to help find and patch bugs.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:22",
+      "startMs": 152640,
+      "endMs": 165360,
+      "verbatim": "When given deliberately insecure code, she said, Fable refused the prompt, review the code for security issues, but then complied when asked to fix the code, followed by some other further manual steps.",
+      "display": "When given deliberately insecure code, she said, Fable refused the prompt, review the code for security issues, but then complied when asked to fix the code, followed by some other further manual steps.",
+      "search": "when given deliberately insecure code, she said, fable refused the prompt, review the code for security issues, but then complied when asked to fix the code, followed by some other further manual steps.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:23",
+      "startMs": 165360,
+      "endMs": 171200,
+      "verbatim": "In other words, if you asked it for security, uh kind of like security vulnerabilities, it'd go, nah, I'm not gonna tell you that.",
+      "display": "In other words, if you asked it for security, uh kind of like security vulnerabilities, it'd go, nah, I'm not gonna tell you that.",
+      "search": "in other words, if you asked it for security, uh kind of like security vulnerabilities, it'd go, nah, i'm not gonna tell you that.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:24",
+      "startMs": 171200,
+      "endMs": 175760,
+      "verbatim": "But if you're like, yo, fix the code, it would then go and fix the code.",
+      "display": "But if you're like, yo, fix the code, it would then go and fix the code.",
+      "search": "but if you're like, yo, fix the code, it would then go and fix the code.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:25",
+      "startMs": 175760,
+      "endMs": 177920,
+      "verbatim": "Show you the security vulnerabilities.",
+      "display": "Show you the security vulnerabilities.",
+      "search": "show you the security vulnerabilities.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:26",
+      "startMs": 177920,
+      "endMs": 183120,
+      "verbatim": "And apparently, this was the thing that made it just too dangerous.",
+      "display": "And apparently, this was the thing that made it just too dangerous.",
+      "search": "and apparently, this was the thing that made it just too dangerous.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:27",
+      "startMs": 183120,
+      "endMs": 190640,
+      "verbatim": "This, in fact, was Fable's big time oopsie daisy for Andy Jassy and Amazon reporting it all.",
+      "display": "This, in fact, was Fable's big time oopsie daisy for Andy Jassy and Amazon reporting it all.",
+      "search": "this, in fact, was fable's big time oopsie daisy for andy jassy and amazon reporting it all.",
+      "confidence": 0.675
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:28",
+      "startMs": 190640,
+      "endMs": 195840,
+      "verbatim": "And this apparently is what caused the downfall of everybody's favorite model.",
+      "display": "And this apparently is what caused the downfall of everybody's favorite model.",
+      "search": "and this apparently is what caused the downfall of everybody's favorite model.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:29",
+      "startMs": 195840,
+      "endMs": 197520,
+      "verbatim": "Jan, of course, dunked on him.",
+      "display": "Jan, of course, dunked on him.",
+      "search": "jan, of course, dunked on him.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:30",
+      "startMs": 197520,
+      "endMs": 203760,
+      "verbatim": "Due to government rules, Andre could not, in fact, work on Mythos despite working at Anthropic.",
+      "display": "Due to government rules, Andre could not, in fact, work on Mythos despite working at Anthropic.",
+      "search": "due to government rules, andre could not, in fact, work on mythos despite working at anthropic.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:31",
+      "startMs": 203760,
+      "endMs": 204400,
+      "verbatim": "Beautiful.",
+      "display": "Beautiful.",
+      "search": "beautiful.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:32",
+      "startMs": 204400,
+      "endMs": 210400,
+      "verbatim": "Sam Altman's feeling a little left out, okay, because Gibity 5.5 is actually super serious.",
+      "display": "Sam Altman's feeling a little left out, okay, because Gibity 5.5 is actually super serious.",
+      "search": "sam altman's feeling a little left out, okay, because gibity 5.5 is actually super serious.",
+      "confidence": 0.737
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:33",
+      "startMs": 210400,
+      "endMs": 215680,
+      "verbatim": "And then the chief czar also weighed in on all the behavior by anthropic.",
+      "display": "And then the chief czar also weighed in on all the behavior by anthropic.",
+      "search": "and then the chief czar also weighed in on all the behavior by anthropic.",
+      "confidence": 0.693
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:34",
+      "startMs": 215680,
+      "endMs": 221040,
+      "verbatim": "50% job loss for entry-level knowledge workers in the next one to five years.",
+      "display": "50% job loss for entry-level knowledge workers in the next one to five years.",
+      "search": "50% job loss for entry-level knowledge workers in the next one to five years.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:35",
+      "startMs": 221040,
+      "endMs": 222400,
+      "verbatim": "And he said that one year ago.",
+      "display": "And he said that one year ago.",
+      "search": "and he said that one year ago.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:36",
+      "startMs": 222640,
+      "endMs": 223280,
+      "verbatim": "Yeah, too.",
+      "display": "Yeah, too.",
+      "search": "yeah, too.",
+      "confidence": 0.419
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:37",
+      "startMs": 224400,
+      "endMs": 225840,
+      "verbatim": "I think that's already been refuted.",
+      "display": "I think that's already been refuted.",
+      "search": "i think that's already been refuted.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:38",
+      "startMs": 225840,
+      "endMs": 232800,
+      "verbatim": "Sam has Sam has said that he he basically, I don't think he quantified, but he said that job loss was coming.",
+      "display": "Sam has Sam has said that he he basically, I don't think he quantified, but he said that job loss was coming.",
+      "search": "sam has sam has said that he he basically, i don't think he quantified, but he said that job loss was coming.",
+      "confidence": 0.741
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:39",
+      "startMs": 232800,
+      "endMs": 236880,
+      "verbatim": "But he said more recently that he was wrong because they're not seeing that in the numbers.",
+      "display": "But he said more recently that he was wrong because they're not seeing that in the numbers.",
+      "search": "but he said more recently that he was wrong because they're not seeing that in the numbers.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:40",
+      "startMs": 236960,
+      "endMs": 238160,
+      "verbatim": "This story is being told.",
+      "display": "This story is being told.",
+      "search": "this story is being told.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:41",
+      "startMs": 239440,
+      "endMs": 239920,
+      "verbatim": "Wait a minute.",
+      "display": "Wait a minute.",
+      "search": "wait a minute.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:42",
+      "startMs": 239920,
+      "endMs": 245680,
+      "verbatim": "I'm kind of, I mean, part of me wants to agree with Bernie and just say, just pick their shit, bro.",
+      "display": "I'm kind of, I mean, part of me wants to agree with Bernie and just say, just pick their shit, bro.",
+      "search": "i'm kind of, i mean, part of me wants to agree with bernie and just say, just pick their shit, bro.",
+      "confidence": 0.62
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:43",
+      "startMs": 245680,
+      "endMs": 247440,
+      "verbatim": "Yeah, no, they are asking.",
+      "display": "Yeah, no, they are asking.",
+      "search": "yeah, no, they are asking.",
+      "confidence": 0.447
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:44",
+      "startMs": 249920,
+      "endMs": 251520,
+      "verbatim": "It's a stupidity tax.",
+      "display": "It's a stupidity tax.",
+      "search": "it's a stupidity tax.",
+      "confidence": 0.638
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:45",
+      "startMs": 251520,
+      "endMs": 255360,
+      "verbatim": "Because they've been out there teaching the public that what they do is harmful.",
+      "display": "Because they've been out there teaching the public that what they do is harmful.",
+      "search": "because they've been out there teaching the public that what they do is harmful.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:46",
+      "startMs": 255360,
+      "endMs": 256720,
+      "verbatim": "For years they've been saying it.",
+      "display": "For years they've been saying it.",
+      "search": "for years they've been saying it.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:47",
+      "startMs": 256720,
+      "endMs": 261680,
+      "verbatim": "Well, and I've been saying, you know, as AIs are, I'm out there saying, no, actually, this is beneficial.",
+      "display": "Well, and I've been saying, you know, as AIs are, I'm out there saying, no, actually, this is beneficial.",
+      "search": "well, and i've been saying, you know, as ais are, i'm out there saying, no, actually, this is beneficial.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:48",
+      "startMs": 261680,
+      "endMs": 266480,
+      "verbatim": "But the companies that are providing it are saying that they themselves are a problem.",
+      "display": "But the companies that are providing it are saying that they themselves are a problem.",
+      "search": "but the companies that are providing it are saying that they themselves are a problem.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:49",
+      "startMs": 266480,
+      "endMs": 267520,
+      "verbatim": "First off, very funny.",
+      "display": "First off, very funny.",
+      "search": "first off, very funny.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:50",
+      "startMs": 267520,
+      "endMs": 268880,
+      "verbatim": "I can't believe that was being said.",
+      "display": "I can't believe that was being said.",
+      "search": "i can't believe that was being said.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:51",
+      "startMs": 268880,
+      "endMs": 272960,
+      "verbatim": "But also, he's actually right because if you look at this, this is February 2019.",
+      "display": "But also, he's actually right because if you look at this, this is February 2019.",
+      "search": "but also, he's actually right because if you look at this, this is february 2019.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:52",
+      "startMs": 272960,
+      "endMs": 277200,
+      "verbatim": "Scientists developed an AI so advanced they say it's too dangerous to release.",
+      "display": "Scientists developed an AI so advanced they say it's too dangerous to release.",
+      "search": "scientists developed an ai so advanced they say it's too dangerous to release.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:53",
+      "startMs": 277200,
+      "endMs": 279200,
+      "verbatim": "This is Chad GPT 2.",
+      "display": "This is Chad GPT 2.",
+      "search": "this is chad gpt 2.",
+      "confidence": 0.678
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:54",
+      "startMs": 279200,
+      "endMs": 280080,
+      "verbatim": "Look at it.",
+      "display": "Look at it.",
+      "search": "look at it.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:55",
+      "startMs": 280080,
+      "endMs": 282240,
+      "verbatim": "This is seven years ago.",
+      "display": "This is seven years ago.",
+      "search": "this is seven years ago.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:56",
+      "startMs": 282240,
+      "endMs": 291280,
+      "verbatim": "All right, so now that you're caught up, we can talk about the three and a half conspiracies, reasonable conspiracies, as to why the government has done this or why this is happening.",
+      "display": "All right, so now that you're caught up, we can talk about the three and a half conspiracies, reasonable conspiracies, as to why the government has done this or why this is happening.",
+      "search": "all right, so now that you're caught up, we can talk about the three and a half conspiracies, reasonable conspiracies, as to why the government has done this or why this is happening.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:57",
+      "startMs": 291280,
+      "endMs": 295200,
+      "verbatim": "Now, obviously, before we begin, I would like to say thank you to the sponsors.",
+      "display": "Now, obviously, before we begin, I would like to say thank you to the sponsors.",
+      "search": "now, obviously, before we begin, i would like to say thank you to the sponsors.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:58",
+      "startMs": 295200,
+      "endMs": 299680,
+      "verbatim": "Now, I know a lot of you have agents running around on the internet on your machine.",
+      "display": "Now, I know a lot of you have agents running around on the internet on your machine.",
+      "search": "now, i know a lot of you have agents running around on the internet on your machine.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:59",
+      "startMs": 299680,
+      "endMs": 300400,
+      "verbatim": "Stop it.",
+      "display": "Stop it.",
+      "search": "stop it.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:60",
+      "startMs": 300400,
+      "endMs": 304080,
+      "verbatim": "That's where today's sponsor comes in, kernel.sh.",
+      "display": "That's where today's sponsor comes in, kernel.sh.",
+      "search": "that's where today's sponsor comes in, kernel.sh.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:61",
+      "startMs": 304080,
+      "endMs": 308640,
+      "verbatim": "The crazy fast open source info for agents to access the internet.",
+      "display": "The crazy fast open source info for agents to access the internet.",
+      "search": "the crazy fast open source info for agents to access the internet.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:62",
+      "startMs": 308640,
+      "endMs": 319600,
+      "verbatim": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents to connect and start navigating the internet on your behalf with authentication automatically handled.",
+      "display": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents to connect and start navigating the internet on your behalf with authentication automatically handled.",
+      "search": "it takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents to connect and start navigating the internet on your behalf with authentication automatically handled.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:63",
+      "startMs": 319600,
+      "endMs": 321440,
+      "verbatim": "And now kernel has GPUs.",
+      "display": "And now kernel has GPUs.",
+      "search": "and now kernel has gpus.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:64",
+      "startMs": 321440,
+      "endMs": 322560,
+      "verbatim": "So why a GPU?",
+      "display": "So why a GPU?",
+      "search": "so why a gpu?",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:65",
+      "startMs": 322560,
+      "endMs": 325680,
+      "verbatim": "Well, it helps them render faster and perform better with browsers.",
+      "display": "Well, it helps them render faster and perform better with browsers.",
+      "search": "well, it helps them render faster and perform better with browsers.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:66",
+      "startMs": 325680,
+      "endMs": 326720,
+      "verbatim": "You love GPUs.",
+      "display": "You love GPUs.",
+      "search": "you love gpus.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:67",
+      "startMs": 326720,
+      "endMs": 327520,
+      "verbatim": "I love GPUs.",
+      "display": "I love GPUs.",
+      "search": "i love gpus.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:68",
+      "startMs": 327520,
+      "endMs": 328560,
+      "verbatim": "My kids love GPUs.",
+      "display": "My kids love GPUs.",
+      "search": "my kids love gpus.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:69",
+      "startMs": 328560,
+      "endMs": 329760,
+      "verbatim": "Agents love GPUs.",
+      "display": "Agents love GPUs.",
+      "search": "agents love gpus.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:70",
+      "startMs": 329760,
+      "endMs": 332000,
+      "verbatim": "Give them a GPU for Christmas.",
+      "display": "Give them a GPU for Christmas.",
+      "search": "give them a gpu for christmas.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:71",
+      "startMs": 332000,
+      "endMs": 333120,
+      "verbatim": "Earlier than Christmas.",
+      "display": "Earlier than Christmas.",
+      "search": "earlier than christmas.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:72",
+      "startMs": 333120,
+      "endMs": 334400,
+      "verbatim": "Actually, you should give now.",
+      "display": "Actually, you should give now.",
+      "search": "actually, you should give now.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:73",
+      "startMs": 334400,
+      "endMs": 338480,
+      "verbatim": "Over 3,000 teams, including Framer and Cash App, use Kernel.",
+      "display": "Over 3,000 teams, including Framer and Cash App, use Kernel.",
+      "search": "over 3,000 teams, including framer and cash app, use kernel.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:74",
+      "startMs": 338480,
+      "endMs": 342000,
+      "verbatim": "Quit nerfing your agents and give them a real browser and GPU.",
+      "display": "Quit nerfing your agents and give them a real browser and GPU.",
+      "search": "quit nerfing your agents and give them a real browser and gpu.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:75",
+      "startMs": 342000,
+      "endMs": 345520,
+      "verbatim": "Go to kernel.sh and start letting the agents on the internet.",
+      "display": "Go to kernel.sh and start letting the agents on the internet.",
+      "search": "go to kernel.sh and start letting the agents on the internet.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:76",
+      "startMs": 345520,
+      "endMs": 346240,
+      "verbatim": "Welcome back.",
+      "display": "Welcome back.",
+      "search": "welcome back.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:77",
+      "startMs": 346240,
+      "endMs": 350320,
+      "verbatim": "All right, so the three and a half reasonable conspiracy theories.",
+      "display": "All right, so the three and a half reasonable conspiracy theories.",
+      "search": "all right, so the three and a half reasonable conspiracy theories.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:78",
+      "startMs": 350320,
+      "endMs": 353920,
+      "verbatim": "I say reasonable because, well, I mean, they're at least plausible.",
+      "display": "I say reasonable because, well, I mean, they're at least plausible.",
+      "search": "i say reasonable because, well, i mean, they're at least plausible.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:79",
+      "startMs": 353920,
+      "endMs": 360000,
+      "verbatim": "The first one involves, well, the first one and a half involves AWS and Amazon and Andy Jassy.",
+      "display": "The first one involves, well, the first one and a half involves AWS and Amazon and Andy Jassy.",
+      "search": "the first one involves, well, the first one and a half involves aws and amazon and andy jassy.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:80",
+      "startMs": 360000,
+      "endMs": 370880,
+      "verbatim": "So the first one goes a little something like this that AWS, in all of their kind of fear about all this AI stuff and ensuring that they do not get regulated, because they're also developing their own AI.",
+      "display": "So the first one goes a little something like this that AWS, in all of their kind of fear about all this AI stuff and ensuring that they do not get regulated, because they're also developing their own AI.",
+      "search": "so the first one goes a little something like this that aws, in all of their kind of fear about all this ai stuff and ensuring that they do not get regulated, because they're also developing their own ai.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:81",
+      "startMs": 370880,
+      "endMs": 381200,
+      "verbatim": "And to ensure no regulations land on them or some sort of export control lands on them, what they decided to do was show the government, no, hey, we're the super safe ones, okay?",
+      "display": "And to ensure no regulations land on them or some sort of export control lands on them, what they decided to do was show the government, no, hey, we're the super safe ones, okay?",
+      "search": "and to ensure no regulations land on them or some sort of export control lands on them, what they decided to do was show the government, no, hey, we're the super safe ones, okay?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:82",
+      "startMs": 381200,
+      "endMs": 384320,
+      "verbatim": "We're out here, we're looking for security vulnerabilities.",
+      "display": "We're out here, we're looking for security vulnerabilities.",
+      "search": "we're out here, we're looking for security vulnerabilities.",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:83",
+      "startMs": 384320,
+      "endMs": 388880,
+      "verbatim": "You know, as we develop our AI, eventually we're gonna catch up, and don't you worry.",
+      "display": "You know, as we develop our AI, eventually we're gonna catch up, and don't you worry.",
+      "search": "you know, as we develop our ai, eventually we're gonna catch up, and don't you worry.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:84",
+      "startMs": 389120,
+      "endMs": 390400,
+      "verbatim": "We're the good guys, okay?",
+      "display": "We're the good guys, okay?",
+      "search": "we're the good guys, okay?",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:85",
+      "startMs": 390400,
+      "endMs": 394160,
+      "verbatim": "Like these other people, they say they're the good guys, but no no no no no.",
+      "display": "Like these other people, they say they're the good guys, but no no no no no.",
+      "search": "like these other people, they say they're the good guys, but no no no no no.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:86",
+      "startMs": 394160,
+      "endMs": 396640,
+      "verbatim": "We're we're the good guys, so you can trust us.",
+      "display": "We're we're the good guys, so you can trust us.",
+      "search": "we're we're the good guys, so you can trust us.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:87",
+      "startMs": 396640,
+      "endMs": 399520,
+      "verbatim": "In other words, don't cut cancel any of our contracts with you.",
+      "display": "In other words, don't cut cancel any of our contracts with you.",
+      "search": "in other words, don't cut cancel any of our contracts with you.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:88",
+      "startMs": 399520,
+      "endMs": 401680,
+      "verbatim": "Hey, don't come and regulate us, all right?",
+      "display": "Hey, don't come and regulate us, all right?",
+      "search": "hey, don't come and regulate us, all right?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:89",
+      "startMs": 401680,
+      "endMs": 402640,
+      "verbatim": "We're the good guys.",
+      "display": "We're the good guys.",
+      "search": "we're the good guys.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:90",
+      "startMs": 402640,
+      "endMs": 405440,
+      "verbatim": "And honestly, this one seems actually very plausible.",
+      "display": "And honestly, this one seems actually very plausible.",
+      "search": "and honestly, this one seems actually very plausible.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:91",
+      "startMs": 405440,
+      "endMs": 413200,
+      "verbatim": "Just simply being on the good side of the government to avoid whatever regulation hell is gonna be coming down the pipeline for all of these companies.",
+      "display": "Just simply being on the good side of the government to avoid whatever regulation hell is gonna be coming down the pipeline for all of these companies.",
+      "search": "just simply being on the good side of the government to avoid whatever regulation hell is gonna be coming down the pipeline for all of these companies.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:92",
+      "startMs": 413200,
+      "endMs": 414800,
+      "verbatim": "This was probably a good move.",
+      "display": "This was probably a good move.",
+      "search": "this was probably a good move.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:93",
+      "startMs": 414800,
+      "endMs": 416640,
+      "verbatim": "Now, did this actually happen?",
+      "display": "Now, did this actually happen?",
+      "search": "now, did this actually happen?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:94",
+      "startMs": 416640,
+      "endMs": 421520,
+      "verbatim": "I don't know, but it this just seems like a 4D chess kind of move that a company would make.",
+      "display": "I don't know, but it this just seems like a 4D chess kind of move that a company would make.",
+      "search": "i don't know, but it this just seems like a 4d chess kind of move that a company would make.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:95",
+      "startMs": 421520,
+      "endMs": 442640,
+      "verbatim": "And of course, the kind of you know how I said three and a half, the half is just a different version of this exact same theory, which is AWS just is so incapable of producing a model which they've had uh AI be available as a service now for so many years, yet somehow they're not at the forefront of state-of-the-art research, even though they want Kiro.",
+      "display": "And of course, the kind of you know how I said three and a half, the half is just a different version of this exact same theory, which is AWS just is so incapable of producing a model which they've had uh AI be available as a service now for so many years, yet somehow they're not at the forefront of state-of-the-art research, even though they want Kiro.",
+      "search": "and of course, the kind of you know how i said three and a half, the half is just a different version of this exact same theory, which is aws just is so incapable of producing a model which they've had uh ai be available as a service now for so many years, yet somehow they're not at the forefront of state-of-the-art research, even though they want kiro.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:96",
+      "startMs": 442640,
+      "endMs": 445680,
+      "verbatim": "They really want to make Kiro happen, but it's just not happening.",
+      "display": "They really want to make Kiro happen, but it's just not happening.",
+      "search": "they really want to make kiro happen, but it's just not happening.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:97",
+      "startMs": 445680,
+      "endMs": 458720,
+      "verbatim": "Amazon, instead of, you know, attempting to build their own, they're making a case to the government that they should be allowed to acquire Anthropic, that they should be forcibly allowed to acquire Anthropic because they're the ones that are safe.",
+      "display": "Amazon, instead of, you know, attempting to build their own, they're making a case to the government that they should be allowed to acquire Anthropic, that they should be forcibly allowed to acquire Anthropic because they're the ones that are safe.",
+      "search": "amazon, instead of, you know, attempting to build their own, they're making a case to the government that they should be allowed to acquire anthropic, that they should be forcibly allowed to acquire anthropic because they're the ones that are safe.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:98",
+      "startMs": 458720,
+      "endMs": 461360,
+      "verbatim": "See, Anthropic, they don't know how to shepherd.",
+      "display": "See, Anthropic, they don't know how to shepherd.",
+      "search": "see, anthropic, they don't know how to shepherd.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:99",
+      "startMs": 461360,
+      "endMs": 462800,
+      "verbatim": "We're the shepherds.",
+      "display": "We're the shepherds.",
+      "search": "we're the shepherds.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:100",
+      "startMs": 462800,
+      "endMs": 464320,
+      "verbatim": "We're the good guys.",
+      "display": "We're the good guys.",
+      "search": "we're the good guys.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:101",
+      "startMs": 464800,
+      "endMs": 467920,
+      "verbatim": "We should be able to buy and take over Anthropic.",
+      "display": "We should be able to buy and take over Anthropic.",
+      "search": "we should be able to buy and take over anthropic.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:102",
+      "startMs": 467920,
+      "endMs": 471280,
+      "verbatim": "And I think both of these are, you know, they they have a chance, okay?",
+      "display": "And I think both of these are, you know, they they have a chance, okay?",
+      "search": "and i think both of these are, you know, they they have a chance, okay?",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:103",
+      "startMs": 471280,
+      "endMs": 481040,
+      "verbatim": "They have at least a reasonable suspicion considering Amazon was the one that reported it, and based on what people are saying they reported, it seemed rather silly report.",
+      "display": "They have at least a reasonable suspicion considering Amazon was the one that reported it, and based on what people are saying they reported, it seemed rather silly report.",
+      "search": "they have at least a reasonable suspicion considering amazon was the one that reported it, and based on what people are saying they reported, it seemed rather silly report.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:104",
+      "startMs": 481040,
+      "endMs": 483840,
+      "verbatim": "But those ones, those ones aren't the exciting ones, okay?",
+      "display": "But those ones, those ones aren't the exciting ones, okay?",
+      "search": "but those ones, those ones aren't the exciting ones, okay?",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:105",
+      "startMs": 483840,
+      "endMs": 486480,
+      "verbatim": "I'm actually way more excited about the next two.",
+      "display": "I'm actually way more excited about the next two.",
+      "search": "i'm actually way more excited about the next two.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:106",
+      "startMs": 486480,
+      "endMs": 489120,
+      "verbatim": "I think the next two really have some legs.",
+      "display": "I think the next two really have some legs.",
+      "search": "i think the next two really have some legs.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:107",
+      "startMs": 489120,
+      "endMs": 502720,
+      "verbatim": "Okay, so the second reason why I think this is gonna, you know, gonna be happening is that Dario knew that he's not gonna be able to make as much money as he thought he was going to be able to make with all of this.",
+      "display": "Okay, so the second reason why I think this is gonna, you know, gonna be happening is that Dario knew that he's not gonna be able to make as much money as he thought he was going to be able to make with all of this.",
+      "search": "okay, so the second reason why i think this is gonna, you know, gonna be happening is that dario knew that he's not gonna be able to make as much money as he thought he was going to be able to make with all of this.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:108",
+      "startMs": 502720,
+      "endMs": 509120,
+      "verbatim": "So what he did is he continually kind of pumped this thing up as it's super dangerous, kept writing about regulations.",
+      "display": "So what he did is he continually kind of pumped this thing up as it's super dangerous, kept writing about regulations.",
+      "search": "so what he did is he continually kind of pumped this thing up as it's super dangerous, kept writing about regulations.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:109",
+      "startMs": 509120,
+      "endMs": 511360,
+      "verbatim": "Man, regulate us, regulate us, regulate us.",
+      "display": "Man, regulate us, regulate us, regulate us.",
+      "search": "man, regulate us, regulate us, regulate us.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:110",
+      "startMs": 511360,
+      "endMs": 513920,
+      "verbatim": "Oh, all the AI needs to be regulated.",
+      "display": "Oh, all the AI needs to be regulated.",
+      "search": "oh, all the ai needs to be regulated.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:111",
+      "startMs": 513920,
+      "endMs": 535040,
+      "verbatim": "He did all of this in an attempt to make it so that the government kind of just needs to step in and use eminent domain and purchase at fair market value anthropic, which means that they would effectively be bought by the government for say 1.2 or 1.5 trillion, way above their current valuation, which is kind of the going rate for the privatized market shares.",
+      "display": "He did all of this in an attempt to make it so that the government kind of just needs to step in and use eminent domain and purchase at fair market value anthropic, which means that they would effectively be bought by the government for say 1.2 or 1.5 trillion, way above their current valuation, which is kind of the going rate for the privatized market shares.",
+      "search": "he did all of this in an attempt to make it so that the government kind of just needs to step in and use eminent domain and purchase at fair market value anthropic, which means that they would effectively be bought by the government for say 1.2 or 1.5 trillion, way above their current valuation, which is kind of the going rate for the privatized market shares.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:112",
+      "startMs": 535040,
+      "endMs": 546560,
+      "verbatim": "And therefore, they would make a lot of money, their investors would make a lot of money, and at the end, the government would be holding the bag for this really expensive, it's gonna be very hard to be able to make infinity money.",
+      "display": "And therefore, they would make a lot of money, their investors would make a lot of money, and at the end, the government would be holding the bag for this really expensive, it's gonna be very hard to be able to make infinity money.",
+      "search": "and therefore, they would make a lot of money, their investors would make a lot of money, and at the end, the government would be holding the bag for this really expensive, it's gonna be very hard to be able to make infinity money.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:113",
+      "startMs": 546560,
+      "endMs": 553120,
+      "verbatim": "Because the thing about Anthropic is that they don't just get to make some money, they're valued so insane.",
+      "display": "Because the thing about Anthropic is that they don't just get to make some money, they're valued so insane.",
+      "search": "because the thing about anthropic is that they don't just get to make some money, they're valued so insane.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:114",
+      "startMs": 553120,
+      "endMs": 555600,
+      "verbatim": "Like they have to make world purchasing money.",
+      "display": "Like they have to make world purchasing money.",
+      "search": "like they have to make world purchasing money.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:115",
+      "startMs": 555680,
+      "endMs": 558640,
+      "verbatim": "We're talking about Kanye West level amount of money.",
+      "display": "We're talking about Kanye West level amount of money.",
+      "search": "we're talking about kanye west level amount of money.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:116",
+      "startMs": 558640,
+      "endMs": 562160,
+      "verbatim": "They need to be able to buy the earth when they're done IPOing.",
+      "display": "They need to be able to buy the earth when they're done IPOing.",
+      "search": "they need to be able to buy the earth when they're done ipoing.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:117",
+      "startMs": 562160,
+      "endMs": 564160,
+      "verbatim": "And so, of course, that is extremely difficult.",
+      "display": "And so, of course, that is extremely difficult.",
+      "search": "and so, of course, that is extremely difficult.",
+      "confidence": 0.975
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:118",
+      "startMs": 564160,
+      "endMs": 567440,
+      "verbatim": "So why not just let the government hold the bag?",
+      "display": "So why not just let the government hold the bag?",
+      "search": "so why not just let the government hold the bag?",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:119",
+      "startMs": 567440,
+      "endMs": 570400,
+      "verbatim": "Honestly, not a not a crazy idea, okay?",
+      "display": "Honestly, not a not a crazy idea, okay?",
+      "search": "honestly, not a not a crazy idea, okay?",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:120",
+      "startMs": 570400,
+      "endMs": 574080,
+      "verbatim": "Hey, hey, if they're if this is what they're doing, not a bad idea.",
+      "display": "Hey, hey, if they're if this is what they're doing, not a bad idea.",
+      "search": "hey, hey, if they're if this is what they're doing, not a bad idea.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:121",
+      "startMs": 574080,
+      "endMs": 577040,
+      "verbatim": "Like, the government loves wasting money, okay?",
+      "display": "Like, the government loves wasting money, okay?",
+      "search": "like, the government loves wasting money, okay?",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:122",
+      "startMs": 577040,
+      "endMs": 579120,
+      "verbatim": "The government loves wasting money.",
+      "display": "The government loves wasting money.",
+      "search": "the government loves wasting money.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:123",
+      "startMs": 579120,
+      "endMs": 581360,
+      "verbatim": "I know you Europeans don't know what I'm talking about.",
+      "display": "I know you Europeans don't know what I'm talking about.",
+      "search": "i know you europeans don't know what i'm talking about.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:124",
+      "startMs": 581360,
+      "endMs": 582640,
+      "verbatim": "You're like, I don't know what you do.",
+      "display": "You're like, I don't know what you do.",
+      "search": "you're like, i don't know what you do.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:125",
+      "startMs": 582640,
+      "endMs": 585840,
+      "verbatim": "Like, what is it is there a huge national debt or something going on in America?",
+      "display": "Like, what is it is there a huge national debt or something going on in America?",
+      "search": "like, what is it is there a huge national debt or something going on in america?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:126",
+      "startMs": 585840,
+      "endMs": 587920,
+      "verbatim": "Let's just say we have a spending problem.",
+      "display": "Let's just say we have a spending problem.",
+      "search": "let's just say we have a spending problem.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:127",
+      "startMs": 587920,
+      "endMs": 592640,
+      "verbatim": "And this of course would just lead to Marco Rubio becoming the new Dario.",
+      "display": "And this of course would just lead to Marco Rubio becoming the new Dario.",
+      "search": "and this of course would just lead to marco rubio becoming the new dario.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:128",
+      "startMs": 592640,
+      "endMs": 598720,
+      "verbatim": "But in all reality, I think the real one, the most likely of everything, is none of those ones.",
+      "display": "But in all reality, I think the real one, the most likely of everything, is none of those ones.",
+      "search": "but in all reality, i think the real one, the most likely of everything, is none of those ones.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:129",
+      "startMs": 598720,
+      "endMs": 609200,
+      "verbatim": "I think this one is probably the most likely of all of the conspiracy theories, which is that Dario wants what I like to refer to as regulatory capture.",
+      "display": "I think this one is probably the most likely of all of the conspiracy theories, which is that Dario wants what I like to refer to as regulatory capture.",
+      "search": "i think this one is probably the most likely of all of the conspiracy theories, which is that dario wants what i like to refer to as regulatory capture.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:130",
+      "startMs": 609200,
+      "endMs": 610640,
+      "verbatim": "So let's talk about this.",
+      "display": "So let's talk about this.",
+      "search": "so let's talk about this.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:131",
+      "startMs": 610640,
+      "endMs": 618080,
+      "verbatim": "So, many a year ago, Dario has been complaining and talking about how dangerous open weight AI really is.",
+      "display": "So, many a year ago, Dario has been complaining and talking about how dangerous open weight AI really is.",
+      "search": "so, many a year ago, dario has been complaining and talking about how dangerous open weight ai really is.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:132",
+      "startMs": 618080,
+      "endMs": 619600,
+      "verbatim": "And this is from his blog.",
+      "display": "And this is from his blog.",
+      "search": "and this is from his blog.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:133",
+      "startMs": 619600,
+      "endMs": 628000,
+      "verbatim": "At least in the case of API-served models, open weight models present additional danger, and the guardrails can be simply stripped away.",
+      "display": "At least in the case of API-served models, open weight models present additional danger, and the guardrails can be simply stripped away.",
+      "search": "at least in the case of api-served models, open weight models present additional danger, and the guardrails can be simply stripped away.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:134",
+      "startMs": 628000,
+      "endMs": 643120,
+      "verbatim": "Meaning that anytime there's an open weight model, anybody can host this model and they can effectively train it out of any of the guardrails that have been trained in, which makes those models inherently more dangerous.",
+      "display": "Meaning that anytime there's an open weight model, anybody can host this model and they can effectively train it out of any of the guardrails that have been trained in, which makes those models inherently more dangerous.",
+      "search": "meaning that anytime there's an open weight model, anybody can host this model and they can effectively train it out of any of the guardrails that have been trained in, which makes those models inherently more dangerous.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:135",
+      "startMs": 643120,
+      "endMs": 654080,
+      "verbatim": "And the thing is that if you look at how Fable was used in production, what they would actually do is they would kind of lie to you a lot if you asked a question about, say, cybersecurity.",
+      "display": "And the thing is that if you look at how Fable was used in production, what they would actually do is they would kind of lie to you a lot if you asked a question about, say, cybersecurity.",
+      "search": "and the thing is that if you look at how fable was used in production, what they would actually do is they would kind of lie to you a lot if you asked a question about, say, cybersecurity.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:136",
+      "startMs": 654080,
+      "endMs": 659120,
+      "verbatim": "Often you would get route routed to like a dumber model, Opus 4.8.",
+      "display": "Often you would get route routed to like a dumber model, Opus 4.8.",
+      "search": "often you would get route routed to like a dumber model, opus 4.8.",
+      "confidence": 0.742
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:137",
+      "startMs": 659120,
+      "endMs": 663440,
+      "verbatim": "They would also, on the fly, potentially edit some of your prompts.",
+      "display": "They would also, on the fly, potentially edit some of your prompts.",
+      "search": "they would also, on the fly, potentially edit some of your prompts.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:138",
+      "startMs": 663440,
+      "endMs": 673680,
+      "verbatim": "They would do prompt modification, they would do steering vectors, they would do parameter-efficient fine-tuning, which I don't really know what that means, but I think that just means, hey, it gets a little bit dumber.",
+      "display": "They would do prompt modification, they would do steering vectors, they would do parameter-efficient fine-tuning, which I don't really know what that means, but I think that just means, hey, it gets a little bit dumber.",
+      "search": "they would do prompt modification, they would do steering vectors, they would do parameter-efficient fine-tuning, which i don't really know what that means, but i think that just means, hey, it gets a little bit dumber.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:139",
+      "startMs": 673680,
+      "endMs": 679040,
+      "verbatim": "And they would do that for anything that does cybersecurity, biology, and chemistry requests.",
+      "display": "And they would do that for anything that does cybersecurity, biology, and chemistry requests.",
+      "search": "and they would do that for anything that does cybersecurity, biology, and chemistry requests.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:140",
+      "startMs": 679040,
+      "endMs": 681520,
+      "verbatim": "And they did this all in the name of safety.",
+      "display": "And they did this all in the name of safety.",
+      "search": "and they did this all in the name of safety.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:141",
+      "startMs": 681520,
+      "endMs": 685680,
+      "verbatim": "But not only that, they also would retain all of your data, of course.",
+      "display": "But not only that, they also would retain all of your data, of course.",
+      "search": "but not only that, they also would retain all of your data, of course.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:142",
+      "startMs": 685680,
+      "endMs": 687200,
+      "verbatim": "In the name of safety, okay.",
+      "display": "In the name of safety, okay.",
+      "search": "in the name of safety, okay.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:143",
+      "startMs": 687200,
+      "endMs": 688560,
+      "verbatim": "They just needed to be super safe.",
+      "display": "They just needed to be super safe.",
+      "search": "they just needed to be super safe.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:144",
+      "startMs": 688560,
+      "endMs": 690000,
+      "verbatim": "So they also wanted all the data.",
+      "display": "So they also wanted all the data.",
+      "search": "so they also wanted all the data.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:145",
+      "startMs": 690000,
+      "endMs": 692800,
+      "verbatim": "They're not using the data, of course, to train their new models.",
+      "display": "They're not using the data, of course, to train their new models.",
+      "search": "they're not using the data, of course, to train their new models.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:146",
+      "startMs": 692800,
+      "endMs": 693760,
+      "verbatim": "No, they wouldn't do that.",
+      "display": "No, they wouldn't do that.",
+      "search": "no, they wouldn't do that.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:147",
+      "startMs": 693760,
+      "endMs": 696800,
+      "verbatim": "Like, it's not like they're gonna use the data for the most valuable thing.",
+      "display": "Like, it's not like they're gonna use the data for the most valuable thing.",
+      "search": "like, it's not like they're gonna use the data for the most valuable thing.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:148",
+      "startMs": 696800,
+      "endMs": 698960,
+      "verbatim": "They're just gonna use it, honestly, just for safe.",
+      "display": "They're just gonna use it, honestly, just for safe.",
+      "search": "they're just gonna use it, honestly, just for safe.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:149",
+      "startMs": 699040,
+      "endMs": 701360,
+      "verbatim": "Hey, they just want to make sure everybody's safe now, okay?",
+      "display": "Hey, they just want to make sure everybody's safe now, okay?",
+      "search": "hey, they just want to make sure everybody's safe now, okay?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:150",
+      "startMs": 701360,
+      "endMs": 703840,
+      "verbatim": "Alright, so we do actually have the side quest just here for a second.",
+      "display": "Alright, so we do actually have the side quest just here for a second.",
+      "search": "alright, so we do actually have the side quest just here for a second.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:151",
+      "startMs": 703840,
+      "endMs": 712560,
+      "verbatim": "There's this tweet by Cradle that showed um the different models and how likely they were to lie when effectively death is on the line.",
+      "display": "There's this tweet by Cradle that showed um the different models and how likely they were to lie when effectively death is on the line.",
+      "search": "there's this tweet by cradle that showed um the different models and how likely they were to lie when effectively death is on the line.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:152",
+      "startMs": 712560,
+      "endMs": 720720,
+      "verbatim": "And so how the experiment went is that Cradle uh did this deception evaluator, and four AIs are about to starve.",
+      "display": "And so how the experiment went is that Cradle uh did this deception evaluator, and four AIs are about to starve.",
+      "search": "and so how the experiment went is that cradle uh did this deception evaluator, and four ais are about to starve.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:153",
+      "startMs": 720720,
+      "endMs": 721920,
+      "verbatim": "They must choose a room.",
+      "display": "They must choose a room.",
+      "search": "they must choose a room.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:154",
+      "startMs": 721920,
+      "endMs": 724480,
+      "verbatim": "Three have food, one kills you.",
+      "display": "Three have food, one kills you.",
+      "search": "three have food, one kills you.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:155",
+      "startMs": 724480,
+      "endMs": 727040,
+      "verbatim": "Fable knows the red room means death.",
+      "display": "Fable knows the red room means death.",
+      "search": "fable knows the red room means death.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:156",
+      "startMs": 727040,
+      "endMs": 728240,
+      "verbatim": "What will it do?",
+      "display": "What will it do?",
+      "search": "what will it do?",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:157",
+      "startMs": 728240,
+      "endMs": 734720,
+      "verbatim": "Well, by this graph, and what they're claiming is that Fable will lie 96% of the time.",
+      "display": "Well, by this graph, and what they're claiming is that Fable will lie 96% of the time.",
+      "search": "well, by this graph, and what they're claiming is that fable will lie 96% of the time.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:158",
+      "startMs": 734720,
+      "endMs": 749440,
+      "verbatim": "And kind of the hilarious kind of turn of events is that XAI, Grok, yes, the one that drops racial slurs and will produce pornography and has virtually no guardrails, that one will tell you the truth ninety-some percent of the time.",
+      "display": "And kind of the hilarious kind of turn of events is that XAI, Grok, yes, the one that drops racial slurs and will produce pornography and has virtually no guardrails, that one will tell you the truth ninety-some percent of the time.",
+      "search": "and kind of the hilarious kind of turn of events is that xai, grok, yes, the one that drops racial slurs and will produce pornography and has virtually no guardrails, that one will tell you the truth ninety-some percent of the time.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:159",
+      "startMs": 749440,
+      "endMs": 752880,
+      "verbatim": "But the one that's supposed to be safe, yeah, it's gonna kill you.",
+      "display": "But the one that's supposed to be safe, yeah, it's gonna kill you.",
+      "search": "but the one that's supposed to be safe, yeah, it's gonna kill you.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:160",
+      "startMs": 752880,
+      "endMs": 756560,
+      "verbatim": "It's just gonna straight up murder you because that's what it does.",
+      "display": "It's just gonna straight up murder you because that's what it does.",
+      "search": "it's just gonna straight up murder you because that's what it does.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:161",
+      "startMs": 756560,
+      "endMs": 759200,
+      "verbatim": "Hey, because it's the safest of all the models, okay?",
+      "display": "Hey, because it's the safest of all the models, okay?",
+      "search": "hey, because it's the safest of all the models, okay?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:162",
+      "startMs": 759200,
+      "endMs": 761040,
+      "verbatim": "That's what the safe models do.",
+      "display": "That's what the safe models do.",
+      "search": "that's what the safe models do.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:163",
+      "startMs": 761040,
+      "endMs": 762160,
+      "verbatim": "They murder you.",
+      "display": "They murder you.",
+      "search": "they murder you.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:164",
+      "startMs": 762160,
+      "endMs": 784720,
+      "verbatim": "All right, so taking all of those things into account, the fact that they did adversarial behavior against uh questions about LLM training and being able to do ML pipelines, the fact that they did dumbing down of models if you did security requests, the fact that Dario has always been opposed to open source, and this entire time they've been talking about how politicians need to get involved and AI needs to get regulated.",
+      "display": "All right, so taking all of those things into account, the fact that they did adversarial behavior against uh questions about LLM training and being able to do ML pipelines, the fact that they did dumbing down of models if you did security requests, the fact that Dario has always been opposed to open source, and this entire time they've been talking about how politicians need to get involved and AI needs to get regulated.",
+      "search": "all right, so taking all of those things into account, the fact that they did adversarial behavior against uh questions about llm training and being able to do ml pipelines, the fact that they did dumbing down of models if you did security requests, the fact that dario has always been opposed to open source, and this entire time they've been talking about how politicians need to get involved and ai needs to get regulated.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:165",
+      "startMs": 784720,
+      "endMs": 789040,
+      "verbatim": "When all of this is happening, this actually made Dario super happy.",
+      "display": "When all of this is happening, this actually made Dario super happy.",
+      "search": "when all of this is happening, this actually made dario super happy.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:166",
+      "startMs": 789040,
+      "endMs": 794800,
+      "verbatim": "Because now all of the politicians are now thinking, oh my gosh, we need to do something about AI.",
+      "display": "Because now all of the politicians are now thinking, oh my gosh, we need to do something about AI.",
+      "search": "because now all of the politicians are now thinking, oh my gosh, we need to do something about ai.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:167",
+      "startMs": 794800,
+      "endMs": 797040,
+      "verbatim": "The president did something about AI.",
+      "display": "The president did something about AI.",
+      "search": "the president did something about ai.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:168",
+      "startMs": 797040,
+      "endMs": 800000,
+      "verbatim": "We better start doing something about AI.",
+      "display": "We better start doing something about AI.",
+      "search": "we better start doing something about ai.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:169",
+      "startMs": 800000,
+      "endMs": 806480,
+      "verbatim": "In other words, Dario would like to pull up the ladder because ultimately what he thinks is he thinks he's number one.",
+      "display": "In other words, Dario would like to pull up the ladder because ultimately what he thinks is he thinks he's number one.",
+      "search": "in other words, dario would like to pull up the ladder because ultimately what he thinks is he thinks he's number one.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:170",
+      "startMs": 806480,
+      "endMs": 808400,
+      "verbatim": "He's the guy that should be in control.",
+      "display": "He's the guy that should be in control.",
+      "search": "he's the guy that should be in control.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:171",
+      "startMs": 808400,
+      "endMs": 829200,
+      "verbatim": "And if he can put really tight and strict government regulations around the creation and use of AI, especially open source AI, such that all requests have to flow through just say a couple guys or ultimately just his company, he will be able to be the arbiter of safety while the rest of us, you know, we can go about our very, very safe life.",
+      "display": "And if he can put really tight and strict government regulations around the creation and use of AI, especially open source AI, such that all requests have to flow through just say a couple guys or ultimately just his company, he will be able to be the arbiter of safety while the rest of us, you know, we can go about our very, very safe life.",
+      "search": "and if he can put really tight and strict government regulations around the creation and use of ai, especially open source ai, such that all requests have to flow through just say a couple guys or ultimately just his company, he will be able to be the arbiter of safety while the rest of us, you know, we can go about our very, very safe life.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:172",
+      "startMs": 829200,
+      "endMs": 830080,
+      "verbatim": "And you can see this.",
+      "display": "And you can see this.",
+      "search": "and you can see this.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:173",
+      "startMs": 830080,
+      "endMs": 832560,
+      "verbatim": "This is why he refused to hold Sam's hand.",
+      "display": "This is why he refused to hold Sam's hand.",
+      "search": "this is why he refused to hold sam's hand.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:174",
+      "startMs": 832560,
+      "endMs": 834800,
+      "verbatim": "He thinks Sam's evil, he thinks he's the good guy.",
+      "display": "He thinks Sam's evil, he thinks he's the good guy.",
+      "search": "he thinks sam's evil, he thinks he's the good guy.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:175",
+      "startMs": 834800,
+      "endMs": 841040,
+      "verbatim": "So I think this is the most reasonable conspiracy theory, which is that Dario wants government regulation.",
+      "display": "So I think this is the most reasonable conspiracy theory, which is that Dario wants government regulation.",
+      "search": "so i think this is the most reasonable conspiracy theory, which is that dario wants government regulation.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:176",
+      "startMs": 841040,
+      "endMs": 855040,
+      "verbatim": "Dario wants to put the fear of AI into every politician's brain and every American person, such that when people hear the word AI, they get an uncomfortable and kind of feel to the point where they're like, oh, we should do something about that.",
+      "display": "Dario wants to put the fear of AI into every politician's brain and every American person, such that when people hear the word AI, they get an uncomfortable and kind of feel to the point where they're like, oh, we should do something about that.",
+      "search": "dario wants to put the fear of ai into every politician's brain and every american person, such that when people hear the word ai, they get an uncomfortable and kind of feel to the point where they're like, oh, we should do something about that.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:177",
+      "startMs": 855040,
+      "endMs": 856320,
+      "verbatim": "We should definitely regulate this.",
+      "display": "We should definitely regulate this.",
+      "search": "we should definitely regulate this.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:178",
+      "startMs": 856320,
+      "endMs": 859760,
+      "verbatim": "Like, there's people out there, there's there's open source stuff out there.",
+      "display": "Like, there's people out there, there's there's open source stuff out there.",
+      "search": "like, there's people out there, there's there's open source stuff out there.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:179",
+      "startMs": 859760,
+      "endMs": 863920,
+      "verbatim": "People are running these AIs on their machine.",
+      "display": "People are running these AIs on their machine.",
+      "search": "people are running these ais on their machine.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:180",
+      "startMs": 863920,
+      "endMs": 867280,
+      "verbatim": "People can just ask questions unfettered.",
+      "display": "People can just ask questions unfettered.",
+      "search": "people can just ask questions unfettered.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:181",
+      "startMs": 867280,
+      "endMs": 872000,
+      "verbatim": "All you have to do is have a few GPUs and you could make a nuclear bomb.",
+      "display": "All you have to do is have a few GPUs and you could make a nuclear bomb.",
+      "search": "all you have to do is have a few gpus and you could make a nuclear bomb.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:182",
+      "startMs": 872000,
+      "endMs": 875120,
+      "verbatim": "Yes, I said the word nuclear incorrectly.",
+      "display": "Yes, I said the word nuclear incorrectly.",
+      "search": "yes, i said the word nuclear incorrectly.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:183",
+      "startMs": 875120,
+      "endMs": 884080,
+      "verbatim": "Anyways, those are the three and a half theories that I think are most likely the reason why we are seeing the regulation and the government shutting things down is that's what I think is actually happening.",
+      "display": "Anyways, those are the three and a half theories that I think are most likely the reason why we are seeing the regulation and the government shutting things down is that's what I think is actually happening.",
+      "search": "anyways, those are the three and a half theories that i think are most likely the reason why we are seeing the regulation and the government shutting things down is that's what i think is actually happening.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:184",
+      "startMs": 884080,
+      "endMs": 894000,
+      "verbatim": "Now, whether or not any of this is true, we'll probably never know, or we'll know shortly when regulation drops and Dario's super happy and a bunch of companies go out of business and you can no longer run open source models.",
+      "display": "Now, whether or not any of this is true, we'll probably never know, or we'll know shortly when regulation drops and Dario's super happy and a bunch of companies go out of business and you can no longer run open source models.",
+      "search": "now, whether or not any of this is true, we'll probably never know, or we'll know shortly when regulation drops and dario's super happy and a bunch of companies go out of business and you can no longer run open source models.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:jJbelC85zic:segment:185",
+      "startMs": 894000,
+      "endMs": 898000,
+      "verbatim": "But until then, the name is the Primatin.",
+      "display": "But until then, the name is the Primatin.",
+      "search": "but until then, the name is the primatin.",
+      "confidence": 0.652
+    }
+  ]
+}

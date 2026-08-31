@@ -1,0 +1,1571 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_7937e409f7ab81a62b8e85f0",
+  "sourceId": "youtube:OOCepY3H8k4",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:17:23.390Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:1",
+      "startMs": 160,
+      "endMs": 2960,
+      "verbatim": "The meta situation is actually somehow worse.",
+      "display": "The meta situation is actually somehow worse.",
+      "search": "the meta situation is actually somehow worse.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:2",
+      "startMs": 2960,
+      "endMs": 10080,
+      "verbatim": "For those that don't know anything about meta, Facebook, or the Instagram situation, let me just give you a quick uh speed run of its history.",
+      "display": "For those that don't know anything about meta, Facebook, or the Instagram situation, let me just give you a quick uh speed run of its history.",
+      "search": "for those that don't know anything about meta, facebook, or the instagram situation, let me just give you a quick uh speed run of its history.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:3",
+      "startMs": 10080,
+      "endMs": 23760,
+      "verbatim": "Facebook went super hard in VR, then found out, yo, VR's not actually where it's at, it's all about AI, and then decided that it's going to fire roughly 10% of its company or 8,000 employees and focus super hard on AI.",
+      "display": "Facebook went super hard in VR, then found out, yo, VR's not actually where it's at, it's all about AI, and then decided that it's going to fire roughly 10% of its company or 8,000 employees and focus super hard on AI.",
+      "search": "facebook went super hard in vr, then found out, yo, vr's not actually where it's at, it's all about ai, and then decided that it's going to fire roughly 10% of its company or 8,000 employees and focus super hard on ai.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:4",
+      "startMs": 23760,
+      "endMs": 31040,
+      "verbatim": "And a part of that focusing super hard on AI, it's going to record everybody's desktop and everything you do, and then feed that to the AI.",
+      "display": "And a part of that focusing super hard on AI, it's going to record everybody's desktop and everything you do, and then feed that to the AI.",
+      "search": "and a part of that focusing super hard on ai, it's going to record everybody's desktop and everything you do, and then feed that to the ai.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:5",
+      "startMs": 31040,
+      "endMs": 41920,
+      "verbatim": "Not only that, it's going to create a new organization applied AI where it's going to put approximately 10% of the company into it, where they're going to help train and make the next generation of AI.",
+      "display": "Not only that, it's going to create a new organization applied AI where it's going to put approximately 10% of the company into it, where they're going to help train and make the next generation of AI.",
+      "search": "not only that, it's going to create a new organization applied ai where it's going to put approximately 10% of the company into it, where they're going to help train and make the next generation of ai.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:6",
+      "startMs": 41920,
+      "endMs": 49440,
+      "verbatim": "Of course, during all this, Zuckerberg on a phone call called everybody super highly intelligent, the most high IQ people in the valley.",
+      "display": "Of course, during all this, Zuckerberg on a phone call called everybody super highly intelligent, the most high IQ people in the valley.",
+      "search": "of course, during all this, zuckerberg on a phone call called everybody super highly intelligent, the most high iq people in the valley.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:7",
+      "startMs": 49440,
+      "endMs": 58320,
+      "verbatim": "And then after saying all of that, said that the reason why they're recording your desktop but not telling you why is because it's for your own best interest.",
+      "display": "And then after saying all of that, said that the reason why they're recording your desktop but not telling you why is because it's for your own best interest.",
+      "search": "and then after saying all of that, said that the reason why they're recording your desktop but not telling you why is because it's for your own best interest.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:8",
+      "startMs": 58320,
+      "endMs": 65120,
+      "verbatim": "Not strategically in your interest for us to communicate everything like in all the detail that we normally would on this.",
+      "display": "Not strategically in your interest for us to communicate everything like in all the detail that we normally would on this.",
+      "search": "not strategically in your interest for us to communicate everything like in all the detail that we normally would on this.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:9",
+      "startMs": 65120,
+      "endMs": 67440,
+      "verbatim": "But now the internals are coming out.",
+      "display": "But now the internals are coming out.",
+      "search": "but now the internals are coming out.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:10",
+      "startMs": 67440,
+      "endMs": 72400,
+      "verbatim": "Employees are coming forward and speaking about what's actually going on inside of Facebook.",
+      "display": "Employees are coming forward and speaking about what's actually going on inside of Facebook.",
+      "search": "employees are coming forward and speaking about what's actually going on inside of facebook.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:11",
+      "startMs": 72800,
+      "endMs": 74000,
+      "verbatim": "It does not look good.",
+      "display": "It does not look good.",
+      "search": "it does not look good.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:12",
+      "startMs": 74000,
+      "endMs": 75440,
+      "verbatim": "It does not look good at all.",
+      "display": "It does not look good at all.",
+      "search": "it does not look good at all.",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:13",
+      "startMs": 75440,
+      "endMs": 84880,
+      "verbatim": "In fact, this is somehow the least bad thing coming out of Facebook, which is they just shipped JSON that's not even parsable to production.",
+      "display": "In fact, this is somehow the least bad thing coming out of Facebook, which is they just shipped JSON that's not even parsable to production.",
+      "search": "in fact, this is somehow the least bad thing coming out of facebook, which is they just shipped json that's not even parsable to production.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:14",
+      "startMs": 84880,
+      "endMs": 90640,
+      "verbatim": "The golden age of slop has arrived and it's happening right now live at Facebook.",
+      "display": "The golden age of slop has arrived and it's happening right now live at Facebook.",
+      "search": "the golden age of slop has arrived and it's happening right now live at facebook.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:15",
+      "startMs": 90640,
+      "endMs": 94320,
+      "verbatim": "But the internal employee morale is even worse than this.",
+      "display": "But the internal employee morale is even worse than this.",
+      "search": "but the internal employee morale is even worse than this.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:16",
+      "startMs": 94320,
+      "endMs": 100880,
+      "verbatim": "Like, imagine working at a place where they're like, you ain't got time to set up a CI CD pipeline to make sure JSON parses.",
+      "display": "Like, imagine working at a place where they're like, you ain't got time to set up a CI CD pipeline to make sure JSON parses.",
+      "search": "like, imagine working at a place where they're like, you ain't got time to set up a ci cd pipeline to make sure json parses.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:17",
+      "startMs": 100880,
+      "endMs": 102560,
+      "verbatim": "That's where we're at.",
+      "display": "That's where we're at.",
+      "search": "that's where we're at.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:18",
+      "startMs": 102560,
+      "endMs": 105120,
+      "verbatim": "But first, I'd like to say a quick thank you to the sponsors.",
+      "display": "But first, I'd like to say a quick thank you to the sponsors.",
+      "search": "but first, i'd like to say a quick thank you to the sponsors.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:19",
+      "startMs": 105120,
+      "endMs": 107280,
+      "verbatim": "Hey, is that HTTP?",
+      "display": "Hey, is that HTTP?",
+      "search": "hey, is that http?",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:20",
+      "startMs": 107280,
+      "endMs": 108400,
+      "verbatim": "Get that out of here.",
+      "display": "Get that out of here.",
+      "search": "get that out of here.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:21",
+      "startMs": 108400,
+      "endMs": 110000,
+      "verbatim": "That's not how we order coffee.",
+      "display": "That's not how we order coffee.",
+      "search": "that's not how we order coffee.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:22",
+      "startMs": 110000,
+      "endMs": 112960,
+      "verbatim": "We order coffee via SSH terminal.shop.",
+      "display": "We order coffee via SSH terminal.shop.",
+      "search": "we order coffee via ssh terminal.shop.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:23",
+      "startMs": 112960,
+      "endMs": 114480,
+      "verbatim": "Yeah, you want a real experience?",
+      "display": "Yeah, you want a real experience?",
+      "search": "yeah, you want a real experience?",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:24",
+      "startMs": 114480,
+      "endMs": 115840,
+      "verbatim": "You want real coffee?",
+      "display": "You want real coffee?",
+      "search": "you want real coffee?",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:25",
+      "startMs": 115840,
+      "endMs": 119040,
+      "verbatim": "You want awesome subscriptions so you never have to remember again?",
+      "display": "You want awesome subscriptions so you never have to remember again?",
+      "search": "you want awesome subscriptions so you never have to remember again?",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:26",
+      "startMs": 119040,
+      "endMs": 124560,
+      "verbatim": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "display": "Oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "search": "oh, you want exclusive blends with exclusive coffee and exclusive content?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:27",
+      "startMs": 124560,
+      "endMs": 125760,
+      "verbatim": "Then check out Cron.",
+      "display": "Then check out Cron.",
+      "search": "then check out cron.",
+      "confidence": 0.703
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:28",
+      "startMs": 125760,
+      "endMs": 127280,
+      "verbatim": "You don't know what SSH is?",
+      "display": "You don't know what SSH is?",
+      "search": "you don't know what ssh is?",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:29",
+      "startMs": 128080,
+      "endMs": 130480,
+      "verbatim": "Well, maybe the coffee is not for you.",
+      "display": "Well, maybe the coffee is not for you.",
+      "search": "well, maybe the coffee is not for you.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:30",
+      "startMs": 130640,
+      "endMs": 138800,
+      "verbatim": "Terminal coffee in hand live in the dream.",
+      "display": "Terminal coffee in hand live in the dream.",
+      "search": "terminal coffee in hand live in the dream.",
+      "confidence": 0.455
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:31",
+      "startMs": 138800,
+      "endMs": 139600,
+      "verbatim": "Alright, thank you.",
+      "display": "Alright, thank you.",
+      "search": "alright, thank you.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:32",
+      "startMs": 139600,
+      "endMs": 141600,
+      "verbatim": "The best way to support the channel, check out the sponsors.",
+      "display": "The best way to support the channel, check out the sponsors.",
+      "search": "the best way to support the channel, check out the sponsors.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:33",
+      "startMs": 141600,
+      "endMs": 142800,
+      "verbatim": "Links down in the description.",
+      "display": "Links down in the description.",
+      "search": "links down in the description.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:34",
+      "startMs": 142800,
+      "endMs": 144320,
+      "verbatim": "Okay, so welcome back.",
+      "display": "Okay, so welcome back.",
+      "search": "okay, so welcome back.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:35",
+      "startMs": 144320,
+      "endMs": 145600,
+      "verbatim": "Let's talk about this.",
+      "display": "Let's talk about this.",
+      "search": "let's talk about this.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:36",
+      "startMs": 145600,
+      "endMs": 148800,
+      "verbatim": "We're gonna look at this by looking at what the employees are saying.",
+      "display": "We're gonna look at this by looking at what the employees are saying.",
+      "search": "we're gonna look at this by looking at what the employees are saying.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:37",
+      "startMs": 148800,
+      "endMs": 155760,
+      "verbatim": "I am going to both laugh at the situation and make fun of an employee or two for this because they describe things rather ridiculously.",
+      "display": "I am going to both laugh at the situation and make fun of an employee or two for this because they describe things rather ridiculously.",
+      "search": "i am going to both laugh at the situation and make fun of an employee or two for this because they describe things rather ridiculously.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:38",
+      "startMs": 155760,
+      "endMs": 167760,
+      "verbatim": "But then we're gonna look at how the company is talking about it, how the management is talking about it, which is also somehow super ridiculous, and is even more nuts than how the employees look at it.",
+      "display": "But then we're gonna look at how the company is talking about it, how the management is talking about it, which is also somehow super ridiculous, and is even more nuts than how the employees look at it.",
+      "search": "but then we're gonna look at how the company is talking about it, how the management is talking about it, which is also somehow super ridiculous, and is even more nuts than how the employees look at it.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:39",
+      "startMs": 167760,
+      "endMs": 169920,
+      "verbatim": "Now, a lot of this information comes from the Wired article.",
+      "display": "Now, a lot of this information comes from the Wired article.",
+      "search": "now, a lot of this information comes from the wired article.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:40",
+      "startMs": 169920,
+      "endMs": 170800,
+      "verbatim": "You gotta go check it out.",
+      "display": "You gotta go check it out.",
+      "search": "you gotta go check it out.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:41",
+      "startMs": 170800,
+      "endMs": 172080,
+      "verbatim": "It's linked in the description.",
+      "display": "It's linked in the description.",
+      "search": "it's linked in the description.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:42",
+      "startMs": 172080,
+      "endMs": 175600,
+      "verbatim": "But it starts off with the title of Tell Him He's a Piece of Shit.",
+      "display": "But it starts off with the title of Tell Him He's a Piece of Shit.",
+      "search": "but it starts off with the title of tell him he's a piece of shit.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:43",
+      "startMs": 175600,
+      "endMs": 178160,
+      "verbatim": "Meta's new AI unit is a total mess.",
+      "display": "Meta's new AI unit is a total mess.",
+      "search": "meta's new ai unit is a total mess.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:44",
+      "startMs": 178160,
+      "endMs": 180080,
+      "verbatim": "Yes, it is absolutely a total mess.",
+      "display": "Yes, it is absolutely a total mess.",
+      "search": "yes, it is absolutely a total mess.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:45",
+      "startMs": 180080,
+      "endMs": 193760,
+      "verbatim": "So now that that little quote, that little line comes from actually a live town hall in which thousands of employees were all in a single meeting video call with some presenters going over some sort of information.",
+      "display": "So now that that little quote, that little line comes from actually a live town hall in which thousands of employees were all in a single meeting video call with some presenters going over some sort of information.",
+      "search": "so now that that little quote, that little line comes from actually a live town hall in which thousands of employees were all in a single meeting video call with some presenters going over some sort of information.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:46",
+      "startMs": 193760,
+      "endMs": 204080,
+      "verbatim": "Someone just joins, flips on a mic, goes hot mic, and is just lets out a four-letter rant for the ages, finishing up with, hey, you know the meta AI executives?",
+      "display": "Someone just joins, flips on a mic, goes hot mic, and is just lets out a four-letter rant for the ages, finishing up with, hey, you know the meta AI executives?",
+      "search": "someone just joins, flips on a mic, goes hot mic, and is just lets out a four-letter rant for the ages, finishing up with, hey, you know the meta ai executives?",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:47",
+      "startMs": 204080,
+      "endMs": 207120,
+      "verbatim": "Yo, go tell go tell him he's a piece of shit.",
+      "display": "Yo, go tell go tell him he's a piece of shit.",
+      "search": "yo, go tell go tell him he's a piece of shit.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:48",
+      "startMs": 207120,
+      "endMs": 215280,
+      "verbatim": "Imagine being in that call because the presenters, it even says one of the presenters covered their faces with their hands, according to a witness.",
+      "display": "Imagine being in that call because the presenters, it even says one of the presenters covered their faces with their hands, according to a witness.",
+      "search": "imagine being in that call because the presenters, it even says one of the presenters covered their faces with their hands, according to a witness.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:49",
+      "startMs": 215280,
+      "endMs": 217120,
+      "verbatim": "Of course, you know why they are covering their faces.",
+      "display": "Of course, you know why they are covering their faces.",
+      "search": "of course, you know why they are covering their faces.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:50",
+      "startMs": 217120,
+      "endMs": 218400,
+      "verbatim": "They're laughing, okay?",
+      "display": "They're laughing, okay?",
+      "search": "they're laughing, okay?",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:51",
+      "startMs": 218400,
+      "endMs": 224640,
+      "verbatim": "You can't you can't be showing all the people that you're laughing at some profanity-laced uh AI rant, especially when you're the one presenting.",
+      "display": "You can't you can't be showing all the people that you're laughing at some profanity-laced uh AI rant, especially when you're the one presenting.",
+      "search": "you can't you can't be showing all the people that you're laughing at some profanity-laced uh ai rant, especially when you're the one presenting.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:52",
+      "startMs": 224640,
+      "endMs": 227520,
+      "verbatim": "You just gotta you just gotta cover your face and pretend it doesn't happen.",
+      "display": "You just gotta you just gotta cover your face and pretend it doesn't happen.",
+      "search": "you just gotta you just gotta cover your face and pretend it doesn't happen.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:53",
+      "startMs": 227520,
+      "endMs": 233440,
+      "verbatim": "So, what's happening is since April, a new org has been formed in which about 6,500 employees have joined.",
+      "display": "So, what's happening is since April, a new org has been formed in which about 6,500 employees have joined.",
+      "search": "so, what's happening is since april, a new org has been formed in which about 6,500 employees have joined.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:54",
+      "startMs": 233440,
+      "endMs": 238880,
+      "verbatim": "Now they have joined in waves, and it's described as this the organization has grown in batches since early April.",
+      "display": "Now they have joined in waves, and it's described as this the organization has grown in batches since early April.",
+      "search": "now they have joined in waves, and it's described as this the organization has grown in batches since early april.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:55",
+      "startMs": 238880,
+      "endMs": 244080,
+      "verbatim": "It's crazy to watch people experience the shock of it as each wave comes in.",
+      "display": "It's crazy to watch people experience the shock of it as each wave comes in.",
+      "search": "it's crazy to watch people experience the shock of it as each wave comes in.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:56",
+      "startMs": 244080,
+      "endMs": 248560,
+      "verbatim": "So this organization is not necessarily known for being fantastic.",
+      "display": "So this organization is not necessarily known for being fantastic.",
+      "search": "so this organization is not necessarily known for being fantastic.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:57",
+      "startMs": 248560,
+      "endMs": 253280,
+      "verbatim": "So, what's actually happening is that they're taking all of their talented engineers, right?",
+      "display": "So, what's actually happening is that they're taking all of their talented engineers, right?",
+      "search": "so, what's actually happening is that they're taking all of their talented engineers, right?",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:58",
+      "startMs": 253280,
+      "endMs": 264400,
+      "verbatim": "These really top talented, the best, the most intelligent engineers that are possible at Facebook, and they're assembling them into this team, and they're given about two tasks per week to finish.",
+      "display": "These really top talented, the best, the most intelligent engineers that are possible at Facebook, and they're assembling them into this team, and they're given about two tasks per week to finish.",
+      "search": "these really top talented, the best, the most intelligent engineers that are possible at facebook, and they're assembling them into this team, and they're given about two tasks per week to finish.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:59",
+      "startMs": 264400,
+      "endMs": 273680,
+      "verbatim": "And these tasks they involve generating complex software coding problems to help AI scientists better train and evaluate the performance of the latest frontier models.",
+      "display": "And these tasks they involve generating complex software coding problems to help AI scientists better train and evaluate the performance of the latest frontier models.",
+      "search": "and these tasks they involve generating complex software coding problems to help ai scientists better train and evaluate the performance of the latest frontier models.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:60",
+      "startMs": 273680,
+      "endMs": 292000,
+      "verbatim": "Meaning they're not actually solving or building anything real, they're coming up with toy examples, toy coding problems, and actually like using their collective power of thousands of engineers to create the ideal coding examples to train the AI.",
+      "display": "Meaning they're not actually solving or building anything real, they're coming up with toy examples, toy coding problems, and actually like using their collective power of thousands of engineers to create the ideal coding examples to train the AI.",
+      "search": "meaning they're not actually solving or building anything real, they're coming up with toy examples, toy coding problems, and actually like using their collective power of thousands of engineers to create the ideal coding examples to train the ai.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:61",
+      "startMs": 292000,
+      "endMs": 307120,
+      "verbatim": "So that means that employees not only are they getting their screens recorded, which by the way, just in case you're wondering, the screen recording, the company has scaled the program back slightly, allowing employees to pause the data collection for up to 30 minutes and request specific exemptions.",
+      "display": "So that means that employees not only are they getting their screens recorded, which by the way, just in case you're wondering, the screen recording, the company has scaled the program back slightly, allowing employees to pause the data collection for up to 30 minutes and request specific exemptions.",
+      "search": "so that means that employees not only are they getting their screens recorded, which by the way, just in case you're wondering, the screen recording, the company has scaled the program back slightly, allowing employees to pause the data collection for up to 30 minutes and request specific exemptions.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:62",
+      "startMs": 307120,
+      "endMs": 315280,
+      "verbatim": "So just in case they want to do a little bit of Twitter following or whatever, or whatever goes on for 30 minutes on an employee uh laptop that I do not care to uh want to know.",
+      "display": "So just in case they want to do a little bit of Twitter following or whatever, or whatever goes on for 30 minutes on an employee uh laptop that I do not care to uh want to know.",
+      "search": "so just in case they want to do a little bit of twitter following or whatever, or whatever goes on for 30 minutes on an employee uh laptop that i do not care to uh want to know.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:63",
+      "startMs": 315280,
+      "endMs": 320000,
+      "verbatim": "They're just asking for some exemptions, and Facebook has granted it in their infinite wisdom.",
+      "display": "They're just asking for some exemptions, and Facebook has granted it in their infinite wisdom.",
+      "search": "they're just asking for some exemptions, and facebook has granted it in their infinite wisdom.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:64",
+      "startMs": 320000,
+      "endMs": 330800,
+      "verbatim": "Facebook is not only recording the desktops, they have thousands of people handcrafting curated beautiful coding challenges to make the greatest coding robot of all time.",
+      "display": "Facebook is not only recording the desktops, they have thousands of people handcrafting curated beautiful coding challenges to make the greatest coding robot of all time.",
+      "search": "facebook is not only recording the desktops, they have thousands of people handcrafting curated beautiful coding challenges to make the greatest coding robot of all time.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:65",
+      "startMs": 330800,
+      "endMs": 334320,
+      "verbatim": "Like they are literally hiring and making it explicit.",
+      "display": "Like they are literally hiring and making it explicit.",
+      "search": "like they are literally hiring and making it explicit.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:66",
+      "startMs": 334320,
+      "endMs": 339600,
+      "verbatim": "They're trying to figure out a way to replace employees, and all these employees work on it.",
+      "display": "They're trying to figure out a way to replace employees, and all these employees work on it.",
+      "search": "they're trying to figure out a way to replace employees, and all these employees work on it.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:67",
+      "startMs": 339600,
+      "endMs": 342640,
+      "verbatim": "They're they're they're actually trying their darndest.",
+      "display": "They're they're they're actually trying their darndest.",
+      "search": "they're they're they're actually trying their darndest.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:68",
+      "startMs": 342640,
+      "endMs": 344880,
+      "verbatim": "But how do the engineers feel about this?",
+      "display": "But how do the engineers feel about this?",
+      "search": "but how do the engineers feel about this?",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:69",
+      "startMs": 344880,
+      "endMs": 349040,
+      "verbatim": "Well, the engineers selected for the unit have no choice to join or leave the company.",
+      "display": "Well, the engineers selected for the unit have no choice to join or leave the company.",
+      "search": "well, the engineers selected for the unit have no choice to join or leave the company.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:70",
+      "startMs": 349040,
+      "endMs": 349440,
+      "verbatim": "That's right.",
+      "display": "That's right.",
+      "search": "that's right.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:71",
+      "startMs": 349440,
+      "endMs": 360880,
+      "verbatim": "And so if you were an engineer and you are working on, say, some social media feature for the billions of users of WhatsApp, Instagram, or Facebook, they say, Hey, by the way, you're in on the new program.",
+      "display": "And so if you were an engineer and you are working on, say, some social media feature for the billions of users of WhatsApp, Instagram, or Facebook, they say, Hey, by the way, you're in on the new program.",
+      "search": "and so if you were an engineer and you are working on, say, some social media feature for the billions of users of whatsapp, instagram, or facebook, they say, hey, by the way, you're in on the new program.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:72",
+      "startMs": 360880,
+      "endMs": 365040,
+      "verbatim": "And if you say, I don't want to be in on the new program, they're like, All right, then leave the company, idiot.",
+      "display": "And if you say, I don't want to be in on the new program, they're like, All right, then leave the company, idiot.",
+      "search": "and if you say, i don't want to be in on the new program, they're like, all right, then leave the company, idiot.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:73",
+      "startMs": 365040,
+      "endMs": 374000,
+      "verbatim": "An unusual requirement for highly valued technical employees in the Silicon Valley that's led some members of the applied AI to describe themselves as draftees.",
+      "display": "An unusual requirement for highly valued technical employees in the Silicon Valley that's led some members of the applied AI to describe themselves as draftees.",
+      "search": "an unusual requirement for highly valued technical employees in the silicon valley that's led some members of the applied ai to describe themselves as draftees.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:74",
+      "startMs": 374000,
+      "endMs": 379760,
+      "verbatim": "Yes, the employees are actually comparing themselves, like this is their Vietnam.",
+      "display": "Yes, the employees are actually comparing themselves, like this is their Vietnam.",
+      "search": "yes, the employees are actually comparing themselves, like this is their vietnam.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:75",
+      "startMs": 379760,
+      "endMs": 385200,
+      "verbatim": "They're like, bro, it's V- I actually can't even say that with a straight face.",
+      "display": "They're like, bro, it's V- I actually can't even say that with a straight face.",
+      "search": "they're like, bro, it's v- i actually can't even say that with a straight face.",
+      "confidence": 0.69
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:76",
+      "startMs": 385200,
+      "endMs": 386480,
+      "verbatim": "It's so ridiculous.",
+      "display": "It's so ridiculous.",
+      "search": "it's so ridiculous.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:77",
+      "startMs": 386480,
+      "endMs": 392000,
+      "verbatim": "Like they're actually being forced into this thing or being fired, and they're calling themselves draftees.",
+      "display": "Like they're actually being forced into this thing or being fired, and they're calling themselves draftees.",
+      "search": "like they're actually being forced into this thing or being fired, and they're calling themselves draftees.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:78",
+      "startMs": 392000,
+      "endMs": 393440,
+      "verbatim": "It is.",
+      "display": "It is.",
+      "search": "it is.",
+      "confidence": 0.347
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:79",
+      "startMs": 393440,
+      "endMs": 396400,
+      "verbatim": "It is absolute cinema over there.",
+      "display": "It is absolute cinema over there.",
+      "search": "it is absolute cinema over there.",
+      "confidence": 0.72
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:80",
+      "startMs": 396400,
+      "endMs": 400640,
+      "verbatim": "This of course led to one employee saying, It's literally the gulag.",
+      "display": "This of course led to one employee saying, It's literally the gulag.",
+      "search": "this of course led to one employee saying, it's literally the gulag.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:81",
+      "startMs": 400640,
+      "endMs": 403200,
+      "verbatim": "You have zero purpose in life all of a sudden.",
+      "display": "You have zero purpose in life all of a sudden.",
+      "search": "you have zero purpose in life all of a sudden.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:82",
+      "startMs": 403200,
+      "endMs": 407360,
+      "verbatim": "You barely interact with anyone, you just have these tasks every week.",
+      "display": "You barely interact with anyone, you just have these tasks every week.",
+      "search": "you barely interact with anyone, you just have these tasks every week.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:83",
+      "startMs": 407360,
+      "endMs": 409520,
+      "verbatim": "Now, I do admit that does sound awful.",
+      "display": "Now, I do admit that does sound awful.",
+      "search": "now, i do admit that does sound awful.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:84",
+      "startMs": 409520,
+      "endMs": 430160,
+      "verbatim": "That does not sound like some kind of fulfilling job where you're just simply trying to develop whatever the coding challenge is that you have to develop, and you're just kind of answering to this amorphous blob of AI scientists in which you have no light into, you have no real meaning or impact at your job, you have no idea if you're affecting anybody or nobody, and you actually don't even know if you're training your replacement or not.",
+      "display": "That does not sound like some kind of fulfilling job where you're just simply trying to develop whatever the coding challenge is that you have to develop, and you're just kind of answering to this amorphous blob of AI scientists in which you have no light into, you have no real meaning or impact at your job, you have no idea if you're affecting anybody or nobody, and you actually don't even know if you're training your replacement or not.",
+      "search": "that does not sound like some kind of fulfilling job where you're just simply trying to develop whatever the coding challenge is that you have to develop, and you're just kind of answering to this amorphous blob of ai scientists in which you have no light into, you have no real meaning or impact at your job, you have no idea if you're affecting anybody or nobody, and you actually don't even know if you're training your replacement or not.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:85",
+      "startMs": 430160,
+      "endMs": 431040,
+      "verbatim": "Like I get that.",
+      "display": "Like I get that.",
+      "search": "like i get that.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:86",
+      "startMs": 431040,
+      "endMs": 432800,
+      "verbatim": "That would not be that great.",
+      "display": "That would not be that great.",
+      "search": "that would not be that great.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:87",
+      "startMs": 432800,
+      "endMs": 437520,
+      "verbatim": "I would probably find myself pretty unhappy and probably applying around at some different jobs.",
+      "display": "I would probably find myself pretty unhappy and probably applying around at some different jobs.",
+      "search": "i would probably find myself pretty unhappy and probably applying around at some different jobs.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:88",
+      "startMs": 437520,
+      "endMs": 453600,
+      "verbatim": "But to describe it as a gulag, the gulag, just in case anybody is wondering, is best known for random beatings, brutalized torture, high amounts of starvation, absolute exposure to the elements, and lots of diseases and public defecation.",
+      "display": "But to describe it as a gulag, the gulag, just in case anybody is wondering, is best known for random beatings, brutalized torture, high amounts of starvation, absolute exposure to the elements, and lots of diseases and public defecation.",
+      "search": "but to describe it as a gulag, the gulag, just in case anybody is wondering, is best known for random beatings, brutalized torture, high amounts of starvation, absolute exposure to the elements, and lots of diseases and public defecation.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:89",
+      "startMs": 453600,
+      "endMs": 465680,
+      "verbatim": "Like it is, I hate to break this to you, but your sushi lunches and like not meaningful work is just not the same as a gulag.",
+      "display": "Like it is, I hate to break this to you, but your sushi lunches and like not meaningful work is just not the same as a gulag.",
+      "search": "like it is, i hate to break this to you, but your sushi lunches and like not meaningful work is just not the same as a gulag.",
+      "confidence": 0.769
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:90",
+      "startMs": 466000,
+      "endMs": 468560,
+      "verbatim": "I can't, or can't even believe it.",
+      "display": "I can't, or can't even believe it.",
+      "search": "i can't, or can't even believe it.",
+      "confidence": 0.648
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:91",
+      "startMs": 468560,
+      "endMs": 469280,
+      "verbatim": "I can't believe it.",
+      "display": "I can't believe it.",
+      "search": "i can't believe it.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:92",
+      "startMs": 469280,
+      "endMs": 473440,
+      "verbatim": "I can't believe I'm defending Facebook in this situation.",
+      "display": "I can't believe I'm defending Facebook in this situation.",
+      "search": "i can't believe i'm defending facebook in this situation.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:93",
+      "startMs": 473440,
+      "endMs": 479520,
+      "verbatim": "Another employees described some of these tasks, generating puzzles to test how reliable AI models from Meta and other companies can solve them.",
+      "display": "Another employees described some of these tasks, generating puzzles to test how reliable AI models from Meta and other companies can solve them.",
+      "search": "another employees described some of these tasks, generating puzzles to test how reliable ai models from meta and other companies can solve them.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:94",
+      "startMs": 479520,
+      "endMs": 483360,
+      "verbatim": "As easy as compared to software development work they had been doing previously.",
+      "display": "As easy as compared to software development work they had been doing previously.",
+      "search": "as easy as compared to software development work they had been doing previously.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:95",
+      "startMs": 483360,
+      "endMs": 488000,
+      "verbatim": "But the new projects feel menial, and almost all employees seem unhappy, they say.",
+      "display": "But the new projects feel menial, and almost all employees seem unhappy, they say.",
+      "search": "but the new projects feel menial, and almost all employees seem unhappy, they say.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:96",
+      "startMs": 488000,
+      "endMs": 491600,
+      "verbatim": "Most people find their work soul crushing, a third employee says.",
+      "display": "Most people find their work soul crushing, a third employee says.",
+      "search": "most people find their work soul crushing, a third employee says.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:97",
+      "startMs": 491600,
+      "endMs": 494240,
+      "verbatim": "Alright, I can't actually make fun of the employees anymore.",
+      "display": "Alright, I can't actually make fun of the employees anymore.",
+      "search": "alright, i can't actually make fun of the employees anymore.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:98",
+      "startMs": 494240,
+      "endMs": 497680,
+      "verbatim": "Like, I do understand that boring work can be really, really frustrating.",
+      "display": "Like, I do understand that boring work can be really, really frustrating.",
+      "search": "like, i do understand that boring work can be really, really frustrating.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:99",
+      "startMs": 497680,
+      "endMs": 506080,
+      "verbatim": "I do remember sitting in my car and actually being like, God, help me have the patience to do the work at my job, because I too worked at a soul crushing company for quite some time.",
+      "display": "I do remember sitting in my car and actually being like, God, help me have the patience to do the work at my job, because I too worked at a soul crushing company for quite some time.",
+      "search": "i do remember sitting in my car and actually being like, god, help me have the patience to do the work at my job, because i too worked at a soul crushing company for quite some time.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:100",
+      "startMs": 506080,
+      "endMs": 513040,
+      "verbatim": "And like, I in some sense I do get that feeling, but it does seem it does seem a little overblown there.",
+      "display": "And like, I in some sense I do get that feeling, but it does seem it does seem a little overblown there.",
+      "search": "and like, i in some sense i do get that feeling, but it does seem it does seem a little overblown there.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:101",
+      "startMs": 513040,
+      "endMs": 515760,
+      "verbatim": "But how is management responding to all this?",
+      "display": "But how is management responding to all this?",
+      "search": "but how is management responding to all this?",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:102",
+      "startMs": 515760,
+      "endMs": 528240,
+      "verbatim": "During a meeting this week to all employees at Instagram, Meta Chief Product Officer Chris Cox addressed the difficult and brutal environment created by the insanity of this company in the past few months, according to the recording heard by Wired.",
+      "display": "During a meeting this week to all employees at Instagram, Meta Chief Product Officer Chris Cox addressed the difficult and brutal environment created by the insanity of this company in the past few months, according to the recording heard by Wired.",
+      "search": "during a meeting this week to all employees at instagram, meta chief product officer chris cox addressed the difficult and brutal environment created by the insanity of this company in the past few months, according to the recording heard by wired.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:103",
+      "startMs": 528240,
+      "endMs": 541440,
+      "verbatim": "Cox applauded the Instagram employees for launching features and serving around two billion users amid what he compared to running a marathon in the middle of a hailstorm, and then, like, your teammates get replaced, and then we're recording you.",
+      "display": "Cox applauded the Instagram employees for launching features and serving around two billion users amid what he compared to running a marathon in the middle of a hailstorm, and then, like, your teammates get replaced, and then we're recording you.",
+      "search": "cox applauded the instagram employees for launching features and serving around two billion users amid what he compared to running a marathon in the middle of a hailstorm, and then, like, your teammates get replaced, and then we're recording you.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:104",
+      "startMs": 541440,
+      "endMs": 545280,
+      "verbatim": "I mean, hey, at least at least he's somewhat honest about this situation.",
+      "display": "I mean, hey, at least at least he's somewhat honest about this situation.",
+      "search": "i mean, hey, at least at least he's somewhat honest about this situation.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:105",
+      "startMs": 545280,
+      "endMs": 547360,
+      "verbatim": "But then you know what he says right afterwards?",
+      "display": "But then you know what he says right afterwards?",
+      "search": "but then you know what he says right afterwards?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:106",
+      "startMs": 547360,
+      "endMs": 550080,
+      "verbatim": "He gives a fantastic summary of AI.",
+      "display": "He gives a fantastic summary of AI.",
+      "search": "he gives a fantastic summary of ai.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:107",
+      "startMs": 550080,
+      "endMs": 557920,
+      "verbatim": "Cox said that he needed to reckon with how he and other leaders could get in touch with the company again and not be over earnest about the power of AI.",
+      "display": "Cox said that he needed to reckon with how he and other leaders could get in touch with the company again and not be over earnest about the power of AI.",
+      "search": "cox said that he needed to reckon with how he and other leaders could get in touch with the company again and not be over earnest about the power of ai.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:108",
+      "startMs": 557920,
+      "endMs": 560560,
+      "verbatim": "It is neither God nor it's the devil, he said.",
+      "display": "It is neither God nor it's the devil, he said.",
+      "search": "it is neither god nor it's the devil, he said.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:109",
+      "startMs": 560560,
+      "endMs": 568800,
+      "verbatim": "It's nowhere near as good as you think it is, and it's nowhere near as bad as you think it is, and it changes every day, and it doesn't know what day of the week it is.",
+      "display": "It's nowhere near as good as you think it is, and it's nowhere near as bad as you think it is, and it changes every day, and it doesn't know what day of the week it is.",
+      "search": "it's nowhere near as good as you think it is, and it's nowhere near as bad as you think it is, and it changes every day, and it doesn't know what day of the week it is.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:110",
+      "startMs": 568800,
+      "endMs": 570160,
+      "verbatim": "Hey, not bad, Chris Cox.",
+      "display": "Hey, not bad, Chris Cox.",
+      "search": "hey, not bad, chris cox.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:111",
+      "startMs": 570160,
+      "endMs": 570800,
+      "verbatim": "Good save.",
+      "display": "Good save.",
+      "search": "good save.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:112",
+      "startMs": 570800,
+      "endMs": 571920,
+      "verbatim": "But what is the company doing?",
+      "display": "But what is the company doing?",
+      "search": "but what is the company doing?",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:113",
+      "startMs": 571920,
+      "endMs": 575600,
+      "verbatim": "Now, this is, I think, the largest failure of this entire situation.",
+      "display": "Now, this is, I think, the largest failure of this entire situation.",
+      "search": "now, this is, i think, the largest failure of this entire situation.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:114",
+      "startMs": 575600,
+      "endMs": 576480,
+      "verbatim": "Okay, listen to this.",
+      "display": "Okay, listen to this.",
+      "search": "okay, listen to this.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:115",
+      "startMs": 576480,
+      "endMs": 581680,
+      "verbatim": "Zuckerberg reiterated a vow not to carry out additional mass layoffs this year.",
+      "display": "Zuckerberg reiterated a vow not to carry out additional mass layoffs this year.",
+      "search": "zuckerberg reiterated a vow not to carry out additional mass layoffs this year.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:116",
+      "startMs": 581680,
+      "endMs": 584960,
+      "verbatim": "Okay, so he's letting you know you got six months apiece.",
+      "display": "Okay, so he's letting you know you got six months apiece.",
+      "search": "okay, so he's letting you know you got six months apiece.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:117",
+      "startMs": 584960,
+      "endMs": 587760,
+      "verbatim": "By the way, just saying it that way is so nuts.",
+      "display": "By the way, just saying it that way is so nuts.",
+      "search": "by the way, just saying it that way is so nuts.",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:118",
+      "startMs": 587760,
+      "endMs": 592480,
+      "verbatim": "Like he's even he's saying, hey, we're gonna probably lay off more people, just not right now.",
+      "display": "Like he's even he's saying, hey, we're gonna probably lay off more people, just not right now.",
+      "search": "like he's even he's saying, hey, we're gonna probably lay off more people, just not right now.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:119",
+      "startMs": 592480,
+      "endMs": 601920,
+      "verbatim": "He introduced a plan to limit the number of employees per manager, which some teams, such as Applied AI, had deliberately ballooned to a ratio of 50 to one.",
+      "display": "He introduced a plan to limit the number of employees per manager, which some teams, such as Applied AI, had deliberately ballooned to a ratio of 50 to one.",
+      "search": "he introduced a plan to limit the number of employees per manager, which some teams, such as applied ai, had deliberately ballooned to a ratio of 50 to one.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:120",
+      "startMs": 601920,
+      "endMs": 603600,
+      "verbatim": "That's that number makes no sense.",
+      "display": "That's that number makes no sense.",
+      "search": "that's that number makes no sense.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:121",
+      "startMs": 603600,
+      "endMs": 610800,
+      "verbatim": "Like Jensen Huang doesn't even have that many, and he's considered the most unusual CEO of a company of all time.",
+      "display": "Like Jensen Huang doesn't even have that many, and he's considered the most unusual CEO of a company of all time.",
+      "search": "like jensen huang doesn't even have that many, and he's considered the most unusual ceo of a company of all time.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:122",
+      "startMs": 610800,
+      "endMs": 613840,
+      "verbatim": "Like, how does this even happen on a team?",
+      "display": "Like, how does this even happen on a team?",
+      "search": "like, how does this even happen on a team?",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:123",
+      "startMs": 613840,
+      "endMs": 618960,
+      "verbatim": "Like, how do you even organize or do anything with 50 direct reports?",
+      "display": "Like, how do you even organize or do anything with 50 direct reports?",
+      "search": "like, how do you even organize or do anything with 50 direct reports?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:124",
+      "startMs": 618960,
+      "endMs": 627040,
+      "verbatim": "So the big plan, of course, is more money for team events, which of course everybody knows team events is really what makes you happy, you know?",
+      "display": "So the big plan, of course, is more money for team events, which of course everybody knows team events is really what makes you happy, you know?",
+      "search": "so the big plan, of course, is more money for team events, which of course everybody knows team events is really what makes you happy, you know?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:125",
+      "startMs": 627040,
+      "endMs": 633440,
+      "verbatim": "Like, nothing's better than spending a little extra time at the office and getting something bougie out of it, right?",
+      "display": "Like, nothing's better than spending a little extra time at the office and getting something bougie out of it, right?",
+      "search": "like, nothing's better than spending a little extra time at the office and getting something bougie out of it, right?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:126",
+      "startMs": 633440,
+      "endMs": 635840,
+      "verbatim": "Like, that's that's what makes you a good employee.",
+      "display": "Like, that's that's what makes you a good employee.",
+      "search": "like, that's that's what makes you a good employee.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:127",
+      "startMs": 635840,
+      "endMs": 640960,
+      "verbatim": "And the other one, of course, is a hackathon designed to bring the company back together again.",
+      "display": "And the other one, of course, is a hackathon designed to bring the company back together again.",
+      "search": "and the other one, of course, is a hackathon designed to bring the company back together again.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:128",
+      "startMs": 640960,
+      "endMs": 644480,
+      "verbatim": "Now, let's not, we I don't think we have to think too hard about this one, okay?",
+      "display": "Now, let's not, we I don't think we have to think too hard about this one, okay?",
+      "search": "now, let's not, we i don't think we have to think too hard about this one, okay?",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:129",
+      "startMs": 644480,
+      "endMs": 647600,
+      "verbatim": "I think we could both see the problem with this.",
+      "display": "I think we could both see the problem with this.",
+      "search": "i think we could both see the problem with this.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:130",
+      "startMs": 647600,
+      "endMs": 664640,
+      "verbatim": "Now, imagine for a second, you're at a company in which you've been drafted into a new organization, you're doing menial work you're not happy about, you're getting a lot of tasks you feel like you have no insight into it, a bunch of your, you know, co-employees have all been fired.",
+      "display": "Now, imagine for a second, you're at a company in which you've been drafted into a new organization, you're doing menial work you're not happy about, you're getting a lot of tasks you feel like you have no insight into it, a bunch of your, you know, co-employees have all been fired.",
+      "search": "now, imagine for a second, you're at a company in which you've been drafted into a new organization, you're doing menial work you're not happy about, you're getting a lot of tasks you feel like you have no insight into it, a bunch of your, you know, co-employees have all been fired.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:131",
+      "startMs": 664640,
+      "endMs": 665840,
+      "verbatim": "So, what does management do?",
+      "display": "So, what does management do?",
+      "search": "so, what does management do?",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:132",
+      "startMs": 665840,
+      "endMs": 670240,
+      "verbatim": "Hey everybody, let's recreate Navy SEALs Hell Week.",
+      "display": "Hey everybody, let's recreate Navy SEALs Hell Week.",
+      "search": "hey everybody, let's recreate navy seals hell week.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:133",
+      "startMs": 670240,
+      "endMs": 680320,
+      "verbatim": "Except instead of trouncing through the ocean sand, we are instead going to be hacking on the products you already work on nonstop for a week.",
+      "display": "Except instead of trouncing through the ocean sand, we are instead going to be hacking on the products you already work on nonstop for a week.",
+      "search": "except instead of trouncing through the ocean sand, we are instead going to be hacking on the products you already work on nonstop for a week.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:134",
+      "startMs": 680320,
+      "endMs": 686720,
+      "verbatim": "We're gonna call it a hackathon, and then everybody's gonna get pizza and an award at the end of it.",
+      "display": "We're gonna call it a hackathon, and then everybody's gonna get pizza and an award at the end of it.",
+      "search": "we're gonna call it a hackathon, and then everybody's gonna get pizza and an award at the end of it.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:135",
+      "startMs": 686720,
+      "endMs": 691200,
+      "verbatim": "How do you not see that that's not gonna be a good idea?",
+      "display": "How do you not see that that's not gonna be a good idea?",
+      "search": "how do you not see that that's not gonna be a good idea?",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:136",
+      "startMs": 691200,
+      "endMs": 699600,
+      "verbatim": "Okay, like I am I am no Nostradamus, but hackathons aren't great when people feel burnt out.",
+      "display": "Okay, like I am I am no Nostradamus, but hackathons aren't great when people feel burnt out.",
+      "search": "okay, like i am i am no nostradamus, but hackathons aren't great when people feel burnt out.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:137",
+      "startMs": 699600,
+      "endMs": 702960,
+      "verbatim": "Okay, this is not a way to win the employees.",
+      "display": "Okay, this is not a way to win the employees.",
+      "search": "okay, this is not a way to win the employees.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:138",
+      "startMs": 702960,
+      "endMs": 710720,
+      "verbatim": "Anyways, I just thought this was so funny because we're watching in real time one of the largest companies on earth slowly implode in on itself.",
+      "display": "Anyways, I just thought this was so funny because we're watching in real time one of the largest companies on earth slowly implode in on itself.",
+      "search": "anyways, i just thought this was so funny because we're watching in real time one of the largest companies on earth slowly implode in on itself.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:139",
+      "startMs": 710720,
+      "endMs": 713280,
+      "verbatim": "Now, will it actually implode in on itself?",
+      "display": "Now, will it actually implode in on itself?",
+      "search": "now, will it actually implode in on itself?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:140",
+      "startMs": 713280,
+      "endMs": 714240,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:141",
+      "startMs": 714240,
+      "endMs": 718960,
+      "verbatim": "Right now, it's set on pace to exceed uh Google for ad revenue.",
+      "display": "Right now, it's set on pace to exceed uh Google for ad revenue.",
+      "search": "right now, it's set on pace to exceed uh google for ad revenue.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:142",
+      "startMs": 718960,
+      "endMs": 724000,
+      "verbatim": "It is, by all accounts, absolutely just making hand over fist money.",
+      "display": "It is, by all accounts, absolutely just making hand over fist money.",
+      "search": "it is, by all accounts, absolutely just making hand over fist money.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:143",
+      "startMs": 724000,
+      "endMs": 725760,
+      "verbatim": "So will it actually implode?",
+      "display": "So will it actually implode?",
+      "search": "so will it actually implode?",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:144",
+      "startMs": 725760,
+      "endMs": 729360,
+      "verbatim": "I don't know, but will it lose a lot of the top-tier talent?",
+      "display": "I don't know, but will it lose a lot of the top-tier talent?",
+      "search": "i don't know, but will it lose a lot of the top-tier talent?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:145",
+      "startMs": 729360,
+      "endMs": 737440,
+      "verbatim": "Likely, and now will that lead it into such a technical disaster that it has no other choice but people leaving the platform for somewhere else?",
+      "display": "Likely, and now will that lead it into such a technical disaster that it has no other choice but people leaving the platform for somewhere else?",
+      "search": "likely, and now will that lead it into such a technical disaster that it has no other choice but people leaving the platform for somewhere else?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:146",
+      "startMs": 737440,
+      "endMs": 740080,
+      "verbatim": "Now, that is actually a real situation again.",
+      "display": "Now, that is actually a real situation again.",
+      "search": "now, that is actually a real situation again.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:147",
+      "startMs": 740080,
+      "endMs": 752960,
+      "verbatim": "Hundreds of thousands of down detector reports, Facebook absolutely crashing, and Jason, lexical errors being brought to the front end, letting you know that Jason cannot be parsed.",
+      "display": "Hundreds of thousands of down detector reports, Facebook absolutely crashing, and Jason, lexical errors being brought to the front end, letting you know that Jason cannot be parsed.",
+      "search": "hundreds of thousands of down detector reports, facebook absolutely crashing, and jason, lexical errors being brought to the front end, letting you know that jason cannot be parsed.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:148",
+      "startMs": 752960,
+      "endMs": 755040,
+      "verbatim": "This cannot be a coincidence, okay?",
+      "display": "This cannot be a coincidence, okay?",
+      "search": "this cannot be a coincidence, okay?",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:149",
+      "startMs": 755040,
+      "endMs": 757040,
+      "verbatim": "This cannot be a coincidence.",
+      "display": "This cannot be a coincidence.",
+      "search": "this cannot be a coincidence.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:150",
+      "startMs": 757040,
+      "endMs": 770880,
+      "verbatim": "Deep employee morale hits, plus increasing instability, plus increasingly weird management decisions, all are gonna come together just to create some of the worst products on earth.",
+      "display": "Deep employee morale hits, plus increasing instability, plus increasingly weird management decisions, all are gonna come together just to create some of the worst products on earth.",
+      "search": "deep employee morale hits, plus increasing instability, plus increasingly weird management decisions, all are gonna come together just to create some of the worst products on earth.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:151",
+      "startMs": 770880,
+      "endMs": 773920,
+      "verbatim": "I just wanted to talk about this because it's just shocking to see.",
+      "display": "I just wanted to talk about this because it's just shocking to see.",
+      "search": "i just wanted to talk about this because it's just shocking to see.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:152",
+      "startMs": 773920,
+      "endMs": 779440,
+      "verbatim": "You know, as somebody who worked in the valley, Facebook at one time was considered a very prestigious place to work, right?",
+      "display": "You know, as somebody who worked in the valley, Facebook at one time was considered a very prestigious place to work, right?",
+      "search": "you know, as somebody who worked in the valley, facebook at one time was considered a very prestigious place to work, right?",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:153",
+      "startMs": 779440,
+      "endMs": 781600,
+      "verbatim": "The best engineers got to go work there, okay?",
+      "display": "The best engineers got to go work there, okay?",
+      "search": "the best engineers got to go work there, okay?",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:154",
+      "startMs": 781600,
+      "endMs": 787280,
+      "verbatim": "You were gonna get treated the best, you were gonna get paid the most, and you're gonna work on problems that were likely some of the hardest problems you've worked on, right?",
+      "display": "You were gonna get treated the best, you were gonna get paid the most, and you're gonna work on problems that were likely some of the hardest problems you've worked on, right?",
+      "search": "you were gonna get treated the best, you were gonna get paid the most, and you're gonna work on problems that were likely some of the hardest problems you've worked on, right?",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:155",
+      "startMs": 787280,
+      "endMs": 792560,
+      "verbatim": "It was supposed to be a great place to go and work super hard if that's what you were into.",
+      "display": "It was supposed to be a great place to go and work super hard if that's what you were into.",
+      "search": "it was supposed to be a great place to go and work super hard if that's what you were into.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:156",
+      "startMs": 792560,
+      "endMs": 796000,
+      "verbatim": "But now look at it, it's like a disaster.",
+      "display": "But now look at it, it's like a disaster.",
+      "search": "but now look at it, it's like a disaster.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:157",
+      "startMs": 796000,
+      "endMs": 800640,
+      "verbatim": "It's like every single month the reporting gets worse and worse coming out of it.",
+      "display": "It's like every single month the reporting gets worse and worse coming out of it.",
+      "search": "it's like every single month the reporting gets worse and worse coming out of it.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:158",
+      "startMs": 800640,
+      "endMs": 809760,
+      "verbatim": "I just I it's it's crazy to see these things happen to companies in which used to be the tippity top.",
+      "display": "I just I it's it's crazy to see these things happen to companies in which used to be the tippity top.",
+      "search": "i just i it's it's crazy to see these things happen to companies in which used to be the tippity top.",
+      "confidence": 0.694
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:159",
+      "startMs": 809760,
+      "endMs": 814880,
+      "verbatim": "Alright, anywho, hey, the name is uh you know the Prime Chin.",
+      "display": "Alright, anywho, hey, the name is uh you know the Prime Chin.",
+      "search": "alright, anywho, hey, the name is uh you know the prime chin.",
+      "confidence": 0.637
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:160",
+      "startMs": 814880,
+      "endMs": 817120,
+      "verbatim": "Okay, hey, hi, it's nice to see ya.",
+      "display": "Okay, hey, hi, it's nice to see ya.",
+      "search": "okay, hey, hi, it's nice to see ya.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:161",
+      "startMs": 817120,
+      "endMs": 818720,
+      "verbatim": "I hope I uh I hope you're doing well.",
+      "display": "I hope I uh I hope you're doing well.",
+      "search": "i hope i uh i hope you're doing well.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:162",
+      "startMs": 818720,
+      "endMs": 819440,
+      "verbatim": "Are you doing well?",
+      "display": "Are you doing well?",
+      "search": "are you doing well?",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:163",
+      "startMs": 819440,
+      "endMs": 820560,
+      "verbatim": "Like, what's going on with you?",
+      "display": "Like, what's going on with you?",
+      "search": "like, what's going on with you?",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:164",
+      "startMs": 820560,
+      "endMs": 822080,
+      "verbatim": "You know, do you come here often?",
+      "display": "You know, do you come here often?",
+      "search": "you know, do you come here often?",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:165",
+      "startMs": 822480,
+      "endMs": 826080,
+      "verbatim": "Oh no, you know, you you guys what are you guys doing?",
+      "display": "Oh no, you know, you you guys what are you guys doing?",
+      "search": "oh no, you know, you you guys what are you guys doing?",
+      "confidence": 0.685
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:166",
+      "startMs": 826080,
+      "endMs": 827120,
+      "verbatim": "I'm gonna get a haircut.",
+      "display": "I'm gonna get a haircut.",
+      "search": "i'm gonna get a haircut.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:167",
+      "startMs": 827120,
+      "endMs": 827840,
+      "verbatim": "Did you know that?",
+      "display": "Did you know that?",
+      "search": "did you know that?",
+      "confidence": 0.696
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:168",
+      "startMs": 828240,
+      "endMs": 829680,
+      "verbatim": "Yeah, I'm gonna get a haircut.",
+      "display": "Yeah, I'm gonna get a haircut.",
+      "search": "yeah, i'm gonna get a haircut.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:169",
+      "startMs": 829680,
+      "endMs": 831040,
+      "verbatim": "It's honestly it's just too big.",
+      "display": "It's honestly it's just too big.",
+      "search": "it's honestly it's just too big.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:170",
+      "startMs": 831040,
+      "endMs": 831840,
+      "verbatim": "Like, look at this.",
+      "display": "Like, look at this.",
+      "search": "like, look at this.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:171",
+      "startMs": 831840,
+      "endMs": 835600,
+      "verbatim": "Like 50% of my head size is devoted to hair.",
+      "display": "Like 50% of my head size is devoted to hair.",
+      "search": "like 50% of my head size is devoted to hair.",
+      "confidence": 0.729
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:172",
+      "startMs": 835600,
+      "endMs": 838000,
+      "verbatim": "I think I just gotta do something about it, you know?",
+      "display": "I think I just gotta do something about it, you know?",
+      "search": "i think i just gotta do something about it, you know?",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:OOCepY3H8k4:segment:173",
+      "startMs": 839920,
+      "endMs": 840880,
+      "verbatim": "Oh, Jet!",
+      "display": "Oh, Jet!",
+      "search": "oh, jet!",
+      "confidence": 0.3
+    }
+  ]
+}

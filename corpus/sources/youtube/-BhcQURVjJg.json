@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:-BhcQURVjJg",
+  "platform": "youtube",
+  "platformId": "-BhcQURVjJg",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "The Craziest Coding Contest Ever",
+  "description": "PlanetScale is the fastest and most reliable way to run Postgres and MySQL in the cloud. Combined with sharding, branching, and Query Insights, you'll spend less time fighting your database and more time shipping. Try it at https://trm.sh/planetscale\n\nSources:\n\n- https://www.ioccc.org\n\nTopics Covered:\n\n- The International Obfuscated C Code Contest\n\nhttps://twitch.tv/ThePrimeagen - I stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=-BhcQURVjJg",
+  "publishedAt": "2026-06-16T12:30:29.000Z",
+  "durationMs": 1962000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:22:40.093Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:22:40.093Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

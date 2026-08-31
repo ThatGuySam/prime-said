@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:WqSWZuGS9pc",
+  "platform": "youtube",
+  "platformId": "WqSWZuGS9pc",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "I am done with Golang",
+  "description": "Blacksmith is the fastest way to run your Github Actions. 2x faster job runs, 4x faster on caches, and 40x faster on Docker builds, slashing costs by up to 75%. Already trusted by over 3,500 companies, including Ashby, Veed, Clerk, and Mintlify → https://trm.sh/blacksmith\n\nResources:\n* https://github.com/golang/go/issues/77273\n\nTopics:\n* Go\n* Language Evolution\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.  \n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=WqSWZuGS9pc",
+  "publishedAt": "2026-06-08T12:30:13.000Z",
+  "durationMs": 702000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:29:59.419Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:29:59.419Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

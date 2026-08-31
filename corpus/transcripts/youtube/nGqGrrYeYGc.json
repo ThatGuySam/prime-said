@@ -1,0 +1,1409 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_39b6d6bfdd04c916e370248a",
+  "sourceId": "youtube:nGqGrrYeYGc",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:12:04.277Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:1",
+      "startMs": 160,
+      "endMs": 2960,
+      "verbatim": "If you weren't on the internet for the last week, you may have missed it.",
+      "display": "If you weren't on the internet for the last week, you may have missed it.",
+      "search": "if you weren't on the internet for the last week, you may have missed it.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:2",
+      "startMs": 2960,
+      "endMs": 7680,
+      "verbatim": "But Midjourney has decided to enter into the medical arena.",
+      "display": "But Midjourney has decided to enter into the medical arena.",
+      "search": "but midjourney has decided to enter into the medical arena.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:3",
+      "startMs": 7680,
+      "endMs": 8160,
+      "verbatim": "That's right.",
+      "display": "That's right.",
+      "search": "that's right.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:4",
+      "startMs": 8160,
+      "endMs": 10480,
+      "verbatim": "They're throwing their hat into medicine.",
+      "display": "They're throwing their hat into medicine.",
+      "search": "they're throwing their hat into medicine.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:5",
+      "startMs": 10480,
+      "endMs": 23920,
+      "verbatim": "And what they're effectively building is a tube in which you go into and it vibrates water, and thus measuring the vibrations is able to take a decently accurate image of all the soft stuff inside of your body.",
+      "display": "And what they're effectively building is a tube in which you go into and it vibrates water, and thus measuring the vibrations is able to take a decently accurate image of all the soft stuff inside of your body.",
+      "search": "and what they're effectively building is a tube in which you go into and it vibrates water, and thus measuring the vibrations is able to take a decently accurate image of all the soft stuff inside of your body.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:6",
+      "startMs": 23920,
+      "endMs": 26000,
+      "verbatim": "By the way, this video, very beautiful.",
+      "display": "By the way, this video, very beautiful.",
+      "search": "by the way, this video, very beautiful.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:7",
+      "startMs": 26000,
+      "endMs": 32960,
+      "verbatim": "Like I just even me trying to, even me trying to record this YouTube video, I'm like watching, I'm like, wow, it looks so futuristic.",
+      "display": "Like I just even me trying to, even me trying to record this YouTube video, I'm like watching, I'm like, wow, it looks so futuristic.",
+      "search": "like i just even me trying to, even me trying to record this youtube video, i'm like watching, i'm like, wow, it looks so futuristic.",
+      "confidence": 0.731
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:8",
+      "startMs": 32960,
+      "endMs": 35040,
+      "verbatim": "I've seen this, this is like on aliens.",
+      "display": "I've seen this, this is like on aliens.",
+      "search": "i've seen this, this is like on aliens.",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:9",
+      "startMs": 35040,
+      "endMs": 47520,
+      "verbatim": "They also released a blog going into the details of how they plan on rolling this out, what is their strategy, and a super cool technical video actually breaking down how this works, the data they have to transfer and everything.",
+      "display": "They also released a blog going into the details of how they plan on rolling this out, what is their strategy, and a super cool technical video actually breaking down how this works, the data they have to transfer and everything.",
+      "search": "they also released a blog going into the details of how they plan on rolling this out, what is their strategy, and a super cool technical video actually breaking down how this works, the data they have to transfer and everything.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:10",
+      "startMs": 47520,
+      "endMs": 51440,
+      "verbatim": "Now you're probably thinking this is gonna be me making fun of an AI company.",
+      "display": "Now you're probably thinking this is gonna be me making fun of an AI company.",
+      "search": "now you're probably thinking this is gonna be me making fun of an ai company.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:11",
+      "startMs": 51440,
+      "endMs": 52960,
+      "verbatim": "No, that's not the plan of this video.",
+      "display": "No, that's not the plan of this video.",
+      "search": "no, that's not the plan of this video.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:12",
+      "startMs": 52960,
+      "endMs": 61280,
+      "verbatim": "No, I'm not gonna tell you about the efficacy of the medical arena and whether ultrasonic scans are better than MRIs or compete with MRIs or anything like that.",
+      "display": "No, I'm not gonna tell you about the efficacy of the medical arena and whether ultrasonic scans are better than MRIs or compete with MRIs or anything like that.",
+      "search": "no, i'm not gonna tell you about the efficacy of the medical arena and whether ultrasonic scans are better than mris or compete with mris or anything like that.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:13",
+      "startMs": 61280,
+      "endMs": 65120,
+      "verbatim": "Okay, hey, if you're coming to me for medical advice, you messed up in your life.",
+      "display": "Okay, hey, if you're coming to me for medical advice, you messed up in your life.",
+      "search": "okay, hey, if you're coming to me for medical advice, you messed up in your life.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:14",
+      "startMs": 65120,
+      "endMs": 71280,
+      "verbatim": "I'm not even gonna talk about the fact that you probably are gonna have to get your MI results publicly on a Discord server.",
+      "display": "I'm not even gonna talk about the fact that you probably are gonna have to get your MI results publicly on a Discord server.",
+      "search": "i'm not even gonna talk about the fact that you probably are gonna have to get your mi results publicly on a discord server.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:15",
+      "startMs": 71280,
+      "endMs": 78320,
+      "verbatim": "In fact, I'm not even gonna talk about the fact that they named it full body ultrasonic computational tomography, okay?",
+      "display": "In fact, I'm not even gonna talk about the fact that they named it full body ultrasonic computational tomography, okay?",
+      "search": "in fact, i'm not even gonna talk about the fact that they named it full body ultrasonic computational tomography, okay?",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:16",
+      "startMs": 78320,
+      "endMs": 80000,
+      "verbatim": "Or fed for short.",
+      "display": "Or fed for short.",
+      "search": "or fed for short.",
+      "confidence": 0.289
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:17",
+      "startMs": 82960,
+      "endMs": 88560,
+      "verbatim": "Fed for sh what the fuck is going on here?",
+      "display": "Fed for sh what the fuck is going on here?",
+      "search": "fed for sh what the fuck is going on here?",
+      "confidence": 0.547
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:18",
+      "startMs": 89120,
+      "endMs": 89840,
+      "verbatim": "Alright.",
+      "display": "Alright.",
+      "search": "alright.",
+      "confidence": 0.563
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:19",
+      "startMs": 89840,
+      "endMs": 91120,
+      "verbatim": "F for short.",
+      "display": "F for short.",
+      "search": "f for short.",
+      "confidence": 0.609
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:20",
+      "startMs": 91120,
+      "endMs": 102880,
+      "verbatim": "What I do want to talk about are the numbers, the actual data numbers, what they're proposing, because the technology that they are proposing they're going to be building over the next couple years is literally space age technology alien stuff.",
+      "display": "What I do want to talk about are the numbers, the actual data numbers, what they're proposing, because the technology that they are proposing they're going to be building over the next couple years is literally space age technology alien stuff.",
+      "search": "what i do want to talk about are the numbers, the actual data numbers, what they're proposing, because the technology that they are proposing they're going to be building over the next couple years is literally space age technology alien stuff.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:21",
+      "startMs": 102880,
+      "endMs": 104640,
+      "verbatim": "So let's talk about it and why.",
+      "display": "So let's talk about it and why.",
+      "search": "so let's talk about it and why.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:22",
+      "startMs": 104640,
+      "endMs": 108480,
+      "verbatim": "Honestly, it's the most, it's the craziest part of this entire pivot.",
+      "display": "Honestly, it's the most, it's the craziest part of this entire pivot.",
+      "search": "honestly, it's the most, it's the craziest part of this entire pivot.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:23",
+      "startMs": 108480,
+      "endMs": 110080,
+      "verbatim": "Mid-journey going into medical?",
+      "display": "Mid-journey going into medical?",
+      "search": "mid-journey going into medical?",
+      "confidence": 0.639
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:24",
+      "startMs": 110080,
+      "endMs": 112000,
+      "verbatim": "Yeah, that's kind of unexpected.",
+      "display": "Yeah, that's kind of unexpected.",
+      "search": "yeah, that's kind of unexpected.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:25",
+      "startMs": 112000,
+      "endMs": 114640,
+      "verbatim": "Midjourney saying what technology they're gonna build?",
+      "display": "Midjourney saying what technology they're gonna build?",
+      "search": "midjourney saying what technology they're gonna build?",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:26",
+      "startMs": 114640,
+      "endMs": 115360,
+      "verbatim": "Nope.",
+      "display": "Nope.",
+      "search": "nope.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:27",
+      "startMs": 115360,
+      "endMs": 117040,
+      "verbatim": "I don't believe it for a second.",
+      "display": "I don't believe it for a second.",
+      "search": "i don't believe it for a second.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:28",
+      "startMs": 117040,
+      "endMs": 121440,
+      "verbatim": "But before we begin, thank you to our sponsors.",
+      "display": "But before we begin, thank you to our sponsors.",
+      "search": "but before we begin, thank you to our sponsors.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:29",
+      "startMs": 121440,
+      "endMs": 123040,
+      "verbatim": "Hey, do you like waiting?",
+      "display": "Hey, do you like waiting?",
+      "search": "hey, do you like waiting?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:30",
+      "startMs": 123040,
+      "endMs": 124800,
+      "verbatim": "Yeah, neither do I.",
+      "display": "Yeah, neither do I.",
+      "search": "yeah, neither do i.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:31",
+      "startMs": 124800,
+      "endMs": 132960,
+      "verbatim": "With Blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster Docker builds.",
+      "display": "With Blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster Docker builds.",
+      "search": "with blacksmith, you get speed, 2x faster hardware, 4x faster cash downloads, and 40 times faster docker builds.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:32",
+      "startMs": 132960,
+      "endMs": 134480,
+      "verbatim": "So stop waiting around.",
+      "display": "So stop waiting around.",
+      "search": "so stop waiting around.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:33",
+      "startMs": 134480,
+      "endMs": 139040,
+      "verbatim": "Use their migration wizard to easily transition your repos onto Blacksmith today.",
+      "display": "Use their migration wizard to easily transition your repos onto Blacksmith today.",
+      "search": "use their migration wizard to easily transition your repos onto blacksmith today.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:34",
+      "startMs": 139040,
+      "endMs": 143040,
+      "verbatim": "Thank you, Blacksmith, for sponsoring this video, and you check out the links down below.",
+      "display": "Thank you, Blacksmith, for sponsoring this video, and you check out the links down below.",
+      "search": "thank you, blacksmith, for sponsoring this video, and you check out the links down below.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:35",
+      "startMs": 143040,
+      "endMs": 143840,
+      "verbatim": "Hey, welcome back.",
+      "display": "Hey, welcome back.",
+      "search": "hey, welcome back.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:36",
+      "startMs": 143840,
+      "endMs": 146080,
+      "verbatim": "If you want to support the channel, click the link in the description.",
+      "display": "If you want to support the channel, click the link in the description.",
+      "search": "if you want to support the channel, click the link in the description.",
+      "confidence": 0.991
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:37",
+      "startMs": 146080,
+      "endMs": 147840,
+      "verbatim": "All right, so the blog gives more details.",
+      "display": "All right, so the blog gives more details.",
+      "search": "all right, so the blog gives more details.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:38",
+      "startMs": 147840,
+      "endMs": 162320,
+      "verbatim": "So it starts off by saying, hey, Midjourney is gonna become a spa, in which they're gonna be opening up the first one in San Francisco in 2027, where they all have hot tubs saunas, cold plunges, and of course, a cozy room with pools of golden light in which you can softly scan your body.",
+      "display": "So it starts off by saying, hey, Midjourney is gonna become a spa, in which they're gonna be opening up the first one in San Francisco in 2027, where they all have hot tubs saunas, cold plunges, and of course, a cozy room with pools of golden light in which you can softly scan your body.",
+      "search": "so it starts off by saying, hey, midjourney is gonna become a spa, in which they're gonna be opening up the first one in san francisco in 2027, where they all have hot tubs saunas, cold plunges, and of course, a cozy room with pools of golden light in which you can softly scan your body.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:39",
+      "startMs": 162560,
+      "endMs": 163760,
+      "verbatim": "So weird.",
+      "display": "So weird.",
+      "search": "so weird.",
+      "confidence": 0.377
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:40",
+      "startMs": 163760,
+      "endMs": 166800,
+      "verbatim": "Also, that golden room, I recognize that golden room, okay?",
+      "display": "Also, that golden room, I recognize that golden room, okay?",
+      "search": "also, that golden room, i recognize that golden room, okay?",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:41",
+      "startMs": 166800,
+      "endMs": 168400,
+      "verbatim": "That is construct off of Halo.",
+      "display": "That is construct off of Halo.",
+      "search": "that is construct off of halo.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:42",
+      "startMs": 168400,
+      "endMs": 172080,
+      "verbatim": "I've seen I've actually I was birthed my I was birthed in this room, okay?",
+      "display": "I've seen I've actually I was birthed my I was birthed in this room, okay?",
+      "search": "i've seen i've actually i was birthed my i was birthed in this room, okay?",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:43",
+      "startMs": 172080,
+      "endMs": 173360,
+      "verbatim": "I know it quite well.",
+      "display": "I know it quite well.",
+      "search": "i know it quite well.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:44",
+      "startMs": 173360,
+      "endMs": 173680,
+      "verbatim": "All right.",
+      "display": "All right.",
+      "search": "all right.",
+      "confidence": 0.457
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:45",
+      "startMs": 173680,
+      "endMs": 176400,
+      "verbatim": "So let's get into some of the more technical parts about this.",
+      "display": "So let's get into some of the more technical parts about this.",
+      "search": "so let's get into some of the more technical parts about this.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:46",
+      "startMs": 176400,
+      "endMs": 179600,
+      "verbatim": "Uh, we first need to start off with their just general goal.",
+      "display": "Uh, we first need to start off with their just general goal.",
+      "search": "uh, we first need to start off with their just general goal.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:47",
+      "startMs": 179600,
+      "endMs": 189360,
+      "verbatim": "They want an ambitious goal by 2031 to have a fleet of over 50,000 scanners worldwide with a scanning capacity of a billion scans a month.",
+      "display": "They want an ambitious goal by 2031 to have a fleet of over 50,000 scanners worldwide with a scanning capacity of a billion scans a month.",
+      "search": "they want an ambitious goal by 2031 to have a fleet of over 50,000 scanners worldwide with a scanning capacity of a billion scans a month.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:48",
+      "startMs": 189360,
+      "endMs": 211440,
+      "verbatim": "So that of course means if there's 50k of these things and you have 30 days in a month, plus you have 24 hours in a day, plus you have 60 minutes in an hour, plus you have 60 seconds in a minute, putting that all over 1 billion means that at 50,000, you're gonna have to be scanning somebody every 129.6 seconds.",
+      "display": "So that of course means if there's 50k of these things and you have 30 days in a month, plus you have 24 hours in a day, plus you have 60 minutes in an hour, plus you have 60 seconds in a minute, putting that all over 1 billion means that at 50,000, you're gonna have to be scanning somebody every 129.6 seconds.",
+      "search": "so that of course means if there's 50k of these things and you have 30 days in a month, plus you have 24 hours in a day, plus you have 60 minutes in an hour, plus you have 60 seconds in a minute, putting that all over 1 billion means that at 50,000, you're gonna have to be scanning somebody every 129.6 seconds.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:49",
+      "startMs": 211440,
+      "endMs": 214960,
+      "verbatim": "So already at that point, that's just not gonna happen, okay?",
+      "display": "So already at that point, that's just not gonna happen, okay?",
+      "search": "so already at that point, that's just not gonna happen, okay?",
+      "confidence": 0.909
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:50",
+      "startMs": 214960,
+      "endMs": 223040,
+      "verbatim": "Every single machine which takes 60 seconds to scan somebody is gonna have to scan out, scan out, scan out.",
+      "display": "Every single machine which takes 60 seconds to scan somebody is gonna have to scan out, scan out, scan out.",
+      "search": "every single machine which takes 60 seconds to scan somebody is gonna have to scan out, scan out, scan out.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:51",
+      "startMs": 223040,
+      "endMs": 230800,
+      "verbatim": "So, but this is an important number to keep in mind because this is kind of the basis of all the other numbers, which increasingly just get more and more absurd.",
+      "display": "So, but this is an important number to keep in mind because this is kind of the basis of all the other numbers, which increasingly just get more and more absurd.",
+      "search": "so, but this is an important number to keep in mind because this is kind of the basis of all the other numbers, which increasingly just get more and more absurd.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:52",
+      "startMs": 230800,
+      "endMs": 245200,
+      "verbatim": "So they're kind of their goal, even if they were to double this, and instead of having 50,000, they had 100,000, still makes it so that you're scanning somebody every approximately four minutes, which just feels like that can't even be done.",
+      "display": "So they're kind of their goal, even if they were to double this, and instead of having 50,000, they had 100,000, still makes it so that you're scanning somebody every approximately four minutes, which just feels like that can't even be done.",
+      "search": "so they're kind of their goal, even if they were to double this, and instead of having 50,000, they had 100,000, still makes it so that you're scanning somebody every approximately four minutes, which just feels like that can't even be done.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:53",
+      "startMs": 245200,
+      "endMs": 248320,
+      "verbatim": "And that's 24 hours a day at any moment.",
+      "display": "And that's 24 hours a day at any moment.",
+      "search": "and that's 24 hours a day at any moment.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:54",
+      "startMs": 248320,
+      "endMs": 251520,
+      "verbatim": "People are being scanned in every single place continuously.",
+      "display": "People are being scanned in every single place continuously.",
+      "search": "people are being scanned in every single place continuously.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:55",
+      "startMs": 251520,
+      "endMs": 257200,
+      "verbatim": "Isn't it kind of weird knowing that that's gonna be like the least crazy number that you hear all day?",
+      "display": "Isn't it kind of weird knowing that that's gonna be like the least crazy number that you hear all day?",
+      "search": "isn't it kind of weird knowing that that's gonna be like the least crazy number that you hear all day?",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:56",
+      "startMs": 257600,
+      "endMs": 260480,
+      "verbatim": "Like this entire video from here on out.",
+      "display": "Like this entire video from here on out.",
+      "search": "like this entire video from here on out.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:57",
+      "startMs": 260480,
+      "endMs": 262720,
+      "verbatim": "Sorry, it's it's crazy land time.",
+      "display": "Sorry, it's it's crazy land time.",
+      "search": "sorry, it's it's crazy land time.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:58",
+      "startMs": 262720,
+      "endMs": 265680,
+      "verbatim": "Okay, everybody, we're gonna get a little bit more nuts now.",
+      "display": "Okay, everybody, we're gonna get a little bit more nuts now.",
+      "search": "okay, everybody, we're gonna get a little bit more nuts now.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:59",
+      "startMs": 265680,
+      "endMs": 274560,
+      "verbatim": "In their technical video breakdown on minute 332, right here, they say they generate 306 terabytes of raw data.",
+      "display": "In their technical video breakdown on minute 332, right here, they say they generate 306 terabytes of raw data.",
+      "search": "in their technical video breakdown on minute 332, right here, they say they generate 306 terabytes of raw data.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:60",
+      "startMs": 274560,
+      "endMs": 279840,
+      "verbatim": "Slightly before that, they say they reconstruct all the data across 21 servers.",
+      "display": "Slightly before that, they say they reconstruct all the data across 21 servers.",
+      "search": "slightly before that, they say they reconstruct all the data across 21 servers.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:61",
+      "startMs": 279840,
+      "endMs": 286160,
+      "verbatim": "They claim that each slice of the body takes up about 40 gigabytes of data to move through the system.",
+      "display": "They claim that each slice of the body takes up about 40 gigabytes of data to move through the system.",
+      "search": "they claim that each slice of the body takes up about 40 gigabytes of data to move through the system.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:62",
+      "startMs": 286160,
+      "endMs": 297440,
+      "verbatim": "If you're curious what a slice looks like, it's this right here where you took the body image, and each one is this really small, thin slice of your body, so you can slowly see every single bit of information.",
+      "display": "If you're curious what a slice looks like, it's this right here where you took the body image, and each one is this really small, thin slice of your body, so you can slowly see every single bit of information.",
+      "search": "if you're curious what a slice looks like, it's this right here where you took the body image, and each one is this really small, thin slice of your body, so you can slowly see every single bit of information.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:63",
+      "startMs": 297440,
+      "endMs": 301840,
+      "verbatim": "They're claiming it's like a half millimeter to 0.1 millimeter, something like that.",
+      "display": "They're claiming it's like a half millimeter to 0.1 millimeter, something like that.",
+      "search": "they're claiming it's like a half millimeter to 0.1 millimeter, something like that.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:64",
+      "startMs": 301840,
+      "endMs": 306560,
+      "verbatim": "People are saying maybe it's two millimeters per slice, but it there's thin slices.",
+      "display": "People are saying maybe it's two millimeters per slice, but it there's thin slices.",
+      "search": "people are saying maybe it's two millimeters per slice, but it there's thin slices.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:65",
+      "startMs": 306560,
+      "endMs": 310560,
+      "verbatim": "Now, this is where we're gonna start seeing some conflicting numbers start happening.",
+      "display": "Now, this is where we're gonna start seeing some conflicting numbers start happening.",
+      "search": "now, this is where we're gonna start seeing some conflicting numbers start happening.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:66",
+      "startMs": 310560,
+      "endMs": 315600,
+      "verbatim": "It also says that the system captures about 17 gigabytes per second.",
+      "display": "It also says that the system captures about 17 gigabytes per second.",
+      "search": "it also says that the system captures about 17 gigabytes per second.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:67",
+      "startMs": 315600,
+      "endMs": 318320,
+      "verbatim": "Their goal is to capture several hundred slices of your body.",
+      "display": "Their goal is to capture several hundred slices of your body.",
+      "search": "their goal is to capture several hundred slices of your body.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:68",
+      "startMs": 318320,
+      "endMs": 320480,
+      "verbatim": "Now, if they would have said a couple hundred, that would have been 200.",
+      "display": "Now, if they would have said a couple hundred, that would have been 200.",
+      "search": "now, if they would have said a couple hundred, that would have been 200.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:69",
+      "startMs": 320480,
+      "endMs": 323520,
+      "verbatim": "If they would have said a few hundred, I would assume that's three to five hundred.",
+      "display": "If they would have said a few hundred, I would assume that's three to five hundred.",
+      "search": "if they would have said a few hundred, i would assume that's three to five hundred.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:70",
+      "startMs": 323520,
+      "endMs": 328000,
+      "verbatim": "Several hundred that I mean, you can't use several and not mean at least five.",
+      "display": "Several hundred that I mean, you can't use several and not mean at least five.",
+      "search": "several hundred that i mean, you can't use several and not mean at least five.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:71",
+      "startMs": 328000,
+      "endMs": 329040,
+      "verbatim": "Can we agree to that?",
+      "display": "Can we agree to that?",
+      "search": "can we agree to that?",
+      "confidence": 0.996
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:72",
+      "startMs": 329040,
+      "endMs": 330400,
+      "verbatim": "Can we all agree to that?",
+      "display": "Can we all agree to that?",
+      "search": "can we all agree to that?",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:73",
+      "startMs": 330400,
+      "endMs": 333680,
+      "verbatim": "So it has to be many, many slices of your body.",
+      "display": "So it has to be many, many slices of your body.",
+      "search": "so it has to be many, many slices of your body.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:74",
+      "startMs": 333680,
+      "endMs": 335840,
+      "verbatim": "So I set all those numbers off pretty fast.",
+      "display": "So I set all those numbers off pretty fast.",
+      "search": "so i set all those numbers off pretty fast.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:75",
+      "startMs": 335840,
+      "endMs": 338400,
+      "verbatim": "So we're actually gonna start breaking it down a little bit more.",
+      "display": "So we're actually gonna start breaking it down a little bit more.",
+      "search": "so we're actually gonna start breaking it down a little bit more.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:76",
+      "startMs": 338400,
+      "endMs": 343840,
+      "verbatim": "So, first off, they did say they do a 17 gigabytes of processing per second.",
+      "display": "So, first off, they did say they do a 17 gigabytes of processing per second.",
+      "search": "so, first off, they did say they do a 17 gigabytes of processing per second.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:77",
+      "startMs": 343840,
+      "endMs": 354000,
+      "verbatim": "So that puts us at approximately one terabyte of information processed for your 60-second scan, thus leading to maybe about 500 images.",
+      "display": "So that puts us at approximately one terabyte of information processed for your 60-second scan, thus leading to maybe about 500 images.",
+      "search": "so that puts us at approximately one terabyte of information processed for your 60-second scan, thus leading to maybe about 500 images.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:78",
+      "startMs": 354000,
+      "endMs": 359360,
+      "verbatim": "There are some estimates saying 300 images, but let's just say it's about 500, you know, images.",
+      "display": "There are some estimates saying 300 images, but let's just say it's about 500, you know, images.",
+      "search": "there are some estimates saying 300 images, but let's just say it's about 500, you know, images.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:79",
+      "startMs": 359360,
+      "endMs": 362080,
+      "verbatim": "That is gonna be one to two gigabytes per image.",
+      "display": "That is gonna be one to two gigabytes per image.",
+      "search": "that is gonna be one to two gigabytes per image.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:80",
+      "startMs": 362080,
+      "endMs": 366080,
+      "verbatim": "And that seems to make sense because these are gonna be high resolution images of your inside.",
+      "display": "And that seems to make sense because these are gonna be high resolution images of your inside.",
+      "search": "and that seems to make sense because these are gonna be high resolution images of your inside.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:81",
+      "startMs": 366080,
+      "endMs": 367520,
+      "verbatim": "They need to be medical grade.",
+      "display": "They need to be medical grade.",
+      "search": "they need to be medical grade.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:82",
+      "startMs": 367520,
+      "endMs": 368480,
+      "verbatim": "You get the idea.",
+      "display": "You get the idea.",
+      "search": "you get the idea.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:83",
+      "startMs": 368480,
+      "endMs": 370240,
+      "verbatim": "There are gonna be some big images.",
+      "display": "There are gonna be some big images.",
+      "search": "there are gonna be some big images.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:84",
+      "startMs": 370240,
+      "endMs": 374880,
+      "verbatim": "Now, here comes the point where all the numbers are put together and things are a little bit confusing.",
+      "display": "Now, here comes the point where all the numbers are put together and things are a little bit confusing.",
+      "search": "now, here comes the point where all the numbers are put together and things are a little bit confusing.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:85",
+      "startMs": 374880,
+      "endMs": 378400,
+      "verbatim": "So, first off, you have the machine that's like the tube machine.",
+      "display": "So, first off, you have the machine that's like the tube machine.",
+      "search": "so, first off, you have the machine that's like the tube machine.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:86",
+      "startMs": 378400,
+      "endMs": 381680,
+      "verbatim": "Then you're gonna have your 21 computers way over here.",
+      "display": "Then you're gonna have your 21 computers way over here.",
+      "search": "then you're gonna have your 21 computers way over here.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:87",
+      "startMs": 381680,
+      "endMs": 385280,
+      "verbatim": "There are gonna be the 21 servers in which can have that information.",
+      "display": "There are gonna be the 21 servers in which can have that information.",
+      "search": "there are gonna be the 21 servers in which can have that information.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:88",
+      "startMs": 385280,
+      "endMs": 400320,
+      "verbatim": "There's gonna be some sort of obvious connection betwixt the two in which the data from this machine needs to be processed over here because you can't just take the raw analog data shooting out of these crazy little vibrating sensors and then just make images out of them, right?",
+      "display": "There's gonna be some sort of obvious connection betwixt the two in which the data from this machine needs to be processed over here because you can't just take the raw analog data shooting out of these crazy little vibrating sensors and then just make images out of them, right?",
+      "search": "there's gonna be some sort of obvious connection betwixt the two in which the data from this machine needs to be processed over here because you can't just take the raw analog data shooting out of these crazy little vibrating sensors and then just make images out of them, right?",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:89",
+      "startMs": 400320,
+      "endMs": 402000,
+      "verbatim": "There has to be image processing.",
+      "display": "There has to be image processing.",
+      "search": "there has to be image processing.",
+      "confidence": 0.969
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:90",
+      "startMs": 402000,
+      "endMs": 406320,
+      "verbatim": "Now it says something along the lines of 800 terabytes of raw data.",
+      "display": "Now it says something along the lines of 800 terabytes of raw data.",
+      "search": "now it says something along the lines of 800 terabytes of raw data.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:91",
+      "startMs": 406320,
+      "endMs": 411440,
+      "verbatim": "Let's just throw that number out because that number is just it's just it's just crazy, okay?",
+      "display": "Let's just throw that number out because that number is just it's just it's just crazy, okay?",
+      "search": "let's just throw that number out because that number is just it's just it's just crazy, okay?",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:92",
+      "startMs": 411440,
+      "endMs": 418720,
+      "verbatim": "Even if you had like the world's fastest switch at 1.6 terabits per second, that's 66 minutes to get the raw data over from here to here.",
+      "display": "Even if you had like the world's fastest switch at 1.6 terabits per second, that's 66 minutes to get the raw data over from here to here.",
+      "search": "even if you had like the world's fastest switch at 1.6 terabits per second, that's 66 minutes to get the raw data over from here to here.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:93",
+      "startMs": 418720,
+      "endMs": 434720,
+      "verbatim": "If you had 21 connections, each image being sent to each individual 21 computers, that's three minutes of transfer time, even on the world's fastest network switching, all local, assuming no latency and absolutely no frame dropping and absolutely 100% utilization.",
+      "display": "If you had 21 connections, each image being sent to each individual 21 computers, that's three minutes of transfer time, even on the world's fastest network switching, all local, assuming no latency and absolutely no frame dropping and absolutely 100% utilization.",
+      "search": "if you had 21 connections, each image being sent to each individual 21 computers, that's three minutes of transfer time, even on the world's fastest network switching, all local, assuming no latency and absolutely no frame dropping and absolutely 100% utilization.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:94",
+      "startMs": 434720,
+      "endMs": 445040,
+      "verbatim": "So, what I think they actually mean is that somewhere on this machine, the 800 terabytes, the 40 gigabytes per image somehow gets reduced and then sent through the system to get crunched.",
+      "display": "So, what I think they actually mean is that somewhere on this machine, the 800 terabytes, the 40 gigabytes per image somehow gets reduced and then sent through the system to get crunched.",
+      "search": "so, what i think they actually mean is that somewhere on this machine, the 800 terabytes, the 40 gigabytes per image somehow gets reduced and then sent through the system to get crunched.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:95",
+      "startMs": 445040,
+      "endMs": 450480,
+      "verbatim": "Maybe it's the 40 megabytes or gigabytes per image gets sent through the system to the 21 machines.",
+      "display": "Maybe it's the 40 megabytes or gigabytes per image gets sent through the system to the 21 machines.",
+      "search": "maybe it's the 40 megabytes or gigabytes per image gets sent through the system to the 21 machines.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:96",
+      "startMs": 450480,
+      "endMs": 456160,
+      "verbatim": "You can imagine that each machine receives maybe 40 gigabytes at a time to process that one image.",
+      "display": "You can imagine that each machine receives maybe 40 gigabytes at a time to process that one image.",
+      "search": "you can imagine that each machine receives maybe 40 gigabytes at a time to process that one image.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:97",
+      "startMs": 456160,
+      "endMs": 458320,
+      "verbatim": "And to me, that could potentially make sense.",
+      "display": "And to me, that could potentially make sense.",
+      "search": "and to me, that could potentially make sense.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:98",
+      "startMs": 458320,
+      "endMs": 468880,
+      "verbatim": "If that were true, that would be about 20 terabytes worth of information, which is gonna take a decent amount of time to transfer, even if you have many connections split up between every single machine.",
+      "display": "If that were true, that would be about 20 terabytes worth of information, which is gonna take a decent amount of time to transfer, even if you have many connections split up between every single machine.",
+      "search": "if that were true, that would be about 20 terabytes worth of information, which is gonna take a decent amount of time to transfer, even if you have many connections split up between every single machine.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:99",
+      "startMs": 468880,
+      "endMs": 473600,
+      "verbatim": "And remember, we need to be pumping out a scan every 129 seconds.",
+      "display": "And remember, we need to be pumping out a scan every 129 seconds.",
+      "search": "and remember, we need to be pumping out a scan every 129 seconds.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:100",
+      "startMs": 473600,
+      "endMs": 478240,
+      "verbatim": "The transfer rate alone is going to eat into that 129 seconds.",
+      "display": "The transfer rate alone is going to eat into that 129 seconds.",
+      "search": "the transfer rate alone is going to eat into that 129 seconds.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:101",
+      "startMs": 478240,
+      "endMs": 485760,
+      "verbatim": "Now, let's just pretend that data transfer is zero and we just simply think only about actual frame production.",
+      "display": "Now, let's just pretend that data transfer is zero and we just simply think only about actual frame production.",
+      "search": "now, let's just pretend that data transfer is zero and we just simply think only about actual frame production.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:102",
+      "startMs": 485760,
+      "endMs": 493600,
+      "verbatim": "If you remember the one billion row challenge in which you have to calculate a median across a billion rows, or maybe it's the mean, I can't really even remember.",
+      "display": "If you remember the one billion row challenge in which you have to calculate a median across a billion rows, or maybe it's the mean, I can't really even remember.",
+      "search": "if you remember the one billion row challenge in which you have to calculate a median across a billion rows, or maybe it's the mean, i can't really even remember.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:103",
+      "startMs": 493600,
+      "endMs": 503120,
+      "verbatim": "Effectively, the challenge comes down to memory mapping 12 gigabyte file at once, doing a bunch of integer parsing, and then boom, calculating out the value you're looking for.",
+      "display": "Effectively, the challenge comes down to memory mapping 12 gigabyte file at once, doing a bunch of integer parsing, and then boom, calculating out the value you're looking for.",
+      "search": "effectively, the challenge comes down to memory mapping 12 gigabyte file at once, doing a bunch of integer parsing, and then boom, calculating out the value you're looking for.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:104",
+      "startMs": 503120,
+      "endMs": 507360,
+      "verbatim": "And some of the fastest times I've seen are right around one and a half seconds.",
+      "display": "And some of the fastest times I've seen are right around one and a half seconds.",
+      "search": "and some of the fastest times i've seen are right around one and a half seconds.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:105",
+      "startMs": 507360,
+      "endMs": 514400,
+      "verbatim": "I'm sure there's some ones that are even sub-1 second, but they all tend to be right around in this range are the super fast ones.",
+      "display": "I'm sure there's some ones that are even sub-1 second, but they all tend to be right around in this range are the super fast ones.",
+      "search": "i'm sure there's some ones that are even sub-1 second, but they all tend to be right around in this range are the super fast ones.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:106",
+      "startMs": 514400,
+      "endMs": 518720,
+      "verbatim": "Now remember, the raw data for the image is gonna be 40 gigabytes.",
+      "display": "Now remember, the raw data for the image is gonna be 40 gigabytes.",
+      "search": "now remember, the raw data for the image is gonna be 40 gigabytes.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:107",
+      "startMs": 518720,
+      "endMs": 529520,
+      "verbatim": "And I have a general assumption that you're gonna be doing a little bit more processing and parsing on these raw data images than you would be doing on the one billion row challenge.",
+      "display": "And I have a general assumption that you're gonna be doing a little bit more processing and parsing on these raw data images than you would be doing on the one billion row challenge.",
+      "search": "and i have a general assumption that you're gonna be doing a little bit more processing and parsing on these raw data images than you would be doing on the one billion row challenge.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:108",
+      "startMs": 529520,
+      "endMs": 547280,
+      "verbatim": "I'm just I you know what I'm just going to assume it's slightly more complicated, but you do have 21 servers, which means if I'm being generous and you have 500 images, but you have 21 servers, but they each take three seconds, you're at about 71 seconds to be able to process everything.",
+      "display": "I'm just I you know what I'm just going to assume it's slightly more complicated, but you do have 21 servers, which means if I'm being generous and you have 500 images, but you have 21 servers, but they each take three seconds, you're at about 71 seconds to be able to process everything.",
+      "search": "i'm just i you know what i'm just going to assume it's slightly more complicated, but you do have 21 servers, which means if i'm being generous and you have 500 images, but you have 21 servers, but they each take three seconds, you're at about 71 seconds to be able to process everything.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:109",
+      "startMs": 547280,
+      "endMs": 551120,
+      "verbatim": "So that already is way too much time, okay?",
+      "display": "So that already is way too much time, okay?",
+      "search": "so that already is way too much time, okay?",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:110",
+      "startMs": 551120,
+      "endMs": 558720,
+      "verbatim": "You gotta be you gotta be processing so fast to be able to keep up with this billion scans a month demand across 50,000 machines.",
+      "display": "You gotta be you gotta be processing so fast to be able to keep up with this billion scans a month demand across 50,000 machines.",
+      "search": "you gotta be you gotta be processing so fast to be able to keep up with this billion scans a month demand across 50,000 machines.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:111",
+      "startMs": 558720,
+      "endMs": 561760,
+      "verbatim": "This is gonna be eating into a huge amount of your time.",
+      "display": "This is gonna be eating into a huge amount of your time.",
+      "search": "this is gonna be eating into a huge amount of your time.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:112",
+      "startMs": 561760,
+      "endMs": 565920,
+      "verbatim": "But somehow that's not even the most absurd part, okay?",
+      "display": "But somehow that's not even the most absurd part, okay?",
+      "search": "but somehow that's not even the most absurd part, okay?",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:113",
+      "startMs": 565920,
+      "endMs": 577920,
+      "verbatim": "If you have 1 billion scans per month and you have approximately 501 gigabyte images that you need to be sending up, I don't know what that extra letter is there.",
+      "display": "If you have 1 billion scans per month and you have approximately 501 gigabyte images that you need to be sending up, I don't know what that extra letter is there.",
+      "search": "if you have 1 billion scans per month and you have approximately 501 gigabyte images that you need to be sending up, i don't know what that extra letter is there.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:114",
+      "startMs": 577920,
+      "endMs": 581680,
+      "verbatim": "That is gonna be approximately like 16 exobytes.",
+      "display": "That is gonna be approximately like 16 exobytes.",
+      "search": "that is gonna be approximately like 16 exobytes.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:115",
+      "startMs": 581680,
+      "endMs": 585760,
+      "verbatim": "Obviously, we need to, you know, there's gonna be some G-zipping, things are gonna get a bit smaller.",
+      "display": "Obviously, we need to, you know, there's gonna be some G-zipping, things are gonna get a bit smaller.",
+      "search": "obviously, we need to, you know, there's gonna be some g-zipping, things are gonna get a bit smaller.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:116",
+      "startMs": 585760,
+      "endMs": 588560,
+      "verbatim": "Let's just say we can get down to four exobytes.",
+      "display": "Let's just say we can get down to four exobytes.",
+      "search": "let's just say we can get down to four exobytes.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:117",
+      "startMs": 588560,
+      "endMs": 604000,
+      "verbatim": "Today, of under today's amount of internet, this would represent approximately somewhere between 12.5 to 25% of the total internet transfer today, just to transfer medical images.",
+      "display": "Today, of under today's amount of internet, this would represent approximately somewhere between 12.5 to 25% of the total internet transfer today, just to transfer medical images.",
+      "search": "today, of under today's amount of internet, this would represent approximately somewhere between 12.5 to 25% of the total internet transfer today, just to transfer medical images.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:118",
+      "startMs": 604000,
+      "endMs": 622800,
+      "verbatim": "Even if we were to be using the fastest NVIDIA server rack costing 10 million dollars, plus 40 acres of storage plus a gigawatt of power to be able to store all of these images across a single year of operating 25% of the internet, and you're gonna tell me you're gonna be able to do a billion of these scans in a month.",
+      "display": "Even if we were to be using the fastest NVIDIA server rack costing 10 million dollars, plus 40 acres of storage plus a gigawatt of power to be able to store all of these images across a single year of operating 25% of the internet, and you're gonna tell me you're gonna be able to do a billion of these scans in a month.",
+      "search": "even if we were to be using the fastest nvidia server rack costing 10 million dollars, plus 40 acres of storage plus a gigawatt of power to be able to store all of these images across a single year of operating 25% of the internet, and you're gonna tell me you're gonna be able to do a billion of these scans in a month.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:119",
+      "startMs": 622800,
+      "endMs": 624560,
+      "verbatim": "Like, I think all the numbers are wrong.",
+      "display": "Like, I think all the numbers are wrong.",
+      "search": "like, i think all the numbers are wrong.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:120",
+      "startMs": 624560,
+      "endMs": 627920,
+      "verbatim": "You're not gonna hit a billion scans a month with 50,000 machines, okay?",
+      "display": "You're not gonna hit a billion scans a month with 50,000 machines, okay?",
+      "search": "you're not gonna hit a billion scans a month with 50,000 machines, okay?",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:121",
+      "startMs": 627920,
+      "endMs": 630080,
+      "verbatim": "You're gonna need like 500,000 machines.",
+      "display": "You're gonna need like 500,000 machines.",
+      "search": "you're gonna need like 500,000 machines.",
+      "confidence": 0.961
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:122",
+      "startMs": 630080,
+      "endMs": 635920,
+      "verbatim": "Second off, just the pure, sheer power that machine's gonna take locally is gonna be nuts.",
+      "display": "Second off, just the pure, sheer power that machine's gonna take locally is gonna be nuts.",
+      "search": "second off, just the pure, sheer power that machine's gonna take locally is gonna be nuts.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:123",
+      "startMs": 635920,
+      "endMs": 641760,
+      "verbatim": "The amount of internet traffic you're gonna have to be able to utilize is gonna be just insane.",
+      "display": "The amount of internet traffic you're gonna have to be able to utilize is gonna be just insane.",
+      "search": "the amount of internet traffic you're gonna have to be able to utilize is gonna be just insane.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:124",
+      "startMs": 641760,
+      "endMs": 644880,
+      "verbatim": "Every single day you're gonna be Netflix by itself.",
+      "display": "Every single day you're gonna be Netflix by itself.",
+      "search": "every single day you're gonna be netflix by itself.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:125",
+      "startMs": 644880,
+      "endMs": 649120,
+      "verbatim": "You, you, I mean, four exabytes is what Netflix does every day.",
+      "display": "You, you, I mean, four exabytes is what Netflix does every day.",
+      "search": "you, you, i mean, four exabytes is what netflix does every day.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:126",
+      "startMs": 649120,
+      "endMs": 651920,
+      "verbatim": "You will be Netflix just off of medical images.",
+      "display": "You will be Netflix just off of medical images.",
+      "search": "you will be netflix just off of medical images.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:127",
+      "startMs": 651920,
+      "endMs": 657040,
+      "verbatim": "Not to mention just the insane amount of data warehouses you're gonna have to have, plus the powers.",
+      "display": "Not to mention just the insane amount of data warehouses you're gonna have to have, plus the powers.",
+      "search": "not to mention just the insane amount of data warehouses you're gonna have to have, plus the powers.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:128",
+      "startMs": 657040,
+      "endMs": 663600,
+      "verbatim": "You're gonna have to have a dedicated nuclear reactor just to power the hard drives.",
+      "display": "You're gonna have to have a dedicated nuclear reactor just to power the hard drives.",
+      "search": "you're gonna have to have a dedicated nuclear reactor just to power the hard drives.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:129",
+      "startMs": 663600,
+      "endMs": 677680,
+      "verbatim": "And look at this none of these calculations considered really like speed of reading from RAM or speed to writing to disk, or what happens when you have more memory and it needs to start doing a little bit of flippity-floppeting out of uh the RAM space onto hard drive space.",
+      "display": "And look at this none of these calculations considered really like speed of reading from RAM or speed to writing to disk, or what happens when you have more memory and it needs to start doing a little bit of flippity-floppeting out of uh the RAM space onto hard drive space.",
+      "search": "and look at this none of these calculations considered really like speed of reading from ram or speed to writing to disk, or what happens when you have more memory and it needs to start doing a little bit of flippity-floppeting out of uh the ram space onto hard drive space.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:130",
+      "startMs": 677680,
+      "endMs": 686480,
+      "verbatim": "Like there's all sorts of real-world problems that would exist that processing this amount of information is not gonna be done in 60 seconds or less.",
+      "display": "Like there's all sorts of real-world problems that would exist that processing this amount of information is not gonna be done in 60 seconds or less.",
+      "search": "like there's all sorts of real-world problems that would exist that processing this amount of information is not gonna be done in 60 seconds or less.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:131",
+      "startMs": 686480,
+      "endMs": 690320,
+      "verbatim": "It is not gonna be gone in 60 seconds with Nicolas Cage, okay?",
+      "display": "It is not gonna be gone in 60 seconds with Nicolas Cage, okay?",
+      "search": "it is not gonna be gone in 60 seconds with nicolas cage, okay?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:132",
+      "startMs": 690320,
+      "endMs": 692320,
+      "verbatim": "It's gonna take many, many minutes.",
+      "display": "It's gonna take many, many minutes.",
+      "search": "it's gonna take many, many minutes.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:133",
+      "startMs": 692320,
+      "endMs": 698320,
+      "verbatim": "And I assume you won't be able to run the processing of information while stacking up more.",
+      "display": "And I assume you won't be able to run the processing of information while stacking up more.",
+      "search": "and i assume you won't be able to run the processing of information while stacking up more.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:134",
+      "startMs": 698320,
+      "endMs": 714880,
+      "verbatim": "I genuinely have no idea how they're gonna get there, but I do want to say something that I think is pretty neat is that Mid-Journey, the image company, is attempting to do more for medicine than OpenAI, Anthropic, and all the other places currently that I've seen.",
+      "display": "I genuinely have no idea how they're gonna get there, but I do want to say something that I think is pretty neat is that Mid-Journey, the image company, is attempting to do more for medicine than OpenAI, Anthropic, and all the other places currently that I've seen.",
+      "search": "i genuinely have no idea how they're gonna get there, but i do want to say something that i think is pretty neat is that mid-journey, the image company, is attempting to do more for medicine than openai, anthropic, and all the other places currently that i've seen.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:135",
+      "startMs": 714880,
+      "endMs": 738080,
+      "verbatim": "They're at least trying to, it appears that they're at least attempting to do something because the whole kind of stated mission is that if you can measure yourself every single month, if any of your organs or anything starts changing shape or density, you'd be able to identify it pretty quick, hopefully leading to like a quicker, you know, root cause analysis of some sort of issue, thus potentially saving many lives or extending lives.",
+      "display": "They're at least trying to, it appears that they're at least attempting to do something because the whole kind of stated mission is that if you can measure yourself every single month, if any of your organs or anything starts changing shape or density, you'd be able to identify it pretty quick, hopefully leading to like a quicker, you know, root cause analysis of some sort of issue, thus potentially saving many lives or extending lives.",
+      "search": "they're at least trying to, it appears that they're at least attempting to do something because the whole kind of stated mission is that if you can measure yourself every single month, if any of your organs or anything starts changing shape or density, you'd be able to identify it pretty quick, hopefully leading to like a quicker, you know, root cause analysis of some sort of issue, thus potentially saving many lives or extending lives.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:136",
+      "startMs": 738080,
+      "endMs": 743200,
+      "verbatim": "The obvious, the obviously hard part that I just can't imagine is how can this be cheap?",
+      "display": "The obvious, the obviously hard part that I just can't imagine is how can this be cheap?",
+      "search": "the obvious, the obviously hard part that i just can't imagine is how can this be cheap?",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:137",
+      "startMs": 743200,
+      "endMs": 744480,
+      "verbatim": "How can you get a billion people?",
+      "display": "How can you get a billion people?",
+      "search": "how can you get a billion people?",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:138",
+      "startMs": 744480,
+      "endMs": 750560,
+      "verbatim": "Like, how do you make technology that is affordable to a billion people with the numbers that we were talking about?",
+      "display": "Like, how do you make technology that is affordable to a billion people with the numbers that we were talking about?",
+      "search": "like, how do you make technology that is affordable to a billion people with the numbers that we were talking about?",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:139",
+      "startMs": 750560,
+      "endMs": 755040,
+      "verbatim": "Like these numbers to be able to set this up is gonna be a hundred billion dollars.",
+      "display": "Like these numbers to be able to set this up is gonna be a hundred billion dollars.",
+      "search": "like these numbers to be able to set this up is gonna be a hundred billion dollars.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:140",
+      "startMs": 755040,
+      "endMs": 766160,
+      "verbatim": "You're gonna cost as much as an AI laboratory to be able to operate just due to the sheer amount of volume of data and the kind of equipment you need to be able to process that much load.",
+      "display": "You're gonna cost as much as an AI laboratory to be able to operate just due to the sheer amount of volume of data and the kind of equipment you need to be able to process that much load.",
+      "search": "you're gonna cost as much as an ai laboratory to be able to operate just due to the sheer amount of volume of data and the kind of equipment you need to be able to process that much load.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:141",
+      "startMs": 766160,
+      "endMs": 769360,
+      "verbatim": "Because they are saying that a spa can hold like 10 units.",
+      "display": "Because they are saying that a spa can hold like 10 units.",
+      "search": "because they are saying that a spa can hold like 10 units.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:142",
+      "startMs": 769360,
+      "endMs": 777840,
+      "verbatim": "So 50,000 is gonna be like 5,000 spas across the world, and each one of these are gonna have to have a $10 million server farm in it.",
+      "display": "So 50,000 is gonna be like 5,000 spas across the world, and each one of these are gonna have to have a $10 million server farm in it.",
+      "search": "so 50,000 is gonna be like 5,000 spas across the world, and each one of these are gonna have to have a $10 million server farm in it.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:143",
+      "startMs": 777840,
+      "endMs": 782400,
+      "verbatim": "I'm not a math magician, and I don't think anyone can multiply 5,000 by 10 million.",
+      "display": "I'm not a math magician, and I don't think anyone can multiply 5,000 by 10 million.",
+      "search": "i'm not a math magician, and i don't think anyone can multiply 5,000 by 10 million.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:144",
+      "startMs": 782400,
+      "endMs": 785280,
+      "verbatim": "Those numbers are both way too big to multiply together.",
+      "display": "Those numbers are both way too big to multiply together.",
+      "search": "those numbers are both way too big to multiply together.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:145",
+      "startMs": 785280,
+      "endMs": 788080,
+      "verbatim": "Therefore, there's probably no way anyone can afford that, okay?",
+      "display": "Therefore, there's probably no way anyone can afford that, okay?",
+      "search": "therefore, there's probably no way anyone can afford that, okay?",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:146",
+      "startMs": 788080,
+      "endMs": 790080,
+      "verbatim": "Hey, we're all broke boys compared to that number.",
+      "display": "Hey, we're all broke boys compared to that number.",
+      "search": "hey, we're all broke boys compared to that number.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:147",
+      "startMs": 790080,
+      "endMs": 792720,
+      "verbatim": "But at the end of the day, still mid journey.",
+      "display": "But at the end of the day, still mid journey.",
+      "search": "but at the end of the day, still mid journey.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:148",
+      "startMs": 792720,
+      "endMs": 795840,
+      "verbatim": "Appreciate you doing something a little bit different.",
+      "display": "Appreciate you doing something a little bit different.",
+      "search": "appreciate you doing something a little bit different.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:149",
+      "startMs": 795840,
+      "endMs": 797440,
+      "verbatim": "Uh the numbers, I don't believe.",
+      "display": "Uh the numbers, I don't believe.",
+      "search": "uh the numbers, i don't believe.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:150",
+      "startMs": 797600,
+      "endMs": 802320,
+      "verbatim": "Hey, I'm glad to be proved wrong, but I'm happy that you're doing this.",
+      "display": "Hey, I'm glad to be proved wrong, but I'm happy that you're doing this.",
+      "search": "hey, i'm glad to be proved wrong, but i'm happy that you're doing this.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:151",
+      "startMs": 802320,
+      "endMs": 805920,
+      "verbatim": "The name is the primogen.",
+      "display": "The name is the primogen.",
+      "search": "the name is the primogen.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:152",
+      "startMs": 805920,
+      "endMs": 807840,
+      "verbatim": "Also, please don't let this be vaporware.",
+      "display": "Also, please don't let this be vaporware.",
+      "search": "also, please don't let this be vaporware.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:153",
+      "startMs": 807840,
+      "endMs": 810160,
+      "verbatim": "Please don't let this be the greatest rug pull of all time, okay?",
+      "display": "Please don't let this be the greatest rug pull of all time, okay?",
+      "search": "please don't let this be the greatest rug pull of all time, okay?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:154",
+      "startMs": 810160,
+      "endMs": 811360,
+      "verbatim": "Come on, don't let it happen.",
+      "display": "Come on, don't let it happen.",
+      "search": "come on, don't let it happen.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:nGqGrrYeYGc:segment:155",
+      "startMs": 811360,
+      "endMs": 812000,
+      "verbatim": "Don't let it happen",
+      "display": "Don't let it happen",
+      "search": "don't let it happen",
+      "confidence": 0.998
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:jJbelC85zic",
+  "platform": "youtube",
+  "platformId": "jJbelC85zic",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Fable Deserved It",
+  "description": "KERNEL builds crazy fast, open source infra for AI agents to access the internet. Trusted by Framer, Cash App, and 3000+ teams\n\nhttps://trm.sh/kernel\n\nSources:\n\n- https://x.com/AnthropicAI/status/2065597531644743999\n- https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519\n- https://x.com/hugolowell/status/2066695452016169471?s=20\n- https://x.com/simonw/status/2066722034491789720\n- https://x.com/mark_k/status/2065838368865259892\n- https://x.com/PolymarketMoney/status/2065801798137545076\n- https://x.com/0xPBIT/status/2066613611313906108\n- https://x.com/MilkRoadAI/status/2066309017211986134\n- https://www.sciencealert.com/scientists-developed-an-ai-so-advanced-they-say-it-s-too-dangerous-to-release\n- https://x.com/yunyu_l/status/2065899765645169013\n- https://x.com/yunyu_l/status/2065933211146891435\n- https://darioamodei.com/post/the-urgency-of-interpretability\n- https://x.com/Hangsiin/status/2064397550434816088\n- https://x.com/NathanMcNulty/status/2064549828957507970\n- http://x.com/kradleai/status/2064907897373642912/photo/1\n\nTopics Covered:\n\n- Claude Fable 5\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=jJbelC85zic",
+  "publishedAt": "2026-06-19T13:00:14.000Z",
+  "durationMs": 898000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:14:55.645Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:14:55.645Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

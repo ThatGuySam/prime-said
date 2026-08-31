@@ -1,0 +1,3857 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_56b691a302bb52b1ee6fd84d",
+  "sourceId": "youtube:pslodI0Mh_0",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:34:25.260Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:1",
+      "startMs": 0,
+      "endMs": 6000,
+      "verbatim": "If you guys do not know, chat, chat, everybody in here, Casey, trash.",
+      "display": "If you guys do not know, chat, chat, everybody in here, Casey, trash.",
+      "search": "if you guys do not know, chat, chat, everybody in here, casey, trash.",
+      "confidence": 0.682
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:2",
+      "startMs": 6000,
+      "endMs": 8640,
+      "verbatim": "Uh the startup is going through a bit of a change.",
+      "display": "Uh the startup is going through a bit of a change.",
+      "search": "uh the startup is going through a bit of a change.",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:3",
+      "startMs": 8640,
+      "endMs": 9120,
+      "verbatim": "Alright.",
+      "display": "Alright.",
+      "search": "alright.",
+      "confidence": 0.649
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:4",
+      "startMs": 9120,
+      "endMs": 16960,
+      "verbatim": "There's been some investment interest, and we are now raising a series A like any proper multi-billion dollar unicorn startup.",
+      "display": "There's been some investment interest, and we are now raising a series A like any proper multi-billion dollar unicorn startup.",
+      "search": "there's been some investment interest, and we are now raising a series a like any proper multi-billion dollar unicorn startup.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:5",
+      "startMs": 16960,
+      "endMs": 17360,
+      "verbatim": "Cool.",
+      "display": "Cool.",
+      "search": "cool.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:6",
+      "startMs": 18080,
+      "endMs": 18720,
+      "verbatim": "Decacorn.",
+      "display": "Decacorn.",
+      "search": "decacorn.",
+      "confidence": 0.43
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:7",
+      "startMs": 18960,
+      "endMs": 19840,
+      "verbatim": "Decacorn, really.",
+      "display": "Decacorn, really.",
+      "search": "decacorn, really.",
+      "confidence": 0.635
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:8",
+      "startMs": 19840,
+      "endMs": 20880,
+      "verbatim": "We're a decacorn.",
+      "display": "We're a decacorn.",
+      "search": "we're a decacorn.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:9",
+      "startMs": 20880,
+      "endMs": 25520,
+      "verbatim": "And so I don't know what that means yet, but someone told me it's like that's the best kind of unicorn.",
+      "display": "And so I don't know what that means yet, but someone told me it's like that's the best kind of unicorn.",
+      "search": "and so i don't know what that means yet, but someone told me it's like that's the best kind of unicorn.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:10",
+      "startMs": 25520,
+      "endMs": 27280,
+      "verbatim": "I think it means it has multiple horns.",
+      "display": "I think it means it has multiple horns.",
+      "search": "i think it means it has multiple horns.",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:11",
+      "startMs": 27280,
+      "endMs": 28240,
+      "verbatim": "I don't know what it means.",
+      "display": "I don't know what it means.",
+      "search": "i don't know what it means.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:12",
+      "startMs": 31200,
+      "endMs": 31760,
+      "verbatim": "Okay, nice.",
+      "display": "Okay, nice.",
+      "search": "okay, nice.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:13",
+      "startMs": 31760,
+      "endMs": 35600,
+      "verbatim": "So it's kind of like uh the beast in the Bible, the devil, right?",
+      "display": "So it's kind of like uh the beast in the Bible, the devil, right?",
+      "search": "so it's kind of like uh the beast in the bible, the devil, right?",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:14",
+      "startMs": 35600,
+      "endMs": 38080,
+      "verbatim": "Very doesn't have 10, does he?",
+      "display": "Very doesn't have 10, does he?",
+      "search": "very doesn't have 10, does he?",
+      "confidence": 0.721
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:15",
+      "startMs": 39440,
+      "endMs": 40480,
+      "verbatim": "Yeah, yeah, yeah, yeah, yeah.",
+      "display": "Yeah, yeah, yeah, yeah, yeah.",
+      "search": "yeah, yeah, yeah, yeah, yeah.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:16",
+      "startMs": 42000,
+      "endMs": 43200,
+      "verbatim": "Uh, anyways, sorry.",
+      "display": "Uh, anyways, sorry.",
+      "search": "uh, anyways, sorry.",
+      "confidence": 0.648
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:17",
+      "startMs": 43200,
+      "endMs": 44000,
+      "verbatim": "Fact checkers.",
+      "display": "Fact checkers.",
+      "search": "fact checkers.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:18",
+      "startMs": 44000,
+      "endMs": 44880,
+      "verbatim": "Fact checkers.",
+      "display": "Fact checkers.",
+      "search": "fact checkers.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:19",
+      "startMs": 44880,
+      "endMs": 45520,
+      "verbatim": "Fact checkers.",
+      "display": "Fact checkers.",
+      "search": "fact checkers.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:20",
+      "startMs": 45920,
+      "endMs": 48480,
+      "verbatim": "And so we thought Tish would fact-check that one.",
+      "display": "And so we thought Tish would fact-check that one.",
+      "search": "and so we thought tish would fact-check that one.",
+      "confidence": 0.63
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:21",
+      "startMs": 48480,
+      "endMs": 51280,
+      "verbatim": "I actually thought TJ was gonna fact check me, but he fact checked me in.",
+      "display": "I actually thought TJ was gonna fact check me, but he fact checked me in.",
+      "search": "i actually thought tj was gonna fact check me, but he fact checked me in.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:22",
+      "startMs": 52080,
+      "endMs": 53840,
+      "verbatim": "It didn't seem 10, but it could be.",
+      "display": "It didn't seem 10, but it could be.",
+      "search": "it didn't seem 10, but it could be.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:23",
+      "startMs": 55360,
+      "endMs": 56400,
+      "verbatim": "No one's read Revelation.",
+      "display": "No one's read Revelation.",
+      "search": "no one's read revelation.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:24",
+      "startMs": 56400,
+      "endMs": 57760,
+      "verbatim": "What the hell's going on here, guys?",
+      "display": "What the hell's going on here, guys?",
+      "search": "what the hell's going on here, guys?",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:25",
+      "startMs": 57760,
+      "endMs": 58320,
+      "verbatim": "Hold on.",
+      "display": "Hold on.",
+      "search": "hold on.",
+      "confidence": 0.543
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:26",
+      "startMs": 58480,
+      "endMs": 61520,
+      "verbatim": "Well, that is kind of what they would what it answers, you know.",
+      "display": "Well, that is kind of what they would what it answers, you know.",
+      "search": "well, that is kind of what they would what it answers, you know.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:27",
+      "startMs": 62080,
+      "endMs": 63040,
+      "verbatim": "Anyway.",
+      "display": "Anyway.",
+      "search": "anyway.",
+      "confidence": 0.653
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:28",
+      "startMs": 63040,
+      "endMs": 64560,
+      "verbatim": "Alright, so he has 10 horns.",
+      "display": "Alright, so he has 10 horns.",
+      "search": "alright, so he has 10 horns.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:29",
+      "startMs": 64560,
+      "endMs": 65120,
+      "verbatim": "Called it.",
+      "display": "Called it.",
+      "search": "called it.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:30",
+      "startMs": 65120,
+      "endMs": 66160,
+      "verbatim": "Okay, primary reference.",
+      "display": "Okay, primary reference.",
+      "search": "okay, primary reference.",
+      "confidence": 0.706
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:31",
+      "startMs": 66720,
+      "endMs": 68080,
+      "verbatim": "Okay, I was correct on that one.",
+      "display": "Okay, I was correct on that one.",
+      "search": "okay, i was correct on that one.",
+      "confidence": 0.687
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:32",
+      "startMs": 68400,
+      "endMs": 68800,
+      "verbatim": "Boom.",
+      "display": "Boom.",
+      "search": "boom.",
+      "confidence": 0.565
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:33",
+      "startMs": 68800,
+      "endMs": 69520,
+      "verbatim": "Okay, good.",
+      "display": "Okay, good.",
+      "search": "okay, good.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:34",
+      "startMs": 69520,
+      "endMs": 70320,
+      "verbatim": "Referenced.",
+      "display": "Referenced.",
+      "search": "referenced.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:35",
+      "startMs": 70320,
+      "endMs": 70880,
+      "verbatim": "Alright.",
+      "display": "Alright.",
+      "search": "alright.",
+      "confidence": 0.629
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:36",
+      "startMs": 70880,
+      "endMs": 74480,
+      "verbatim": "So with that in mind, we're just AI for our theology.",
+      "display": "So with that in mind, we're just AI for our theology.",
+      "search": "so with that in mind, we're just ai for our theology.",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:37",
+      "startMs": 75840,
+      "endMs": 78640,
+      "verbatim": "Just let it happen, everybody, okay?",
+      "display": "Just let it happen, everybody, okay?",
+      "search": "just let it happen, everybody, okay?",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:38",
+      "startMs": 78960,
+      "endMs": 79840,
+      "verbatim": "My gosh.",
+      "display": "My gosh.",
+      "search": "my gosh.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:39",
+      "startMs": 79840,
+      "endMs": 80400,
+      "verbatim": "Alright.",
+      "display": "Alright.",
+      "search": "alright.",
+      "confidence": 0.675
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:40",
+      "startMs": 80400,
+      "endMs": 82480,
+      "verbatim": "This is not starting off the way I wanted it to.",
+      "display": "This is not starting off the way I wanted it to.",
+      "search": "this is not starting off the way i wanted it to.",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:41",
+      "startMs": 82480,
+      "endMs": 84400,
+      "verbatim": "So, anyways, uh, nor does any stand-up.",
+      "display": "So, anyways, uh, nor does any stand-up.",
+      "search": "so, anyways, uh, nor does any stand-up.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:42",
+      "startMs": 84400,
+      "endMs": 96160,
+      "verbatim": "All right, so with all of that said, that means as part of our amazing content, I have now organized us an amazing linear board, which will help us walk through a more organized stand-up.",
+      "display": "All right, so with all of that said, that means as part of our amazing content, I have now organized us an amazing linear board, which will help us walk through a more organized stand-up.",
+      "search": "all right, so with all of that said, that means as part of our amazing content, i have now organized us an amazing linear board, which will help us walk through a more organized stand-up.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:43",
+      "startMs": 96160,
+      "endMs": 102480,
+      "verbatim": "Because if there's one thing I know about in uh raising a series A, is they want to see Agile.",
+      "display": "Because if there's one thing I know about in uh raising a series A, is they want to see Agile.",
+      "search": "because if there's one thing i know about in uh raising a series a, is they want to see agile.",
+      "confidence": 0.679
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:44",
+      "startMs": 102480,
+      "endMs": 105360,
+      "verbatim": "Okay, I'm pretty sure that's correct still in today's day and age.",
+      "display": "Okay, I'm pretty sure that's correct still in today's day and age.",
+      "search": "okay, i'm pretty sure that's correct still in today's day and age.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:45",
+      "startMs": 105360,
+      "endMs": 107120,
+      "verbatim": "So we're getting really agilized.",
+      "display": "So we're getting really agilized.",
+      "search": "so we're getting really agilized.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:46",
+      "startMs": 107120,
+      "endMs": 115280,
+      "verbatim": "No, it's actually gonna be it's gonna make us hopefully have a more organized and amazing stand-up so that the world's most attended stand-up, which is our current stand-up right now.",
+      "display": "No, it's actually gonna be it's gonna make us hopefully have a more organized and amazing stand-up so that the world's most attended stand-up, which is our current stand-up right now.",
+      "search": "no, it's actually gonna be it's gonna make us hopefully have a more organized and amazing stand-up so that the world's most attended stand-up, which is our current stand-up right now.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:47",
+      "startMs": 115280,
+      "endMs": 119280,
+      "verbatim": "Right now, just in case you're wondering, you know, you may not know this, Casey.",
+      "display": "Right now, just in case you're wondering, you know, you may not know this, Casey.",
+      "search": "right now, just in case you're wondering, you know, you may not know this, casey.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:48",
+      "startMs": 119280,
+      "endMs": 123520,
+      "verbatim": "There's there is uh there's 2,500 people on the stand-up right now.",
+      "display": "There's there is uh there's 2,500 people on the stand-up right now.",
+      "search": "there's there is uh there's 2,500 people on the stand-up right now.",
+      "confidence": 0.72
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:49",
+      "startMs": 123520,
+      "endMs": 125760,
+      "verbatim": "This is the world's most attended stand-up.",
+      "display": "This is the world's most attended stand-up.",
+      "search": "this is the world's most attended stand-up.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:50",
+      "startMs": 125760,
+      "endMs": 131200,
+      "verbatim": "It's like you couldn't even like it, we previously no one knew if that many people could even stand at the same time.",
+      "display": "It's like you couldn't even like it, we previously no one knew if that many people could even stand at the same time.",
+      "search": "it's like you couldn't even like it, we previously no one knew if that many people could even stand at the same time.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:51",
+      "startMs": 131200,
+      "endMs": 132240,
+      "verbatim": "And we've just shattered that.",
+      "display": "And we've just shattered that.",
+      "search": "and we've just shattered that.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:52",
+      "startMs": 132240,
+      "endMs": 133440,
+      "verbatim": "We shattered that whole screen.",
+      "display": "We shattered that whole screen.",
+      "search": "we shattered that whole screen.",
+      "confidence": 0.58
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:53",
+      "startMs": 134240,
+      "endMs": 134800,
+      "verbatim": "Okay, definitely.",
+      "display": "Okay, definitely.",
+      "search": "okay, definitely.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:54",
+      "startMs": 134800,
+      "endMs": 135600,
+      "verbatim": "What was the record before?",
+      "display": "What was the record before?",
+      "search": "what was the record before?",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:55",
+      "startMs": 135600,
+      "endMs": 136560,
+      "verbatim": "Like 100 people, maybe?",
+      "display": "Like 100 people, maybe?",
+      "search": "like 100 people, maybe?",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:56",
+      "startMs": 136560,
+      "endMs": 138240,
+      "verbatim": "Yeah, but like 100, 200, I don't know.",
+      "display": "Yeah, but like 100, 200, I don't know.",
+      "search": "yeah, but like 100, 200, i don't know.",
+      "confidence": 0.701
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:57",
+      "startMs": 139120,
+      "endMs": 139520,
+      "verbatim": "Maximum.",
+      "display": "Maximum.",
+      "search": "maximum.",
+      "confidence": 0.633
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:58",
+      "startMs": 139680,
+      "endMs": 140640,
+      "verbatim": "Now we're at 2500.",
+      "display": "Now we're at 2500.",
+      "search": "now we're at 2500.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:59",
+      "startMs": 140640,
+      "endMs": 142560,
+      "verbatim": "It's it's world, it's it's world shattering.",
+      "display": "It's it's world, it's it's world shattering.",
+      "search": "it's it's world, it's it's world shattering.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:60",
+      "startMs": 143840,
+      "endMs": 144880,
+      "verbatim": "It's a game changer.",
+      "display": "It's a game changer.",
+      "search": "it's a game changer.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:61",
+      "startMs": 144880,
+      "endMs": 145120,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:62",
+      "startMs": 145120,
+      "endMs": 148080,
+      "verbatim": "I want to add though, we didn't get an invite or the topics until this morning.",
+      "display": "I want to add though, we didn't get an invite or the topics until this morning.",
+      "search": "i want to add though, we didn't get an invite or the topics until this morning.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:63",
+      "startMs": 148080,
+      "endMs": 148720,
+      "verbatim": "Like two.",
+      "display": "Like two.",
+      "search": "like two.",
+      "confidence": 0.509
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:64",
+      "startMs": 148880,
+      "endMs": 149200,
+      "verbatim": "No, yeah.",
+      "display": "No, yeah.",
+      "search": "no, yeah.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:65",
+      "startMs": 149200,
+      "endMs": 155600,
+      "verbatim": "So this standup's gonna be amazing because Prime's like, uh, we're gonna talk about this new well, you know what?",
+      "display": "So this standup's gonna be amazing because Prime's like, uh, we're gonna talk about this new well, you know what?",
+      "search": "so this standup's gonna be amazing because prime's like, uh, we're gonna talk about this new well, you know what?",
+      "confidence": 0.72
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:66",
+      "startMs": 155600,
+      "endMs": 157760,
+      "verbatim": "I won't spoil it, but let's put it put it this way.",
+      "display": "I won't spoil it, but let's put it put it this way.",
+      "search": "i won't spoil it, but let's put it put it this way.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:67",
+      "startMs": 157760,
+      "endMs": 162800,
+      "verbatim": "It probably was a topic that would have been nice to research beforehand if we're gonna talk about it.",
+      "display": "It probably was a topic that would have been nice to research beforehand if we're gonna talk about it.",
+      "search": "it probably was a topic that would have been nice to research beforehand if we're gonna talk about it.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:68",
+      "startMs": 162800,
+      "endMs": 163760,
+      "verbatim": "That's that's all I'm gonna say.",
+      "display": "That's that's all I'm gonna say.",
+      "search": "that's that's all i'm gonna say.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:69",
+      "startMs": 163760,
+      "endMs": 164720,
+      "verbatim": "I don't want to spoil it.",
+      "display": "I don't want to spoil it.",
+      "search": "i don't want to spoil it.",
+      "confidence": 0.68
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:70",
+      "startMs": 168720,
+      "endMs": 169120,
+      "verbatim": "You know what?",
+      "display": "You know what?",
+      "search": "you know what?",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:71",
+      "startMs": 169120,
+      "endMs": 171600,
+      "verbatim": "That's what makes this authentic case.",
+      "display": "That's what makes this authentic case.",
+      "search": "that's what makes this authentic case.",
+      "confidence": 0.662
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:72",
+      "startMs": 171680,
+      "endMs": 175040,
+      "verbatim": "You could react to trash's workout gym knowledge.",
+      "display": "You could react to trash's workout gym knowledge.",
+      "search": "you could react to trash's workout gym knowledge.",
+      "confidence": 0.644
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:73",
+      "startMs": 175040,
+      "endMs": 175440,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.497
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:74",
+      "startMs": 175680,
+      "endMs": 178240,
+      "verbatim": "Rather than facts, you get trash facts.",
+      "display": "Rather than facts, you get trash facts.",
+      "search": "rather than facts, you get trash facts.",
+      "confidence": 0.687
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:75",
+      "startMs": 178400,
+      "endMs": 179200,
+      "verbatim": "I am not the expert.",
+      "display": "I am not the expert.",
+      "search": "i am not the expert.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:76",
+      "startMs": 182480,
+      "endMs": 186480,
+      "verbatim": "Dude, if there was a trash fact every episode, that would be that would be fire.",
+      "display": "Dude, if there was a trash fact every episode, that would be that would be fire.",
+      "search": "dude, if there was a trash fact every episode, that would be that would be fire.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:77",
+      "startMs": 186480,
+      "endMs": 187840,
+      "verbatim": "It's literally going.",
+      "display": "It's literally going.",
+      "search": "it's literally going.",
+      "confidence": 0.643
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:78",
+      "startMs": 188080,
+      "endMs": 189680,
+      "verbatim": "It's going on the linear board.",
+      "display": "It's going on the linear board.",
+      "search": "it's going on the linear board.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:79",
+      "startMs": 189680,
+      "endMs": 190960,
+      "verbatim": "I literally have endless lore.",
+      "display": "I literally have endless lore.",
+      "search": "i literally have endless lore.",
+      "confidence": 0.799
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:80",
+      "startMs": 191600,
+      "endMs": 205440,
+      "verbatim": "Um, another thing that I would like to to uh ask at this point is if we are serious about this series A, which I think we should be, uh, is it time for us to start putting together a pitch deck?",
+      "display": "Um, another thing that I would like to to uh ask at this point is if we are serious about this series A, which I think we should be, uh, is it time for us to start putting together a pitch deck?",
+      "search": "um, another thing that i would like to to uh ask at this point is if we are serious about this series a, which i think we should be, uh, is it time for us to start putting together a pitch deck?",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:81",
+      "startMs": 205440,
+      "endMs": 209120,
+      "verbatim": "Oh I still don't know what one of those are, but I think we need to do that.",
+      "display": "Oh I still don't know what one of those are, but I think we need to do that.",
+      "search": "oh i still don't know what one of those are, but i think we need to do that.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:82",
+      "startMs": 209680,
+      "endMs": 211200,
+      "verbatim": "I think you're gonna do it.",
+      "display": "I think you're gonna do it.",
+      "search": "i think you're gonna do it.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:83",
+      "startMs": 211200,
+      "endMs": 212320,
+      "verbatim": "We need some slides.",
+      "display": "We need some slides.",
+      "search": "we need some slides.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:84",
+      "startMs": 212320,
+      "endMs": 216000,
+      "verbatim": "My startup, daily bjj.ai, is going nuclear.",
+      "display": "My startup, daily bjj.ai, is going nuclear.",
+      "search": "my startup, daily bjj.ai, is going nuclear.",
+      "confidence": 0.709
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:85",
+      "startMs": 216000,
+      "endMs": 218160,
+      "verbatim": "Congratulations on product market fit.",
+      "display": "Congratulations on product market fit.",
+      "search": "congratulations on product market fit.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:86",
+      "startMs": 218560,
+      "endMs": 220240,
+      "verbatim": "Sorry I called you the Difler.",
+      "display": "Sorry I called you the Difler.",
+      "search": "sorry i called you the difler.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:87",
+      "startMs": 220240,
+      "endMs": 221920,
+      "verbatim": "I knew you weren't the Difler.",
+      "display": "I knew you weren't the Difler.",
+      "search": "i knew you weren't the difler.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:88",
+      "startMs": 221920,
+      "endMs": 225440,
+      "verbatim": "I always thought it was the intern with the weird glasses.",
+      "display": "I always thought it was the intern with the weird glasses.",
+      "search": "i always thought it was the intern with the weird glasses.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:89",
+      "startMs": 228960,
+      "endMs": 230640,
+      "verbatim": "Should have seen this code.",
+      "display": "Should have seen this code.",
+      "search": "should have seen this code.",
+      "confidence": 0.632
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:90",
+      "startMs": 230640,
+      "endMs": 235520,
+      "verbatim": "But anyways, if you want to get on the ground floor in this thing, take an angel investment.",
+      "display": "But anyways, if you want to get on the ground floor in this thing, take an angel investment.",
+      "search": "but anyways, if you want to get on the ground floor in this thing, take an angel investment.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:91",
+      "startMs": 256320,
+      "endMs": 259760,
+      "verbatim": "So you finally cracked the case merge, cop.",
+      "display": "So you finally cracked the case merge, cop.",
+      "search": "so you finally cracked the case merge, cop.",
+      "confidence": 0.71
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:92",
+      "startMs": 259760,
+      "endMs": 261840,
+      "verbatim": "You put the white space in the diff.",
+      "display": "You put the white space in the diff.",
+      "search": "you put the white space in the diff.",
+      "confidence": 0.604
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:93",
+      "startMs": 261840,
+      "endMs": 264320,
+      "verbatim": "You made the synthetic traffic.",
+      "display": "You made the synthetic traffic.",
+      "search": "you made the synthetic traffic.",
+      "confidence": 0.771
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:94",
+      "startMs": 264320,
+      "endMs": 266240,
+      "verbatim": "You made me approve that PR.",
+      "display": "You made me approve that PR.",
+      "search": "you made me approve that pr.",
+      "confidence": 0.608
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:95",
+      "startMs": 266240,
+      "endMs": 268960,
+      "verbatim": "You're the Diffler, and I always knew it.",
+      "display": "You're the Diffler, and I always knew it.",
+      "search": "you're the diffler, and i always knew it.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:96",
+      "startMs": 273840,
+      "endMs": 277120,
+      "verbatim": "You've merged your last PR Diffler.",
+      "display": "You've merged your last PR Diffler.",
+      "search": "you've merged your last pr diffler.",
+      "confidence": 0.706
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:97",
+      "startMs": 277120,
+      "endMs": 280880,
+      "verbatim": "I already clicked merge on my PR 35 seconds ago.",
+      "display": "I already clicked merge on my PR 35 seconds ago.",
+      "search": "i already clicked merge on my pr 35 seconds ago.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:98",
+      "startMs": 280880,
+      "endMs": 281680,
+      "verbatim": "Huh?",
+      "display": "Huh?",
+      "search": "huh?",
+      "confidence": 0.688
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:99",
+      "startMs": 282000,
+      "endMs": 283680,
+      "verbatim": "My merge is blocked.",
+      "display": "My merge is blocked.",
+      "search": "my merge is blocked.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:100",
+      "startMs": 283920,
+      "endMs": 286400,
+      "verbatim": "Curse you, Code Rabbit!",
+      "display": "Curse you, Code Rabbit!",
+      "search": "curse you, code rabbit!",
+      "confidence": 0.534
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:101",
+      "startMs": 287280,
+      "endMs": 290000,
+      "verbatim": "You saved the city from a code review-related crime.",
+      "display": "You saved the city from a code review-related crime.",
+      "search": "you saved the city from a code review-related crime.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:102",
+      "startMs": 290000,
+      "endMs": 291040,
+      "verbatim": "Thanks, Kamesh.",
+      "display": "Thanks, Kamesh.",
+      "search": "thanks, kamesh.",
+      "confidence": 0.619
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:103",
+      "startMs": 291200,
+      "endMs": 295200,
+      "verbatim": "Well, technically it was Code Rabbit that saved the day.",
+      "display": "Well, technically it was Code Rabbit that saved the day.",
+      "search": "well, technically it was code rabbit that saved the day.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:104",
+      "startMs": 295200,
+      "endMs": 307280,
+      "verbatim": "Not only do they have advanced AI features that can detect security vulnerabilities, like what the Dither was trying to merge, they also have ways to enforce styling, linting, and a variety of other tools.",
+      "display": "Not only do they have advanced AI features that can detect security vulnerabilities, like what the Dither was trying to merge, they also have ways to enforce styling, linting, and a variety of other tools.",
+      "search": "not only do they have advanced ai features that can detect security vulnerabilities, like what the dither was trying to merge, they also have ways to enforce styling, linting, and a variety of other tools.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:105",
+      "startMs": 307280,
+      "endMs": 311920,
+      "verbatim": "And so you can stop wasting time reviewing code that humans don't need to review.",
+      "display": "And so you can stop wasting time reviewing code that humans don't need to review.",
+      "search": "and so you can stop wasting time reviewing code that humans don't need to review.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:106",
+      "startMs": 311920,
+      "endMs": 315440,
+      "verbatim": "You can try it yourself at coderabbit.ai.",
+      "display": "You can try it yourself at coderabbit.ai.",
+      "search": "you can try it yourself at coderabbit.ai.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:107",
+      "startMs": 315440,
+      "endMs": 321200,
+      "verbatim": "So, merge cop, I would say it's a little misleading to say you did it all by yourself.",
+      "display": "So, merge cop, I would say it's a little misleading to say you did it all by yourself.",
+      "search": "so, merge cop, i would say it's a little misleading to say you did it all by yourself.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:108",
+      "startMs": 321200,
+      "endMs": 321760,
+      "verbatim": "Huh.",
+      "display": "Huh.",
+      "search": "huh.",
+      "confidence": 0.476
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:109",
+      "startMs": 321760,
+      "endMs": 323120,
+      "verbatim": "Would you like some cake?",
+      "display": "Would you like some cake?",
+      "search": "would you like some cake?",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:110",
+      "startMs": 323120,
+      "endMs": 323840,
+      "verbatim": "Oh, sure.",
+      "display": "Oh, sure.",
+      "search": "oh, sure.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:111",
+      "startMs": 323840,
+      "endMs": 324400,
+      "verbatim": "Thanks.",
+      "display": "Thanks.",
+      "search": "thanks.",
+      "confidence": 0.524
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:112",
+      "startMs": 328480,
+      "endMs": 332880,
+      "verbatim": "Alright, so Casey, I saw this tweet and I figured you could maybe give me like a little.",
+      "display": "Alright, so Casey, I saw this tweet and I figured you could maybe give me like a little.",
+      "search": "alright, so casey, i saw this tweet and i figured you could maybe give me like a little.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:113",
+      "startMs": 332880,
+      "endMs": 337680,
+      "verbatim": "I think I understand the purpose here and what the problem is of it.",
+      "display": "I think I understand the purpose here and what the problem is of it.",
+      "search": "i think i understand the purpose here and what the problem is of it.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:114",
+      "startMs": 337680,
+      "endMs": 339920,
+      "verbatim": "But I thought maybe you could help me a little bit on this one.",
+      "display": "But I thought maybe you could help me a little bit on this one.",
+      "search": "but i thought maybe you could help me a little bit on this one.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:115",
+      "startMs": 339920,
+      "endMs": 347680,
+      "verbatim": "This is my blocker, by the way, for the day, which is I saw this where someone said, Hey, don't use division, use reciprocal math.",
+      "display": "This is my blocker, by the way, for the day, which is I saw this where someone said, Hey, don't use division, use reciprocal math.",
+      "search": "this is my blocker, by the way, for the day, which is i saw this where someone said, hey, don't use division, use reciprocal math.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:116",
+      "startMs": 348480,
+      "endMs": 349280,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.422
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:117",
+      "startMs": 349600,
+      "endMs": 356240,
+      "verbatim": "Can you can you can you can you maybe give us like us dumb people why this is either good or a bad idea?",
+      "display": "Can you can you can you can you maybe give us like us dumb people why this is either good or a bad idea?",
+      "search": "can you can you can you can you maybe give us like us dumb people why this is either good or a bad idea?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:118",
+      "startMs": 356240,
+      "endMs": 357600,
+      "verbatim": "Oh boy.",
+      "display": "Oh boy.",
+      "search": "oh boy.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:119",
+      "startMs": 357600,
+      "endMs": 360160,
+      "verbatim": "I have no idea what that means.",
+      "display": "I have no idea what that means.",
+      "search": "i have no idea what that means.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:120",
+      "startMs": 360560,
+      "endMs": 369440,
+      "verbatim": "So right here, he's doing array index i divided by pi versus array index i multiplied by the reciprocal.",
+      "display": "So right here, he's doing array index i divided by pi versus array index i multiplied by the reciprocal.",
+      "search": "so right here, he's doing array index i divided by pi versus array index i multiplied by the reciprocal.",
+      "confidence": 0.667
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:121",
+      "startMs": 369440,
+      "endMs": 371040,
+      "verbatim": "So one divided by pi.",
+      "display": "So one divided by pi.",
+      "search": "so one divided by pi.",
+      "confidence": 0.562
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:122",
+      "startMs": 371280,
+      "endMs": 376080,
+      "verbatim": "So he does the division thing once and then hits it with a bunch of multiplications.",
+      "display": "So he does the division thing once and then hits it with a bunch of multiplications.",
+      "search": "so he does the division thing once and then hits it with a bunch of multiplications.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:123",
+      "startMs": 376320,
+      "endMs": 377120,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:124",
+      "startMs": 377120,
+      "endMs": 385280,
+      "verbatim": "Um so there's a lot of things that you would want to talk about here, and that's uh I actually saw that tweet that you're talking about.",
+      "display": "Um so there's a lot of things that you would want to talk about here, and that's uh I actually saw that tweet that you're talking about.",
+      "search": "um so there's a lot of things that you would want to talk about here, and that's uh i actually saw that tweet that you're talking about.",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:125",
+      "startMs": 385280,
+      "endMs": 388160,
+      "verbatim": "And unfortunately, did you respond when delete your account?",
+      "display": "And unfortunately, did you respond when delete your account?",
+      "search": "and unfortunately, did you respond when delete your account?",
+      "confidence": 0.593
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:126",
+      "startMs": 388480,
+      "endMs": 391360,
+      "verbatim": "No, I mean, see, here's the here's the problem, right?",
+      "display": "No, I mean, see, here's the here's the problem, right?",
+      "search": "no, i mean, see, here's the here's the problem, right?",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:127",
+      "startMs": 391360,
+      "endMs": 392800,
+      "verbatim": "So delete your account.",
+      "display": "So delete your account.",
+      "search": "so delete your account.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:128",
+      "startMs": 392800,
+      "endMs": 396160,
+      "verbatim": "I love delete your account, and I love what Ryan's doing there.",
+      "display": "I love delete your account, and I love what Ryan's doing there.",
+      "search": "i love delete your account, and i love what ryan's doing there.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:129",
+      "startMs": 396480,
+      "endMs": 403200,
+      "verbatim": "But what mostly what he's doing there is he's just like, um, and he even described this on one of his own streams.",
+      "display": "But what mostly what he's doing there is he's just like, um, and he even described this on one of his own streams.",
+      "search": "but what mostly what he's doing there is he's just like, um, and he even described this on one of his own streams.",
+      "confidence": 0.786
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:130",
+      "startMs": 403200,
+      "endMs": 411120,
+      "verbatim": "He's just saying, like, look, basically, like you guys are all the people who like come up and and and beg for change on the street or something.",
+      "display": "He's just saying, like, look, basically, like you guys are all the people who like come up and and and beg for change on the street or something.",
+      "search": "he's just saying, like, look, basically, like you guys are all the people who like come up and and and beg for change on the street or something.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:131",
+      "startMs": 411120,
+      "endMs": 422640,
+      "verbatim": "Like, you're just totally making the world difficult to live in by like trying to get all of like just just hounding everyone who goes into a particular area to try and get them to give you something, right?",
+      "display": "Like, you're just totally making the world difficult to live in by like trying to get all of like just just hounding everyone who goes into a particular area to try and get them to give you something, right?",
+      "search": "like, you're just totally making the world difficult to live in by like trying to get all of like just just hounding everyone who goes into a particular area to try and get them to give you something, right?",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:132",
+      "startMs": 422640,
+      "endMs": 423920,
+      "verbatim": "Which is your attention or whatever.",
+      "display": "Which is your attention or whatever.",
+      "search": "which is your attention or whatever.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:133",
+      "startMs": 423920,
+      "endMs": 426480,
+      "verbatim": "They're they're like these AI shell accounts or whatever.",
+      "display": "They're they're like these AI shell accounts or whatever.",
+      "search": "they're they're like these ai shell accounts or whatever.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:134",
+      "startMs": 426480,
+      "endMs": 430400,
+      "verbatim": "People trying to get engagement, they're trying to get follows, whatever it is, right?",
+      "display": "People trying to get engagement, they're trying to get follows, whatever it is, right?",
+      "search": "people trying to get engagement, they're trying to get follows, whatever it is, right?",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:135",
+      "startMs": 430400,
+      "endMs": 433520,
+      "verbatim": "And it just really degrades the experience of being in that place.",
+      "display": "And it just really degrades the experience of being in that place.",
+      "search": "and it just really degrades the experience of being in that place.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:136",
+      "startMs": 433520,
+      "endMs": 436160,
+      "verbatim": "That's basically what he said on like one of his streams.",
+      "display": "That's basically what he said on like one of his streams.",
+      "search": "that's basically what he said on like one of his streams.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:137",
+      "startMs": 436160,
+      "endMs": 438560,
+      "verbatim": "I'm probably phrasing it poorly.",
+      "display": "I'm probably phrasing it poorly.",
+      "search": "i'm probably phrasing it poorly.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:138",
+      "startMs": 438560,
+      "endMs": 452400,
+      "verbatim": "Um, I think he used I think he said the phrase, if you go to a third world country like France, was the word was literally I think the phrase he used in that stream.",
+      "display": "Um, I think he used I think he said the phrase, if you go to a third world country like France, was the word was literally I think the phrase he used in that stream.",
+      "search": "um, i think he used i think he said the phrase, if you go to a third world country like france, was the word was literally i think the phrase he used in that stream.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:139",
+      "startMs": 452400,
+      "endMs": 454880,
+      "verbatim": "So I don't know, don't don't blame me.",
+      "display": "So I don't know, don't don't blame me.",
+      "search": "so i don't know, don't don't blame me.",
+      "confidence": 0.591
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:140",
+      "startMs": 455360,
+      "endMs": 456640,
+      "verbatim": "Don't come after me for this.",
+      "display": "Don't come after me for this.",
+      "search": "don't come after me for this.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:141",
+      "startMs": 456640,
+      "endMs": 459520,
+      "verbatim": "I'm just repeating what I believe it was.",
+      "display": "I'm just repeating what I believe it was.",
+      "search": "i'm just repeating what i believe it was.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:142",
+      "startMs": 459520,
+      "endMs": 464880,
+      "verbatim": "Um, but anyway, the point is just that uh that was sort of the point of delete your account.",
+      "display": "Um, but anyway, the point is just that uh that was sort of the point of delete your account.",
+      "search": "um, but anyway, the point is just that uh that was sort of the point of delete your account.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:143",
+      "startMs": 464880,
+      "endMs": 466160,
+      "verbatim": "And I and I'm he's right.",
+      "display": "And I and I'm he's right.",
+      "search": "and i and i'm he's right.",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:144",
+      "startMs": 466160,
+      "endMs": 470960,
+      "verbatim": "Like there's just all of this kind of, you know, really bad behavior that's going on there.",
+      "display": "Like there's just all of this kind of, you know, really bad behavior that's going on there.",
+      "search": "like there's just all of this kind of, you know, really bad behavior that's going on there.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:145",
+      "startMs": 470960,
+      "endMs": 487760,
+      "verbatim": "And uh the uh this tweet, I don't really like being harsh on people who are trying to talk about performance because I'm glad that we somehow went, you know, uh over the past, you know, 10 years or so to people actually starting to think that it matters that you're thinking about how the CPU is going to do things.",
+      "display": "And uh the uh this tweet, I don't really like being harsh on people who are trying to talk about performance because I'm glad that we somehow went, you know, uh over the past, you know, 10 years or so to people actually starting to think that it matters that you're thinking about how the CPU is going to do things.",
+      "search": "and uh the uh this tweet, i don't really like being harsh on people who are trying to talk about performance because i'm glad that we somehow went, you know, uh over the past, you know, 10 years or so to people actually starting to think that it matters that you're thinking about how the cpu is going to do things.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:146",
+      "startMs": 487760,
+      "endMs": 495200,
+      "verbatim": "So I don't want to like be mean to anyone who's at least trying to say, like, hey, let's think about what this is doing.",
+      "display": "So I don't want to like be mean to anyone who's at least trying to say, like, hey, let's think about what this is doing.",
+      "search": "so i don't want to like be mean to anyone who's at least trying to say, like, hey, let's think about what this is doing.",
+      "confidence": 0.833
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:147",
+      "startMs": 495200,
+      "endMs": 500880,
+      "verbatim": "The problem is that it requires some actual knowledge to like actually get these things right.",
+      "display": "The problem is that it requires some actual knowledge to like actually get these things right.",
+      "search": "the problem is that it requires some actual knowledge to like actually get these things right.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:148",
+      "startMs": 500880,
+      "endMs": 509200,
+      "verbatim": "And a lot of times if you just ask the AI or if you just read something on a blog and you then repeat that, it's not accurate, right?",
+      "display": "And a lot of times if you just ask the AI or if you just read something on a blog and you then repeat that, it's not accurate, right?",
+      "search": "and a lot of times if you just ask the ai or if you just read something on a blog and you then repeat that, it's not accurate, right?",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:149",
+      "startMs": 509200,
+      "endMs": 511120,
+      "verbatim": "Because performance is a very specific thing.",
+      "display": "Because performance is a very specific thing.",
+      "search": "because performance is a very specific thing.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:150",
+      "startMs": 511120,
+      "endMs": 513920,
+      "verbatim": "It's it's kind of like repairing a car or something.",
+      "display": "It's it's kind of like repairing a car or something.",
+      "search": "it's it's kind of like repairing a car or something.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:151",
+      "startMs": 513920,
+      "endMs": 518480,
+      "verbatim": "You can't just know like one thing about like, oh yeah, you know, the carburetor or something, right?",
+      "display": "You can't just know like one thing about like, oh yeah, you know, the carburetor or something, right?",
+      "search": "you can't just know like one thing about like, oh yeah, you know, the carburetor or something, right?",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:152",
+      "startMs": 518480,
+      "endMs": 520960,
+      "verbatim": "It's like you have to actually know how the whole thing is.",
+      "display": "It's like you have to actually know how the whole thing is.",
+      "search": "it's like you have to actually know how the whole thing is.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:153",
+      "startMs": 525440,
+      "endMs": 525840,
+      "verbatim": "Exactly.",
+      "display": "Exactly.",
+      "search": "exactly.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:154",
+      "startMs": 525840,
+      "endMs": 528080,
+      "verbatim": "Like I'd use it, I'm using that as an example.",
+      "display": "Like I'd use it, I'm using that as an example.",
+      "search": "like i'd use it, i'm using that as an example.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:155",
+      "startMs": 528080,
+      "endMs": 530880,
+      "verbatim": "Like, like I'd just be like, uh, the spark plug or something, right?",
+      "display": "Like, like I'd just be like, uh, the spark plug or something, right?",
+      "search": "like, like i'd just be like, uh, the spark plug or something, right?",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:156",
+      "startMs": 530880,
+      "endMs": 535520,
+      "verbatim": "You know, it's like I don't even really know much beyond like there's a thing that ignites the gas, right?",
+      "display": "You know, it's like I don't even really know much beyond like there's a thing that ignites the gas, right?",
+      "search": "you know, it's like i don't even really know much beyond like there's a thing that ignites the gas, right?",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:157",
+      "startMs": 535680,
+      "endMs": 536480,
+      "verbatim": "Okay, that's it.",
+      "display": "Okay, that's it.",
+      "search": "okay, that's it.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:158",
+      "startMs": 536480,
+      "endMs": 538080,
+      "verbatim": "I couldn't tell you, like, is it broken?",
+      "display": "I couldn't tell you, like, is it broken?",
+      "search": "i couldn't tell you, like, is it broken?",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:159",
+      "startMs": 538080,
+      "endMs": 538960,
+      "verbatim": "Is it working properly?",
+      "display": "Is it working properly?",
+      "search": "is it working properly?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:160",
+      "startMs": 538960,
+      "endMs": 539760,
+      "verbatim": "Does it need to be tuned?",
+      "display": "Does it need to be tuned?",
+      "search": "does it need to be tuned?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:161",
+      "startMs": 539760,
+      "endMs": 540400,
+      "verbatim": "What's going on, right?",
+      "display": "What's going on, right?",
+      "search": "what's going on, right?",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:162",
+      "startMs": 540560,
+      "endMs": 542240,
+      "verbatim": "Spark plugs are for electric cars, right?",
+      "display": "Spark plugs are for electric cars, right?",
+      "search": "spark plugs are for electric cars, right?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:163",
+      "startMs": 542240,
+      "endMs": 543280,
+      "verbatim": "Because you get it from other people.",
+      "display": "Because you get it from other people.",
+      "search": "because you get it from other people.",
+      "confidence": 0.511
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:164",
+      "startMs": 543360,
+      "endMs": 544000,
+      "verbatim": "It's sparks.",
+      "display": "It's sparks.",
+      "search": "it's sparks.",
+      "confidence": 0.675
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:165",
+      "startMs": 544000,
+      "endMs": 544720,
+      "verbatim": "I mean, that's there you go.",
+      "display": "I mean, that's there you go.",
+      "search": "i mean, that's there you go.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:166",
+      "startMs": 545040,
+      "endMs": 545680,
+      "verbatim": "That's what's to me.",
+      "display": "That's what's to me.",
+      "search": "that's what's to me.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:167",
+      "startMs": 545920,
+      "endMs": 546720,
+      "verbatim": "It must be.",
+      "display": "It must be.",
+      "search": "it must be.",
+      "confidence": 0.568
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:168",
+      "startMs": 546720,
+      "endMs": 548000,
+      "verbatim": "I mean, clearly.",
+      "display": "I mean, clearly.",
+      "search": "i mean, clearly.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:169",
+      "startMs": 548640,
+      "endMs": 555280,
+      "verbatim": "So, yeah, this particular tweet is not is not good though, because it misleads people, I think, on a lot of points.",
+      "display": "So, yeah, this particular tweet is not is not good though, because it misleads people, I think, on a lot of points.",
+      "search": "so, yeah, this particular tweet is not is not good though, because it misleads people, i think, on a lot of points.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:170",
+      "startMs": 555280,
+      "endMs": 557920,
+      "verbatim": "I'm not sure if the person actually tested this.",
+      "display": "I'm not sure if the person actually tested this.",
+      "search": "i'm not sure if the person actually tested this.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:171",
+      "startMs": 557920,
+      "endMs": 569120,
+      "verbatim": "They've got like seconds listed there, which is a little weird because I don't those numbers, um, I I mean, there's there's a lot of things that could have happened there.",
+      "display": "They've got like seconds listed there, which is a little weird because I don't those numbers, um, I I mean, there's there's a lot of things that could have happened there.",
+      "search": "they've got like seconds listed there, which is a little weird because i don't those numbers, um, i i mean, there's there's a lot of things that could have happened there.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:172",
+      "startMs": 569120,
+      "endMs": 569520,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:173",
+      "startMs": 569520,
+      "endMs": 572880,
+      "verbatim": "So I don't know the circumstances of it, but I just don't want people to be misled.",
+      "display": "So I don't know the circumstances of it, but I just don't want people to be misled.",
+      "search": "so i don't know the circumstances of it, but i just don't want people to be misled.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:174",
+      "startMs": 574160,
+      "endMs": 579360,
+      "verbatim": "When you're looking at a loop like this, both of those loops that are in that tweet, because I remember this.",
+      "display": "When you're looking at a loop like this, both of those loops that are in that tweet, because I remember this.",
+      "search": "when you're looking at a loop like this, both of those loops that are in that tweet, because i remember this.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:175",
+      "startMs": 579360,
+      "endMs": 584880,
+      "verbatim": "Of course I can't read what's on prime screen because Riverside won't let me, but I remember it fairly well.",
+      "display": "Of course I can't read what's on prime screen because Riverside won't let me, but I remember it fairly well.",
+      "search": "of course i can't read what's on prime screen because riverside won't let me, but i remember it fairly well.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:176",
+      "startMs": 585120,
+      "endMs": 591040,
+      "verbatim": "You're basically going you're going through arrays, and it's basically uh read, modify, write, right?",
+      "display": "You're basically going you're going through arrays, and it's basically uh read, modify, write, right?",
+      "search": "you're basically going you're going through arrays, and it's basically uh read, modify, write, right?",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:177",
+      "startMs": 591040,
+      "endMs": 602960,
+      "verbatim": "It's it's loading a value out of an array, the value's a floating point number, um, loading a floating point value out of an array, it's modifying that floating point number and writing it back to the array, right?",
+      "display": "It's it's loading a value out of an array, the value's a floating point number, um, loading a floating point value out of an array, it's modifying that floating point number and writing it back to the array, right?",
+      "search": "it's it's loading a value out of an array, the value's a floating point number, um, loading a floating point value out of an array, it's modifying that floating point number and writing it back to the array, right?",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:178",
+      "startMs": 603760,
+      "endMs": 618160,
+      "verbatim": "And uh the operation that's being done on the array, the only difference between the loops is one of them is doing a divide, so it's loading, dividing, and rewriting, and the other one is loading, multiplying, and rewriting.",
+      "display": "And uh the operation that's being done on the array, the only difference between the loops is one of them is doing a divide, so it's loading, dividing, and rewriting, and the other one is loading, multiplying, and rewriting.",
+      "search": "and uh the operation that's being done on the array, the only difference between the loops is one of them is doing a divide, so it's loading, dividing, and rewriting, and the other one is loading, multiplying, and rewriting.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:179",
+      "startMs": 618160,
+      "endMs": 619200,
+      "verbatim": "Correct.",
+      "display": "Correct.",
+      "search": "correct.",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:180",
+      "startMs": 619200,
+      "endMs": 634640,
+      "verbatim": "Now, obviously, in math, if you do a uh divide of a number, if you say I'm going to divide by x, there's no difference between that and saying I'm going to multiply by one over x.",
+      "display": "Now, obviously, in math, if you do a uh divide of a number, if you say I'm going to divide by x, there's no difference between that and saying I'm going to multiply by one over x.",
+      "search": "now, obviously, in math, if you do a uh divide of a number, if you say i'm going to divide by x, there's no difference between that and saying i'm going to multiply by one over x.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:181",
+      "startMs": 634640,
+      "endMs": 635600,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:182",
+      "startMs": 635600,
+      "endMs": 636160,
+      "verbatim": "True.",
+      "display": "True.",
+      "search": "true.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:183",
+      "startMs": 636160,
+      "endMs": 636640,
+      "verbatim": "True.",
+      "display": "True.",
+      "search": "true.",
+      "confidence": 0.564
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:184",
+      "startMs": 636640,
+      "endMs": 640400,
+      "verbatim": "That's true in math, meaning in like in grade school, you write it down.",
+      "display": "That's true in math, meaning in like in grade school, you write it down.",
+      "search": "that's true in math, meaning in like in grade school, you write it down.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:185",
+      "startMs": 640400,
+      "endMs": 645520,
+      "verbatim": "If someone said, oh, you know, a divided by one?",
+      "display": "If someone said, oh, you know, a divided by one?",
+      "search": "if someone said, oh, you know, a divided by one?",
+      "confidence": 0.666
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:186",
+      "startMs": 645760,
+      "endMs": 646560,
+      "verbatim": "Okay, all right, all right.",
+      "display": "Okay, all right, all right.",
+      "search": "okay, all right, all right.",
+      "confidence": 0.567
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:187",
+      "startMs": 647280,
+      "endMs": 651920,
+      "verbatim": "TJ was a math major, so okay, he's flexing that he knows these things, okay?",
+      "display": "TJ was a math major, so okay, he's flexing that he knows these things, okay?",
+      "search": "tj was a math major, so okay, he's flexing that he knows these things, okay?",
+      "confidence": 0.673
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:188",
+      "startMs": 652160,
+      "endMs": 653600,
+      "verbatim": "Math major, get out of here.",
+      "display": "Math major, get out of here.",
+      "search": "math major, get out of here.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:189",
+      "startMs": 653600,
+      "endMs": 654960,
+      "verbatim": "Yeah, T.",
+      "display": "Yeah, T.",
+      "search": "yeah, t.",
+      "confidence": 0.402
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:190",
+      "startMs": 654960,
+      "endMs": 657680,
+      "verbatim": "This is this is like in in like junior high, right?",
+      "display": "This is this is like in in like junior high, right?",
+      "search": "this is this is like in in like junior high, right?",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:191",
+      "startMs": 657680,
+      "endMs": 659440,
+      "verbatim": "You earlier, probably, right?",
+      "display": "You earlier, probably, right?",
+      "search": "you earlier, probably, right?",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:192",
+      "startMs": 660080,
+      "endMs": 661120,
+      "verbatim": "Yeah, yeah, totally junior high.",
+      "display": "Yeah, yeah, totally junior high.",
+      "search": "yeah, yeah, totally junior high.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:193",
+      "startMs": 661120,
+      "endMs": 661440,
+      "verbatim": "Yep.",
+      "display": "Yep.",
+      "search": "yep.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:194",
+      "startMs": 661440,
+      "endMs": 662960,
+      "verbatim": "It's just totally.",
+      "display": "It's just totally.",
+      "search": "it's just totally.",
+      "confidence": 0.568
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:195",
+      "startMs": 663760,
+      "endMs": 664880,
+      "verbatim": "Come on, guys.",
+      "display": "Come on, guys.",
+      "search": "come on, guys.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:196",
+      "startMs": 664880,
+      "endMs": 665840,
+      "verbatim": "Like, seriously.",
+      "display": "Like, seriously.",
+      "search": "like, seriously.",
+      "confidence": 0.68
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:197",
+      "startMs": 666320,
+      "endMs": 667600,
+      "verbatim": "I am not good at math.",
+      "display": "I am not good at math.",
+      "search": "i am not good at math.",
+      "confidence": 0.651
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:198",
+      "startMs": 667680,
+      "endMs": 668720,
+      "verbatim": "I am not good at math.",
+      "display": "I am not good at math.",
+      "search": "i am not good at math.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:199",
+      "startMs": 668720,
+      "endMs": 669760,
+      "verbatim": "If I know this, you know this.",
+      "display": "If I know this, you know this.",
+      "search": "if i know this, you know this.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:200",
+      "startMs": 670320,
+      "endMs": 670720,
+      "verbatim": "Come on.",
+      "display": "Come on.",
+      "search": "come on.",
+      "confidence": 0.505
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:201",
+      "startMs": 670800,
+      "endMs": 671840,
+      "verbatim": "Yes, Casey, this is true.",
+      "display": "Yes, Casey, this is true.",
+      "search": "yes, casey, this is true.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:202",
+      "startMs": 671840,
+      "endMs": 674240,
+      "verbatim": "This is true and and straightforward, yes.",
+      "display": "This is true and and straightforward, yes.",
+      "search": "this is true and and straightforward, yes.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:203",
+      "startMs": 674320,
+      "endMs": 677120,
+      "verbatim": "Um, this is just something people did in grade school, right?",
+      "display": "Um, this is just something people did in grade school, right?",
+      "search": "um, this is just something people did in grade school, right?",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:204",
+      "startMs": 677120,
+      "endMs": 685760,
+      "verbatim": "And so uh the idea, this was certainly true in the old days um for computing, right, is look, if I have floating point, right?",
+      "display": "And so uh the idea, this was certainly true in the old days um for computing, right, is look, if I have floating point, right?",
+      "search": "and so uh the idea, this was certainly true in the old days um for computing, right, is look, if i have floating point, right?",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:205",
+      "startMs": 685760,
+      "endMs": 697120,
+      "verbatim": "If I have the ability to use floating point numbers, integers, obviously, if we're using integers, then you have to do a lot of much more crazy stuff if you wanted to divide instead, I mean multiply instead of divide.",
+      "display": "If I have the ability to use floating point numbers, integers, obviously, if we're using integers, then you have to do a lot of much more crazy stuff if you wanted to divide instead, I mean multiply instead of divide.",
+      "search": "if i have the ability to use floating point numbers, integers, obviously, if we're using integers, then you have to do a lot of much more crazy stuff if you wanted to divide instead, i mean multiply instead of divide.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:206",
+      "startMs": 697120,
+      "endMs": 699680,
+      "verbatim": "Go into that, because that's a whole nother ball game.",
+      "display": "Go into that, because that's a whole nother ball game.",
+      "search": "go into that, because that's a whole nother ball game.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:207",
+      "startMs": 699680,
+      "endMs": 710160,
+      "verbatim": "But if assuming you're in floating point, then that means that you could literally just store the number one over x, whatever you're going to divide by, and then multiply by it instead.",
+      "display": "But if assuming you're in floating point, then that means that you could literally just store the number one over x, whatever you're going to divide by, and then multiply by it instead.",
+      "search": "but if assuming you're in floating point, then that means that you could literally just store the number one over x, whatever you're going to divide by, and then multiply by it instead.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:208",
+      "startMs": 710160,
+      "endMs": 716640,
+      "verbatim": "So if you're going to do a bunch of multiplies, this is potentially an attractive option if dividing is slow, right?",
+      "display": "So if you're going to do a bunch of multiplies, this is potentially an attractive option if dividing is slow, right?",
+      "search": "so if you're going to do a bunch of multiplies, this is potentially an attractive option if dividing is slow, right?",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:209",
+      "startMs": 716640,
+      "endMs": 723440,
+      "verbatim": "So if we look at divide and we go, the dividing's too slow, we could just do it once and then multiply if the div if the multiply is faster.",
+      "display": "So if we look at divide and we go, the dividing's too slow, we could just do it once and then multiply if the div if the multiply is faster.",
+      "search": "so if we look at divide and we go, the dividing's too slow, we could just do it once and then multiply if the div if the multiply is faster.",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:210",
+      "startMs": 723440,
+      "endMs": 741760,
+      "verbatim": "Now it's worth noting that these are not necessarily the same operation, because in floating point, right, an actual divide, this divided by that, right, may produce a different answer because you don't know, like when you do it an inversion like that, you're only capturing part of the answer.",
+      "display": "Now it's worth noting that these are not necessarily the same operation, because in floating point, right, an actual divide, this divided by that, right, may produce a different answer because you don't know, like when you do it an inversion like that, you're only capturing part of the answer.",
+      "search": "now it's worth noting that these are not necessarily the same operation, because in floating point, right, an actual divide, this divided by that, right, may produce a different answer because you don't know, like when you do it an inversion like that, you're only capturing part of the answer.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:211",
+      "startMs": 741760,
+      "endMs": 746080,
+      "verbatim": "Like the answer might have gone on for quite some time and you're only getting a smaller part of it.",
+      "display": "Like the answer might have gone on for quite some time and you're only getting a smaller part of it.",
+      "search": "like the answer might have gone on for quite some time and you're only getting a smaller part of it.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:212",
+      "startMs": 746080,
+      "endMs": 748320,
+      "verbatim": "So you're not doing infinite precision math.",
+      "display": "So you're not doing infinite precision math.",
+      "search": "so you're not doing infinite precision math.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:213",
+      "startMs": 748320,
+      "endMs": 752240,
+      "verbatim": "And so you also have to be aware of the fact that this will change the answer.",
+      "display": "And so you also have to be aware of the fact that this will change the answer.",
+      "search": "and so you also have to be aware of the fact that this will change the answer.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:214",
+      "startMs": 752240,
+      "endMs": 757760,
+      "verbatim": "So you have to, you have to know, right, if that mattered to you or not when you're doing this.",
+      "display": "So you have to, you have to know, right, if that mattered to you or not when you're doing this.",
+      "search": "so you have to, you have to know, right, if that mattered to you or not when you're doing this.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:215",
+      "startMs": 757760,
+      "endMs": 764400,
+      "verbatim": "So if it's just some random thing you're doing for some UI element or something like that, that it probably will never matter.",
+      "display": "So if it's just some random thing you're doing for some UI element or something like that, that it probably will never matter.",
+      "search": "so if it's just some random thing you're doing for some ui element or something like that, that it probably will never matter.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:216",
+      "startMs": 764400,
+      "endMs": 768160,
+      "verbatim": "If this is scientific computing, it could be a very big difference.",
+      "display": "If this is scientific computing, it could be a very big difference.",
+      "search": "if this is scientific computing, it could be a very big difference.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:217",
+      "startMs": 768160,
+      "endMs": 778960,
+      "verbatim": "And so this is the first thing that I want to point out is that this is not a thing you can just tell somebody, always invert your numbers and then multiply, because that may be very bad advice in certain circumstances.",
+      "display": "And so this is the first thing that I want to point out is that this is not a thing you can just tell somebody, always invert your numbers and then multiply, because that may be very bad advice in certain circumstances.",
+      "search": "and so this is the first thing that i want to point out is that this is not a thing you can just tell somebody, always invert your numbers and then multiply, because that may be very bad advice in certain circumstances.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:218",
+      "startMs": 778960,
+      "endMs": 782960,
+      "verbatim": "That's thing one that wasn't mentioned in the tweet that you have to understand.",
+      "display": "That's thing one that wasn't mentioned in the tweet that you have to understand.",
+      "search": "that's thing one that wasn't mentioned in the tweet that you have to understand.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:219",
+      "startMs": 782960,
+      "endMs": 784960,
+      "verbatim": "The butterfly effect.",
+      "display": "The butterfly effect.",
+      "search": "the butterfly effect.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:220",
+      "startMs": 785200,
+      "endMs": 790480,
+      "verbatim": "Yeah, well, it's yeah, basically like, you know, the gold plume with the water going down his hand effect.",
+      "display": "Yeah, well, it's yeah, basically like, you know, the gold plume with the water going down his hand effect.",
+      "search": "yeah, well, it's yeah, basically like, you know, the gold plume with the water going down his hand effect.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:221",
+      "startMs": 790480,
+      "endMs": 796160,
+      "verbatim": "It might even just be the the gi the the 1000 mile butterfly.",
+      "display": "It might even just be the the gi the the 1000 mile butterfly.",
+      "search": "it might even just be the the gi the the 1000 mile butterfly.",
+      "confidence": 0.644
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:222",
+      "startMs": 796160,
+      "endMs": 801520,
+      "verbatim": "Like it's this huge butterfly, because it could be literally, it could just be just literally the answer you get right here.",
+      "display": "Like it's this huge butterfly, because it could be literally, it could just be just literally the answer you get right here.",
+      "search": "like it's this huge butterfly, because it could be literally, it could just be just literally the answer you get right here.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:223",
+      "startMs": 801520,
+      "endMs": 803680,
+      "verbatim": "Could be wrong enough that you care, right?",
+      "display": "Could be wrong enough that you care, right?",
+      "search": "could be wrong enough that you care, right?",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:224",
+      "startMs": 804000,
+      "endMs": 808480,
+      "verbatim": "Depending on the circumstances and depending on what those input numbers were and what their scales were and all this stuff, right?",
+      "display": "Depending on the circumstances and depending on what those input numbers were and what their scales were and all this stuff, right?",
+      "search": "depending on the circumstances and depending on what those input numbers were and what their scales were and all this stuff, right?",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:225",
+      "startMs": 808480,
+      "endMs": 808960,
+      "verbatim": "Who knows?",
+      "display": "Who knows?",
+      "search": "who knows?",
+      "confidence": 0.556
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:226",
+      "startMs": 810160,
+      "endMs": 817760,
+      "verbatim": "I I there is a decent chance a few people in the audience don't understand why that happens on a computer.",
+      "display": "I I there is a decent chance a few people in the audience don't understand why that happens on a computer.",
+      "search": "i i there is a decent chance a few people in the audience don't understand why that happens on a computer.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:227",
+      "startMs": 818400,
+      "endMs": 825120,
+      "verbatim": "Well, so to be fair, I'm the wrong one to explain it because I don't work on scientific computing, right?",
+      "display": "Well, so to be fair, I'm the wrong one to explain it because I don't work on scientific computing, right?",
+      "search": "well, so to be fair, i'm the wrong one to explain it because i don't work on scientific computing, right?",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:228",
+      "startMs": 825440,
+      "endMs": 838400,
+      "verbatim": "And people who work on scientific computing are much better at analyzing things like, you know, uh what's called ULP, uh, or basically like the last, what happens to the final bits uh in floating point numbers and things like that.",
+      "display": "And people who work on scientific computing are much better at analyzing things like, you know, uh what's called ULP, uh, or basically like the last, what happens to the final bits uh in floating point numbers and things like that.",
+      "search": "and people who work on scientific computing are much better at analyzing things like, you know, uh what's called ulp, uh, or basically like the last, what happens to the final bits uh in floating point numbers and things like that.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:229",
+      "startMs": 838400,
+      "endMs": 849200,
+      "verbatim": "But in general, when you're working with floating point on a computer, what's actually happening there is that you're taking the size of the storage that you, you know, made for those numbers.",
+      "display": "But in general, when you're working with floating point on a computer, what's actually happening there is that you're taking the size of the storage that you, you know, made for those numbers.",
+      "search": "but in general, when you're working with floating point on a computer, what's actually happening there is that you're taking the size of the storage that you, you know, made for those numbers.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:230",
+      "startMs": 849200,
+      "endMs": 852240,
+      "verbatim": "So let's say that you're doing 32-bit floating point numbers.",
+      "display": "So let's say that you're doing 32-bit floating point numbers.",
+      "search": "so let's say that you're doing 32-bit floating point numbers.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:231",
+      "startMs": 852240,
+      "endMs": 855520,
+      "verbatim": "In scientific computing, it might be 64-bit numbers, whatever it is.",
+      "display": "In scientific computing, it might be 64-bit numbers, whatever it is.",
+      "search": "in scientific computing, it might be 64-bit numbers, whatever it is.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:232",
+      "startMs": 856080,
+      "endMs": 864240,
+      "verbatim": "If you just have 32 bits, you only have a certain amount of space to store what you would prefer was an infinite series.",
+      "display": "If you just have 32 bits, you only have a certain amount of space to store what you would prefer was an infinite series.",
+      "search": "if you just have 32 bits, you only have a certain amount of space to store what you would prefer was an infinite series.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:233",
+      "startMs": 864240,
+      "endMs": 867360,
+      "verbatim": "Like, let's say we want to compute with pi, right?",
+      "display": "Like, let's say we want to compute with pi, right?",
+      "search": "like, let's say we want to compute with pi, right?",
+      "confidence": 0.649
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:234",
+      "startMs": 867520,
+      "endMs": 870960,
+      "verbatim": "Everyone knows from grade school pi is this infinitely long series.",
+      "display": "Everyone knows from grade school pi is this infinitely long series.",
+      "search": "everyone knows from grade school pi is this infinitely long series.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:235",
+      "startMs": 870960,
+      "endMs": 875840,
+      "verbatim": "Like there is no storage that can store pi, it just keeps going.",
+      "display": "Like there is no storage that can store pi, it just keeps going.",
+      "search": "like there is no storage that can store pi, it just keeps going.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:236",
+      "startMs": 875840,
+      "endMs": 880560,
+      "verbatim": "So we have to approximate that, right, by putting it into some format.",
+      "display": "So we have to approximate that, right, by putting it into some format.",
+      "search": "so we have to approximate that, right, by putting it into some format.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:237",
+      "startMs": 880560,
+      "endMs": 884720,
+      "verbatim": "And all the numbers that we work with in floating point computing, they have this kind of format.",
+      "display": "And all the numbers that we work with in floating point computing, they have this kind of format.",
+      "search": "and all the numbers that we work with in floating point computing, they have this kind of format.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:238",
+      "startMs": 884720,
+      "endMs": 885440,
+      "verbatim": "Just something simple.",
+      "display": "Just something simple.",
+      "search": "just something simple.",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:239",
+      "startMs": 885600,
+      "endMs": 886960,
+      "verbatim": "Can I interrupt you for a quick second?",
+      "display": "Can I interrupt you for a quick second?",
+      "search": "can i interrupt you for a quick second?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:240",
+      "startMs": 886960,
+      "endMs": 887200,
+      "verbatim": "Please.",
+      "display": "Please.",
+      "search": "please.",
+      "confidence": 0.633
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:241",
+      "startMs": 887360,
+      "endMs": 887840,
+      "verbatim": "But trash.",
+      "display": "But trash.",
+      "search": "but trash.",
+      "confidence": 0.522
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:242",
+      "startMs": 887840,
+      "endMs": 891120,
+      "verbatim": "When he says pie, he's not talking about a snack, just in case you're wondering.",
+      "display": "When he says pie, he's not talking about a snack, just in case you're wondering.",
+      "search": "when he says pie, he's not talking about a snack, just in case you're wondering.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:243",
+      "startMs": 891120,
+      "endMs": 892320,
+      "verbatim": "I don't even like pie, actually.",
+      "display": "I don't even like pie, actually.",
+      "search": "i don't even like pie, actually.",
+      "confidence": 0.842
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:244",
+      "startMs": 893360,
+      "endMs": 894000,
+      "verbatim": "Me neither.",
+      "display": "Me neither.",
+      "search": "me neither.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:245",
+      "startMs": 894000,
+      "endMs": 894720,
+      "verbatim": "Trash, yes.",
+      "display": "Trash, yes.",
+      "search": "trash, yes.",
+      "confidence": 0.646
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:246",
+      "startMs": 895200,
+      "endMs": 897280,
+      "verbatim": "Another reason trash is the star of the stand-up.",
+      "display": "Another reason trash is the star of the stand-up.",
+      "search": "another reason trash is the star of the stand-up.",
+      "confidence": 0.712
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:247",
+      "startMs": 897760,
+      "endMs": 898560,
+      "verbatim": "No pie zone.",
+      "display": "No pie zone.",
+      "search": "no pie zone.",
+      "confidence": 0.765
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:248",
+      "startMs": 898560,
+      "endMs": 898720,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.604
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:249",
+      "startMs": 899840,
+      "endMs": 900160,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.559
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:250",
+      "startMs": 900400,
+      "endMs": 902560,
+      "verbatim": "What's your favorite pie adjacent kind of thing?",
+      "display": "What's your favorite pie adjacent kind of thing?",
+      "search": "what's your favorite pie adjacent kind of thing?",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:251",
+      "startMs": 902560,
+      "endMs": 904800,
+      "verbatim": "Like is it cake or brownies or like what is it then?",
+      "display": "Like is it cake or brownies or like what is it then?",
+      "search": "like is it cake or brownies or like what is it then?",
+      "confidence": 0.781
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:252",
+      "startMs": 904880,
+      "endMs": 905840,
+      "verbatim": "Love brownies.",
+      "display": "Love brownies.",
+      "search": "love brownies.",
+      "confidence": 0.686
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:253",
+      "startMs": 906080,
+      "endMs": 908240,
+      "verbatim": "Pie is not adjacent to cake, and you'll take that back.",
+      "display": "Pie is not adjacent to cake, and you'll take that back.",
+      "search": "pie is not adjacent to cake, and you'll take that back.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:254",
+      "startMs": 908240,
+      "endMs": 910800,
+      "verbatim": "We can we know we just gotta move on because that was very offensive, DJ.",
+      "display": "We can we know we just gotta move on because that was very offensive, DJ.",
+      "search": "we can we know we just gotta move on because that was very offensive, dj.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:255",
+      "startMs": 910960,
+      "endMs": 911440,
+      "verbatim": "Okay, that's it.",
+      "display": "Okay, that's it.",
+      "search": "okay, that's it.",
+      "confidence": 0.665
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:256",
+      "startMs": 911840,
+      "endMs": 912960,
+      "verbatim": "We'll put that on the next episode.",
+      "display": "We'll put that on the next episode.",
+      "search": "we'll put that on the next episode.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:257",
+      "startMs": 913280,
+      "endMs": 914320,
+      "verbatim": "Putting it in the backlog.",
+      "display": "Putting it in the backlog.",
+      "search": "putting it in the backlog.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:258",
+      "startMs": 914320,
+      "endMs": 914720,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.464
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:259",
+      "startMs": 916080,
+      "endMs": 920400,
+      "verbatim": "How adjacent is take the pie.",
+      "display": "How adjacent is take the pie.",
+      "search": "how adjacent is take the pie.",
+      "confidence": 0.624
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:260",
+      "startMs": 920400,
+      "endMs": 920720,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.472
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:261",
+      "startMs": 921120,
+      "endMs": 935520,
+      "verbatim": "So anyway, if you if you look at what happens to these things during all your computations, every computation that you do is going to have some infinitely precise answer that's the answer you actually wanted, and that you will want you would have wanted to carry through all of your subsequent operations.",
+      "display": "So anyway, if you if you look at what happens to these things during all your computations, every computation that you do is going to have some infinitely precise answer that's the answer you actually wanted, and that you will want you would have wanted to carry through all of your subsequent operations.",
+      "search": "so anyway, if you if you look at what happens to these things during all your computations, every computation that you do is going to have some infinitely precise answer that's the answer you actually wanted, and that you will want you would have wanted to carry through all of your subsequent operations.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:262",
+      "startMs": 935520,
+      "endMs": 944320,
+      "verbatim": "But at every step of the way, the computer has to like round it, basically, to whatever will fit back into that 32-bit encoding.",
+      "display": "But at every step of the way, the computer has to like round it, basically, to whatever will fit back into that 32-bit encoding.",
+      "search": "but at every step of the way, the computer has to like round it, basically, to whatever will fit back into that 32-bit encoding.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:263",
+      "startMs": 944320,
+      "endMs": 953600,
+      "verbatim": "And that 32-bit encoding is basically, you know, it's a sign bit that says whether the thing's positive or negative, it's some number of bits for the exponent, right?",
+      "display": "And that 32-bit encoding is basically, you know, it's a sign bit that says whether the thing's positive or negative, it's some number of bits for the exponent, right?",
+      "search": "and that 32-bit encoding is basically, you know, it's a sign bit that says whether the thing's positive or negative, it's some number of bits for the exponent, right?",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:264",
+      "startMs": 953760,
+      "endMs": 957040,
+      "verbatim": "Which is the piece of that I think is uh the sign.",
+      "display": "Which is the piece of that I think is uh the sign.",
+      "search": "which is the piece of that i think is uh the sign.",
+      "confidence": 0.304
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:265",
+      "startMs": 957280,
+      "endMs": 958480,
+      "verbatim": "The mantissa's the next thing.",
+      "display": "The mantissa's the next thing.",
+      "search": "the mantissa's the next thing.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:266",
+      "startMs": 958480,
+      "endMs": 959120,
+      "verbatim": "Oh, the next thing.",
+      "display": "Oh, the next thing.",
+      "search": "oh, the next thing.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:267",
+      "startMs": 959120,
+      "endMs": 959760,
+      "verbatim": "That's right, that's right.",
+      "display": "That's right, that's right.",
+      "search": "that's right, that's right.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:268",
+      "startMs": 960240,
+      "endMs": 964560,
+      "verbatim": "Uh the exponent basically says what the scale is, like how big roughly is this number.",
+      "display": "Uh the exponent basically says what the scale is, like how big roughly is this number.",
+      "search": "uh the exponent basically says what the scale is, like how big roughly is this number.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:269",
+      "startMs": 964800,
+      "endMs": 969120,
+      "verbatim": "And then the mantissa are the bits that actually say like what the number is.",
+      "display": "And then the mantissa are the bits that actually say like what the number is.",
+      "search": "and then the mantissa are the bits that actually say like what the number is.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:270",
+      "startMs": 969120,
+      "endMs": 974480,
+      "verbatim": "So the reason it's called floating point is because it's broken up into these pieces.",
+      "display": "So the reason it's called floating point is because it's broken up into these pieces.",
+      "search": "so the reason it's called floating point is because it's broken up into these pieces.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:271",
+      "startMs": 974480,
+      "endMs": 979040,
+      "verbatim": "A floating point, the point is the decimal point, if you will.",
+      "display": "A floating point, the point is the decimal point, if you will.",
+      "search": "a floating point, the point is the decimal point, if you will.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:272",
+      "startMs": 979040,
+      "endMs": 988000,
+      "verbatim": "The floating part is that we store an exponent, so we say where the decimal point is, and then the mantissa is just the actual digits.",
+      "display": "The floating part is that we store an exponent, so we say where the decimal point is, and then the mantissa is just the actual digits.",
+      "search": "the floating part is that we store an exponent, so we say where the decimal point is, and then the mantissa is just the actual digits.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:273",
+      "startMs": 988000,
+      "endMs": 992480,
+      "verbatim": "So we're basically floating the point to where it needs to go using that exploit, right?",
+      "display": "So we're basically floating the point to where it needs to go using that exploit, right?",
+      "search": "so we're basically floating the point to where it needs to go using that exploit, right?",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:274",
+      "startMs": 992480,
+      "endMs": 999040,
+      "verbatim": "And the reason we do this is because we're trying to compute with extremely large and extremely small and everything in between.",
+      "display": "And the reason we do this is because we're trying to compute with extremely large and extremely small and everything in between.",
+      "search": "and the reason we do this is because we're trying to compute with extremely large and extremely small and everything in between.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:275",
+      "startMs": 999040,
+      "endMs": 1004560,
+      "verbatim": "And so we can't just take 32 bits, which has a very small range if we just use an integer, right?",
+      "display": "And so we can't just take 32 bits, which has a very small range if we just use an integer, right?",
+      "search": "and so we can't just take 32 bits, which has a very small range if we just use an integer, right?",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:276",
+      "startMs": 1004560,
+      "endMs": 1008880,
+      "verbatim": "If we fixed point, if we just said the decimal point is here, it would kind of suck.",
+      "display": "If we fixed point, if we just said the decimal point is here, it would kind of suck.",
+      "search": "if we fixed point, if we just said the decimal point is here, it would kind of suck.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:277",
+      "startMs": 1008880,
+      "endMs": 1010160,
+      "verbatim": "That's what floating point's for.",
+      "display": "That's what floating point's for.",
+      "search": "that's what floating point's for.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:278",
+      "startMs": 1010160,
+      "endMs": 1016240,
+      "verbatim": "It's why we use it for everything that isn't just nice, you know, typical whole number kinds of stuff that we're doing, right?",
+      "display": "It's why we use it for everything that isn't just nice, you know, typical whole number kinds of stuff that we're doing, right?",
+      "search": "it's why we use it for everything that isn't just nice, you know, typical whole number kinds of stuff that we're doing, right?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:279",
+      "startMs": 1016240,
+      "endMs": 1021440,
+      "verbatim": "You know, usually when we when we use uh just ints or things like that, just integer numbers.",
+      "display": "You know, usually when we when we use uh just ints or things like that, just integer numbers.",
+      "search": "you know, usually when we when we use uh just ints or things like that, just integer numbers.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:280",
+      "startMs": 1022160,
+      "endMs": 1030560,
+      "verbatim": "The common the common one that people laugh at, right, is it's what 0.2 plus 0.1 in JavaScript, and you get the 0.299999.",
+      "display": "The common the common one that people laugh at, right, is it's what 0.2 plus 0.1 in JavaScript, and you get the 0.299999.",
+      "search": "the common the common one that people laugh at, right, is it's what 0.2 plus 0.1 in javascript, and you get the 0.299999.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:281",
+      "startMs": 1030640,
+      "endMs": 1030880,
+      "verbatim": "Right.",
+      "display": "Right.",
+      "search": "right.",
+      "confidence": 0.614
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:282",
+      "startMs": 1030880,
+      "endMs": 1033360,
+      "verbatim": "So it's like this is this is why that happens, though.",
+      "display": "So it's like this is this is why that happens, though.",
+      "search": "so it's like this is this is why that happens, though.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:283",
+      "startMs": 1033360,
+      "endMs": 1038160,
+      "verbatim": "So just I feel like there's probably a decent amount of people who are like just ha ha JavaScript stupid.",
+      "display": "So just I feel like there's probably a decent amount of people who are like just ha ha JavaScript stupid.",
+      "search": "so just i feel like there's probably a decent amount of people who are like just ha ha javascript stupid.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:284",
+      "startMs": 1038160,
+      "endMs": 1043200,
+      "verbatim": "I mean, you're right, but like that's not that's like a thing that's wrong with the JavaScript problem.",
+      "display": "I mean, you're right, but like that's not that's like a thing that's wrong with the JavaScript problem.",
+      "search": "i mean, you're right, but like that's not that's like a thing that's wrong with the javascript problem.",
+      "confidence": 0.681
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:285",
+      "startMs": 1044640,
+      "endMs": 1047760,
+      "verbatim": "That works in C, it works in Java, it works in all of them.",
+      "display": "That works in C, it works in Java, it works in all of them.",
+      "search": "that works in c, it works in java, it works in all of them.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:286",
+      "startMs": 1047760,
+      "endMs": 1048320,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.431
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:287",
+      "startMs": 1048960,
+      "endMs": 1053920,
+      "verbatim": "Yeah, JavaScript is weird in that it kind of only has double precision arithmetic, period.",
+      "display": "Yeah, JavaScript is weird in that it kind of only has double precision arithmetic, period.",
+      "search": "yeah, javascript is weird in that it kind of only has double precision arithmetic, period.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:288",
+      "startMs": 1053920,
+      "endMs": 1056400,
+      "verbatim": "Like it's just like that's just what we do everywhere, I think.",
+      "display": "Like it's just like that's just what we do everywhere, I think.",
+      "search": "like it's just like that's just what we do everywhere, i think.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:289",
+      "startMs": 1057200,
+      "endMs": 1060960,
+      "verbatim": "Unless we use bitwise operations, then it converts to a signed 32-bit number.",
+      "display": "Unless we use bitwise operations, then it converts to a signed 32-bit number.",
+      "search": "unless we use bitwise operations, then it converts to a signed 32-bit number.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:290",
+      "startMs": 1060960,
+      "endMs": 1062640,
+      "verbatim": "No, just magically at that time.",
+      "display": "No, just magically at that time.",
+      "search": "no, just magically at that time.",
+      "confidence": 0.568
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:291",
+      "startMs": 1062720,
+      "endMs": 1067760,
+      "verbatim": "So for that one moment, you can actually do a f you can actually do a overflow at 32 bits.",
+      "display": "So for that one moment, you can actually do a f you can actually do a overflow at 32 bits.",
+      "search": "so for that one moment, you can actually do a f you can actually do a overflow at 32 bits.",
+      "confidence": 0.67
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:292",
+      "startMs": 1068000,
+      "endMs": 1070240,
+      "verbatim": "Only if you use uh bitwise stuff.",
+      "display": "Only if you use uh bitwise stuff.",
+      "search": "only if you use uh bitwise stuff.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:293",
+      "startMs": 1070240,
+      "endMs": 1073440,
+      "verbatim": "Again, this is always why JavaScript compilers are so hard, right?",
+      "display": "Again, this is always why JavaScript compilers are so hard, right?",
+      "search": "again, this is always why javascript compilers are so hard, right?",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:294",
+      "startMs": 1073440,
+      "endMs": 1079760,
+      "verbatim": "They because they have to go like, oh, I don't you don't want to do double revision arithmetic for like your loops and like counter and things like that.",
+      "display": "They because they have to go like, oh, I don't you don't want to do double revision arithmetic for like your loops and like counter and things like that.",
+      "search": "they because they have to go like, oh, i don't you don't want to do double revision arithmetic for like your loops and like counter and things like that.",
+      "confidence": 0.682
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:295",
+      "startMs": 1079760,
+      "endMs": 1084880,
+      "verbatim": "So it has to analyze and go, okay, I can turn this into an integer for this code, right?",
+      "display": "So it has to analyze and go, okay, I can turn this into an integer for this code, right?",
+      "search": "so it has to analyze and go, okay, i can turn this into an integer for this code, right?",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:296",
+      "startMs": 1084880,
+      "endMs": 1086160,
+      "verbatim": "It's got to do that work.",
+      "display": "It's got to do that work.",
+      "search": "it's got to do that work.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:297",
+      "startMs": 1086160,
+      "endMs": 1088480,
+      "verbatim": "Normal languages, it's already knows, right?",
+      "display": "Normal languages, it's already knows, right?",
+      "search": "normal languages, it's already knows, right?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:298",
+      "startMs": 1088480,
+      "endMs": 1091600,
+      "verbatim": "It's just been told like this integer, so it doesn't have to think about that, right?",
+      "display": "It's just been told like this integer, so it doesn't have to think about that, right?",
+      "search": "it's just been told like this integer, so it doesn't have to think about that, right?",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:299",
+      "startMs": 1091600,
+      "endMs": 1105120,
+      "verbatim": "But anyway, so that's that's the floating point math thing, and that's sort of what this this uh this snippet was trying to say is just invert the floating point number so you only pay for the divide once, then multiply by it, because that'll give you the same answer.",
+      "display": "But anyway, so that's that's the floating point math thing, and that's sort of what this this uh this snippet was trying to say is just invert the floating point number so you only pay for the divide once, then multiply by it, because that'll give you the same answer.",
+      "search": "but anyway, so that's that's the floating point math thing, and that's sort of what this this uh this snippet was trying to say is just invert the floating point number so you only pay for the divide once, then multiply by it, because that'll give you the same answer.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:300",
+      "startMs": 1105120,
+      "endMs": 1111520,
+      "verbatim": "Again, the tweet didn't say no, it's not quite the same answer, and it might matter depending on what you're doing, and depending on what the inputs are.",
+      "display": "Again, the tweet didn't say no, it's not quite the same answer, and it might matter depending on what you're doing, and depending on what the inputs are.",
+      "search": "again, the tweet didn't say no, it's not quite the same answer, and it might matter depending on what you're doing, and depending on what the inputs are.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:301",
+      "startMs": 1111520,
+      "endMs": 1119120,
+      "verbatim": "But anyway, uh the other problem I have with this is it misrepresents the performance as well for a number of reasons.",
+      "display": "But anyway, uh the other problem I have with this is it misrepresents the performance as well for a number of reasons.",
+      "search": "but anyway, uh the other problem i have with this is it misrepresents the performance as well for a number of reasons.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:302",
+      "startMs": 1119440,
+      "endMs": 1126240,
+      "verbatim": "So the first reason it misrep misrepresents the performance is because it has some weird statements about how long a division is.",
+      "display": "So the first reason it misrep misrepresents the performance is because it has some weird statements about how long a division is.",
+      "search": "so the first reason it misrep misrepresents the performance is because it has some weird statements about how long a division is.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:303",
+      "startMs": 1126240,
+      "endMs": 1132400,
+      "verbatim": "So it says something like 20 to 40 cycles for a divide or something like that, I think.",
+      "display": "So it says something like 20 to 40 cycles for a divide or something like that, I think.",
+      "search": "so it says something like 20 to 40 cycles for a divide or something like that, i think.",
+      "confidence": 0.785
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:304",
+      "startMs": 1132400,
+      "endMs": 1134000,
+      "verbatim": "Yes, 20 to 40.",
+      "display": "Yes, 20 to 40.",
+      "search": "yes, 20 to 40.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:305",
+      "startMs": 1134240,
+      "endMs": 1136720,
+      "verbatim": "And I just have no idea where that's coming from, right?",
+      "display": "And I just have no idea where that's coming from, right?",
+      "search": "and i just have no idea where that's coming from, right?",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:306",
+      "startMs": 1136720,
+      "endMs": 1138640,
+      "verbatim": "Like I've no idea where they got that number from.",
+      "display": "Like I've no idea where they got that number from.",
+      "search": "like i've no idea where they got that number from.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:307",
+      "startMs": 1138640,
+      "endMs": 1142000,
+      "verbatim": "They like I really wish it said where it got that number from, right?",
+      "display": "They like I really wish it said where it got that number from, right?",
+      "search": "they like i really wish it said where it got that number from, right?",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:308",
+      "startMs": 1142000,
+      "endMs": 1143360,
+      "verbatim": "It came from his heart, all right.",
+      "display": "It came from his heart, all right.",
+      "search": "it came from his heart, all right.",
+      "confidence": 0.69
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:309",
+      "startMs": 1143360,
+      "endMs": 1144320,
+      "verbatim": "It came from his heart.",
+      "display": "It came from his heart.",
+      "search": "it came from his heart.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:310",
+      "startMs": 1144560,
+      "endMs": 1145120,
+      "verbatim": "Yeah, yeah.",
+      "display": "Yeah, yeah.",
+      "search": "yeah, yeah.",
+      "confidence": 0.581
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:311",
+      "startMs": 1145120,
+      "endMs": 1146560,
+      "verbatim": "Um you can feel it.",
+      "display": "Um you can feel it.",
+      "search": "um you can feel it.",
+      "confidence": 0.546
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:312",
+      "startMs": 1146560,
+      "endMs": 1148080,
+      "verbatim": "You can feel those cycles.",
+      "display": "You can feel those cycles.",
+      "search": "you can feel those cycles.",
+      "confidence": 0.749
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:313",
+      "startMs": 1148080,
+      "endMs": 1149520,
+      "verbatim": "The CPU whisperer.",
+      "display": "The CPU whisperer.",
+      "search": "the cpu whisperer.",
+      "confidence": 0.631
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:314",
+      "startMs": 1149840,
+      "endMs": 1150080,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.493
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:315",
+      "startMs": 1150560,
+      "endMs": 1160960,
+      "verbatim": "So a floating point divide, um, you know, if you look, so if you look at a modern chip, like let's say a Zen a Zen 4 or Zen 5 chip, right?",
+      "display": "So a floating point divide, um, you know, if you look, so if you look at a modern chip, like let's say a Zen a Zen 4 or Zen 5 chip, right?",
+      "search": "so a floating point divide, um, you know, if you look, so if you look at a modern chip, like let's say a zen a zen 4 or zen 5 chip, right?",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:316",
+      "startMs": 1160960,
+      "endMs": 1171280,
+      "verbatim": "Something that you might be running today that might be in a computer you'd buy today, typically their floating point divide units are extraordinary, very fast.",
+      "display": "Something that you might be running today that might be in a computer you'd buy today, typically their floating point divide units are extraordinary, very fast.",
+      "search": "something that you might be running today that might be in a computer you'd buy today, typically their floating point divide units are extraordinary, very fast.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:317",
+      "startMs": 1171280,
+      "endMs": 1177680,
+      "verbatim": "I want to say that they can complete these things in, I don't know, five, six cycles, something like five cycles, maybe.",
+      "display": "I want to say that they can complete these things in, I don't know, five, six cycles, something like five cycles, maybe.",
+      "search": "i want to say that they can complete these things in, i don't know, five, six cycles, something like five cycles, maybe.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:318",
+      "startMs": 1177680,
+      "endMs": 1178880,
+      "verbatim": "I'm not sure what it is.",
+      "display": "I'm not sure what it is.",
+      "search": "i'm not sure what it is.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:319",
+      "startMs": 1178880,
+      "endMs": 1183840,
+      "verbatim": "We should probably look it up, but forty is no nowhere to be found.",
+      "display": "We should probably look it up, but forty is no nowhere to be found.",
+      "search": "we should probably look it up, but forty is no nowhere to be found.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:320",
+      "startMs": 1183840,
+      "endMs": 1188480,
+      "verbatim": "I mean, that's it's not quite off by 10, but it's something like 10.",
+      "display": "I mean, that's it's not quite off by 10, but it's something like 10.",
+      "search": "i mean, that's it's not quite off by 10, but it's something like 10.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:321",
+      "startMs": 1188480,
+      "endMs": 1190240,
+      "verbatim": "Like it's very, very wrong.",
+      "display": "Like it's very, very wrong.",
+      "search": "like it's very, very wrong.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:322",
+      "startMs": 1190240,
+      "endMs": 1201720,
+      "verbatim": "I think it's from uh Chad Chipity, because if I'm not mistaken, I actually asked this question not too long ago and I got the answer of like eight to thirty or something like that cycles for a divide depending on the CPU and architecture.",
+      "display": "I think it's from uh Chad Chipity, because if I'm not mistaken, I actually asked this question not too long ago and I got the answer of like eight to thirty or something like that cycles for a divide depending on the CPU and architecture.",
+      "search": "i think it's from uh chad chipity, because if i'm not mistaken, i actually asked this question not too long ago and i got the answer of like eight to thirty or something like that cycles for a divide depending on the cpu and architecture.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:323",
+      "startMs": 1202040,
+      "endMs": 1208280,
+      "verbatim": "I mean, d the part the part that that ChatGPT got right is the depending on the the architecture part.",
+      "display": "I mean, d the part the part that that ChatGPT got right is the depending on the the architecture part.",
+      "search": "i mean, d the part the part that that chatgpt got right is the depending on the the architecture part.",
+      "confidence": 0.641
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:324",
+      "startMs": 1208280,
+      "endMs": 1212840,
+      "verbatim": "Because it does have uh but like let's show here, I'll just look it up on my machine right now.",
+      "display": "Because it does have uh but like let's show here, I'll just look it up on my machine right now.",
+      "search": "because it does have uh but like let's show here, i'll just look it up on my machine right now.",
+      "confidence": 0.753
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:325",
+      "startMs": 1212840,
+      "endMs": 1214680,
+      "verbatim": "Like we'll just see what roughly it is.",
+      "display": "Like we'll just see what roughly it is.",
+      "search": "like we'll just see what roughly it is.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:326",
+      "startMs": 1214680,
+      "endMs": 1233080,
+      "verbatim": "So if I go in and I say I want to do a you know 32-bit um uh like we're gonna do a div ps here or a div uh SS, let's say, and we look at what's gonna happen on a Zen5 chip, um, the the total latency rate is less than 10 cycles for for that operation.",
+      "display": "So if I go in and I say I want to do a you know 32-bit um uh like we're gonna do a div ps here or a div uh SS, let's say, and we look at what's gonna happen on a Zen5 chip, um, the the total latency rate is less than 10 cycles for for that operation.",
+      "search": "so if i go in and i say i want to do a you know 32-bit um uh like we're gonna do a div ps here or a div uh ss, let's say, and we look at what's gonna happen on a zen5 chip, um, the the total latency rate is less than 10 cycles for for that operation.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:327",
+      "startMs": 1233080,
+      "endMs": 1234680,
+      "verbatim": "Latency, right?",
+      "display": "Latency, right?",
+      "search": "latency, right?",
+      "confidence": 0.565
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:328",
+      "startMs": 1235320,
+      "endMs": 1237000,
+      "verbatim": "So that means that if you.",
+      "display": "So that means that if you.",
+      "search": "so that means that if you.",
+      "confidence": 0.599
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:329",
+      "startMs": 1239640,
+      "endMs": 1241400,
+      "verbatim": "What about for multiply?",
+      "display": "What about for multiply?",
+      "search": "what about for multiply?",
+      "confidence": 0.673
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:330",
+      "startMs": 1241400,
+      "endMs": 1243480,
+      "verbatim": "Multiply will be four.",
+      "display": "Multiply will be four.",
+      "search": "multiply will be four.",
+      "confidence": 0.629
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:331",
+      "startMs": 1243480,
+      "endMs": 1244280,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.438
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:332",
+      "startMs": 1244520,
+      "endMs": 1246440,
+      "verbatim": "I want to say, right?",
+      "display": "I want to say, right?",
+      "search": "i want to say, right?",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:333",
+      "startMs": 1246440,
+      "endMs": 1247640,
+      "verbatim": "Um so three, three.",
+      "display": "Um so three, three.",
+      "search": "um so three, three.",
+      "confidence": 0.534
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:334",
+      "startMs": 1248040,
+      "endMs": 1248760,
+      "verbatim": "How many FPS though?",
+      "display": "How many FPS though?",
+      "search": "how many fps though?",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:335",
+      "startMs": 1249320,
+      "endMs": 1252280,
+      "verbatim": "Casey, we just need to know how many FPS is 10 cycles.",
+      "display": "Casey, we just need to know how many FPS is 10 cycles.",
+      "search": "casey, we just need to know how many fps is 10 cycles.",
+      "confidence": 0.727
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:336",
+      "startMs": 1252280,
+      "endMs": 1252760,
+      "verbatim": "Right.",
+      "display": "Right.",
+      "search": "right.",
+      "confidence": 0.6
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:337",
+      "startMs": 1252760,
+      "endMs": 1256360,
+      "verbatim": "If it were a bouncing ball, which is how fast that one.",
+      "display": "If it were a bouncing ball, which is how fast that one.",
+      "search": "if it were a bouncing ball, which is how fast that one.",
+      "confidence": 0.609
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:338",
+      "startMs": 1256760,
+      "endMs": 1261880,
+      "verbatim": "So three on that, and I think four four is on my CPU, which is Zen4, I think it should be four, right?",
+      "display": "So three on that, and I think four four is on my CPU, which is Zen4, I think it should be four, right?",
+      "search": "so three on that, and i think four four is on my cpu, which is zen4, i think it should be four, right?",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:339",
+      "startMs": 1261880,
+      "endMs": 1263320,
+      "verbatim": "Uh is that correct?",
+      "display": "Uh is that correct?",
+      "search": "uh is that correct?",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:340",
+      "startMs": 1263320,
+      "endMs": 1264200,
+      "verbatim": "Zen4.",
+      "display": "Zen4.",
+      "search": "zen4.",
+      "confidence": 0.336
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:341",
+      "startMs": 1264360,
+      "endMs": 1265320,
+      "verbatim": "Also three.",
+      "display": "Also three.",
+      "search": "also three.",
+      "confidence": 0.569
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:342",
+      "startMs": 1265320,
+      "endMs": 1267800,
+      "verbatim": "So, alright, this is better than I would have expected.",
+      "display": "So, alright, this is better than I would have expected.",
+      "search": "so, alright, this is better than i would have expected.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:343",
+      "startMs": 1267800,
+      "endMs": 1271160,
+      "verbatim": "I'm used to four, these get three, right?",
+      "display": "I'm used to four, these get three, right?",
+      "search": "i'm used to four, these get three, right?",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:344",
+      "startMs": 1271160,
+      "endMs": 1283320,
+      "verbatim": "Now, so in general, that is the number that you would use if you were trying to analyze how long it takes you to get the answer back, right?",
+      "display": "Now, so in general, that is the number that you would use if you were trying to analyze how long it takes you to get the answer back, right?",
+      "search": "now, so in general, that is the number that you would use if you were trying to analyze how long it takes you to get the answer back, right?",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:345",
+      "startMs": 1284360,
+      "endMs": 1290920,
+      "verbatim": "These loops don't care how long it takes to get the answer back because nothing is waiting for that, right?",
+      "display": "These loops don't care how long it takes to get the answer back because nothing is waiting for that, right?",
+      "search": "these loops don't care how long it takes to get the answer back because nothing is waiting for that, right?",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:346",
+      "startMs": 1290920,
+      "endMs": 1304920,
+      "verbatim": "On the iteration of the loop, as you go through, right, you're going to do a load, the floating point op, either divide or multiply, and then the store, right?",
+      "display": "On the iteration of the loop, as you go through, right, you're going to do a load, the floating point op, either divide or multiply, and then the store, right?",
+      "search": "on the iteration of the loop, as you go through, right, you're going to do a load, the floating point op, either divide or multiply, and then the store, right?",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:347",
+      "startMs": 1305800,
+      "endMs": 1312040,
+      "verbatim": "When you do that, the next iteration of the loop doesn't have to wait for that to complete.",
+      "display": "When you do that, the next iteration of the loop doesn't have to wait for that to complete.",
+      "search": "when you do that, the next iteration of the loop doesn't have to wait for that to complete.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:348",
+      "startMs": 1312040,
+      "endMs": 1317560,
+      "verbatim": "So those are just in the scheduling queue going, they can be dispatched.",
+      "display": "So those are just in the scheduling queue going, they can be dispatched.",
+      "search": "so those are just in the scheduling queue going, they can be dispatched.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:349",
+      "startMs": 1317560,
+      "endMs": 1322680,
+      "verbatim": "The next iteration of the loop is already decoded and probably also in the scheduler.",
+      "display": "The next iteration of the loop is already decoded and probably also in the scheduler.",
+      "search": "the next iteration of the loop is already decoded and probably also in the scheduler.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:350",
+      "startMs": 1322680,
+      "endMs": 1327080,
+      "verbatim": "Given this is a hot loop, presumably we're just running a thousand, you know, it's good looking level.",
+      "display": "Given this is a hot loop, presumably we're just running a thousand, you know, it's good looking level.",
+      "search": "given this is a hot loop, presumably we're just running a thousand, you know, it's good looking level.",
+      "confidence": 0.763
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:351",
+      "startMs": 1327080,
+      "endMs": 1328360,
+      "verbatim": "It's good looking for sure.",
+      "display": "It's good looking for sure.",
+      "search": "it's good looking for sure.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:352",
+      "startMs": 1328360,
+      "endMs": 1329640,
+      "verbatim": "It's just cooking.",
+      "display": "It's just cooking.",
+      "search": "it's just cooking.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:353",
+      "startMs": 1329640,
+      "endMs": 1331640,
+      "verbatim": "So these are all gonna pile up in the scheduler.",
+      "display": "So these are all gonna pile up in the scheduler.",
+      "search": "so these are all gonna pile up in the scheduler.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:354",
+      "startMs": 1331720,
+      "endMs": 1334840,
+      "verbatim": "Schedule's gonna dispatch them every cycle as it can.",
+      "display": "Schedule's gonna dispatch them every cycle as it can.",
+      "search": "schedule's gonna dispatch them every cycle as it can.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:355",
+      "startMs": 1334840,
+      "endMs": 1340120,
+      "verbatim": "And so what we care about is not how long it takes to get the answer, because no one cares.",
+      "display": "And so what we care about is not how long it takes to get the answer, because no one cares.",
+      "search": "and so what we care about is not how long it takes to get the answer, because no one cares.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:356",
+      "startMs": 1340120,
+      "endMs": 1344760,
+      "verbatim": "What we care about is how long will it take us to issue the next one.",
+      "display": "What we care about is how long will it take us to issue the next one.",
+      "search": "what we care about is how long will it take us to issue the next one.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:357",
+      "startMs": 1344760,
+      "endMs": 1349000,
+      "verbatim": "So if we issue them on this cycle, how long does it take us to issue the next one, right?",
+      "display": "So if we issue them on this cycle, how long does it take us to issue the next one, right?",
+      "search": "so if we issue them on this cycle, how long does it take us to issue the next one, right?",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:358",
+      "startMs": 1349000,
+      "endMs": 1351800,
+      "verbatim": "And so that's what we typically call that's a throughput number.",
+      "display": "And so that's what we typically call that's a throughput number.",
+      "search": "and so that's what we typically call that's a throughput number.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:359",
+      "startMs": 1351880,
+      "endMs": 1353560,
+      "verbatim": "So we typically call that, right?",
+      "display": "So we typically call that, right?",
+      "search": "so we typically call that, right?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:360",
+      "startMs": 1353800,
+      "endMs": 1359080,
+      "verbatim": "And if you look at the throughput numbers for multiply, right?",
+      "display": "And if you look at the throughput numbers for multiply, right?",
+      "search": "and if you look at the throughput numbers for multiply, right?",
+      "confidence": 0.724
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:361",
+      "startMs": 1359400,
+      "endMs": 1367320,
+      "verbatim": "Typically you can issue two floating point multipliers per cycle, which means it takes half a cycle effectively to multiply.",
+      "display": "Typically you can issue two floating point multipliers per cycle, which means it takes half a cycle effectively to multiply.",
+      "search": "typically you can issue two floating point multipliers per cycle, which means it takes half a cycle effectively to multiply.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:362",
+      "startMs": 1367320,
+      "endMs": 1368360,
+      "verbatim": "Half a cycle.",
+      "display": "Half a cycle.",
+      "search": "half a cycle.",
+      "confidence": 0.764
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:363",
+      "startMs": 1368760,
+      "endMs": 1369560,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.345
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:364",
+      "startMs": 1370760,
+      "endMs": 1375560,
+      "verbatim": "That is what you that is the number you should be listing or thinking about when you're looking at this loop.",
+      "display": "That is what you that is the number you should be listing or thinking about when you're looking at this loop.",
+      "search": "that is what you that is the number you should be listing or thinking about when you're looking at this loop.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:365",
+      "startMs": 1375880,
+      "endMs": 1384680,
+      "verbatim": "For divides, the throughput again is remarkably good on modern CPUs, so it's like in the two to three range.",
+      "display": "For divides, the throughput again is remarkably good on modern CPUs, so it's like in the two to three range.",
+      "search": "for divides, the throughput again is remarkably good on modern cpus, so it's like in the two to three range.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:366",
+      "startMs": 1385960,
+      "endMs": 1390440,
+      "verbatim": "So is multiply faster than divide?",
+      "display": "So is multiply faster than divide?",
+      "search": "so is multiply faster than divide?",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:367",
+      "startMs": 1390440,
+      "endMs": 1391800,
+      "verbatim": "Sure, right?",
+      "display": "Sure, right?",
+      "search": "sure, right?",
+      "confidence": 0.636
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:368",
+      "startMs": 1391800,
+      "endMs": 1397880,
+      "verbatim": "Half a cycle versus three cycles when we're analyzing this loop, let's say, or something along those lines.",
+      "display": "Half a cycle versus three cycles when we're analyzing this loop, let's say, or something along those lines.",
+      "search": "half a cycle versus three cycles when we're analyzing this loop, let's say, or something along those lines.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:369",
+      "startMs": 1398360,
+      "endMs": 1401080,
+      "verbatim": "But then you have to ask the question do you care?",
+      "display": "But then you have to ask the question do you care?",
+      "search": "but then you have to ask the question do you care?",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:370",
+      "startMs": 1401640,
+      "endMs": 1406520,
+      "verbatim": "This is a load, a op, and a store.",
+      "display": "This is a load, a op, and a store.",
+      "search": "this is a load, a op, and a store.",
+      "confidence": 0.694
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:371",
+      "startMs": 1407240,
+      "endMs": 1422120,
+      "verbatim": "Unless you're entirely out of the L1 cache, which is going to service, you know, at about, you know, like let's say uh one, you know, it's probably like two per cycle, three per cycle, it could get you answers back from the L1 cache, right?",
+      "display": "Unless you're entirely out of the L1 cache, which is going to service, you know, at about, you know, like let's say uh one, you know, it's probably like two per cycle, three per cycle, it could get you answers back from the L1 cache, right?",
+      "search": "unless you're entirely out of the l1 cache, which is going to service, you know, at about, you know, like let's say uh one, you know, it's probably like two per cycle, three per cycle, it could get you answers back from the l1 cache, right?",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:372",
+      "startMs": 1422440,
+      "endMs": 1433080,
+      "verbatim": "If you're talking about the L2 cache, then I mean, I don't know, the number of clocks it's probably gonna take, 14 cycle latency, something like this.",
+      "display": "If you're talking about the L2 cache, then I mean, I don't know, the number of clocks it's probably gonna take, 14 cycle latency, something like this.",
+      "search": "if you're talking about the l2 cache, then i mean, i don't know, the number of clocks it's probably gonna take, 14 cycle latency, something like this.",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:373",
+      "startMs": 1433080,
+      "endMs": 1452040,
+      "verbatim": "If we're looking at how long it takes you to actually get the memory back, it's not clear to me that unless the CPU was predicting extremely well what you were going to do and always had things like you'd have to go look at the actual bandwidth to see if you were actually gonna get enough back such that you could operate them on them at that speed.",
+      "display": "If we're looking at how long it takes you to actually get the memory back, it's not clear to me that unless the CPU was predicting extremely well what you were going to do and always had things like you'd have to go look at the actual bandwidth to see if you were actually gonna get enough back such that you could operate them on them at that speed.",
+      "search": "if we're looking at how long it takes you to actually get the memory back, it's not clear to me that unless the cpu was predicting extremely well what you were going to do and always had things like you'd have to go look at the actual bandwidth to see if you were actually gonna get enough back such that you could operate them on them at that speed.",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:374",
+      "startMs": 1452040,
+      "endMs": 1453480,
+      "verbatim": "Maybe you can.",
+      "display": "Maybe you can.",
+      "search": "maybe you can.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:375",
+      "startMs": 1453480,
+      "endMs": 1465240,
+      "verbatim": "It's it's not in my brain right now as to whether you would actually be able to do that at a speed that would matter at the like let's say three cycles uh throughput number that you're gonna get on the divide.",
+      "display": "It's it's not in my brain right now as to whether you would actually be able to do that at a speed that would matter at the like let's say three cycles uh throughput number that you're gonna get on the divide.",
+      "search": "it's it's not in my brain right now as to whether you would actually be able to do that at a speed that would matter at the like let's say three cycles uh throughput number that you're gonna get on the divide.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:376",
+      "startMs": 1465240,
+      "endMs": 1469160,
+      "verbatim": "So it really just it was very misleading the whole thing.",
+      "display": "So it really just it was very misleading the whole thing.",
+      "search": "so it really just it was very misleading the whole thing.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:377",
+      "startMs": 1469160,
+      "endMs": 1473800,
+      "verbatim": "And as I, you know, you heard me say all that stuff.",
+      "display": "And as I, you know, you heard me say all that stuff.",
+      "search": "and as i, you know, you heard me say all that stuff.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:378",
+      "startMs": 1473800,
+      "endMs": 1480520,
+      "verbatim": "I would want to go look at this loop and and check it first, and I'd want to think about it a little bit before I would post anything like that.",
+      "display": "I would want to go look at this loop and and check it first, and I'd want to think about it a little bit before I would post anything like that.",
+      "search": "i would want to go look at this loop and and check it first, and i'd want to think about it a little bit before i would post anything like that.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:379",
+      "startMs": 1480520,
+      "endMs": 1485800,
+      "verbatim": "And it was just that clearly wasn't done because the none of those numbers make sense that are placed there.",
+      "display": "And it was just that clearly wasn't done because the none of those numbers make sense that are placed there.",
+      "search": "and it was just that clearly wasn't done because the none of those numbers make sense that are placed there.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:380",
+      "startMs": 1485800,
+      "endMs": 1488440,
+      "verbatim": "Is it true that multiply is faster than divide?",
+      "display": "Is it true that multiply is faster than divide?",
+      "search": "is it true that multiply is faster than divide?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:381",
+      "startMs": 1488440,
+      "endMs": 1489240,
+      "verbatim": "Yes.",
+      "display": "Yes.",
+      "search": "yes.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:382",
+      "startMs": 1489240,
+      "endMs": 1491160,
+      "verbatim": "Does it even matter in this case?",
+      "display": "Does it even matter in this case?",
+      "search": "does it even matter in this case?",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:383",
+      "startMs": 1491160,
+      "endMs": 1491720,
+      "verbatim": "No.",
+      "display": "No.",
+      "search": "no.",
+      "confidence": 0.695
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:384",
+      "startMs": 1491720,
+      "endMs": 1494440,
+      "verbatim": "I don't think it probably does, but maybe.",
+      "display": "I don't think it probably does, but maybe.",
+      "search": "i don't think it probably does, but maybe.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:385",
+      "startMs": 1494440,
+      "endMs": 1502600,
+      "verbatim": "And furthermore, usually, in most cases, right, when you're looking at actual loops, more is going on.",
+      "display": "And furthermore, usually, in most cases, right, when you're looking at actual loops, more is going on.",
+      "search": "and furthermore, usually, in most cases, right, when you're looking at actual loops, more is going on.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:386",
+      "startMs": 1502600,
+      "endMs": 1505080,
+      "verbatim": "And so it's also gonna mislead people.",
+      "display": "And so it's also gonna mislead people.",
+      "search": "and so it's also gonna mislead people.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:387",
+      "startMs": 1505080,
+      "endMs": 1511240,
+      "verbatim": "So, point number three, it's also gonna mislead people in this final way, which is to think that they always have to do this.",
+      "display": "So, point number three, it's also gonna mislead people in this final way, which is to think that they always have to do this.",
+      "search": "so, point number three, it's also gonna mislead people in this final way, which is to think that they always have to do this.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:388",
+      "startMs": 1511240,
+      "endMs": 1515400,
+      "verbatim": "It's that this is the problem with these kind of like out-of-context performance things.",
+      "display": "It's that this is the problem with these kind of like out-of-context performance things.",
+      "search": "it's that this is the problem with these kind of like out-of-context performance things.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:389",
+      "startMs": 1515400,
+      "endMs": 1524120,
+      "verbatim": "People read it that think, oh, I just need to invert all my numbers, and then my code goes fast, and then they go around inverting all of their numbers and turning them into multiplies.",
+      "display": "People read it that think, oh, I just need to invert all my numbers, and then my code goes fast, and then they go around inverting all of their numbers and turning them into multiplies.",
+      "search": "people read it that think, oh, i just need to invert all my numbers, and then my code goes fast, and then they go around inverting all of their numbers and turning them into multiplies.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:390",
+      "startMs": 1524120,
+      "endMs": 1534760,
+      "verbatim": "And the problem with that is in a lot of cases, unless you had serial dependency chains that really could have been unblocked by this change, you're just wasting your time.",
+      "display": "And the problem with that is in a lot of cases, unless you had serial dependency chains that really could have been unblocked by this change, you're just wasting your time.",
+      "search": "and the problem with that is in a lot of cases, unless you had serial dependency chains that really could have been unblocked by this change, you're just wasting your time.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:391",
+      "startMs": 1534760,
+      "endMs": 1536200,
+      "verbatim": "The divide would have been just as fast.",
+      "display": "The divide would have been just as fast.",
+      "search": "the divide would have been just as fast.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:392",
+      "startMs": 1536200,
+      "endMs": 1538600,
+      "verbatim": "It would have overlapped with other things you're doing in the loop.",
+      "display": "It would have overlapped with other things you're doing in the loop.",
+      "search": "it would have overlapped with other things you're doing in the loop.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:393",
+      "startMs": 1538600,
+      "endMs": 1548040,
+      "verbatim": "You were waiting the thing was waiting on an on an uncached read or something, so the whole loop was was waiting 80 cycles anyway, so none of this mattered, right?",
+      "display": "You were waiting the thing was waiting on an on an uncached read or something, so the whole loop was was waiting 80 cycles anyway, so none of this mattered, right?",
+      "search": "you were waiting the thing was waiting on an on an uncached read or something, so the whole loop was was waiting 80 cycles anyway, so none of this mattered, right?",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:394",
+      "startMs": 1548040,
+      "endMs": 1553160,
+      "verbatim": "So the problem again is that like performance is a thing, performance is a process.",
+      "display": "So the problem again is that like performance is a thing, performance is a process.",
+      "search": "so the problem again is that like performance is a thing, performance is a process.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:395",
+      "startMs": 1553160,
+      "endMs": 1554360,
+      "verbatim": "It's an understanding.",
+      "display": "It's an understanding.",
+      "search": "it's an understanding.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:396",
+      "startMs": 1554360,
+      "endMs": 1556760,
+      "verbatim": "You have to understand all those things that I just said.",
+      "display": "You have to understand all those things that I just said.",
+      "search": "you have to understand all those things that i just said.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:397",
+      "startMs": 1556760,
+      "endMs": 1558600,
+      "verbatim": "They're not actually that hard to understand.",
+      "display": "They're not actually that hard to understand.",
+      "search": "they're not actually that hard to understand.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:398",
+      "startMs": 1558600,
+      "endMs": 1560840,
+      "verbatim": "You just you can't, you just need to learn them.",
+      "display": "You just you can't, you just need to learn them.",
+      "search": "you just you can't, you just need to learn them.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:399",
+      "startMs": 1560840,
+      "endMs": 1563080,
+      "verbatim": "You need to spend a few weeks learning this stuff.",
+      "display": "You need to spend a few weeks learning this stuff.",
+      "search": "you need to spend a few weeks learning this stuff.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:400",
+      "startMs": 1563080,
+      "endMs": 1565640,
+      "verbatim": "And then you can think about do I need to invert this number?",
+      "display": "And then you can think about do I need to invert this number?",
+      "search": "and then you can think about do i need to invert this number?",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:401",
+      "startMs": 1565720,
+      "endMs": 1567560,
+      "verbatim": "Do I not need to invert this at that point?",
+      "display": "Do I not need to invert this at that point?",
+      "search": "do i not need to invert this at that point?",
+      "confidence": 0.674
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:402",
+      "startMs": 1567560,
+      "endMs": 1577080,
+      "verbatim": "What you don't want to do is try to package it into a tweet like that when you haven't really done the work of understanding why it matters or anything like that, because other people will take away the wrong lessons.",
+      "display": "What you don't want to do is try to package it into a tweet like that when you haven't really done the work of understanding why it matters or anything like that, because other people will take away the wrong lessons.",
+      "search": "what you don't want to do is try to package it into a tweet like that when you haven't really done the work of understanding why it matters or anything like that, because other people will take away the wrong lessons.",
+      "confidence": 0.95
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:403",
+      "startMs": 1577080,
+      "endMs": 1580920,
+      "verbatim": "So that was a very long-winded way of trying to explain everything I didn't like about that tweet.",
+      "display": "So that was a very long-winded way of trying to explain everything I didn't like about that tweet.",
+      "search": "so that was a very long-winded way of trying to explain everything i didn't like about that tweet.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:404",
+      "startMs": 1580920,
+      "endMs": 1583320,
+      "verbatim": "Again, no offense, sorry to the person who posted it.",
+      "display": "Again, no offense, sorry to the person who posted it.",
+      "search": "again, no offense, sorry to the person who posted it.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:405",
+      "startMs": 1583320,
+      "endMs": 1585160,
+      "verbatim": "It's just, I don't think that kind of thing is helpful.",
+      "display": "It's just, I don't think that kind of thing is helpful.",
+      "search": "it's just, i don't think that kind of thing is helpful.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:406",
+      "startMs": 1585160,
+      "endMs": 1600120,
+      "verbatim": "It's sort of like saying always call memset or never call memset or these other weird performance things that people pass around, which out of context, don't help anybody because you're just gonna make incorrect decisions if you think that the key to performance is always do X or never do X.",
+      "display": "It's sort of like saying always call memset or never call memset or these other weird performance things that people pass around, which out of context, don't help anybody because you're just gonna make incorrect decisions if you think that the key to performance is always do X or never do X.",
+      "search": "it's sort of like saying always call memset or never call memset or these other weird performance things that people pass around, which out of context, don't help anybody because you're just gonna make incorrect decisions if you think that the key to performance is always do x or never do x.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:407",
+      "startMs": 1600120,
+      "endMs": 1601960,
+      "verbatim": "That's not how it works.",
+      "display": "That's not how it works.",
+      "search": "that's not how it works.",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:408",
+      "startMs": 1602600,
+      "endMs": 1604600,
+      "verbatim": "Smark plugs.",
+      "display": "Smark plugs.",
+      "search": "smark plugs.",
+      "confidence": 0.604
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:409",
+      "startMs": 1604600,
+      "endMs": 1605960,
+      "verbatim": "Great job, Casey.",
+      "display": "Great job, Casey.",
+      "search": "great job, casey.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:410",
+      "startMs": 1605960,
+      "endMs": 1606920,
+      "verbatim": "Thank you.",
+      "display": "Thank you.",
+      "search": "thank you.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:411",
+      "startMs": 1606920,
+      "endMs": 1618840,
+      "verbatim": "I didn't I figured you'd be able to help me on that one because I had the rough idea that it would introduce error, but I had no idea to the extent that divide and multiply may not make any sort of actual real difference in your program.",
+      "display": "I didn't I figured you'd be able to help me on that one because I had the rough idea that it would introduce error, but I had no idea to the extent that divide and multiply may not make any sort of actual real difference in your program.",
+      "search": "i didn't i figured you'd be able to help me on that one because i had the rough idea that it would introduce error, but i had no idea to the extent that divide and multiply may not make any sort of actual real difference in your program.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:412",
+      "startMs": 1618840,
+      "endMs": 1624440,
+      "verbatim": "Plus, all the crappy things I do, anyways, probably destroy my program's performance long before we get to this loop.",
+      "display": "Plus, all the crappy things I do, anyways, probably destroy my program's performance long before we get to this loop.",
+      "search": "plus, all the crappy things i do, anyways, probably destroy my program's performance long before we get to this loop.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:413",
+      "startMs": 1624440,
+      "endMs": 1625080,
+      "verbatim": "Yeah, prime.",
+      "display": "Yeah, prime.",
+      "search": "yeah, prime.",
+      "confidence": 0.582
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:414",
+      "startMs": 1625080,
+      "endMs": 1629320,
+      "verbatim": "We've got other issues before we get to whether we're multiplying or dividing, I think.",
+      "display": "We've got other issues before we get to whether we're multiplying or dividing, I think.",
+      "search": "we've got other issues before we get to whether we're multiplying or dividing, i think.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:415",
+      "startMs": 1629320,
+      "endMs": 1629960,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:416",
+      "startMs": 1629960,
+      "endMs": 1633560,
+      "verbatim": "I just really want to take my Lua program seriously, TJ, okay?",
+      "display": "I just really want to take my Lua program seriously, TJ, okay?",
+      "search": "i just really want to take my lua program seriously, tj, okay?",
+      "confidence": 0.695
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:417",
+      "startMs": 1634200,
+      "endMs": 1643720,
+      "verbatim": "It's usually uh I'll the one thing I can put in someone's head that's generally not wrong is p don't confuse integer multiply with floating point multiply.",
+      "display": "It's usually uh I'll the one thing I can put in someone's head that's generally not wrong is p don't confuse integer multiply with floating point multiply.",
+      "search": "it's usually uh i'll the one thing i can put in someone's head that's generally not wrong is p don't confuse integer multiply with floating point multiply.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:418",
+      "startMs": 1643720,
+      "endMs": 1648280,
+      "verbatim": "Floating point multiplies are much faster than integer multiplies typically.",
+      "display": "Floating point multiplies are much faster than integer multiplies typically.",
+      "search": "floating point multiplies are much faster than integer multiplies typically.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:419",
+      "startMs": 1648280,
+      "endMs": 1655640,
+      "verbatim": "And so some of the time when you see people saying, oh my god, like divide is so bad, sometimes they're thinking about integer divide.",
+      "display": "And so some of the time when you see people saying, oh my god, like divide is so bad, sometimes they're thinking about integer divide.",
+      "search": "and so some of the time when you see people saying, oh my god, like divide is so bad, sometimes they're thinking about integer divide.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:420",
+      "startMs": 1655640,
+      "endMs": 1660360,
+      "verbatim": "And there's a lot of reasons, there are a lot of reasons why integer divide is bad.",
+      "display": "And there's a lot of reasons, there are a lot of reasons why integer divide is bad.",
+      "search": "and there's a lot of reasons, there are a lot of reasons why integer divide is bad.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:421",
+      "startMs": 1660360,
+      "endMs": 1661080,
+      "verbatim": "A lot of reasons.",
+      "display": "A lot of reasons.",
+      "search": "a lot of reasons.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:422",
+      "startMs": 1661400,
+      "endMs": 1663400,
+      "verbatim": "I'm gonna put that on the blocker list for next week.",
+      "display": "I'm gonna put that on the blocker list for next week.",
+      "search": "i'm gonna put that on the blocker list for next week.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:423",
+      "startMs": 1663400,
+      "endMs": 1667400,
+      "verbatim": "You can we can we can talk about that because that's actually uh that seems very interesting.",
+      "display": "You can we can we can talk about that because that's actually uh that seems very interesting.",
+      "search": "you can we can we can talk about that because that's actually uh that seems very interesting.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:424",
+      "startMs": 1667400,
+      "endMs": 1673640,
+      "verbatim": "Hey guys, if you like this episode, you can watch the rest of it on uh Spotify and don't forget to like and subscribe.",
+      "display": "Hey guys, if you like this episode, you can watch the rest of it on uh Spotify and don't forget to like and subscribe.",
+      "search": "hey guys, if you like this episode, you can watch the rest of it on uh spotify and don't forget to like and subscribe.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:425",
+      "startMs": 1673640,
+      "endMs": 1674840,
+      "verbatim": "Woo!",
+      "display": "Woo!",
+      "search": "woo!",
+      "confidence": 0.413
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:426",
+      "startMs": 1674840,
+      "endMs": 1675800,
+      "verbatim": "See you later.",
+      "display": "See you later.",
+      "search": "see you later.",
+      "confidence": 0.614
+    },
+    {
+      "segmentId": "youtube:pslodI0Mh_0:segment:427",
+      "startMs": 1683240,
+      "endMs": 1687880,
+      "verbatim": "Terminal cards,",
+      "display": "Terminal cards,",
+      "search": "terminal cards,",
+      "confidence": 0.288
+    }
+  ]
+}

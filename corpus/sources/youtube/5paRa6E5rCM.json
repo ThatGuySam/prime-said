@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:5paRa6E5rCM",
+  "platform": "youtube",
+  "platformId": "5paRa6E5rCM",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "The Secret Token Underworld",
+  "description": "ssh terminal.shop\nYes, seriously, this is my company, and we selected and found some of the worlds best coffee.  US only (for now (the world is hard when you don't do crappy influencer coffee))\n\nSources:\n\n- https://news.ycombinator.com/item?id=48667495\n- https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in\n- https://x.com/HarshalsinghCN/status/2056626175959826692\n- https://arxiv.org/pdf/2603.01919\n- https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks\n- https://www.404media.co/inside-the-underground-site-where-ai-neural-networks-churns-out-fake-ids-onlyfake/\n\nTopics Covered:\n\n- The underground Token Black Market\n- How do people sell Tokens for so cheap\n- Token Fraud\n\nChapters\n00:00:00 - Intro\n00:00:47 - Transit Stations\n00:02:05 - Terminal Coffee\n00:02:38 - Distillation attacks?\n00:03:21 - How to Buy and Sell Tokens\n00:08:27 - Why are they so cheap?\n00:11:11 - My Theory\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=5paRa6E5rCM",
+  "publishedAt": "2026-06-29T13:00:36.000Z",
+  "durationMs": 841000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:07:25.475Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:07:25.475Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

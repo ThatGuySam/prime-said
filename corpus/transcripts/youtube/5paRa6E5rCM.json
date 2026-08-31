@@ -1,0 +1,1814 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_cdb084fb20edf45eb618b16d",
+  "sourceId": "youtube:5paRa6E5rCM",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T15:07:25.475Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:1",
+      "startMs": 240,
+      "endMs": 7840,
+      "verbatim": "Chinese resellers are offering clawed tokens at 70 to 90 percent below official anthropic prices.",
+      "display": "Chinese resellers are offering clawed tokens at 70 to 90 percent below official anthropic prices.",
+      "search": "chinese resellers are offering clawed tokens at 70 to 90 percent below official anthropic prices.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:2",
+      "startMs": 7840,
+      "endMs": 10720,
+      "verbatim": "Now, I don't even know what to do with that statement.",
+      "display": "Now, I don't even know what to do with that statement.",
+      "search": "now, i don't even know what to do with that statement.",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:3",
+      "startMs": 10720,
+      "endMs": 12880,
+      "verbatim": "What are we even talking about?",
+      "display": "What are we even talking about?",
+      "search": "what are we even talking about?",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:4",
+      "startMs": 12880,
+      "endMs": 15520,
+      "verbatim": "There's a black market for tokens?",
+      "display": "There's a black market for tokens?",
+      "search": "there's a black market for tokens?",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:5",
+      "startMs": 15520,
+      "endMs": 17200,
+      "verbatim": "Yes, yes, there is.",
+      "display": "Yes, yes, there is.",
+      "search": "yes, yes, there is.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:6",
+      "startMs": 17200,
+      "endMs": 25200,
+      "verbatim": "There's an entire economy built around this black market, this gray market, this shadow API economy.",
+      "display": "There's an entire economy built around this black market, this gray market, this shadow API economy.",
+      "search": "there's an entire economy built around this black market, this gray market, this shadow api economy.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:7",
+      "startMs": 25200,
+      "endMs": 32560,
+      "verbatim": "So we're actually gonna go over who's using it, why they're using it, how this actually even works, how do they have it at 70 to 90% off?",
+      "display": "So we're actually gonna go over who's using it, why they're using it, how this actually even works, how do they have it at 70 to 90% off?",
+      "search": "so we're actually gonna go over who's using it, why they're using it, how this actually even works, how do they have it at 70 to 90% off?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:8",
+      "startMs": 32560,
+      "endMs": 34400,
+      "verbatim": "Because I mean that sounds kind of nice.",
+      "display": "Because I mean that sounds kind of nice.",
+      "search": "because i mean that sounds kind of nice.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:9",
+      "startMs": 34400,
+      "endMs": 35280,
+      "verbatim": "Did they solve?",
+      "display": "Did they solve?",
+      "search": "did they solve?",
+      "confidence": 0.511
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:10",
+      "startMs": 35280,
+      "endMs": 36880,
+      "verbatim": "They solve something we don't understand.",
+      "display": "They solve something we don't understand.",
+      "search": "they solve something we don't understand.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:11",
+      "startMs": 36880,
+      "endMs": 42800,
+      "verbatim": "And also, I'm gonna toss my little hat into the ring and I'm gonna give you a reason why I think things are as cheap as they are.",
+      "display": "And also, I'm gonna toss my little hat into the ring and I'm gonna give you a reason why I think things are as cheap as they are.",
+      "search": "and also, i'm gonna toss my little hat into the ring and i'm gonna give you a reason why i think things are as cheap as they are.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:12",
+      "startMs": 42800,
+      "endMs": 46320,
+      "verbatim": "I got my own little personal theory that I'll unleash at the end.",
+      "display": "I got my own little personal theory that I'll unleash at the end.",
+      "search": "i got my own little personal theory that i'll unleash at the end.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:13",
+      "startMs": 46320,
+      "endMs": 53280,
+      "verbatim": "Alright, so to understand this entire gray market universe, you have to understand the fundamental unit.",
+      "display": "Alright, so to understand this entire gray market universe, you have to understand the fundamental unit.",
+      "search": "alright, so to understand this entire gray market universe, you have to understand the fundamental unit.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:14",
+      "startMs": 53280,
+      "endMs": 57600,
+      "verbatim": "Everything is around this idea of a transit station.",
+      "display": "Everything is around this idea of a transit station.",
+      "search": "everything is around this idea of a transit station.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:15",
+      "startMs": 57600,
+      "endMs": 75040,
+      "verbatim": "What this is, is it goes from the great country of China and it takes in requests going to these transit stations, and then out they go to say anthropic or open AI, and then pipe the results back in back to the people behind these intelligence iron curtains.",
+      "display": "What this is, is it goes from the great country of China and it takes in requests going to these transit stations, and then out they go to say anthropic or open AI, and then pipe the results back in back to the people behind these intelligence iron curtains.",
+      "search": "what this is, is it goes from the great country of china and it takes in requests going to these transit stations, and then out they go to say anthropic or open ai, and then pipe the results back in back to the people behind these intelligence iron curtains.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:16",
+      "startMs": 75040,
+      "endMs": 81120,
+      "verbatim": "These countries that are not allowed to access open AI or anthropic because of government restrictions.",
+      "display": "These countries that are not allowed to access open AI or anthropic because of government restrictions.",
+      "search": "these countries that are not allowed to access open ai or anthropic because of government restrictions.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:17",
+      "startMs": 81120,
+      "endMs": 83440,
+      "verbatim": "Now you're probably thinking this this sounds like a VPN.",
+      "display": "Now you're probably thinking this this sounds like a VPN.",
+      "search": "now you're probably thinking this this sounds like a vpn.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:18",
+      "startMs": 83440,
+      "endMs": 83840,
+      "verbatim": "It is.",
+      "display": "It is.",
+      "search": "it is.",
+      "confidence": 0.671
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:19",
+      "startMs": 83840,
+      "endMs": 86480,
+      "verbatim": "This is exactly how a VPN effectively works.",
+      "display": "This is exactly how a VPN effectively works.",
+      "search": "this is exactly how a vpn effectively works.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:20",
+      "startMs": 86480,
+      "endMs": 92640,
+      "verbatim": "You from your computer make requests, it goes up to a VPN, the VPN then goes off and makes the request and funnel everything back to you.",
+      "display": "You from your computer make requests, it goes up to a VPN, the VPN then goes off and makes the request and funnel everything back to you.",
+      "search": "you from your computer make requests, it goes up to a vpn, the vpn then goes off and makes the request and funnel everything back to you.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:21",
+      "startMs": 92640,
+      "endMs": 96480,
+      "verbatim": "This is exactly the same thing, except for they do it through these transit stations.",
+      "display": "This is exactly the same thing, except for they do it through these transit stations.",
+      "search": "this is exactly the same thing, except for they do it through these transit stations.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:22",
+      "startMs": 96480,
+      "endMs": 100640,
+      "verbatim": "Now you're probably saying, well, what's the difference between a transit station and say open router?",
+      "display": "Now you're probably saying, well, what's the difference between a transit station and say open router?",
+      "search": "now you're probably saying, well, what's the difference between a transit station and say open router?",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:23",
+      "startMs": 100640,
+      "endMs": 101280,
+      "verbatim": "Nothing.",
+      "display": "Nothing.",
+      "search": "nothing.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:24",
+      "startMs": 101280,
+      "endMs": 102800,
+      "verbatim": "Just just just legality.",
+      "display": "Just just just legality.",
+      "search": "just just just legality.",
+      "confidence": 0.743
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:25",
+      "startMs": 102800,
+      "endMs": 103520,
+      "verbatim": "That's all.",
+      "display": "That's all.",
+      "search": "that's all.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:26",
+      "startMs": 103520,
+      "endMs": 108560,
+      "verbatim": "Well, and and also uh fraud and and many other things, but but effectively nothing.",
+      "display": "Well, and and also uh fraud and and many other things, but but effectively nothing.",
+      "search": "well, and and also uh fraud and and many other things, but but effectively nothing.",
+      "confidence": 0.795
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:27",
+      "startMs": 108560,
+      "endMs": 116880,
+      "verbatim": "So it's just good to keep in mind when I talk about accessing the data and everything, it's all done through these transit stations because I think it makes a lot of the rest of the story make sense.",
+      "display": "So it's just good to keep in mind when I talk about accessing the data and everything, it's all done through these transit stations because I think it makes a lot of the rest of the story make sense.",
+      "search": "so it's just good to keep in mind when i talk about accessing the data and everything, it's all done through these transit stations because i think it makes a lot of the rest of the story make sense.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:28",
+      "startMs": 116880,
+      "endMs": 122240,
+      "verbatim": "So this is kind of the fundamental unit of this entire black market economy.",
+      "display": "So this is kind of the fundamental unit of this entire black market economy.",
+      "search": "so this is kind of the fundamental unit of this entire black market economy.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:29",
+      "startMs": 122240,
+      "endMs": 125040,
+      "verbatim": "But before we continue, hey, I would like to say thank you to the sponsors.",
+      "display": "But before we continue, hey, I would like to say thank you to the sponsors.",
+      "search": "but before we continue, hey, i would like to say thank you to the sponsors.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:30",
+      "startMs": 125040,
+      "endMs": 127120,
+      "verbatim": "Hey, is that HTTP?",
+      "display": "Hey, is that HTTP?",
+      "search": "hey, is that http?",
+      "confidence": 0.702
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:31",
+      "startMs": 127120,
+      "endMs": 128240,
+      "verbatim": "Get that out of here.",
+      "display": "Get that out of here.",
+      "search": "get that out of here.",
+      "confidence": 0.697
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:32",
+      "startMs": 128240,
+      "endMs": 129840,
+      "verbatim": "That's not how we order coffee.",
+      "display": "That's not how we order coffee.",
+      "search": "that's not how we order coffee.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:33",
+      "startMs": 129840,
+      "endMs": 131680,
+      "verbatim": "We order coffee via SSH.",
+      "display": "We order coffee via SSH.",
+      "search": "we order coffee via ssh.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:34",
+      "startMs": 131680,
+      "endMs": 132800,
+      "verbatim": "Terminal.shop.",
+      "display": "Terminal.shop.",
+      "search": "terminal.shop.",
+      "confidence": 0.7
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:35",
+      "startMs": 132800,
+      "endMs": 134320,
+      "verbatim": "Yeah, you want a real experience?",
+      "display": "Yeah, you want a real experience?",
+      "search": "yeah, you want a real experience?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:36",
+      "startMs": 134320,
+      "endMs": 135680,
+      "verbatim": "You want real coffee?",
+      "display": "You want real coffee?",
+      "search": "you want real coffee?",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:37",
+      "startMs": 135680,
+      "endMs": 138880,
+      "verbatim": "You want awesome subscriptions so you never have to remember again?",
+      "display": "You want awesome subscriptions so you never have to remember again?",
+      "search": "you want awesome subscriptions so you never have to remember again?",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:38",
+      "startMs": 138880,
+      "endMs": 145680,
+      "verbatim": "Oh, you want exclusive blends with exclusive coffee and exclusive content, then check out Kron.",
+      "display": "Oh, you want exclusive blends with exclusive coffee and exclusive content, then check out Kron.",
+      "search": "oh, you want exclusive blends with exclusive coffee and exclusive content, then check out kron.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:39",
+      "startMs": 145680,
+      "endMs": 146960,
+      "verbatim": "You don't know what SSH is?",
+      "display": "You don't know what SSH is?",
+      "search": "you don't know what ssh is?",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:40",
+      "startMs": 147920,
+      "endMs": 150320,
+      "verbatim": "Well, maybe the coffee's not for you.",
+      "display": "Well, maybe the coffee's not for you.",
+      "search": "well, maybe the coffee's not for you.",
+      "confidence": 0.81
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:41",
+      "startMs": 150560,
+      "endMs": 157200,
+      "verbatim": "Terminal coffee in hand live in the tree.",
+      "display": "Terminal coffee in hand live in the tree.",
+      "search": "terminal coffee in hand live in the tree.",
+      "confidence": 0.391
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:42",
+      "startMs": 158640,
+      "endMs": 164160,
+      "verbatim": "When you hear that the Chinese are using these transit stations, your first thought is Dario was right.",
+      "display": "When you hear that the Chinese are using these transit stations, your first thought is Dario was right.",
+      "search": "when you hear that the chinese are using these transit stations, your first thought is dario was right.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:43",
+      "startMs": 164160,
+      "endMs": 166720,
+      "verbatim": "They are doing distillation attacks.",
+      "display": "They are doing distillation attacks.",
+      "search": "they are doing distillation attacks.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:44",
+      "startMs": 166720,
+      "endMs": 167920,
+      "verbatim": "Well, no, no, no.",
+      "display": "Well, no, no, no.",
+      "search": "well, no, no, no.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:45",
+      "startMs": 167920,
+      "endMs": 169200,
+      "verbatim": "Actually, calm down.",
+      "display": "Actually, calm down.",
+      "search": "actually, calm down.",
+      "confidence": 0.766
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:46",
+      "startMs": 169200,
+      "endMs": 171360,
+      "verbatim": "That's not actually what's happening.",
+      "display": "That's not actually what's happening.",
+      "search": "that's not actually what's happening.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:47",
+      "startMs": 171360,
+      "endMs": 175520,
+      "verbatim": "The people who are using it is people who want to use the models to do something.",
+      "display": "The people who are using it is people who want to use the models to do something.",
+      "search": "the people who are using it is people who want to use the models to do something.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:48",
+      "startMs": 175520,
+      "endMs": 183520,
+      "verbatim": "Now, I'm not gonna say what they're doing is actually good, but they're doing things with the models, whether it's just programming, building applications, or scamming people.",
+      "display": "Now, I'm not gonna say what they're doing is actually good, but they're doing things with the models, whether it's just programming, building applications, or scamming people.",
+      "search": "now, i'm not gonna say what they're doing is actually good, but they're doing things with the models, whether it's just programming, building applications, or scamming people.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:49",
+      "startMs": 183520,
+      "endMs": 187120,
+      "verbatim": "But the point is it's not a distillation attack in itself.",
+      "display": "But the point is it's not a distillation attack in itself.",
+      "search": "but the point is it's not a distillation attack in itself.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:50",
+      "startMs": 187120,
+      "endMs": 194480,
+      "verbatim": "Instead, it's actually representing real work, people actually using these transit stations to do something.",
+      "display": "Instead, it's actually representing real work, people actually using these transit stations to do something.",
+      "search": "instead, it's actually representing real work, people actually using these transit stations to do something.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:51",
+      "startMs": 194480,
+      "endMs": 196320,
+      "verbatim": "But this is where things kind of get interesting.",
+      "display": "But this is where things kind of get interesting.",
+      "search": "but this is where things kind of get interesting.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:52",
+      "startMs": 196320,
+      "endMs": 199040,
+      "verbatim": "Like, how would a transit station actually work?",
+      "display": "Like, how would a transit station actually work?",
+      "search": "like, how would a transit station actually work?",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:53",
+      "startMs": 199040,
+      "endMs": 205760,
+      "verbatim": "From this amazing article, How to Buy Cheap Claude Tokens in China, it actually kind of goes through what's going on at these transit stations.",
+      "display": "From this amazing article, How to Buy Cheap Claude Tokens in China, it actually kind of goes through what's going on at these transit stations.",
+      "search": "from this amazing article, how to buy cheap claude tokens in china, it actually kind of goes through what's going on at these transit stations.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:54",
+      "startMs": 205760,
+      "endMs": 212800,
+      "verbatim": "Upstream are the resource providers, account merchants who bulk register or acquire anthropic accounts at scale.",
+      "display": "Upstream are the resource providers, account merchants who bulk register or acquire anthropic accounts at scale.",
+      "search": "upstream are the resource providers, account merchants who bulk register or acquire anthropic accounts at scale.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:55",
+      "startMs": 212800,
+      "endMs": 218480,
+      "verbatim": "Now you're thinking, how would you bulk register thousands, if not tens of thousands, of accounts with anthropic?",
+      "display": "Now you're thinking, how would you bulk register thousands, if not tens of thousands, of accounts with anthropic?",
+      "search": "now you're thinking, how would you bulk register thousands, if not tens of thousands, of accounts with anthropic?",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:56",
+      "startMs": 218560,
+      "endMs": 223200,
+      "verbatim": "Well, luckily there's this other article that actually explains how you could do exactly that.",
+      "display": "Well, luckily there's this other article that actually explains how you could do exactly that.",
+      "search": "well, luckily there's this other article that actually explains how you could do exactly that.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:57",
+      "startMs": 223200,
+      "endMs": 224400,
+      "verbatim": "See, there's three problems.",
+      "display": "See, there's three problems.",
+      "search": "see, there's three problems.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:58",
+      "startMs": 224400,
+      "endMs": 231360,
+      "verbatim": "Each account needs a unique browser fingerprint, a unique residential IP, and a way through phone and ID verification.",
+      "display": "Each account needs a unique browser fingerprint, a unique residential IP, and a way through phone and ID verification.",
+      "search": "each account needs a unique browser fingerprint, a unique residential ip, and a way through phone and id verification.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:59",
+      "startMs": 231360,
+      "endMs": 236480,
+      "verbatim": "Browsers have moved past Playwright plus Stealth plugins to anti-detect browsers.",
+      "display": "Browsers have moved past Playwright plus Stealth plugins to anti-detect browsers.",
+      "search": "browsers have moved past playwright plus stealth plugins to anti-detect browsers.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:60",
+      "startMs": 236480,
+      "endMs": 242080,
+      "verbatim": "Now, I did not know this that there's these anti-detection browsers, and there's actually quite a few of them right here, listed right here.",
+      "display": "Now, I did not know this that there's these anti-detection browsers, and there's actually quite a few of them right here, listed right here.",
+      "search": "now, i did not know this that there's these anti-detection browsers, and there's actually quite a few of them right here, listed right here.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:61",
+      "startMs": 242080,
+      "endMs": 252240,
+      "verbatim": "In fact, there's a bunch of headless ones that are actually identical to operating as Chrome would, so that the receiver of these messages can't actually tell if you are or are not from Chrome.",
+      "display": "In fact, there's a bunch of headless ones that are actually identical to operating as Chrome would, so that the receiver of these messages can't actually tell if you are or are not from Chrome.",
+      "search": "in fact, there's a bunch of headless ones that are actually identical to operating as chrome would, so that the receiver of these messages can't actually tell if you are or are not from chrome.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:62",
+      "startMs": 252240,
+      "endMs": 256800,
+      "verbatim": "Which means that defenders that have been fighting this network layer for a decade, they've lost.",
+      "display": "Which means that defenders that have been fighting this network layer for a decade, they've lost.",
+      "search": "which means that defenders that have been fighting this network layer for a decade, they've lost.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:63",
+      "startMs": 256800,
+      "endMs": 262160,
+      "verbatim": "You can no longer tell from the wire if you're actually getting legitimate traffic or not.",
+      "display": "You can no longer tell from the wire if you're actually getting legitimate traffic or not.",
+      "search": "you can no longer tell from the wire if you're actually getting legitimate traffic or not.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:64",
+      "startMs": 262160,
+      "endMs": 265520,
+      "verbatim": "At least that's what's kind of being claimed with these anti-detect browsers.",
+      "display": "At least that's what's kind of being claimed with these anti-detect browsers.",
+      "search": "at least that's what's kind of being claimed with these anti-detect browsers.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:65",
+      "startMs": 265520,
+      "endMs": 266560,
+      "verbatim": "But what about SMS?",
+      "display": "But what about SMS?",
+      "search": "but what about sms?",
+      "confidence": 0.985
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:66",
+      "startMs": 266560,
+      "endMs": 267680,
+      "verbatim": "That has to be hard, right?",
+      "display": "That has to be hard, right?",
+      "search": "that has to be hard, right?",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:67",
+      "startMs": 267680,
+      "endMs": 272160,
+      "verbatim": "Well, no, actually, that's the cheapest defeat in the pipeline, is phone verification, it turns out.",
+      "display": "Well, no, actually, that's the cheapest defeat in the pipeline, is phone verification, it turns out.",
+      "search": "well, no, actually, that's the cheapest defeat in the pipeline, is phone verification, it turns out.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:68",
+      "startMs": 272160,
+      "endMs": 280240,
+      "verbatim": "It turns out you can get a whole bunch of sims for pretty dang cheap, and you can also acquire SMS numbers pretty dang cheap.",
+      "display": "It turns out you can get a whole bunch of sims for pretty dang cheap, and you can also acquire SMS numbers pretty dang cheap.",
+      "search": "it turns out you can get a whole bunch of sims for pretty dang cheap, and you can also acquire sms numbers pretty dang cheap.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:69",
+      "startMs": 280240,
+      "endMs": 286000,
+      "verbatim": "See, the thing I guess a lot of us don't think about is that at one point in life, SMS was a pretty good proxy for personhood.",
+      "display": "See, the thing I guess a lot of us don't think about is that at one point in life, SMS was a pretty good proxy for personhood.",
+      "search": "see, the thing i guess a lot of us don't think about is that at one point in life, sms was a pretty good proxy for personhood.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:70",
+      "startMs": 286000,
+      "endMs": 288320,
+      "verbatim": "One phone number belongs to one person.",
+      "display": "One phone number belongs to one person.",
+      "search": "one phone number belongs to one person.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:71",
+      "startMs": 288320,
+      "endMs": 290160,
+      "verbatim": "That's just no longer the case anymore.",
+      "display": "That's just no longer the case anymore.",
+      "search": "that's just no longer the case anymore.",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:72",
+      "startMs": 290160,
+      "endMs": 292080,
+      "verbatim": "It's really cheap to get phone numbers these days.",
+      "display": "It's really cheap to get phone numbers these days.",
+      "search": "it's really cheap to get phone numbers these days.",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:73",
+      "startMs": 292080,
+      "endMs": 296080,
+      "verbatim": "It costs about 0.8 of an Abraham Lincoln, a one penny, a cent.",
+      "display": "It costs about 0.8 of an Abraham Lincoln, a one penny, a cent.",
+      "search": "it costs about 0.8 of an abraham lincoln, a one penny, a cent.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:74",
+      "startMs": 296080,
+      "endMs": 298000,
+      "verbatim": "I think them British call them a pence.",
+      "display": "I think them British call them a pence.",
+      "search": "i think them british call them a pence.",
+      "confidence": 0.743
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:75",
+      "startMs": 298000,
+      "endMs": 298880,
+      "verbatim": "I'm not really sure.",
+      "display": "I'm not really sure.",
+      "search": "i'm not really sure.",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:76",
+      "startMs": 298880,
+      "endMs": 301200,
+      "verbatim": "I don't, I don't, I don't speak British, okay?",
+      "display": "I don't, I don't, I don't speak British, okay?",
+      "search": "i don't, i don't, i don't speak british, okay?",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:77",
+      "startMs": 301200,
+      "endMs": 302560,
+      "verbatim": "I don't speak British.",
+      "display": "I don't speak British.",
+      "search": "i don't speak british.",
+      "confidence": 0.595
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:78",
+      "startMs": 302560,
+      "endMs": 308800,
+      "verbatim": "In other words, these transit stations, they rely on these SMS services to kind of do phone verification.",
+      "display": "In other words, these transit stations, they rely on these SMS services to kind of do phone verification.",
+      "search": "in other words, these transit stations, they rely on these sms services to kind of do phone verification.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:79",
+      "startMs": 308800,
+      "endMs": 310320,
+      "verbatim": "But then there's a second problem.",
+      "display": "But then there's a second problem.",
+      "search": "but then there's a second problem.",
+      "confidence": 0.958
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:80",
+      "startMs": 310320,
+      "endMs": 312320,
+      "verbatim": "What about ID verification?",
+      "display": "What about ID verification?",
+      "search": "what about id verification?",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:81",
+      "startMs": 312320,
+      "endMs": 313840,
+      "verbatim": "That has to be harder, right?",
+      "display": "That has to be harder, right?",
+      "search": "that has to be harder, right?",
+      "confidence": 0.995
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:82",
+      "startMs": 313840,
+      "endMs": 320480,
+      "verbatim": "Well, it turns out jumping into this 404 article by Joseph Cox, no, actually, it's not that hard.",
+      "display": "Well, it turns out jumping into this 404 article by Joseph Cox, no, actually, it's not that hard.",
+      "search": "well, it turns out jumping into this 404 article by joseph cox, no, actually, it's not that hard.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:83",
+      "startMs": 320480,
+      "endMs": 341280,
+      "verbatim": "In fact, a telegram-organized site, operator pseudonym John Wick, selling AI-generated driver licenses, passports, and national IDs for $15 each, auto-composited onto plausible carpet bedsheet backgrounds, claimed the throughput up to 20,000 documents per day, which by the way, even at half of that, if they did that for a year, is $50 million.",
+      "display": "In fact, a telegram-organized site, operator pseudonym John Wick, selling AI-generated driver licenses, passports, and national IDs for $15 each, auto-composited onto plausible carpet bedsheet backgrounds, claimed the throughput up to 20,000 documents per day, which by the way, even at half of that, if they did that for a year, is $50 million.",
+      "search": "in fact, a telegram-organized site, operator pseudonym john wick, selling ai-generated driver licenses, passports, and national ids for $15 each, auto-composited onto plausible carpet bedsheet backgrounds, claimed the throughput up to 20,000 documents per day, which by the way, even at half of that, if they did that for a year, is $50 million.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:84",
+      "startMs": 341280,
+      "endMs": 358640,
+      "verbatim": "Now, these passports, they are actually really sophisticated because the technical move that makes them pass is the MRZ, the dashes, the little carrots lines at the bottom of the passports, encoding personal data plus three check digits and a global checksum per ICA09303.",
+      "display": "Now, these passports, they are actually really sophisticated because the technical move that makes them pass is the MRZ, the dashes, the little carrots lines at the bottom of the passports, encoding personal data plus three check digits and a global checksum per ICA09303.",
+      "search": "now, these passports, they are actually really sophisticated because the technical move that makes them pass is the mrz, the dashes, the little carrots lines at the bottom of the passports, encoding personal data plus three check digits and a global checksum per ica09303.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:85",
+      "startMs": 358640,
+      "endMs": 362800,
+      "verbatim": "Apparently, earlier they were getting caught by these validations, but they got so sophisticated.",
+      "display": "Apparently, earlier they were getting caught by these validations, but they got so sophisticated.",
+      "search": "apparently, earlier they were getting caught by these validations, but they got so sophisticated.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:86",
+      "startMs": 362800,
+      "endMs": 370000,
+      "verbatim": "These backends that would validate if this was a real license or not, or a real passport, were like, yeah, bro, these are actually really good.",
+      "display": "These backends that would validate if this was a real license or not, or a real passport, were like, yeah, bro, these are actually really good.",
+      "search": "these backends that would validate if this was a real license or not, or a real passport, were like, yeah, bro, these are actually really good.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:87",
+      "startMs": 370000,
+      "endMs": 373440,
+      "verbatim": "You can get by a whole set of ID verification just via AI.",
+      "display": "You can get by a whole set of ID verification just via AI.",
+      "search": "you can get by a whole set of id verification just via ai.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:88",
+      "startMs": 373440,
+      "endMs": 380000,
+      "verbatim": "There was a whole like meta getting all these accounts stolen because all you had to do was go to the meta bot and be like, yo, bro, I'm totally this person.",
+      "display": "There was a whole like meta getting all these accounts stolen because all you had to do was go to the meta bot and be like, yo, bro, I'm totally this person.",
+      "search": "there was a whole like meta getting all these accounts stolen because all you had to do was go to the meta bot and be like, yo, bro, i'm totally this person.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:89",
+      "startMs": 380000,
+      "endMs": 383440,
+      "verbatim": "Generate a deep fake of you holding an ID of the person that doesn't actually exist.",
+      "display": "Generate a deep fake of you holding an ID of the person that doesn't actually exist.",
+      "search": "generate a deep fake of you holding an id of the person that doesn't actually exist.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:90",
+      "startMs": 383440,
+      "endMs": 385520,
+      "verbatim": "And then the MetaBot was like, sure, that's totally cool.",
+      "display": "And then the MetaBot was like, sure, that's totally cool.",
+      "search": "and then the metabot was like, sure, that's totally cool.",
+      "confidence": 0.821
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:91",
+      "startMs": 385520,
+      "endMs": 386320,
+      "verbatim": "You're now this person.",
+      "display": "You're now this person.",
+      "search": "you're now this person.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:92",
+      "startMs": 386320,
+      "endMs": 387680,
+      "verbatim": "Would you like to reset the password?",
+      "display": "Would you like to reset the password?",
+      "search": "would you like to reset the password?",
+      "confidence": 0.991
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:93",
+      "startMs": 387680,
+      "endMs": 390000,
+      "verbatim": "And a whole bunch of people got their accounts stolen.",
+      "display": "And a whole bunch of people got their accounts stolen.",
+      "search": "and a whole bunch of people got their accounts stolen.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:94",
+      "startMs": 390000,
+      "endMs": 392160,
+      "verbatim": "But sometimes you need real IDs.",
+      "display": "But sometimes you need real IDs.",
+      "search": "but sometimes you need real ids.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:95",
+      "startMs": 392160,
+      "endMs": 398160,
+      "verbatim": "And if you need real IDs, this is where the story gets a bit uneasy how these transit stations operate.",
+      "display": "And if you need real IDs, this is where the story gets a bit uneasy how these transit stations operate.",
+      "search": "and if you need real ids, this is where the story gets a bit uneasy how these transit stations operate.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:96",
+      "startMs": 398160,
+      "endMs": 401200,
+      "verbatim": "Anthropic has started implementing identity verification.",
+      "display": "Anthropic has started implementing identity verification.",
+      "search": "anthropic has started implementing identity verification.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:97",
+      "startMs": 401200,
+      "endMs": 404320,
+      "verbatim": "You need a passport and a selfie to use certain features.",
+      "display": "You need a passport and a selfie to use certain features.",
+      "search": "you need a passport and a selfie to use certain features.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:98",
+      "startMs": 404320,
+      "endMs": 408480,
+      "verbatim": "This is where the advantages of AI transfer stations from the crypto circle come in.",
+      "display": "This is where the advantages of AI transfer stations from the crypto circle come in.",
+      "search": "this is where the advantages of ai transfer stations from the crypto circle come in.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:99",
+      "startMs": 408480,
+      "endMs": 411440,
+      "verbatim": "By the way, crypto, ruining everything, classic crypto.",
+      "display": "By the way, crypto, ruining everything, classic crypto.",
+      "search": "by the way, crypto, ruining everything, classic crypto.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:100",
+      "startMs": 411440,
+      "endMs": 421520,
+      "verbatim": "We're back to the stage of being our most familiar KYC manufacturers, braving the risks of Ebola in Africa to find locals to help with face scan verifications and selling IDs.",
+      "display": "We're back to the stage of being our most familiar KYC manufacturers, braving the risks of Ebola in Africa to find locals to help with face scan verifications and selling IDs.",
+      "search": "we're back to the stage of being our most familiar kyc manufacturers, braving the risks of ebola in africa to find locals to help with face scan verifications and selling ids.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:101",
+      "startMs": 421520,
+      "endMs": 429040,
+      "verbatim": "Buying a smiling teeth photo from a local for $5 and selling it for $100 to a bite dance programmer at Zaichin Road in Beijing.",
+      "display": "Buying a smiling teeth photo from a local for $5 and selling it for $100 to a bite dance programmer at Zaichin Road in Beijing.",
+      "search": "buying a smiling teeth photo from a local for $5 and selling it for $100 to a bite dance programmer at zaichin road in beijing.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:102",
+      "startMs": 429040,
+      "endMs": 436160,
+      "verbatim": "Other circles can't handle this kind of hardship, but we KYC manufacturers in the crypto circle can.",
+      "display": "Other circles can't handle this kind of hardship, but we KYC manufacturers in the crypto circle can.",
+      "search": "other circles can't handle this kind of hardship, but we kyc manufacturers in the crypto circle can.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:103",
+      "startMs": 436160,
+      "endMs": 438240,
+      "verbatim": "Yeah, bro, dude, they're so good, man.",
+      "display": "Yeah, bro, dude, they're so good, man.",
+      "search": "yeah, bro, dude, they're so good, man.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:104",
+      "startMs": 438240,
+      "endMs": 442480,
+      "verbatim": "Those crypto bros are so- They're just they're just brave in the conditions.",
+      "display": "Those crypto bros are so- They're just they're just brave in the conditions.",
+      "search": "those crypto bros are so- they're just they're just brave in the conditions.",
+      "confidence": 0.722
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:105",
+      "startMs": 442480,
+      "endMs": 444640,
+      "verbatim": "Apparently, there's even a worldcoin black market.",
+      "display": "Apparently, there's even a worldcoin black market.",
+      "search": "apparently, there's even a worldcoin black market.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:106",
+      "startMs": 444640,
+      "endMs": 452880,
+      "verbatim": "I did not realize that where they're actually duping locals to scan their eyeballs and then selling those black market IDs so that you can be like, oh yeah, I'm totally this person.",
+      "display": "I did not realize that where they're actually duping locals to scan their eyeballs and then selling those black market IDs so that you can be like, oh yeah, I'm totally this person.",
+      "search": "i did not realize that where they're actually duping locals to scan their eyeballs and then selling those black market ids so that you can be like, oh yeah, i'm totally this person.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:107",
+      "startMs": 452880,
+      "endMs": 454160,
+      "verbatim": "I have my worldcoin.",
+      "display": "I have my worldcoin.",
+      "search": "i have my worldcoin.",
+      "confidence": 0.691
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:108",
+      "startMs": 454160,
+      "endMs": 454880,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.652
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:109",
+      "startMs": 454880,
+      "endMs": 458160,
+      "verbatim": "I totally I totally am from Zimbabwe.",
+      "display": "I totally I totally am from Zimbabwe.",
+      "search": "i totally i totally am from zimbabwe.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:110",
+      "startMs": 458160,
+      "endMs": 461040,
+      "verbatim": "So one of the last little spokes here is actual real people.",
+      "display": "So one of the last little spokes here is actual real people.",
+      "search": "so one of the last little spokes here is actual real people.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:111",
+      "startMs": 461040,
+      "endMs": 463840,
+      "verbatim": "We're talking about real people selling their IDs.",
+      "display": "We're talking about real people selling their IDs.",
+      "search": "we're talking about real people selling their ids.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:112",
+      "startMs": 463840,
+      "endMs": 470240,
+      "verbatim": "Now, the crazy part about this entire gigantic circle right here is that there's tons of transit stations.",
+      "display": "Now, the crazy part about this entire gigantic circle right here is that there's tons of transit stations.",
+      "search": "now, the crazy part about this entire gigantic circle right here is that there's tons of transit stations.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:113",
+      "startMs": 470240,
+      "endMs": 472160,
+      "verbatim": "There's tons of SMS carriers.",
+      "display": "There's tons of SMS carriers.",
+      "search": "there's tons of sms carriers.",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:114",
+      "startMs": 472160,
+      "endMs": 476720,
+      "verbatim": "There's tons of these AI generated and real people identification services.",
+      "display": "There's tons of these AI generated and real people identification services.",
+      "search": "there's tons of these ai generated and real people identification services.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:115",
+      "startMs": 476720,
+      "endMs": 481520,
+      "verbatim": "So to actually stop this, stop this blob is effectively impossible.",
+      "display": "So to actually stop this, stop this blob is effectively impossible.",
+      "search": "so to actually stop this, stop this blob is effectively impossible.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:116",
+      "startMs": 481520,
+      "endMs": 489840,
+      "verbatim": "These black markets, these gray markets, they just exist and you can take down one SMS, it's not going to affect the uh the transit station.",
+      "display": "These black markets, these gray markets, they just exist and you can take down one SMS, it's not going to affect the uh the transit station.",
+      "search": "these black markets, these gray markets, they just exist and you can take down one sms, it's not going to affect the uh the transit station.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:117",
+      "startMs": 489840,
+      "endMs": 491840,
+      "verbatim": "It's not going to affect the IDs.",
+      "display": "It's not going to affect the IDs.",
+      "search": "it's not going to affect the ids.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:118",
+      "startMs": 491840,
+      "endMs": 496880,
+      "verbatim": "They all just keep on going, this amorphous, replaceable modular system.",
+      "display": "They all just keep on going, this amorphous, replaceable modular system.",
+      "search": "they all just keep on going, this amorphous, replaceable modular system.",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:119",
+      "startMs": 496880,
+      "endMs": 501760,
+      "verbatim": "I mean, it's a very amazing feat of engineering, as bad as it is.",
+      "display": "I mean, it's a very amazing feat of engineering, as bad as it is.",
+      "search": "i mean, it's a very amazing feat of engineering, as bad as it is.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:120",
+      "startMs": 501760,
+      "endMs": 503680,
+      "verbatim": "Now that's how they operate.",
+      "display": "Now that's how they operate.",
+      "search": "now that's how they operate.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:121",
+      "startMs": 503680,
+      "endMs": 505280,
+      "verbatim": "That's how these things work.",
+      "display": "That's how these things work.",
+      "search": "that's how these things work.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:122",
+      "startMs": 505280,
+      "endMs": 509680,
+      "verbatim": "But the real question comes down to how are they so cheap, right?",
+      "display": "But the real question comes down to how are they so cheap, right?",
+      "search": "but the real question comes down to how are they so cheap, right?",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:123",
+      "startMs": 509680,
+      "endMs": 511600,
+      "verbatim": "Like there has to be a story behind it.",
+      "display": "Like there has to be a story behind it.",
+      "search": "like there has to be a story behind it.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:124",
+      "startMs": 511600,
+      "endMs": 515120,
+      "verbatim": "Well, there's multiple layers of fraud, and let me explain.",
+      "display": "Well, there's multiple layers of fraud, and let me explain.",
+      "search": "well, there's multiple layers of fraud, and let me explain.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:125",
+      "startMs": 515120,
+      "endMs": 530880,
+      "verbatim": "One thing these transit stations do is they actually use the Claude uh Max plan and able to kind of create a pool of Clawed agents so that you can kind of route traffic to to use each one of their weekly limits so that way they get cheaper tokens if needed.",
+      "display": "One thing these transit stations do is they actually use the Claude uh Max plan and able to kind of create a pool of Clawed agents so that you can kind of route traffic to to use each one of their weekly limits so that way they get cheaper tokens if needed.",
+      "search": "one thing these transit stations do is they actually use the claude uh max plan and able to kind of create a pool of clawed agents so that you can kind of route traffic to to use each one of their weekly limits so that way they get cheaper tokens if needed.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:126",
+      "startMs": 530880,
+      "endMs": 535200,
+      "verbatim": "Now that obviously does not cut the cost to where they really need it, but it gets really close.",
+      "display": "Now that obviously does not cut the cost to where they really need it, but it gets really close.",
+      "search": "now that obviously does not cut the cost to where they really need it, but it gets really close.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:127",
+      "startMs": 535200,
+      "endMs": 537440,
+      "verbatim": "It could possibly break them down to even.",
+      "display": "It could possibly break them down to even.",
+      "search": "it could possibly break them down to even.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:128",
+      "startMs": 537440,
+      "endMs": 542880,
+      "verbatim": "But that's not really the type of fraud you were probably thinking, because that's not really where they do a lot of the big stuff.",
+      "display": "But that's not really the type of fraud you were probably thinking, because that's not really where they do a lot of the big stuff.",
+      "search": "but that's not really the type of fraud you were probably thinking, because that's not really where they do a lot of the big stuff.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:129",
+      "startMs": 542880,
+      "endMs": 552400,
+      "verbatim": "But the more interesting way in which they save money and allow for these cheap tokens is this right here: real money, fake models, deceptive model claims, and shadow APIs.",
+      "display": "But the more interesting way in which they save money and allow for these cheap tokens is this right here: real money, fake models, deceptive model claims, and shadow APIs.",
+      "search": "but the more interesting way in which they save money and allow for these cheap tokens is this right here: real money, fake models, deceptive model claims, and shadow apis.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:130",
+      "startMs": 552400,
+      "endMs": 554960,
+      "verbatim": "If we go down here to page two, we see the following.",
+      "display": "If we go down here to page two, we see the following.",
+      "search": "if we go down here to page two, we see the following.",
+      "confidence": 0.978
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:131",
+      "startMs": 554960,
+      "endMs": 565760,
+      "verbatim": "Alarmingly, our experiments reveal significant performance inconsistencies between shadow APIs and the official APIs on high-risk medical benchmarks like Med QA.",
+      "display": "Alarmingly, our experiments reveal significant performance inconsistencies between shadow APIs and the official APIs on high-risk medical benchmarks like Med QA.",
+      "search": "alarmingly, our experiments reveal significant performance inconsistencies between shadow apis and the official apis on high-risk medical benchmarks like med qa.",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:132",
+      "startMs": 565760,
+      "endMs": 578720,
+      "verbatim": "The accuracy of Gemini 2.5 flash model drops precipitously from 83.82% with the official API to approximately 37% across all examined shadow APIs.",
+      "display": "The accuracy of Gemini 2.5 flash model drops precipitously from 83.82% with the official API to approximately 37% across all examined shadow APIs.",
+      "search": "the accuracy of gemini 2.5 flash model drops precipitously from 83.82% with the official api to approximately 37% across all examined shadow apis.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:133",
+      "startMs": 578720,
+      "endMs": 585520,
+      "verbatim": "In other words, they're saying, they're claiming, they're showing you right here, hey, you're gonna get Claude Sonnet 4.6.",
+      "display": "In other words, they're saying, they're claiming, they're showing you right here, hey, you're gonna get Claude Sonnet 4.6.",
+      "search": "in other words, they're saying, they're claiming, they're showing you right here, hey, you're gonna get claude sonnet 4.6.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:134",
+      "startMs": 585520,
+      "endMs": 587360,
+      "verbatim": "No, you might actually just be getting haiku.",
+      "display": "No, you might actually just be getting haiku.",
+      "search": "no, you might actually just be getting haiku.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:135",
+      "startMs": 587360,
+      "endMs": 588880,
+      "verbatim": "Maybe you're just getting Gemini.",
+      "display": "Maybe you're just getting Gemini.",
+      "search": "maybe you're just getting gemini.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:136",
+      "startMs": 588880,
+      "endMs": 592720,
+      "verbatim": "Like, you don't actually know what you're getting underneath the hood.",
+      "display": "Like, you don't actually know what you're getting underneath the hood.",
+      "search": "like, you don't actually know what you're getting underneath the hood.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:137",
+      "startMs": 592720,
+      "endMs": 595920,
+      "verbatim": "And this is really how they start cutting those costs down.",
+      "display": "And this is really how they start cutting those costs down.",
+      "search": "and this is really how they start cutting those costs down.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:138",
+      "startMs": 595920,
+      "endMs": 604880,
+      "verbatim": "The other obvious one is stolen credit cards and all that that are used to pay for a lot of these Claude Max plans, that they're able to go and run for some small amount of time before they get caught.",
+      "display": "The other obvious one is stolen credit cards and all that that are used to pay for a lot of these Claude Max plans, that they're able to go and run for some small amount of time before they get caught.",
+      "search": "the other obvious one is stolen credit cards and all that that are used to pay for a lot of these claude max plans, that they're able to go and run for some small amount of time before they get caught.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:139",
+      "startMs": 604880,
+      "endMs": 607040,
+      "verbatim": "So those are effectively free money.",
+      "display": "So those are effectively free money.",
+      "search": "so those are effectively free money.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:140",
+      "startMs": 607040,
+      "endMs": 615520,
+      "verbatim": "But the one that I hate to say, the one that I can already hear right now, Dario going, I knew it, is that they take the data.",
+      "display": "But the one that I hate to say, the one that I can already hear right now, Dario going, I knew it, is that they take the data.",
+      "search": "but the one that i hate to say, the one that i can already hear right now, dario going, i knew it, is that they take the data.",
+      "confidence": 0.773
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:141",
+      "startMs": 615520,
+      "endMs": 624480,
+      "verbatim": "Because here's the thing is these transit stations, real people are trying to solve real problems, whether the real problems are good or not is not up to debate.",
+      "display": "Because here's the thing is these transit stations, real people are trying to solve real problems, whether the real problems are good or not is not up to debate.",
+      "search": "because here's the thing is these transit stations, real people are trying to solve real problems, whether the real problems are good or not is not up to debate.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:142",
+      "startMs": 624480,
+      "endMs": 626720,
+      "verbatim": "It's that they're solving real problems.",
+      "display": "It's that they're solving real problems.",
+      "search": "it's that they're solving real problems.",
+      "confidence": 0.936
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:143",
+      "startMs": 626720,
+      "endMs": 638480,
+      "verbatim": "And that means these question and answer pairs that are coming back out, these are real problems and real results from high-end models, American models, frontier soda, all wooded soda D's nuts.",
+      "display": "And that means these question and answer pairs that are coming back out, these are real problems and real results from high-end models, American models, frontier soda, all wooded soda D's nuts.",
+      "search": "and that means these question and answer pairs that are coming back out, these are real problems and real results from high-end models, american models, frontier soda, all wooded soda d's nuts.",
+      "confidence": 0.761
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:144",
+      "startMs": 638480,
+      "endMs": 640000,
+      "verbatim": "I'm not even really sure what all that stuff means.",
+      "display": "I'm not even really sure what all that stuff means.",
+      "search": "i'm not even really sure what all that stuff means.",
+      "confidence": 0.984
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:145",
+      "startMs": 640000,
+      "endMs": 641520,
+      "verbatim": "But nonetheless, that's what's happening.",
+      "display": "But nonetheless, that's what's happening.",
+      "search": "but nonetheless, that's what's happening.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:146",
+      "startMs": 641520,
+      "endMs": 650320,
+      "verbatim": "So they can take these question-answer pairs and sell them to these Chinese labs to be able to develop these open source kind of six months behind models.",
+      "display": "So they can take these question-answer pairs and sell them to these Chinese labs to be able to develop these open source kind of six months behind models.",
+      "search": "so they can take these question-answer pairs and sell them to these chinese labs to be able to develop these open source kind of six months behind models.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:147",
+      "startMs": 650320,
+      "endMs": 652400,
+      "verbatim": "And this is where the real money's at.",
+      "display": "And this is where the real money's at.",
+      "search": "and this is where the real money's at.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:148",
+      "startMs": 652400,
+      "endMs": 660960,
+      "verbatim": "This is where the real gold is at, is that these transit stations actually get the best thing of all, which is real data from American companies.",
+      "display": "This is where the real gold is at, is that these transit stations actually get the best thing of all, which is real data from American companies.",
+      "search": "this is where the real gold is at, is that these transit stations actually get the best thing of all, which is real data from american companies.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:149",
+      "startMs": 660960,
+      "endMs": 661760,
+      "verbatim": "The good stuff.",
+      "display": "The good stuff.",
+      "search": "the good stuff.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:150",
+      "startMs": 661760,
+      "endMs": 665520,
+      "verbatim": "Okay, this is pure unadulterated Opus 4.8.",
+      "display": "Okay, this is pure unadulterated Opus 4.8.",
+      "search": "okay, this is pure unadulterated opus 4.8.",
+      "confidence": 0.697
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:151",
+      "startMs": 665520,
+      "endMs": 667280,
+      "verbatim": "They even probably got a little bit of fable.",
+      "display": "They even probably got a little bit of fable.",
+      "search": "they even probably got a little bit of fable.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:152",
+      "startMs": 667280,
+      "endMs": 668400,
+      "verbatim": "How much do you want to bet?",
+      "display": "How much do you want to bet?",
+      "search": "how much do you want to bet?",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:153",
+      "startMs": 668400,
+      "endMs": 670960,
+      "verbatim": "They probably even got a little taste of that fable.",
+      "display": "They probably even got a little taste of that fable.",
+      "search": "they probably even got a little taste of that fable.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:154",
+      "startMs": 671760,
+      "endMs": 673840,
+      "verbatim": "But now it's time for my theory.",
+      "display": "But now it's time for my theory.",
+      "search": "but now it's time for my theory.",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:155",
+      "startMs": 673840,
+      "endMs": 677120,
+      "verbatim": "My theory for how they make even more money with all this.",
+      "display": "My theory for how they make even more money with all this.",
+      "search": "my theory for how they make even more money with all this.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:156",
+      "startMs": 677120,
+      "endMs": 691440,
+      "verbatim": "Now, you've probably seen these tweets throughout the time talking about how all these users of Twitter, there's literally like thousands of these tweets where they show, like, oh my gosh, you know, after like one prompt, my weekly limits completely gone.",
+      "display": "Now, you've probably seen these tweets throughout the time talking about how all these users of Twitter, there's literally like thousands of these tweets where they show, like, oh my gosh, you know, after like one prompt, my weekly limits completely gone.",
+      "search": "now, you've probably seen these tweets throughout the time talking about how all these users of twitter, there's literally like thousands of these tweets where they show, like, oh my gosh, you know, after like one prompt, my weekly limits completely gone.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:157",
+      "startMs": 691440,
+      "endMs": 694560,
+      "verbatim": "And you're sitting there thinking, like, how, how was Claude that bad?",
+      "display": "And you're sitting there thinking, like, how, how was Claude that bad?",
+      "search": "and you're sitting there thinking, like, how, how was claude that bad?",
+      "confidence": 0.793
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:158",
+      "startMs": 694560,
+      "endMs": 696080,
+      "verbatim": "Like, why would you pay money for that?",
+      "display": "Like, why would you pay money for that?",
+      "search": "like, why would you pay money for that?",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:159",
+      "startMs": 696080,
+      "endMs": 700160,
+      "verbatim": "Like all these people on the internet are just so angry about usage limits.",
+      "display": "Like all these people on the internet are just so angry about usage limits.",
+      "search": "like all these people on the internet are just so angry about usage limits.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:160",
+      "startMs": 700160,
+      "endMs": 702480,
+      "verbatim": "Like, I wonder if there's there's something wrong.",
+      "display": "Like, I wonder if there's there's something wrong.",
+      "search": "like, i wonder if there's there's something wrong.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:161",
+      "startMs": 702480,
+      "endMs": 708800,
+      "verbatim": "Well, then you think about, well, wait a second, what about Chi Halud that happened, you know, about a year ago?",
+      "display": "Well, then you think about, well, wait a second, what about Chi Halud that happened, you know, about a year ago?",
+      "search": "well, then you think about, well, wait a second, what about chi halud that happened, you know, about a year ago?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:162",
+      "startMs": 708800,
+      "endMs": 714640,
+      "verbatim": "Chi Halud was a worm in NPM that would self-propagate and steal all these tokens.",
+      "display": "Chi Halud was a worm in NPM that would self-propagate and steal all these tokens.",
+      "search": "chi halud was a worm in npm that would self-propagate and steal all these tokens.",
+      "confidence": 0.758
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:163",
+      "startMs": 714640,
+      "endMs": 717680,
+      "verbatim": "And then you had Chi Halud 2, you had Chi Halud 3.",
+      "display": "And then you had Chi Halud 2, you had Chi Halud 3.",
+      "search": "and then you had chi halud 2, you had chi halud 3.",
+      "confidence": 0.642
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:164",
+      "startMs": 717680,
+      "endMs": 729200,
+      "verbatim": "Really, what you're seeing is that there's all these vibe victims, as I like to call them, that have no idea how computers would uh work and have been told over and over again, hey bro, you're a software engineer now, okay?",
+      "display": "Really, what you're seeing is that there's all these vibe victims, as I like to call them, that have no idea how computers would uh work and have been told over and over again, hey bro, you're a software engineer now, okay?",
+      "search": "really, what you're seeing is that there's all these vibe victims, as i like to call them, that have no idea how computers would uh work and have been told over and over again, hey bro, you're a software engineer now, okay?",
+      "confidence": 0.864
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:165",
+      "startMs": 729200,
+      "endMs": 731120,
+      "verbatim": "Your programming language, English.",
+      "display": "Your programming language, English.",
+      "search": "your programming language, english.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:166",
+      "startMs": 731120,
+      "endMs": 732800,
+      "verbatim": "Go get them, Tiger, okay?",
+      "display": "Go get them, Tiger, okay?",
+      "search": "go get them, tiger, okay?",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:167",
+      "startMs": 732800,
+      "endMs": 735760,
+      "verbatim": "Yeah, you probably need like five Claud Code Max subscriptions.",
+      "display": "Yeah, you probably need like five Claud Code Max subscriptions.",
+      "search": "yeah, you probably need like five claud code max subscriptions.",
+      "confidence": 0.678
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:168",
+      "startMs": 735760,
+      "endMs": 737600,
+      "verbatim": "Yeah, no, no, you totally got this.",
+      "display": "Yeah, no, no, you totally got this.",
+      "search": "yeah, no, no, you totally got this.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:169",
+      "startMs": 737600,
+      "endMs": 740560,
+      "verbatim": "It's totally normal to run into your weekly limits all the time.",
+      "display": "It's totally normal to run into your weekly limits all the time.",
+      "search": "it's totally normal to run into your weekly limits all the time.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:170",
+      "startMs": 740560,
+      "endMs": 741600,
+      "verbatim": "You got this, bro.",
+      "display": "You got this, bro.",
+      "search": "you got this, bro.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:171",
+      "startMs": 741600,
+      "endMs": 743040,
+      "verbatim": "Go get them, go get him.",
+      "display": "Go get them, go get him.",
+      "search": "go get them, go get him.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:172",
+      "startMs": 743040,
+      "endMs": 751760,
+      "verbatim": "And all of this just like massive worm non-stop getting your system hacked by these completely insane dependency graphs that exist out there.",
+      "display": "And all of this just like massive worm non-stop getting your system hacked by these completely insane dependency graphs that exist out there.",
+      "search": "and all of this just like massive worm non-stop getting your system hacked by these completely insane dependency graphs that exist out there.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:173",
+      "startMs": 751760,
+      "endMs": 758880,
+      "verbatim": "That if you want to even just say hello world on a website, you need to go and download tens of megabytes of JavaScript.",
+      "display": "That if you want to even just say hello world on a website, you need to go and download tens of megabytes of JavaScript.",
+      "search": "that if you want to even just say hello world on a website, you need to go and download tens of megabytes of javascript.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:174",
+      "startMs": 758880,
+      "endMs": 759840,
+      "verbatim": "Crazy, right?",
+      "display": "Crazy, right?",
+      "search": "crazy, right?",
+      "confidence": 0.976
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:175",
+      "startMs": 759840,
+      "endMs": 762960,
+      "verbatim": "Like, I don't know what times we live in, but that's what's happening.",
+      "display": "Like, I don't know what times we live in, but that's what's happening.",
+      "search": "like, i don't know what times we live in, but that's what's happening.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:176",
+      "startMs": 762960,
+      "endMs": 764240,
+      "verbatim": "Also, you got like Arch.",
+      "display": "Also, you got like Arch.",
+      "search": "also, you got like arch.",
+      "confidence": 0.653
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:177",
+      "startMs": 764240,
+      "endMs": 766160,
+      "verbatim": "Arch is constantly getting hacked these days.",
+      "display": "Arch is constantly getting hacked these days.",
+      "search": "arch is constantly getting hacked these days.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:178",
+      "startMs": 766160,
+      "endMs": 768400,
+      "verbatim": "PyPie, oh, PyPie's hacked these days.",
+      "display": "PyPie, oh, PyPie's hacked these days.",
+      "search": "pypie, oh, pypie's hacked these days.",
+      "confidence": 0.704
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:179",
+      "startMs": 768400,
+      "endMs": 775440,
+      "verbatim": "Like everywhere you go, every single one of these uh ecosystems of package managers are just fraught with worms and deception.",
+      "display": "Like everywhere you go, every single one of these uh ecosystems of package managers are just fraught with worms and deception.",
+      "search": "like everywhere you go, every single one of these uh ecosystems of package managers are just fraught with worms and deception.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:180",
+      "startMs": 775440,
+      "endMs": 777520,
+      "verbatim": "And so, how much do you want to bet?",
+      "display": "And so, how much do you want to bet?",
+      "search": "and so, how much do you want to bet?",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:181",
+      "startMs": 777520,
+      "endMs": 786720,
+      "verbatim": "There's an entire class of people that effectively have their computers acting like little mini VPNs for these transit stations.",
+      "display": "There's an entire class of people that effectively have their computers acting like little mini VPNs for these transit stations.",
+      "search": "there's an entire class of people that effectively have their computers acting like little mini vpns for these transit stations.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:182",
+      "startMs": 786720,
+      "endMs": 788240,
+      "verbatim": "Oh, you have cloud code up.",
+      "display": "Oh, you have cloud code up.",
+      "search": "oh, you have cloud code up.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:183",
+      "startMs": 788240,
+      "endMs": 791840,
+      "verbatim": "We're gonna spawn another little quad code in the background and do a little piece of work.",
+      "display": "We're gonna spawn another little quad code in the background and do a little piece of work.",
+      "search": "we're gonna spawn another little quad code in the background and do a little piece of work.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:184",
+      "startMs": 791840,
+      "endMs": 792880,
+      "verbatim": "Okay, hey, thank you.",
+      "display": "Okay, hey, thank you.",
+      "search": "okay, hey, thank you.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:185",
+      "startMs": 792880,
+      "endMs": 793680,
+      "verbatim": "Not a big deal.",
+      "display": "Not a big deal.",
+      "search": "not a big deal.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:186",
+      "startMs": 793680,
+      "endMs": 796160,
+      "verbatim": "Have fun with your weekly limits, not a big deal, right?",
+      "display": "Have fun with your weekly limits, not a big deal, right?",
+      "search": "have fun with your weekly limits, not a big deal, right?",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:187",
+      "startMs": 796160,
+      "endMs": 798080,
+      "verbatim": "Like they don't, they don't want to abuse it.",
+      "display": "Like they don't, they don't want to abuse it.",
+      "search": "like they don't, they don't want to abuse it.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:188",
+      "startMs": 798080,
+      "endMs": 800320,
+      "verbatim": "They don't want to get it taken from them.",
+      "display": "They don't want to get it taken from them.",
+      "search": "they don't want to get it taken from them.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:189",
+      "startMs": 800320,
+      "endMs": 803600,
+      "verbatim": "All they need to do is just do it sometimes, just a little bit.",
+      "display": "All they need to do is just do it sometimes, just a little bit.",
+      "search": "all they need to do is just do it sometimes, just a little bit.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:190",
+      "startMs": 803600,
+      "endMs": 806320,
+      "verbatim": "Hey, bro, just a little bit, you know, like when the person's already active.",
+      "display": "Hey, bro, just a little bit, you know, like when the person's already active.",
+      "search": "hey, bro, just a little bit, you know, like when the person's already active.",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:191",
+      "startMs": 806320,
+      "endMs": 809520,
+      "verbatim": "So in case their session runs out, it feels kind of crazy.",
+      "display": "So in case their session runs out, it feels kind of crazy.",
+      "search": "so in case their session runs out, it feels kind of crazy.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:192",
+      "startMs": 809520,
+      "endMs": 820960,
+      "verbatim": "I am completely convinced that this is happening right now, that there's millions of requests a day that are through people's laptops that they don't even know about because they're software engineers now, okay?",
+      "display": "I am completely convinced that this is happening right now, that there's millions of requests a day that are through people's laptops that they don't even know about because they're software engineers now, okay?",
+      "search": "i am completely convinced that this is happening right now, that there's millions of requests a day that are through people's laptops that they don't even know about because they're software engineers now, okay?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:193",
+      "startMs": 820960,
+      "endMs": 824240,
+      "verbatim": "And NPM's totally reasonable ecosystem.",
+      "display": "And NPM's totally reasonable ecosystem.",
+      "search": "and npm's totally reasonable ecosystem.",
+      "confidence": 0.7
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:194",
+      "startMs": 824240,
+      "endMs": 825440,
+      "verbatim": "So there you go.",
+      "display": "So there you go.",
+      "search": "so there you go.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:195",
+      "startMs": 825440,
+      "endMs": 830480,
+      "verbatim": "That is the Claude Black Market token, 70 to 90% off.",
+      "display": "That is the Claude Black Market token, 70 to 90% off.",
+      "search": "that is the claude black market token, 70 to 90% off.",
+      "confidence": 0.668
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:196",
+      "startMs": 830480,
+      "endMs": 832160,
+      "verbatim": "It's absolutely wild out there.",
+      "display": "It's absolutely wild out there.",
+      "search": "it's absolutely wild out there.",
+      "confidence": 0.863
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:197",
+      "startMs": 832160,
+      "endMs": 834640,
+      "verbatim": "I'm gonna include a bunch of sources inside the description.",
+      "display": "I'm gonna include a bunch of sources inside the description.",
+      "search": "i'm gonna include a bunch of sources inside the description.",
+      "confidence": 0.964
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:198",
+      "startMs": 834640,
+      "endMs": 835840,
+      "verbatim": "Go check them out.",
+      "display": "Go check them out.",
+      "search": "go check them out.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:199",
+      "startMs": 836160,
+      "endMs": 839520,
+      "verbatim": "It is an in depth enterprise that's going on.",
+      "display": "It is an in depth enterprise that's going on.",
+      "search": "it is an in depth enterprise that's going on.",
+      "confidence": 0.713
+    },
+    {
+      "segmentId": "youtube:5paRa6E5rCM:segment:200",
+      "startMs": 839520,
+      "endMs": 840800,
+      "verbatim": "The name is the Primogen",
+      "display": "The name is the Primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.653
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:pslodI0Mh_0",
+  "platform": "youtube",
+  "platformId": "pslodI0Mh_0",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Casey Destroys Optimization Myths | TheStandup",
+  "description": "Don’t let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at https://trm.sh/coderabbit\n\nFull Episode:\nYoutube: https://youtu.be/PxNr7k1v-Rk\nSpotify: https://open.spotify.com/episode/4VOHebTzXEThro58G1ArKp\n\n[Description]\nWe dive deep into technical performance debates, specifically the nuances of floating-point math—is multiplying by a reciprocal actually faster than division on modern CPUs?\n\nWe also break down the latest from Microsoft and NVIDIA, including the \"RTX Spark\" and the vision of \"unmetered intelligence.\" Plus, don't miss \"Trash Facts\" about professional bowling and the latest \"Snack Picks.\"\n\n[Chapters]\n00:00:00 - Intro\n00:03:32 - CodeRabbit\n00:05:28 - Prime Blocker\n00:27:48 - Outro\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=pslodI0Mh_0",
+  "publishedAt": "2026-06-07T13:00:11.000Z",
+  "durationMs": 1693000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:34:25.260Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:34:25.260Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}

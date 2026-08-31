@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:bh6S4N8TnYQ",
+  "platform": "youtube",
+  "platformId": "bh6S4N8TnYQ",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "They're Poisoning the Agents!",
+  "description": "Having trouble finding the right developer for your team? Get a 7-day free trial + $1,500 off with The Prime’s discount:  https://trm.sh/g2i\n\nSources:\n\n- https://x.com/mitchellh/status/2067970516951150721\n\nTopics Covered:\n\n- Poisoning Agents\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=bh6S4N8TnYQ",
+  "publishedAt": "2026-06-25T13:00:28.000Z",
+  "durationMs": 756000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T15:09:28.673Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T15:09:28.673Z",
+    "runId": "2026-08-31T15-05-00-002Z-baf24e1b"
+  }
+}
