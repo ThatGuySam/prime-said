@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:SUDrFXFV-6U",
+  "platform": "youtube",
+  "platformId": "SUDrFXFV-6U",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Maybe we were wrong",
+  "description": "https://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nssh [terminal.shop](http://terminal.shop/)\nTurns out if you drink coffee all day while programming, you become extremely annoying about coffee quality. So we made our own. Fresh roasted. Weirdly good. US only (for now).\n\n## Sources\n\n* https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/\n\n## Topics Covered\n\n* Productivity in Tech\n* Agentic Engineering \n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.  \n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=SUDrFXFV-6U",
+  "publishedAt": "2026-05-29T12:30:39.000Z",
+  "durationMs": 810000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:32:15.419Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:32:15.419Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

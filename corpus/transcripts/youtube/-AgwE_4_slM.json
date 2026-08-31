@@ -1,0 +1,1922 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_24ade3500655bf545ff5205b",
+  "sourceId": "youtube:-AgwE_4_slM",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T17:34:17.773Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:1",
+      "startMs": 2880,
+      "endMs": 3920,
+      "verbatim": "I'm speaking.",
+      "display": "I'm speaking.",
+      "search": "i'm speaking.",
+      "confidence": 0.584
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:2",
+      "startMs": 3920,
+      "endMs": 5040,
+      "verbatim": "I'm a speaking guy.",
+      "display": "I'm a speaking guy.",
+      "search": "i'm a speaking guy.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:3",
+      "startMs": 5040,
+      "endMs": 6480,
+      "verbatim": "Blink blink blink blink.",
+      "display": "Blink blink blink blink.",
+      "search": "blink blink blink blink.",
+      "confidence": 0.603
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:4",
+      "startMs": 6560,
+      "endMs": 7120,
+      "verbatim": "Okay, sorry.",
+      "display": "Okay, sorry.",
+      "search": "okay, sorry.",
+      "confidence": 0.728
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:5",
+      "startMs": 7280,
+      "endMs": 8320,
+      "verbatim": "I don't know what's happening.",
+      "display": "I don't know what's happening.",
+      "search": "i don't know what's happening.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:6",
+      "startMs": 8320,
+      "endMs": 10960,
+      "verbatim": "So, what is your overall viewpoint on AI, though?",
+      "display": "So, what is your overall viewpoint on AI, though?",
+      "search": "so, what is your overall viewpoint on ai, though?",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:7",
+      "startMs": 10960,
+      "endMs": 14640,
+      "verbatim": "Again, that that's sort of like saying, How do you feel about motherhood and apple pie?",
+      "display": "Again, that that's sort of like saying, How do you feel about motherhood and apple pie?",
+      "search": "again, that that's sort of like saying, how do you feel about motherhood and apple pie?",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:8",
+      "startMs": 14640,
+      "endMs": 15680,
+      "verbatim": "I like both.",
+      "display": "I like both.",
+      "search": "i like both.",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:9",
+      "startMs": 15680,
+      "endMs": 19360,
+      "verbatim": "All things technology that can create efficiency.",
+      "display": "All things technology that can create efficiency.",
+      "search": "all things technology that can create efficiency.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:10",
+      "startMs": 19360,
+      "endMs": 21120,
+      "verbatim": "I'm I'm all in on.",
+      "display": "I'm I'm all in on.",
+      "search": "i'm i'm all in on.",
+      "confidence": 0.556
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:11",
+      "startMs": 21360,
+      "endMs": 22240,
+      "verbatim": "Oh my gosh.",
+      "display": "Oh my gosh.",
+      "search": "oh my gosh.",
+      "confidence": 0.639
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:12",
+      "startMs": 22400,
+      "endMs": 27200,
+      "verbatim": "Another one of these CEO kind of brain dead takes about AI.",
+      "display": "Another one of these CEO kind of brain dead takes about AI.",
+      "search": "another one of these ceo kind of brain dead takes about ai.",
+      "confidence": 0.76
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:13",
+      "startMs": 27200,
+      "endMs": 28560,
+      "verbatim": "Here we go.",
+      "display": "Here we go.",
+      "search": "here we go.",
+      "confidence": 0.84
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:14",
+      "startMs": 28560,
+      "endMs": 31760,
+      "verbatim": "Okay, what do you gotta say there, big guy?",
+      "display": "Okay, what do you gotta say there, big guy?",
+      "search": "okay, what do you gotta say there, big guy?",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:15",
+      "startMs": 31760,
+      "endMs": 36080,
+      "verbatim": "You know, our stock goes down by 50 points because people are like, anyone can make a video game.",
+      "display": "You know, our stock goes down by 50 points because people are like, anyone can make a video game.",
+      "search": "you know, our stock goes down by 50 points because people are like, anyone can make a video game.",
+      "confidence": 0.853
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:16",
+      "startMs": 36080,
+      "endMs": 36960,
+      "verbatim": "That was the thesis.",
+      "display": "That was the thesis.",
+      "search": "that was the thesis.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:17",
+      "startMs": 36960,
+      "endMs": 38960,
+      "verbatim": "Any with AI, anyone can make a video game.",
+      "display": "Any with AI, anyone can make a video game.",
+      "search": "any with ai, anyone can make a video game.",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:18",
+      "startMs": 38960,
+      "endMs": 43760,
+      "verbatim": "It's like anyone can make a video game last week, like anyone can make a video game five years ago.",
+      "display": "It's like anyone can make a video game last week, like anyone can make a video game five years ago.",
+      "search": "it's like anyone can make a video game last week, like anyone can make a video game five years ago.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:19",
+      "startMs": 44000,
+      "endMs": 46560,
+      "verbatim": "The technology's readily available, it's commoditized.",
+      "display": "The technology's readily available, it's commoditized.",
+      "search": "the technology's readily available, it's commoditized.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:20",
+      "startMs": 46560,
+      "endMs": 48960,
+      "verbatim": "You know how many mobile games could put out a year?",
+      "display": "You know how many mobile games could put out a year?",
+      "search": "you know how many mobile games could put out a year?",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:21",
+      "startMs": 48960,
+      "endMs": 49440,
+      "verbatim": "Thousands.",
+      "display": "Thousands.",
+      "search": "thousands.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:22",
+      "startMs": 49440,
+      "endMs": 51280,
+      "verbatim": "You know how many hits are made in a year?",
+      "display": "You know how many hits are made in a year?",
+      "search": "you know how many hits are made in a year?",
+      "confidence": 0.906
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:23",
+      "startMs": 51280,
+      "endMs": 52080,
+      "verbatim": "Zero to five.",
+      "display": "Zero to five.",
+      "search": "zero to five.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:24",
+      "startMs": 52080,
+      "endMs": 53040,
+      "verbatim": "You know who makes them?",
+      "display": "You know who makes them?",
+      "search": "you know who makes them?",
+      "confidence": 0.621
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:25",
+      "startMs": 53040,
+      "endMs": 53840,
+      "verbatim": "Thank you very much.",
+      "display": "Thank you very much.",
+      "search": "thank you very much.",
+      "confidence": 0.946
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:26",
+      "startMs": 53840,
+      "endMs": 54800,
+      "verbatim": "We do.",
+      "display": "We do.",
+      "search": "we do.",
+      "confidence": 0.695
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:27",
+      "startMs": 54960,
+      "endMs": 57200,
+      "verbatim": "Absolute cinema.",
+      "display": "Absolute cinema.",
+      "search": "absolute cinema.",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:28",
+      "startMs": 57200,
+      "endMs": 61440,
+      "verbatim": "Is this a is this a CEO with a based AI opinion?",
+      "display": "Is this a is this a CEO with a based AI opinion?",
+      "search": "is this a is this a ceo with a based ai opinion?",
+      "confidence": 0.775
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:29",
+      "startMs": 61440,
+      "endMs": 64400,
+      "verbatim": "So this is the interview with the CEO of Take Two.",
+      "display": "So this is the interview with the CEO of Take Two.",
+      "search": "so this is the interview with the ceo of take two.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:30",
+      "startMs": 64400,
+      "endMs": 69680,
+      "verbatim": "If you don't know Take Two, they're the ones that run Zynga, uh, Rockstar and 2K.",
+      "display": "If you don't know Take Two, they're the ones that run Zynga, uh, Rockstar and 2K.",
+      "search": "if you don't know take two, they're the ones that run zynga, uh, rockstar and 2k.",
+      "confidence": 0.734
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:31",
+      "startMs": 69680,
+      "endMs": 71600,
+      "verbatim": "So they make all the sports ball games.",
+      "display": "So they make all the sports ball games.",
+      "search": "so they make all the sports ball games.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:32",
+      "startMs": 71600,
+      "endMs": 80000,
+      "verbatim": "They make GTA, Civilization, Borderlands, Bioshock, Red Dead Redemption, and they also make whatever Zynga does, Farm Farmville or something like that.",
+      "display": "They make GTA, Civilization, Borderlands, Bioshock, Red Dead Redemption, and they also make whatever Zynga does, Farm Farmville or something like that.",
+      "search": "they make gta, civilization, borderlands, bioshock, red dead redemption, and they also make whatever zynga does, farm farmville or something like that.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:33",
+      "startMs": 80480,
+      "endMs": 82880,
+      "verbatim": "I don't, I have no idea what that company does.",
+      "display": "I don't, I have no idea what that company does.",
+      "search": "i don't, i have no idea what that company does.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:34",
+      "startMs": 82880,
+      "endMs": 98720,
+      "verbatim": "But nonetheless, this is the CEO of those companies, and he actually has an interview that's about three minutes long that is just absolutely based, normal, somehow not completely filled with Psychosis' view of AI.",
+      "display": "But nonetheless, this is the CEO of those companies, and he actually has an interview that's about three minutes long that is just absolutely based, normal, somehow not completely filled with Psychosis' view of AI.",
+      "search": "but nonetheless, this is the ceo of those companies, and he actually has an interview that's about three minutes long that is just absolutely based, normal, somehow not completely filled with psychosis' view of ai.",
+      "confidence": 0.801
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:35",
+      "startMs": 98720,
+      "endMs": 101680,
+      "verbatim": "Of course, he still makes a 12-minute video about it.",
+      "display": "Of course, he still makes a 12-minute video about it.",
+      "search": "of course, he still makes a 12-minute video about it.",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:36",
+      "startMs": 102320,
+      "endMs": 102960,
+      "verbatim": "Prime.",
+      "display": "Prime.",
+      "search": "prime.",
+      "confidence": 0.434
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:37",
+      "startMs": 102960,
+      "endMs": 107760,
+      "verbatim": "And I just have to yap about it because there's so many dang good points in this.",
+      "display": "And I just have to yap about it because there's so many dang good points in this.",
+      "search": "and i just have to yap about it because there's so many dang good points in this.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:38",
+      "startMs": 107760,
+      "endMs": 110080,
+      "verbatim": "But first, we have to talk about today's sponsor.",
+      "display": "But first, we have to talk about today's sponsor.",
+      "search": "but first, we have to talk about today's sponsor.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:39",
+      "startMs": 112320,
+      "endMs": 113840,
+      "verbatim": "You're killing me, merge cop.",
+      "display": "You're killing me, merge cop.",
+      "search": "you're killing me, merge cop.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:40",
+      "startMs": 113840,
+      "endMs": 116640,
+      "verbatim": "That little stunt of yours turned into a six-hour post-mortem.",
+      "display": "That little stunt of yours turned into a six-hour post-mortem.",
+      "search": "that little stunt of yours turned into a six-hour post-mortem.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:41",
+      "startMs": 116640,
+      "endMs": 118240,
+      "verbatim": "He's emerging a prod!",
+      "display": "He's emerging a prod!",
+      "search": "he's emerging a prod!",
+      "confidence": 0.57
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:42",
+      "startMs": 118240,
+      "endMs": 119680,
+      "verbatim": "You have the right to remain silent.",
+      "display": "You have the right to remain silent.",
+      "search": "you have the right to remain silent.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:43",
+      "startMs": 119680,
+      "endMs": 120720,
+      "verbatim": "Come on, Kamish.",
+      "display": "Come on, Kamish.",
+      "search": "come on, kamish.",
+      "confidence": 0.715
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:44",
+      "startMs": 120720,
+      "endMs": 122560,
+      "verbatim": "That code wasn't clean and you know.",
+      "display": "That code wasn't clean and you know.",
+      "search": "that code wasn't clean and you know.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:45",
+      "startMs": 122640,
+      "endMs": 123920,
+      "verbatim": "I don't got time for this.",
+      "display": "I don't got time for this.",
+      "search": "i don't got time for this.",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:46",
+      "startMs": 123920,
+      "endMs": 127200,
+      "verbatim": "Vim RCs are being vandalized across the city.",
+      "display": "Vim RCs are being vandalized across the city.",
+      "search": "vim rcs are being vandalized across the city.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:47",
+      "startMs": 128080,
+      "endMs": 129600,
+      "verbatim": "No, no, no, the Diffler's a myth.",
+      "display": "No, no, no, the Diffler's a myth.",
+      "search": "no, no, no, the diffler's a myth.",
+      "confidence": 0.75
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:48",
+      "startMs": 129600,
+      "endMs": 132640,
+      "verbatim": "The Diffler's out there, and I'm gonna be the one to deprecate him.",
+      "display": "The Diffler's out there, and I'm gonna be the one to deprecate him.",
+      "search": "the diffler's out there, and i'm gonna be the one to deprecate him.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:49",
+      "startMs": 132640,
+      "endMs": 136240,
+      "verbatim": "You need to focus on your Jira tickets, not chasing a ghost.",
+      "display": "You need to focus on your Jira tickets, not chasing a ghost.",
+      "search": "you need to focus on your jira tickets, not chasing a ghost.",
+      "confidence": 0.915
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:50",
+      "startMs": 136240,
+      "endMs": 138240,
+      "verbatim": "No more cowboy coding for you.",
+      "display": "No more cowboy coding for you.",
+      "search": "no more cowboy coding for you.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:51",
+      "startMs": 138240,
+      "endMs": 139600,
+      "verbatim": "I'm assigning you a partner.",
+      "display": "I'm assigning you a partner.",
+      "search": "i'm assigning you a partner.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:52",
+      "startMs": 139600,
+      "endMs": 140560,
+      "verbatim": "A partner?",
+      "display": "A partner?",
+      "search": "a partner?",
+      "confidence": 0.826
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:53",
+      "startMs": 140560,
+      "endMs": 142240,
+      "verbatim": "You can't do this to me.",
+      "display": "You can't do this to me.",
+      "search": "you can't do this to me.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:54",
+      "startMs": 142240,
+      "endMs": 143520,
+      "verbatim": "I am a lone wolf.",
+      "display": "I am a lone wolf.",
+      "search": "i am a lone wolf.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:55",
+      "startMs": 143520,
+      "endMs": 144880,
+      "verbatim": "I'm an IC.",
+      "display": "I'm an IC.",
+      "search": "i'm an ic.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:56",
+      "startMs": 144880,
+      "endMs": 148000,
+      "verbatim": "I do not need some deadweight junior dev holding me back.",
+      "display": "I do not need some deadweight junior dev holding me back.",
+      "search": "i do not need some deadweight junior dev holding me back.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:57",
+      "startMs": 148000,
+      "endMs": 150480,
+      "verbatim": "No, no, you're not reverting this one, merge cop.",
+      "display": "No, no, you're not reverting this one, merge cop.",
+      "search": "no, no, you're not reverting this one, merge cop.",
+      "confidence": 0.774
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:58",
+      "startMs": 150480,
+      "endMs": 152160,
+      "verbatim": "He might actually teach you a thing or two.",
+      "display": "He might actually teach you a thing or two.",
+      "search": "he might actually teach you a thing or two.",
+      "confidence": 0.979
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:59",
+      "startMs": 152160,
+      "endMs": 155680,
+      "verbatim": "He did graduate top of his class with a flawless CI record.",
+      "display": "He did graduate top of his class with a flawless CI record.",
+      "search": "he did graduate top of his class with a flawless ci record.",
+      "confidence": 0.794
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:60",
+      "startMs": 155680,
+      "endMs": 159280,
+      "verbatim": "Merge cop, meet your partner, Lieutenant Squash.",
+      "display": "Merge cop, meet your partner, Lieutenant Squash.",
+      "search": "merge cop, meet your partner, lieutenant squash.",
+      "confidence": 0.649
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:61",
+      "startMs": 159520,
+      "endMs": 161520,
+      "verbatim": "Pleasure to knit your acquaintance.",
+      "display": "Pleasure to knit your acquaintance.",
+      "search": "pleasure to knit your acquaintance.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:62",
+      "startMs": 169040,
+      "endMs": 181600,
+      "verbatim": "Functional tests, end-to-end tests, acceptance tests, performance tests, load tests, stress tests, math tests, system tests, internationalization.",
+      "display": "Functional tests, end-to-end tests, acceptance tests, performance tests, load tests, stress tests, math tests, system tests, internationalization.",
+      "search": "functional tests, end-to-end tests, acceptance tests, performance tests, load tests, stress tests, math tests, system tests, internationalization.",
+      "confidence": 0.684
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:63",
+      "startMs": 182800,
+      "endMs": 186240,
+      "verbatim": "There has been a reporting of a Diffler sighting at a local cafe.",
+      "display": "There has been a reporting of a Diffler sighting at a local cafe.",
+      "search": "there has been a reporting of a diffler sighting at a local cafe.",
+      "confidence": 0.757
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:64",
+      "startMs": 186480,
+      "endMs": 187840,
+      "verbatim": "Copy, we're on it.",
+      "display": "Copy, we're on it.",
+      "search": "copy, we're on it.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:65",
+      "startMs": 187840,
+      "endMs": 189440,
+      "verbatim": "It's our chance to get the Diffler.",
+      "display": "It's our chance to get the Diffler.",
+      "search": "it's our chance to get the diffler.",
+      "confidence": 0.754
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:66",
+      "startMs": 189440,
+      "endMs": 190320,
+      "verbatim": "Get in!",
+      "display": "Get in!",
+      "search": "get in!",
+      "confidence": 0.44
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:67",
+      "startMs": 190320,
+      "endMs": 191520,
+      "verbatim": "Compatibility test?",
+      "display": "Compatibility test?",
+      "search": "compatibility test?",
+      "confidence": 0.652
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:68",
+      "startMs": 191600,
+      "endMs": 193840,
+      "verbatim": "I just was throwing more kinds of shot at Twish.",
+      "display": "I just was throwing more kinds of shot at Twish.",
+      "search": "i just was throwing more kinds of shot at twish.",
+      "confidence": 0.668
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:69",
+      "startMs": 193840,
+      "endMs": 196000,
+      "verbatim": "It's time to get the Difler.",
+      "display": "It's time to get the Difler.",
+      "search": "it's time to get the difler.",
+      "confidence": 0.622
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:70",
+      "startMs": 199040,
+      "endMs": 200960,
+      "verbatim": "Sanity tests.",
+      "display": "Sanity tests.",
+      "search": "sanity tests.",
+      "confidence": 0.309
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:71",
+      "startMs": 201120,
+      "endMs": 202960,
+      "verbatim": "Snapshot tests.",
+      "display": "Snapshot tests.",
+      "search": "snapshot tests.",
+      "confidence": 0.452
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:72",
+      "startMs": 205040,
+      "endMs": 206080,
+      "verbatim": "You can smell that.",
+      "display": "You can smell that.",
+      "search": "you can smell that.",
+      "confidence": 0.249
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:73",
+      "startMs": 208000,
+      "endMs": 210320,
+      "verbatim": "I've been telling him I need to smell it.",
+      "display": "I've been telling him I need to smell it.",
+      "search": "i've been telling him i need to smell it.",
+      "confidence": 0.42
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:74",
+      "startMs": 221040,
+      "endMs": 224960,
+      "verbatim": "That's completely running in the front man like it randomly.",
+      "display": "That's completely running in the front man like it randomly.",
+      "search": "that's completely running in the front man like it randomly.",
+      "confidence": 0.379
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:75",
+      "startMs": 230320,
+      "endMs": 235600,
+      "verbatim": "The commission that we have to stay in the car, I'm about to get force my fist into Differer's face.",
+      "display": "The commission that we have to stay in the car, I'm about to get force my fist into Differer's face.",
+      "search": "the commission that we have to stay in the car, i'm about to get force my fist into differer's face.",
+      "confidence": 0.539
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:76",
+      "startMs": 235600,
+      "endMs": 237680,
+      "verbatim": "You have to stick to the process!",
+      "display": "You have to stick to the process!",
+      "search": "you have to stick to the process!",
+      "confidence": 0.628
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:77",
+      "startMs": 237680,
+      "endMs": 239360,
+      "verbatim": "What do you think you're doing?",
+      "display": "What do you think you're doing?",
+      "search": "what do you think you're doing?",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:78",
+      "startMs": 239360,
+      "endMs": 241040,
+      "verbatim": "Uh building in public?",
+      "display": "Uh building in public?",
+      "search": "uh building in public?",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:79",
+      "startMs": 241040,
+      "endMs": 242960,
+      "verbatim": "Wrong answer, Different.",
+      "display": "Wrong answer, Different.",
+      "search": "wrong answer, different.",
+      "confidence": 0.572
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:80",
+      "startMs": 250560,
+      "endMs": 252480,
+      "verbatim": "What is MergeCob even doing?",
+      "display": "What is MergeCob even doing?",
+      "search": "what is mergecob even doing?",
+      "confidence": 0.62
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:81",
+      "startMs": 252480,
+      "endMs": 254400,
+      "verbatim": "I'm working on my side project.",
+      "display": "I'm working on my side project.",
+      "search": "i'm working on my side project.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:82",
+      "startMs": 254400,
+      "endMs": 255360,
+      "verbatim": "I don't even need him.",
+      "display": "I don't even need him.",
+      "search": "i don't even need him.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:83",
+      "startMs": 255360,
+      "endMs": 256880,
+      "verbatim": "I'm using CodeRabbit!",
+      "display": "I'm using CodeRabbit!",
+      "search": "i'm using coderabbit!",
+      "confidence": 0.69
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:84",
+      "startMs": 256880,
+      "endMs": 260720,
+      "verbatim": "With something like Code Rabbit, it's like having a code founder always watching my back.",
+      "display": "With something like Code Rabbit, it's like having a code founder always watching my back.",
+      "search": "with something like code rabbit, it's like having a code founder always watching my back.",
+      "confidence": 0.834
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:85",
+      "startMs": 260720,
+      "endMs": 262560,
+      "verbatim": "I'm not gonna leak customer information.",
+      "display": "I'm not gonna leak customer information.",
+      "search": "i'm not gonna leak customer information.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:86",
+      "startMs": 262560,
+      "endMs": 265440,
+      "verbatim": "I'm always gonna be up to date on coding best practices.",
+      "display": "I'm always gonna be up to date on coding best practices.",
+      "search": "i'm always gonna be up to date on coding best practices.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:87",
+      "startMs": 265440,
+      "endMs": 266480,
+      "verbatim": "You don't believe me?",
+      "display": "You don't believe me?",
+      "search": "you don't believe me?",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:88",
+      "startMs": 266480,
+      "endMs": 269520,
+      "verbatim": "You can try it too at coderabbit.ai.",
+      "display": "You can try it too at coderabbit.ai.",
+      "search": "you can try it too at coderabbit.ai.",
+      "confidence": 0.792
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:89",
+      "startMs": 269520,
+      "endMs": 271440,
+      "verbatim": "Next week on MergeCob.",
+      "display": "Next week on MergeCob.",
+      "search": "next week on mergecob.",
+      "confidence": 0.575
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:90",
+      "startMs": 271520,
+      "endMs": 272560,
+      "verbatim": "I'm on your dip.",
+      "display": "I'm on your dip.",
+      "search": "i'm on your dip.",
+      "confidence": 0.575
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:91",
+      "startMs": 273600,
+      "endMs": 275920,
+      "verbatim": "Oh, I know you're the dip.",
+      "display": "Oh, I know you're the dip.",
+      "search": "oh, i know you're the dip.",
+      "confidence": 0.638
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:92",
+      "startMs": 279200,
+      "endMs": 282400,
+      "verbatim": "So the man that's inside this video is Strasko.",
+      "display": "So the man that's inside this video is Strasko.",
+      "search": "so the man that's inside this video is strasko.",
+      "confidence": 0.731
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:93",
+      "startMs": 282480,
+      "endMs": 284960,
+      "verbatim": "Oh, wait, what 1957?",
+      "display": "Oh, wait, what 1957?",
+      "search": "oh, wait, what 1957?",
+      "confidence": 0.822
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:94",
+      "startMs": 284960,
+      "endMs": 286640,
+      "verbatim": "Bro, he's 69.",
+      "display": "Bro, he's 69.",
+      "search": "bro, he's 69.",
+      "confidence": 0.597
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:95",
+      "startMs": 286640,
+      "endMs": 287040,
+      "verbatim": "Nice.",
+      "display": "Nice.",
+      "search": "nice.",
+      "confidence": 0.678
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:96",
+      "startMs": 287040,
+      "endMs": 288720,
+      "verbatim": "But look at that hairline.",
+      "display": "But look at that hairline.",
+      "search": "but look at that hairline.",
+      "confidence": 0.656
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:97",
+      "startMs": 288720,
+      "endMs": 292080,
+      "verbatim": "I mean, bro, I'm already losing the battle out here.",
+      "display": "I mean, bro, I'm already losing the battle out here.",
+      "search": "i mean, bro, i'm already losing the battle out here.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:98",
+      "startMs": 292080,
+      "endMs": 300320,
+      "verbatim": "Okay, I the war is being waged, and I am losing on the front lines, and this guy is 69 and nice, bro.",
+      "display": "Okay, I the war is being waged, and I am losing on the front lines, and this guy is 69 and nice, bro.",
+      "search": "okay, i the war is being waged, and i am losing on the front lines, and this guy is 69 and nice, bro.",
+      "confidence": 0.716
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:99",
+      "startMs": 300320,
+      "endMs": 302560,
+      "verbatim": "Okay, screw the AI tips.",
+      "display": "Okay, screw the AI tips.",
+      "search": "okay, screw the ai tips.",
+      "confidence": 0.648
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:100",
+      "startMs": 302560,
+      "endMs": 306240,
+      "verbatim": "You gotta give me some of these, like you these looks maxing, okay?",
+      "display": "You gotta give me some of these, like you these looks maxing, okay?",
+      "search": "you gotta give me some of these, like you these looks maxing, okay?",
+      "confidence": 0.659
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:101",
+      "startMs": 306560,
+      "endMs": 308800,
+      "verbatim": "Look good for 69, I gotta say.",
+      "display": "Look good for 69, I gotta say.",
+      "search": "look good for 69, i gotta say.",
+      "confidence": 0.642
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:102",
+      "startMs": 308800,
+      "endMs": 314000,
+      "verbatim": "All right, so let's actually take a look at a couple of things he said that I I just thought were really well worded.",
+      "display": "All right, so let's actually take a look at a couple of things he said that I I just thought were really well worded.",
+      "search": "all right, so let's actually take a look at a couple of things he said that i i just thought were really well worded.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:103",
+      "startMs": 314000,
+      "endMs": 323840,
+      "verbatim": "Remember what AI is, despite the fact that there are people in Silicon Valley who don't want you to believe this, is big data sets, lots of compute, and a large language model mushed together.",
+      "display": "Remember what AI is, despite the fact that there are people in Silicon Valley who don't want you to believe this, is big data sets, lots of compute, and a large language model mushed together.",
+      "search": "remember what ai is, despite the fact that there are people in silicon valley who don't want you to believe this, is big data sets, lots of compute, and a large language model mushed together.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:104",
+      "startMs": 323840,
+      "endMs": 324960,
+      "verbatim": "That's what they are.",
+      "display": "That's what they are.",
+      "search": "that's what they are.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:105",
+      "startMs": 324960,
+      "endMs": 328560,
+      "verbatim": "So data sets by their very nature are backward looking.",
+      "display": "So data sets by their very nature are backward looking.",
+      "search": "so data sets by their very nature are backward looking.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:106",
+      "startMs": 328560,
+      "endMs": 331200,
+      "verbatim": "Creativity by its very nature is forward-looking.",
+      "display": "Creativity by its very nature is forward-looking.",
+      "search": "creativity by its very nature is forward-looking.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:107",
+      "startMs": 331200,
+      "endMs": 336880,
+      "verbatim": "Like I really do like what he has to say about data just purely being a backwards-looking idea.",
+      "display": "Like I really do like what he has to say about data just purely being a backwards-looking idea.",
+      "search": "like i really do like what he has to say about data just purely being a backwards-looking idea.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:108",
+      "startMs": 336880,
+      "endMs": 343760,
+      "verbatim": "Whereas when you're coming up with something super creative, it has to be you can't just simply be based on everything you've ever seen before.",
+      "display": "Whereas when you're coming up with something super creative, it has to be you can't just simply be based on everything you've ever seen before.",
+      "search": "whereas when you're coming up with something super creative, it has to be you can't just simply be based on everything you've ever seen before.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:109",
+      "startMs": 343760,
+      "endMs": 346240,
+      "verbatim": "You have to add something a little bit, you know, special to it.",
+      "display": "You have to add something a little bit, you know, special to it.",
+      "search": "you have to add something a little bit, you know, special to it.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:110",
+      "startMs": 346240,
+      "endMs": 350720,
+      "verbatim": "And I'm thinking right now of Jonathan Blow's new game, Order of the Sinking Star.",
+      "display": "And I'm thinking right now of Jonathan Blow's new game, Order of the Sinking Star.",
+      "search": "and i'm thinking right now of jonathan blow's new game, order of the sinking star.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:111",
+      "startMs": 350720,
+      "endMs": 352080,
+      "verbatim": "Like, this looks very fun.",
+      "display": "Like, this looks very fun.",
+      "search": "like, this looks very fun.",
+      "confidence": 0.756
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:112",
+      "startMs": 352080,
+      "endMs": 358160,
+      "verbatim": "A thousand handcrafted puzzles, and yet this doesn't stop really dumb tweets.",
+      "display": "A thousand handcrafted puzzles, and yet this doesn't stop really dumb tweets.",
+      "search": "a thousand handcrafted puzzles, and yet this doesn't stop really dumb tweets.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:113",
+      "startMs": 358160,
+      "endMs": 361280,
+      "verbatim": "This is that mentality that I absolutely hate, right?",
+      "display": "This is that mentality that I absolutely hate, right?",
+      "search": "this is that mentality that i absolutely hate, right?",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:114",
+      "startMs": 361280,
+      "endMs": 367920,
+      "verbatim": "There's always somebody that's out there that's just been like, dude, I could vibe code this so easy peasy, not a problem.",
+      "display": "There's always somebody that's out there that's just been like, dude, I could vibe code this so easy peasy, not a problem.",
+      "search": "there's always somebody that's out there that's just been like, dude, i could vibe code this so easy peasy, not a problem.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:115",
+      "startMs": 367920,
+      "endMs": 369520,
+      "verbatim": "It's just like, no, you can't.",
+      "display": "It's just like, no, you can't.",
+      "search": "it's just like, no, you can't.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:116",
+      "startMs": 369520,
+      "endMs": 374720,
+      "verbatim": "Just like the take to CEO said, making video games that's already been available.",
+      "display": "Just like the take to CEO said, making video games that's already been available.",
+      "search": "just like the take to ceo said, making video games that's already been available.",
+      "confidence": 0.783
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:117",
+      "startMs": 374720,
+      "endMs": 375280,
+      "verbatim": "What do you mean?",
+      "display": "What do you mean?",
+      "search": "what do you mean?",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:118",
+      "startMs": 375280,
+      "endMs": 376640,
+      "verbatim": "You can now only make them?",
+      "display": "You can now only make them?",
+      "search": "you can now only make them?",
+      "confidence": 0.835
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:119",
+      "startMs": 376640,
+      "endMs": 379040,
+      "verbatim": "No, five years ago it was commoditized.",
+      "display": "No, five years ago it was commoditized.",
+      "search": "no, five years ago it was commoditized.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:120",
+      "startMs": 379040,
+      "endMs": 383200,
+      "verbatim": "Making video games in the 90s was genuinely super duper hard.",
+      "display": "Making video games in the 90s was genuinely super duper hard.",
+      "search": "making video games in the 90s was genuinely super duper hard.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:121",
+      "startMs": 383200,
+      "endMs": 391120,
+      "verbatim": "Making video games today can arguably be said to be significantly easier, especially as an indie dev, comparatively to what they used to have to go through.",
+      "display": "Making video games today can arguably be said to be significantly easier, especially as an indie dev, comparatively to what they used to have to go through.",
+      "search": "making video games today can arguably be said to be significantly easier, especially as an indie dev, comparatively to what they used to have to go through.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:122",
+      "startMs": 391120,
+      "endMs": 398640,
+      "verbatim": "Like you have Godot, you have Unity, you have Unreal 5 engine super max lighting that looks just absolutely radical.",
+      "display": "Like you have Godot, you have Unity, you have Unreal 5 engine super max lighting that looks just absolutely radical.",
+      "search": "like you have godot, you have unity, you have unreal 5 engine super max lighting that looks just absolutely radical.",
+      "confidence": 0.805
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:123",
+      "startMs": 398640,
+      "endMs": 402400,
+      "verbatim": "I could never figure out those math equations to make lighting look like anything.",
+      "display": "I could never figure out those math equations to make lighting look like anything.",
+      "search": "i could never figure out those math equations to make lighting look like anything.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:124",
+      "startMs": 402400,
+      "endMs": 405520,
+      "verbatim": "And yet that's just completely available to everybody.",
+      "display": "And yet that's just completely available to everybody.",
+      "search": "and yet that's just completely available to everybody.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:125",
+      "startMs": 405520,
+      "endMs": 408480,
+      "verbatim": "So when you see these things and you see people being like, oh, it's so easy.",
+      "display": "So when you see these things and you see people being like, oh, it's so easy.",
+      "search": "so when you see these things and you see people being like, oh, it's so easy.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:126",
+      "startMs": 408480,
+      "endMs": 410400,
+      "verbatim": "Yeah, well, dude, well, you could just vibe code.",
+      "display": "Yeah, well, dude, well, you could just vibe code.",
+      "search": "yeah, well, dude, well, you could just vibe code.",
+      "confidence": 0.762
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:127",
+      "startMs": 410400,
+      "endMs": 411280,
+      "verbatim": "You could just vibe code this.",
+      "display": "You could just vibe code this.",
+      "search": "you could just vibe code this.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:128",
+      "startMs": 411280,
+      "endMs": 412400,
+      "verbatim": "It's just like, no, you couldn't.",
+      "display": "It's just like, no, you couldn't.",
+      "search": "it's just like, no, you couldn't.",
+      "confidence": 0.839
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:129",
+      "startMs": 412400,
+      "endMs": 420320,
+      "verbatim": "You don't have the ability or the creativity to actually create these things that are novel and fun and unique.",
+      "display": "You don't have the ability or the creativity to actually create these things that are novel and fun and unique.",
+      "search": "you don't have the ability or the creativity to actually create these things that are novel and fun and unique.",
+      "confidence": 0.929
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:130",
+      "startMs": 420320,
+      "endMs": 428240,
+      "verbatim": "And this is also something I can kind of generally respect about Grand Theft Auto is that, yeah, they could have rushed it and released it, you know, earlier this year.",
+      "display": "And this is also something I can kind of generally respect about Grand Theft Auto is that, yeah, they could have rushed it and released it, you know, earlier this year.",
+      "search": "and this is also something i can kind of generally respect about grand theft auto is that, yeah, they could have rushed it and released it, you know, earlier this year.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:131",
+      "startMs": 428240,
+      "endMs": 431840,
+      "verbatim": "I mean, GTA, we've been all waiting for GTA 6 for how long now?",
+      "display": "I mean, GTA, we've been all waiting for GTA 6 for how long now?",
+      "search": "i mean, gta, we've been all waiting for gta 6 for how long now?",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:132",
+      "startMs": 431840,
+      "endMs": 436160,
+      "verbatim": "But the fact is that they're not releasing it right away because they want to get the game right.",
+      "display": "But the fact is that they're not releasing it right away because they want to get the game right.",
+      "search": "but the fact is that they're not releasing it right away because they want to get the game right.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:133",
+      "startMs": 436160,
+      "endMs": 437440,
+      "verbatim": "They actually want it to perform well.",
+      "display": "They actually want it to perform well.",
+      "search": "they actually want it to perform well.",
+      "confidence": 0.992
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:134",
+      "startMs": 437440,
+      "endMs": 440160,
+      "verbatim": "I know it's like a crazy triple A strategy.",
+      "display": "I know it's like a crazy triple A strategy.",
+      "search": "i know it's like a crazy triple a strategy.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:135",
+      "startMs": 440160,
+      "endMs": 442960,
+      "verbatim": "Make a video game and make a piece of software that works.",
+      "display": "Make a video game and make a piece of software that works.",
+      "search": "make a video game and make a piece of software that works.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:136",
+      "startMs": 443440,
+      "endMs": 444240,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.583
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:137",
+      "startMs": 444800,
+      "endMs": 446560,
+      "verbatim": "This is unheard of, right?",
+      "display": "This is unheard of, right?",
+      "search": "this is unheard of, right?",
+      "confidence": 0.819
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:138",
+      "startMs": 446560,
+      "endMs": 446880,
+      "verbatim": "Wow.",
+      "display": "Wow.",
+      "search": "wow.",
+      "confidence": 0.646
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:139",
+      "startMs": 446880,
+      "endMs": 453040,
+      "verbatim": "With AI, we can more efficiently create a completely derivative property.",
+      "display": "With AI, we can more efficiently create a completely derivative property.",
+      "search": "with ai, we can more efficiently create a completely derivative property.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:140",
+      "startMs": 453040,
+      "endMs": 455360,
+      "verbatim": "Like derivative properties don't work.",
+      "display": "Like derivative properties don't work.",
+      "search": "like derivative properties don't work.",
+      "confidence": 0.772
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:141",
+      "startMs": 455360,
+      "endMs": 458160,
+      "verbatim": "So that's where the thread has been lost.",
+      "display": "So that's where the thread has been lost.",
+      "search": "so that's where the thread has been lost.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:142",
+      "startMs": 458160,
+      "endMs": 463440,
+      "verbatim": "That AI so far is really great at asset creation, but hit creation is an asset creation.",
+      "display": "That AI so far is really great at asset creation, but hit creation is an asset creation.",
+      "search": "that ai so far is really great at asset creation, but hit creation is an asset creation.",
+      "confidence": 0.808
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:143",
+      "startMs": 463440,
+      "endMs": 467280,
+      "verbatim": "Asset creation is a necessary but insufficient condition for HIIT creation.",
+      "display": "Asset creation is a necessary but insufficient condition for HIIT creation.",
+      "search": "asset creation is a necessary but insufficient condition for hiit creation.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:144",
+      "startMs": 467280,
+      "endMs": 476240,
+      "verbatim": "I absolutely love this because this just goes to show that creating something unique in novel is still just so difficult.",
+      "display": "I absolutely love this because this just goes to show that creating something unique in novel is still just so difficult.",
+      "search": "i absolutely love this because this just goes to show that creating something unique in novel is still just so difficult.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:145",
+      "startMs": 476240,
+      "endMs": 482000,
+      "verbatim": "And and he's actually getting to a point that's really interesting, which is okay, sure, asset creation goes to zero.",
+      "display": "And and he's actually getting to a point that's really interesting, which is okay, sure, asset creation goes to zero.",
+      "search": "and and he's actually getting to a point that's really interesting, which is okay, sure, asset creation goes to zero.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:146",
+      "startMs": 482000,
+      "endMs": 485760,
+      "verbatim": "Let's just pretend it goes to zero, which we all know it actually does not go to zero.",
+      "display": "Let's just pretend it goes to zero, which we all know it actually does not go to zero.",
+      "search": "let's just pretend it goes to zero, which we all know it actually does not go to zero.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:147",
+      "startMs": 485760,
+      "endMs": 490400,
+      "verbatim": "Uh, but it's not like asset creation wasn't the thing that makes something good.",
+      "display": "Uh, but it's not like asset creation wasn't the thing that makes something good.",
+      "search": "uh, but it's not like asset creation wasn't the thing that makes something good.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:148",
+      "startMs": 490400,
+      "endMs": 493120,
+      "verbatim": "That's just a part of making something good.",
+      "display": "That's just a part of making something good.",
+      "search": "that's just a part of making something good.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:149",
+      "startMs": 493120,
+      "endMs": 498240,
+      "verbatim": "To make a hit, you need asset creation, but you can't make asset creation to make a hit.",
+      "display": "To make a hit, you need asset creation, but you can't make asset creation to make a hit.",
+      "search": "to make a hit, you need asset creation, but you can't make asset creation to make a hit.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:150",
+      "startMs": 498240,
+      "endMs": 509440,
+      "verbatim": "And it's just it's so interesting, which also leads to a second, even more interesting point, which is that now that this has been so democratized to the point where I can just give English to kind of produce whatever I want.",
+      "display": "And it's just it's so interesting, which also leads to a second, even more interesting point, which is that now that this has been so democratized to the point where I can just give English to kind of produce whatever I want.",
+      "search": "and it's just it's so interesting, which also leads to a second, even more interesting point, which is that now that this has been so democratized to the point where i can just give english to kind of produce whatever i want.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:151",
+      "startMs": 509440,
+      "endMs": 509840,
+      "verbatim": "Pretend.",
+      "display": "Pretend.",
+      "search": "pretend.",
+      "confidence": 0.689
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:152",
+      "startMs": 510400,
+      "endMs": 514640,
+      "verbatim": "I'm doing a lot of heavy lifting because I know AI, I know how it doesn't scale, blah, blah, blah, blah, blah, blah, blah.",
+      "display": "I'm doing a lot of heavy lifting because I know AI, I know how it doesn't scale, blah, blah, blah, blah, blah, blah, blah.",
+      "search": "i'm doing a lot of heavy lifting because i know ai, i know how it doesn't scale, blah, blah, blah, blah, blah, blah, blah.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:153",
+      "startMs": 514720,
+      "endMs": 515120,
+      "verbatim": "Right?",
+      "display": "Right?",
+      "search": "right?",
+      "confidence": 0.559
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:154",
+      "startMs": 515120,
+      "endMs": 518320,
+      "verbatim": "Very difficult to actually make a really seriously large project with it.",
+      "display": "Very difficult to actually make a really seriously large project with it.",
+      "search": "very difficult to actually make a really seriously large project with it.",
+      "confidence": 0.942
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:155",
+      "startMs": 518320,
+      "endMs": 520240,
+      "verbatim": "Uh let's just pretend you can.",
+      "display": "Uh let's just pretend you can.",
+      "search": "uh let's just pretend you can.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:156",
+      "startMs": 520240,
+      "endMs": 535040,
+      "verbatim": "Even if you could, you start getting into this area where so much of it is gonna just feel so average and so non-hit like because it is just all the stuff before it is just so derivative that the cost of making things as they approach zero.",
+      "display": "Even if you could, you start getting into this area where so much of it is gonna just feel so average and so non-hit like because it is just all the stuff before it is just so derivative that the cost of making things as they approach zero.",
+      "search": "even if you could, you start getting into this area where so much of it is gonna just feel so average and so non-hit like because it is just all the stuff before it is just so derivative that the cost of making things as they approach zero.",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:157",
+      "startMs": 535040,
+      "endMs": 541120,
+      "verbatim": "What it really means is the cost of making something novel is just gonna get harder and harder to do.",
+      "display": "What it really means is the cost of making something novel is just gonna get harder and harder to do.",
+      "search": "what it really means is the cost of making something novel is just gonna get harder and harder to do.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:158",
+      "startMs": 541120,
+      "endMs": 543680,
+      "verbatim": "It's gonna be harder and harder to stand out.",
+      "display": "It's gonna be harder and harder to stand out.",
+      "search": "it's gonna be harder and harder to stand out.",
+      "confidence": 0.938
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:159",
+      "startMs": 543680,
+      "endMs": 550800,
+      "verbatim": "I do like the phrase that it's never been easier to make music, but it's never been harder to make a hit.",
+      "display": "I do like the phrase that it's never been easier to make music, but it's never been harder to make a hit.",
+      "search": "i do like the phrase that it's never been easier to make music, but it's never been harder to make a hit.",
+      "confidence": 0.893
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:160",
+      "startMs": 550800,
+      "endMs": 553200,
+      "verbatim": "And that's the exact same thing with software.",
+      "display": "And that's the exact same thing with software.",
+      "search": "and that's the exact same thing with software.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:161",
+      "startMs": 553200,
+      "endMs": 558240,
+      "verbatim": "It's never been easier to make software, it's never been harder to make a hit.",
+      "display": "It's never been easier to make software, it's never been harder to make a hit.",
+      "search": "it's never been easier to make software, it's never been harder to make a hit.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:162",
+      "startMs": 558240,
+      "endMs": 559440,
+      "verbatim": "I mean, that's just true.",
+      "display": "I mean, that's just true.",
+      "search": "i mean, that's just true.",
+      "confidence": 0.922
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:163",
+      "startMs": 559440,
+      "endMs": 564640,
+      "verbatim": "It's like we don't, you don't need this new technology to create assets that are competitive.",
+      "display": "It's like we don't, you don't need this new technology to create assets that are competitive.",
+      "search": "it's like we don't, you don't need this new technology to create assets that are competitive.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:164",
+      "startMs": 564640,
+      "endMs": 565920,
+      "verbatim": "That already exists.",
+      "display": "That already exists.",
+      "search": "that already exists.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:165",
+      "startMs": 565920,
+      "endMs": 568720,
+      "verbatim": "It will be quicker to do it, but speed isn't the issue.",
+      "display": "It will be quicker to do it, but speed isn't the issue.",
+      "search": "it will be quicker to do it, but speed isn't the issue.",
+      "confidence": 0.879
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:166",
+      "startMs": 568720,
+      "endMs": 582560,
+      "verbatim": "If I told you, David, with this technology, you can create something that looks exactly like GTA, and it's gonna take three years, not 30 seconds, you'd be like, I'll spend three years on it, it's worth it.",
+      "display": "If I told you, David, with this technology, you can create something that looks exactly like GTA, and it's gonna take three years, not 30 seconds, you'd be like, I'll spend three years on it, it's worth it.",
+      "search": "if i told you, david, with this technology, you can create something that looks exactly like gta, and it's gonna take three years, not 30 seconds, you'd be like, i'll spend three years on it, it's worth it.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:167",
+      "startMs": 582560,
+      "endMs": 583840,
+      "verbatim": "But and that exists.",
+      "display": "But and that exists.",
+      "search": "but and that exists.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:168",
+      "startMs": 583840,
+      "endMs": 591360,
+      "verbatim": "You can, in three years, technology exists prior to AI to clone GTA, but it won't be GTA.",
+      "display": "You can, in three years, technology exists prior to AI to clone GTA, but it won't be GTA.",
+      "search": "you can, in three years, technology exists prior to ai to clone gta, but it won't be gta.",
+      "confidence": 0.777
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:169",
+      "startMs": 591360,
+      "endMs": 592640,
+      "verbatim": "It'd be a clone of GTA.",
+      "display": "It'd be a clone of GTA.",
+      "search": "it'd be a clone of gta.",
+      "confidence": 0.717
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:170",
+      "startMs": 592640,
+      "endMs": 593920,
+      "verbatim": "Clones don't sell.",
+      "display": "Clones don't sell.",
+      "search": "clones don't sell.",
+      "confidence": 0.681
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:171",
+      "startMs": 593920,
+      "endMs": 598160,
+      "verbatim": "All hits are by their very nature unexpected.",
+      "display": "All hits are by their very nature unexpected.",
+      "search": "all hits are by their very nature unexpected.",
+      "confidence": 0.841
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:172",
+      "startMs": 599840,
+      "endMs": 607840,
+      "verbatim": "See, the thing I I like this guy, I like how he says it because the typical Silicon Valley version of this is they just say, oh, you need to have taste.",
+      "display": "See, the thing I I like this guy, I like how he says it because the typical Silicon Valley version of this is they just say, oh, you need to have taste.",
+      "search": "see, the thing i i like this guy, i like how he says it because the typical silicon valley version of this is they just say, oh, you need to have taste.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:173",
+      "startMs": 607840,
+      "endMs": 611040,
+      "verbatim": "But there's something so much more to that than just simply taste.",
+      "display": "But there's something so much more to that than just simply taste.",
+      "search": "but there's something so much more to that than just simply taste.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:174",
+      "startMs": 611040,
+      "endMs": 624320,
+      "verbatim": "It's not just crap out of product as fast as possible, get the product market fit fast as possible, absolutely try to sell to everybody, completely go house of cards style and just massively produce code as quickly as possible, just to be able to show to somebody, hey, look, I can make the thing really, really quickly.",
+      "display": "It's not just crap out of product as fast as possible, get the product market fit fast as possible, absolutely try to sell to everybody, completely go house of cards style and just massively produce code as quickly as possible, just to be able to show to somebody, hey, look, I can make the thing really, really quickly.",
+      "search": "it's not just crap out of product as fast as possible, get the product market fit fast as possible, absolutely try to sell to everybody, completely go house of cards style and just massively produce code as quickly as possible, just to be able to show to somebody, hey, look, i can make the thing really, really quickly.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:175",
+      "startMs": 624320,
+      "endMs": 627920,
+      "verbatim": "Instead, it's like, well, you can take three years and you can clone whatever.",
+      "display": "Instead, it's like, well, you can take three years and you can clone whatever.",
+      "search": "instead, it's like, well, you can take three years and you can clone whatever.",
+      "confidence": 0.77
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:176",
+      "startMs": 627920,
+      "endMs": 628720,
+      "verbatim": "You can do all these things.",
+      "display": "You can do all these things.",
+      "search": "you can do all these things.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:177",
+      "startMs": 628880,
+      "endMs": 630480,
+      "verbatim": "All this stuff has already been available.",
+      "display": "All this stuff has already been available.",
+      "search": "all this stuff has already been available.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:178",
+      "startMs": 630480,
+      "endMs": 638800,
+      "verbatim": "Anyone who's making this excuse that somehow we weren't able to build stuff before AI, they're just diluting themselves and they're diluting you.",
+      "display": "Anyone who's making this excuse that somehow we weren't able to build stuff before AI, they're just diluting themselves and they're diluting you.",
+      "search": "anyone who's making this excuse that somehow we weren't able to build stuff before ai, they're just diluting themselves and they're diluting you.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:179",
+      "startMs": 638800,
+      "endMs": 640560,
+      "verbatim": "Like that's not the case.",
+      "display": "Like that's not the case.",
+      "search": "like that's not the case.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:180",
+      "startMs": 640560,
+      "endMs": 653280,
+      "verbatim": "The hard part, and it will continue to be, is not just taste, it's the ability to actually build something people want and actually have to sit down and think about it and create IP that's actually compelling.",
+      "display": "The hard part, and it will continue to be, is not just taste, it's the ability to actually build something people want and actually have to sit down and think about it and create IP that's actually compelling.",
+      "search": "the hard part, and it will continue to be, is not just taste, it's the ability to actually build something people want and actually have to sit down and think about it and create ip that's actually compelling.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:181",
+      "startMs": 653280,
+      "endMs": 658160,
+      "verbatim": "I just wanted to talk about this because, you know, I've been I've been flirting for a while now with game development.",
+      "display": "I just wanted to talk about this because, you know, I've been I've been flirting for a while now with game development.",
+      "search": "i just wanted to talk about this because, you know, i've been i've been flirting for a while now with game development.",
+      "confidence": 0.927
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:182",
+      "startMs": 658160,
+      "endMs": 660720,
+      "verbatim": "You know, we've been on a couple dates, okay?",
+      "display": "You know, we've been on a couple dates, okay?",
+      "search": "you know, we've been on a couple dates, okay?",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:183",
+      "startMs": 660720,
+      "endMs": 663040,
+      "verbatim": "I've spent a few hours doing it now.",
+      "display": "I've spent a few hours doing it now.",
+      "search": "i've spent a few hours doing it now.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:184",
+      "startMs": 663040,
+      "endMs": 672640,
+      "verbatim": "And so I just I I love the idea of hey, there is still so much room and availability to sit down and think really, really hard about things.",
+      "display": "And so I just I I love the idea of hey, there is still so much room and availability to sit down and think really, really hard about things.",
+      "search": "and so i just i i love the idea of hey, there is still so much room and availability to sit down and think really, really hard about things.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:185",
+      "startMs": 672640,
+      "endMs": 676480,
+      "verbatim": "And how do you make a compelling new experience?",
+      "display": "And how do you make a compelling new experience?",
+      "search": "and how do you make a compelling new experience?",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:186",
+      "startMs": 676480,
+      "endMs": 692480,
+      "verbatim": "How do you actually make something that is just creatively unique and maybe, just maybe you can still make a hit, even if all these other things go to zero asset creation, coding, and all that, which by the way, uh just as more of like an inspirational note, I don't think any of those things have gone to zero, right?",
+      "display": "How do you actually make something that is just creatively unique and maybe, just maybe you can still make a hit, even if all these other things go to zero asset creation, coding, and all that, which by the way, uh just as more of like an inspirational note, I don't think any of those things have gone to zero, right?",
+      "search": "how do you actually make something that is just creatively unique and maybe, just maybe you can still make a hit, even if all these other things go to zero asset creation, coding, and all that, which by the way, uh just as more of like an inspirational note, i don't think any of those things have gone to zero, right?",
+      "confidence": 0.896
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:187",
+      "startMs": 692480,
+      "endMs": 696560,
+      "verbatim": "I don't think making compelling assets, you can just simply generate everything.",
+      "display": "I don't think making compelling assets, you can just simply generate everything.",
+      "search": "i don't think making compelling assets, you can just simply generate everything.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:188",
+      "startMs": 696560,
+      "endMs": 703440,
+      "verbatim": "There's so much to having like a dedicated artist that makes this cohesion somehow so much more beautiful.",
+      "display": "There's so much to having like a dedicated artist that makes this cohesion somehow so much more beautiful.",
+      "search": "there's so much to having like a dedicated artist that makes this cohesion somehow so much more beautiful.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:189",
+      "startMs": 703440,
+      "endMs": 706880,
+      "verbatim": "Something that you just can't quite grab from an AI.",
+      "display": "Something that you just can't quite grab from an AI.",
+      "search": "something that you just can't quite grab from an ai.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:190",
+      "startMs": 706880,
+      "endMs": 718880,
+      "verbatim": "And there's also something about just knowing and hand tuning all the parameters and making things really feel and programming it a certain way that just gives it this unique feel and perspective that you just can't get by a generation.",
+      "display": "And there's also something about just knowing and hand tuning all the parameters and making things really feel and programming it a certain way that just gives it this unique feel and perspective that you just can't get by a generation.",
+      "search": "and there's also something about just knowing and hand tuning all the parameters and making things really feel and programming it a certain way that just gives it this unique feel and perspective that you just can't get by a generation.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:191",
+      "startMs": 718880,
+      "endMs": 724880,
+      "verbatim": "There's like, there's so much to making something a unique experience that's not just make it so number one.",
+      "display": "There's like, there's so much to making something a unique experience that's not just make it so number one.",
+      "search": "there's like, there's so much to making something a unique experience that's not just make it so number one.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:192",
+      "startMs": 724880,
+      "endMs": 731200,
+      "verbatim": "And that's what I really want to encourage you is I still think there's just so much dang value out there in actually being good at your craft.",
+      "display": "And that's what I really want to encourage you is I still think there's just so much dang value out there in actually being good at your craft.",
+      "search": "and that's what i really want to encourage you is i still think there's just so much dang value out there in actually being good at your craft.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:193",
+      "startMs": 731200,
+      "endMs": 738080,
+      "verbatim": "I don't want you to be deluded to the point where you think that the only thing valuable in the world is instantaneous time.",
+      "display": "I don't want you to be deluded to the point where you think that the only thing valuable in the world is instantaneous time.",
+      "search": "i don't want you to be deluded to the point where you think that the only thing valuable in the world is instantaneous time.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:194",
+      "startMs": 738320,
+      "endMs": 739520,
+      "verbatim": "Make it happen, right?",
+      "display": "Make it happen, right?",
+      "search": "make it happen, right?",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:195",
+      "startMs": 739520,
+      "endMs": 763280,
+      "verbatim": "Because I think that if you just fall into that trap of thinking, you're just gonna be in this weird zone where all you do is spend all of your money and time playing with the stochastic machine and never actually getting that satisfaction, that that happiness, that goodness that comes from creation when you really sit down and think about it and design something, not just visually, but through the whole pipeline of like this thing is well done.",
+      "display": "Because I think that if you just fall into that trap of thinking, you're just gonna be in this weird zone where all you do is spend all of your money and time playing with the stochastic machine and never actually getting that satisfaction, that that happiness, that goodness that comes from creation when you really sit down and think about it and design something, not just visually, but through the whole pipeline of like this thing is well done.",
+      "search": "because i think that if you just fall into that trap of thinking, you're just gonna be in this weird zone where all you do is spend all of your money and time playing with the stochastic machine and never actually getting that satisfaction, that that happiness, that goodness that comes from creation when you really sit down and think about it and design something, not just visually, but through the whole pipeline of like this thing is well done.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:196",
+      "startMs": 763280,
+      "endMs": 766160,
+      "verbatim": "From soup to nuts, I am happy.",
+      "display": "From soup to nuts, I am happy.",
+      "search": "from soup to nuts, i am happy.",
+      "confidence": 0.823
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:197",
+      "startMs": 766160,
+      "endMs": 769760,
+      "verbatim": "Also, totally do not understand the phrase soup to nuts.",
+      "display": "Also, totally do not understand the phrase soup to nuts.",
+      "search": "also, totally do not understand the phrase soup to nuts.",
+      "confidence": 0.817
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:198",
+      "startMs": 769760,
+      "endMs": 773360,
+      "verbatim": "I do not know what soup and nuts have to do with each other.",
+      "display": "I do not know what soup and nuts have to do with each other.",
+      "search": "i do not know what soup and nuts have to do with each other.",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:199",
+      "startMs": 773360,
+      "endMs": 780080,
+      "verbatim": "I assume that's like first meal is if I have a multi-course meal and with a finisher dessert of nuts.",
+      "display": "I assume that's like first meal is if I have a multi-course meal and with a finisher dessert of nuts.",
+      "search": "i assume that's like first meal is if i have a multi-course meal and with a finisher dessert of nuts.",
+      "confidence": 0.809
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:200",
+      "startMs": 780080,
+      "endMs": 780720,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:201",
+      "startMs": 780720,
+      "endMs": 784640,
+      "verbatim": "I don't understand that phrase at all, but people say it, okay?",
+      "display": "I don't understand that phrase at all, but people say it, okay?",
+      "search": "i don't understand that phrase at all, but people say it, okay?",
+      "confidence": 0.816
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:202",
+      "startMs": 784640,
+      "endMs": 798960,
+      "verbatim": "I really like this, and I wish that we had more people like him in positions of leadership speaking about AI instead of the constant Dario effect of just, hey, by the way, sorry everybody, you're jobless in six months.",
+      "display": "I really like this, and I wish that we had more people like him in positions of leadership speaking about AI instead of the constant Dario effect of just, hey, by the way, sorry everybody, you're jobless in six months.",
+      "search": "i really like this, and i wish that we had more people like him in positions of leadership speaking about ai instead of the constant dario effect of just, hey, by the way, sorry everybody, you're jobless in six months.",
+      "confidence": 0.811
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:203",
+      "startMs": 798960,
+      "endMs": 801600,
+      "verbatim": "Yeah, you, yeah, you yeah, yeah, you're you're done.",
+      "display": "Yeah, you, yeah, you yeah, yeah, you're you're done.",
+      "search": "yeah, you, yeah, you yeah, yeah, you're you're done.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:204",
+      "startMs": 801600,
+      "endMs": 804640,
+      "verbatim": "I mean, sure, we're gonna have a company that everybody's gonna use.",
+      "display": "I mean, sure, we're gonna have a company that everybody's gonna use.",
+      "search": "i mean, sure, we're gonna have a company that everybody's gonna use.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:205",
+      "startMs": 804640,
+      "endMs": 811440,
+      "verbatim": "All these companies that are paying millions of dollars a year, selling to people without jobs?",
+      "display": "All these companies that are paying millions of dollars a year, selling to people without jobs?",
+      "search": "all these companies that are paying millions of dollars a year, selling to people without jobs?",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:206",
+      "startMs": 811920,
+      "endMs": 812880,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.431
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:207",
+      "startMs": 813840,
+      "endMs": 815600,
+      "verbatim": "Weird future, dude.",
+      "display": "Weird future, dude.",
+      "search": "weird future, dude.",
+      "confidence": 0.667
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:208",
+      "startMs": 815680,
+      "endMs": 816480,
+      "verbatim": "I don't know.",
+      "display": "I don't know.",
+      "search": "i don't know.",
+      "confidence": 0.687
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:209",
+      "startMs": 816480,
+      "endMs": 818320,
+      "verbatim": "Don't know how that one's gonna work out.",
+      "display": "Don't know how that one's gonna work out.",
+      "search": "don't know how that one's gonna work out.",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:210",
+      "startMs": 818320,
+      "endMs": 825920,
+      "verbatim": "By the way, I would love to have this guy on the stand up, so if anybody happens to know him, if anybody can send him some messages, I've tried tweeting.",
+      "display": "By the way, I would love to have this guy on the stand up, so if anybody happens to know him, if anybody can send him some messages, I've tried tweeting.",
+      "search": "by the way, i would love to have this guy on the stand up, so if anybody happens to know him, if anybody can send him some messages, i've tried tweeting.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:211",
+      "startMs": 826160,
+      "endMs": 832000,
+      "verbatim": "Hey, you can get a hold of him, tell him the world's most watched stand up awaits his presence.",
+      "display": "Hey, you can get a hold of him, tell him the world's most watched stand up awaits his presence.",
+      "search": "hey, you can get a hold of him, tell him the world's most watched stand up awaits his presence.",
+      "confidence": 0.725
+    },
+    {
+      "segmentId": "youtube:-AgwE_4_slM:segment:212",
+      "startMs": 832720,
+      "endMs": 834640,
+      "verbatim": "The name is the primogen",
+      "display": "The name is the primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.598
+    }
+  ]
+}

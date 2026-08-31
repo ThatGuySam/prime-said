@@ -1,0 +1,1823 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_0497e008c84182f007f3d0a2",
+  "sourceId": "youtube:0zw-Uk9KJiA",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T17:36:09.853Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:1",
+      "startMs": 160,
+      "endMs": 1360,
+      "verbatim": "You see this right here?",
+      "display": "You see this right here?",
+      "search": "you see this right here?",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:2",
+      "startMs": 1360,
+      "endMs": 2080,
+      "verbatim": "Yeah.",
+      "display": "Yeah.",
+      "search": "yeah.",
+      "confidence": 0.726
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:3",
+      "startMs": 2080,
+      "endMs": 9280,
+      "verbatim": "That's $1.3 million spent in OpenAI tokens in the last 30 days.",
+      "display": "That's $1.3 million spent in OpenAI tokens in the last 30 days.",
+      "search": "that's $1.3 million spent in openai tokens in the last 30 days.",
+      "confidence": 0.714
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:4",
+      "startMs": 9280,
+      "endMs": 12800,
+      "verbatim": "603 billion tokens spent.",
+      "display": "603 billion tokens spent.",
+      "search": "603 billion tokens spent.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:5",
+      "startMs": 12800,
+      "endMs": 21520,
+      "verbatim": "Now, even if I were to try my hardest, I am not actually sure it's possible for me to spend this amount of money or that amount of tokens.",
+      "display": "Now, even if I were to try my hardest, I am not actually sure it's possible for me to spend this amount of money or that amount of tokens.",
+      "search": "now, even if i were to try my hardest, i am not actually sure it's possible for me to spend this amount of money or that amount of tokens.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:6",
+      "startMs": 21520,
+      "endMs": 24960,
+      "verbatim": "I have no idea how we accomplished such things.",
+      "display": "I have no idea how we accomplished such things.",
+      "search": "i have no idea how we accomplished such things.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:7",
+      "startMs": 24960,
+      "endMs": 30720,
+      "verbatim": "And when I saw this, I thought this is just the most ridiculous thing, and I this is so stupid.",
+      "display": "And when I saw this, I thought this is just the most ridiculous thing, and I this is so stupid.",
+      "search": "and when i saw this, i thought this is just the most ridiculous thing, and i this is so stupid.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:8",
+      "startMs": 30720,
+      "endMs": 38960,
+      "verbatim": "But then I started thinking about it more and more, and I realized that there's a future that is developing in which I think a lot of people are wrong.",
+      "display": "But then I started thinking about it more and more, and I realized that there's a future that is developing in which I think a lot of people are wrong.",
+      "search": "but then i started thinking about it more and more, and i realized that there's a future that is developing in which i think a lot of people are wrong.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:9",
+      "startMs": 38960,
+      "endMs": 47280,
+      "verbatim": "And I think this post right here really helps it kind of crystallize in my mind where things are going.",
+      "display": "And I think this post right here really helps it kind of crystallize in my mind where things are going.",
+      "search": "and i think this post right here really helps it kind of crystallize in my mind where things are going.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:10",
+      "startMs": 47280,
+      "endMs": 49040,
+      "verbatim": "So I got a lot of yapping to do.",
+      "display": "So I got a lot of yapping to do.",
+      "search": "so i got a lot of yapping to do.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:11",
+      "startMs": 49040,
+      "endMs": 55440,
+      "verbatim": "So I hope you're gonna, you know, strap down because I I think that, yeah, yeah, you, you, you, you, you probably aren't gonna see this one coming.",
+      "display": "So I hope you're gonna, you know, strap down because I I think that, yeah, yeah, you, you, you, you, you probably aren't gonna see this one coming.",
+      "search": "so i hope you're gonna, you know, strap down because i i think that, yeah, yeah, you, you, you, you, you probably aren't gonna see this one coming.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:12",
+      "startMs": 55440,
+      "endMs": 58640,
+      "verbatim": "I don't think you you understand what's gonna happen here in the next year.",
+      "display": "I don't think you you understand what's gonna happen here in the next year.",
+      "search": "i don't think you you understand what's gonna happen here in the next year.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:13",
+      "startMs": 58640,
+      "endMs": 60000,
+      "verbatim": "Then I think I might be right on this one.",
+      "display": "Then I think I might be right on this one.",
+      "search": "then i think i might be right on this one.",
+      "confidence": 0.79
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:14",
+      "startMs": 60000,
+      "endMs": 62000,
+      "verbatim": "I'm gonna, in fact, I'm gonna do something I normally don't do.",
+      "display": "I'm gonna, in fact, I'm gonna do something I normally don't do.",
+      "search": "i'm gonna, in fact, i'm gonna do something i normally don't do.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:15",
+      "startMs": 62000,
+      "endMs": 63600,
+      "verbatim": "I'm gonna make a tech prediction.",
+      "display": "I'm gonna make a tech prediction.",
+      "search": "i'm gonna make a tech prediction.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:16",
+      "startMs": 63600,
+      "endMs": 64560,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.561
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:17",
+      "startMs": 65360,
+      "endMs": 66560,
+      "verbatim": "Kind of dangerous.",
+      "display": "Kind of dangerous.",
+      "search": "kind of dangerous.",
+      "confidence": 0.872
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:18",
+      "startMs": 66560,
+      "endMs": 69520,
+      "verbatim": "I I do just gotta yap about this for a second, okay?",
+      "display": "I I do just gotta yap about this for a second, okay?",
+      "search": "i i do just gotta yap about this for a second, okay?",
+      "confidence": 0.828
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:19",
+      "startMs": 69520,
+      "endMs": 76160,
+      "verbatim": "The reason why I have to yap about this is that whenever a post like this happens, there's always the exact same thing that happens.",
+      "display": "The reason why I have to yap about this is that whenever a post like this happens, there's always the exact same thing that happens.",
+      "search": "the reason why i have to yap about this is that whenever a post like this happens, there's always the exact same thing that happens.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:20",
+      "startMs": 76160,
+      "endMs": 83520,
+      "verbatim": "There's this entire shit fluencer market when it comes to AI, and I largely think they're just simply pullovers from the crypto days.",
+      "display": "There's this entire shit fluencer market when it comes to AI, and I largely think they're just simply pullovers from the crypto days.",
+      "search": "there's this entire shit fluencer market when it comes to ai, and i largely think they're just simply pullovers from the crypto days.",
+      "confidence": 0.85
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:21",
+      "startMs": 83520,
+      "endMs": 86080,
+      "verbatim": "The crypto NFT bros moved over to AI.",
+      "display": "The crypto NFT bros moved over to AI.",
+      "search": "the crypto nft bros moved over to ai.",
+      "confidence": 0.894
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:22",
+      "startMs": 86080,
+      "endMs": 91360,
+      "verbatim": "When they see someone make a post like this, Papa Pete, of course, they go, Oh, hey, bros, hey bros, everybody.",
+      "display": "When they see someone make a post like this, Papa Pete, of course, they go, Oh, hey, bros, hey bros, everybody.",
+      "search": "when they see someone make a post like this, papa pete, of course, they go, oh, hey, bros, hey bros, everybody.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:23",
+      "startMs": 91360,
+      "endMs": 92640,
+      "verbatim": "Uh, I don't know if you know this.",
+      "display": "Uh, I don't know if you know this.",
+      "search": "uh, i don't know if you know this.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:24",
+      "startMs": 92640,
+      "endMs": 103040,
+      "verbatim": "If you aren't spending like $100,000, if you hey, if you're not even hitting $10 billion, if you're not even in the B's when it comes to token usage a month, you're not gonna make it.",
+      "display": "If you aren't spending like $100,000, if you hey, if you're not even hitting $10 billion, if you're not even in the B's when it comes to token usage a month, you're not gonna make it.",
+      "search": "if you aren't spending like $100,000, if you hey, if you're not even hitting $10 billion, if you're not even in the b's when it comes to token usage a month, you're not gonna make it.",
+      "confidence": 0.843
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:25",
+      "startMs": 103040,
+      "endMs": 103840,
+      "verbatim": "You know how I know that?",
+      "display": "You know how I know that?",
+      "search": "you know how i know that?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:26",
+      "startMs": 103840,
+      "endMs": 105520,
+      "verbatim": "Look at Papa Pete, okay?",
+      "display": "Look at Papa Pete, okay?",
+      "search": "look at papa pete, okay?",
+      "confidence": 0.751
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:27",
+      "startMs": 105520,
+      "endMs": 107520,
+      "verbatim": "Open Cloud guy, he knows what he's doing.",
+      "display": "Open Cloud guy, he knows what he's doing.",
+      "search": "open cloud guy, he knows what he's doing.",
+      "confidence": 0.824
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:28",
+      "startMs": 107520,
+      "endMs": 108480,
+      "verbatim": "Do you know what you're doing?",
+      "display": "Do you know what you're doing?",
+      "search": "do you know what you're doing?",
+      "confidence": 0.981
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:29",
+      "startMs": 108480,
+      "endMs": 109200,
+      "verbatim": "Not gonna make it.",
+      "display": "Not gonna make it.",
+      "search": "not gonna make it.",
+      "confidence": 0.873
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:30",
+      "startMs": 109200,
+      "endMs": 110080,
+      "verbatim": "Permanent underclass.",
+      "display": "Permanent underclass.",
+      "search": "permanent underclass.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:31",
+      "startMs": 110080,
+      "endMs": 114160,
+      "verbatim": "Hey, buy my course and I'm gonna teach you how to do AI properly.",
+      "display": "Hey, buy my course and I'm gonna teach you how to do AI properly.",
+      "search": "hey, buy my course and i'm gonna teach you how to do ai properly.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:32",
+      "startMs": 114160,
+      "endMs": 116080,
+      "verbatim": "And it's such a bad takeaway.",
+      "display": "And it's such a bad takeaway.",
+      "search": "and it's such a bad takeaway.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:33",
+      "startMs": 116080,
+      "endMs": 117840,
+      "verbatim": "And let me explain it in more simple terms.",
+      "display": "And let me explain it in more simple terms.",
+      "search": "and let me explain it in more simple terms.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:34",
+      "startMs": 117840,
+      "endMs": 122560,
+      "verbatim": "Like, you know, the funny thing about history and about tech, they don't repeat, but they do rhyme.",
+      "display": "Like, you know, the funny thing about history and about tech, they don't repeat, but they do rhyme.",
+      "search": "like, you know, the funny thing about history and about tech, they don't repeat, but they do rhyme.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:35",
+      "startMs": 122560,
+      "endMs": 126160,
+      "verbatim": "I've heard that once, and it makes me feel like I'm really smart saying that.",
+      "display": "I've heard that once, and it makes me feel like I'm really smart saying that.",
+      "search": "i've heard that once, and it makes me feel like i'm really smart saying that.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:36",
+      "startMs": 127200,
+      "endMs": 128160,
+      "verbatim": "You know what I mean?",
+      "display": "You know what I mean?",
+      "search": "you know what i mean?",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:37",
+      "startMs": 128160,
+      "endMs": 148240,
+      "verbatim": "So, what I mean by they they rhyme is that in 2016, 2018, 2020, if you would see any startup, you if you went and talked to any of your friends in the Silicon Valley, there was an entire culture that had more microservices and Kubernetes usage than they did literal customers.",
+      "display": "So, what I mean by they they rhyme is that in 2016, 2018, 2020, if you would see any startup, you if you went and talked to any of your friends in the Silicon Valley, there was an entire culture that had more microservices and Kubernetes usage than they did literal customers.",
+      "search": "so, what i mean by they they rhyme is that in 2016, 2018, 2020, if you would see any startup, you if you went and talked to any of your friends in the silicon valley, there was an entire culture that had more microservices and kubernetes usage than they did literal customers.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:38",
+      "startMs": 148240,
+      "endMs": 155200,
+      "verbatim": "I actually had a friend lament to me that he was managing 10 different microservices and he had three customers.",
+      "display": "I actually had a friend lament to me that he was managing 10 different microservices and he had three customers.",
+      "search": "i actually had a friend lament to me that he was managing 10 different microservices and he had three customers.",
+      "confidence": 0.885
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:39",
+      "startMs": 155200,
+      "endMs": 158240,
+      "verbatim": "Unironic, that's not me making up or exaggerating things.",
+      "display": "Unironic, that's not me making up or exaggerating things.",
+      "search": "unironic, that's not me making up or exaggerating things.",
+      "confidence": 0.829
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:40",
+      "startMs": 158240,
+      "endMs": 161920,
+      "verbatim": "He had triple the services for three customers.",
+      "display": "He had triple the services for three customers.",
+      "search": "he had triple the services for three customers.",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:41",
+      "startMs": 161920,
+      "endMs": 164560,
+      "verbatim": "And he was just like, What the hell have I done with my life?",
+      "display": "And he was just like, What the hell have I done with my life?",
+      "search": "and he was just like, what the hell have i done with my life?",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:42",
+      "startMs": 164560,
+      "endMs": 169200,
+      "verbatim": "And it's just like, brother, you have to quit listening to Google for how to run a company.",
+      "display": "And it's just like, brother, you have to quit listening to Google for how to run a company.",
+      "search": "and it's just like, brother, you have to quit listening to google for how to run a company.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:43",
+      "startMs": 169200,
+      "endMs": 172880,
+      "verbatim": "Just because it works for them does not mean it works for you.",
+      "display": "Just because it works for them does not mean it works for you.",
+      "search": "just because it works for them does not mean it works for you.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:44",
+      "startMs": 172880,
+      "endMs": 174880,
+      "verbatim": "And this is kind of that same vibe.",
+      "display": "And this is kind of that same vibe.",
+      "search": "and this is kind of that same vibe.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:45",
+      "startMs": 174880,
+      "endMs": 180560,
+      "verbatim": "Just because this works for Pete, which by the way, guess how many dollars he paid for those tokens?",
+      "display": "Just because this works for Pete, which by the way, guess how many dollars he paid for those tokens?",
+      "search": "just because this works for pete, which by the way, guess how many dollars he paid for those tokens?",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:46",
+      "startMs": 180560,
+      "endMs": 181760,
+      "verbatim": "Yeah, zero.",
+      "display": "Yeah, zero.",
+      "search": "yeah, zero.",
+      "confidence": 0.78
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:47",
+      "startMs": 181760,
+      "endMs": 184000,
+      "verbatim": "You know how much money you're gonna pay for those tokens?",
+      "display": "You know how much money you're gonna pay for those tokens?",
+      "search": "you know how much money you're gonna pay for those tokens?",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:48",
+      "startMs": 184000,
+      "endMs": 185040,
+      "verbatim": "Yeah, full price.",
+      "display": "Yeah, full price.",
+      "search": "yeah, full price.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:49",
+      "startMs": 185040,
+      "endMs": 186720,
+      "verbatim": "Okay, buddy, it's not gonna be cheap.",
+      "display": "Okay, buddy, it's not gonna be cheap.",
+      "search": "okay, buddy, it's not gonna be cheap.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:50",
+      "startMs": 186720,
+      "endMs": 190880,
+      "verbatim": "Okay, you're not spending six, six hundred and three billion dollars in tokens per month.",
+      "display": "Okay, you're not spending six, six hundred and three billion dollars in tokens per month.",
+      "search": "okay, you're not spending six, six hundred and three billion dollars in tokens per month.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:51",
+      "startMs": 190880,
+      "endMs": 193920,
+      "verbatim": "And if you if you are, I mean, well, hey, nice to meet you, sir.",
+      "display": "And if you if you are, I mean, well, hey, nice to meet you, sir.",
+      "search": "and if you if you are, i mean, well, hey, nice to meet you, sir.",
+      "confidence": 0.954
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:52",
+      "startMs": 193920,
+      "endMs": 197040,
+      "verbatim": "I did not realize you uh I was not aware of your game.",
+      "display": "I did not realize you uh I was not aware of your game.",
+      "search": "i did not realize you uh i was not aware of your game.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:53",
+      "startMs": 197040,
+      "endMs": 198960,
+      "verbatim": "And so I just wanted to kind of get that out of the way.",
+      "display": "And so I just wanted to kind of get that out of the way.",
+      "search": "and so i just wanted to kind of get that out of the way.",
+      "confidence": 0.941
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:54",
+      "startMs": 198960,
+      "endMs": 204000,
+      "verbatim": "Okay, now to the future, the thing that I think all of you have wrong, okay?",
+      "display": "Okay, now to the future, the thing that I think all of you have wrong, okay?",
+      "search": "okay, now to the future, the thing that i think all of you have wrong, okay?",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:55",
+      "startMs": 204000,
+      "endMs": 205280,
+      "verbatim": "But first, the bag.",
+      "display": "But first, the bag.",
+      "search": "but first, the bag.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:56",
+      "startMs": 205280,
+      "endMs": 210480,
+      "verbatim": "You see these people walking around with their laptops cracked just so their agents don't stop running.",
+      "display": "You see these people walking around with their laptops cracked just so their agents don't stop running.",
+      "search": "you see these people walking around with their laptops cracked just so their agents don't stop running.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:57",
+      "startMs": 210480,
+      "endMs": 211840,
+      "verbatim": "Mine never stop running.",
+      "display": "Mine never stop running.",
+      "search": "mine never stop running.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:58",
+      "startMs": 211840,
+      "endMs": 216400,
+      "verbatim": "When making changes with cloud agents, you can see the diffs in line just like with any other agent.",
+      "display": "When making changes with cloud agents, you can see the diffs in line just like with any other agent.",
+      "search": "when making changes with cloud agents, you can see the diffs in line just like with any other agent.",
+      "confidence": 0.852
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:59",
+      "startMs": 216400,
+      "endMs": 221360,
+      "verbatim": "It will create a PR and you can actually see your CI running live within the cloud agent.",
+      "display": "It will create a PR and you can actually see your CI running live within the cloud agent.",
+      "search": "it will create a pr and you can actually see your ci running live within the cloud agent.",
+      "confidence": 0.944
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:60",
+      "startMs": 221360,
+      "endMs": 226480,
+      "verbatim": "You can see the status of the CI when it completes, and you can even go back and fix the failing CI.",
+      "display": "You can see the status of the CI when it completes, and you can even go back and fix the failing CI.",
+      "search": "you can see the status of the ci when it completes, and you can even go back and fix the failing ci.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:61",
+      "startMs": 226480,
+      "endMs": 229840,
+      "verbatim": "Not only that, but you can also just run live commands in the terminal.",
+      "display": "Not only that, but you can also just run live commands in the terminal.",
+      "search": "not only that, but you can also just run live commands in the terminal.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:62",
+      "startMs": 229840,
+      "endMs": 231520,
+      "verbatim": "That is my project right there.",
+      "display": "That is my project right there.",
+      "search": "that is my project right there.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:63",
+      "startMs": 231520,
+      "endMs": 233520,
+      "verbatim": "This is not on my computer.",
+      "display": "This is not on my computer.",
+      "search": "this is not on my computer.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:64",
+      "startMs": 233520,
+      "endMs": 237120,
+      "verbatim": "This is in the cloud running where I can ask it to do things.",
+      "display": "This is in the cloud running where I can ask it to do things.",
+      "search": "this is in the cloud running where i can ask it to do things.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:65",
+      "startMs": 237120,
+      "endMs": 238480,
+      "verbatim": "I can ask for changes.",
+      "display": "I can ask for changes.",
+      "search": "i can ask for changes.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:66",
+      "startMs": 238480,
+      "endMs": 243760,
+      "verbatim": "I can ask for changes on my phone and see the game played via MP4.",
+      "display": "I can ask for changes on my phone and see the game played via MP4.",
+      "search": "i can ask for changes on my phone and see the game played via mp4.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:67",
+      "startMs": 243760,
+      "endMs": 249600,
+      "verbatim": "What's even crazier is I can just take over the desktop and I can place towers and I can just play the game.",
+      "display": "What's even crazier is I can just take over the desktop and I can place towers and I can just play the game.",
+      "search": "what's even crazier is i can just take over the desktop and i can place towers and i can just play the game.",
+      "confidence": 0.848
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:68",
+      "startMs": 249600,
+      "endMs": 252560,
+      "verbatim": "Start round and I can watch the bats happen.",
+      "display": "Start round and I can watch the bats happen.",
+      "search": "start round and i can watch the bats happen.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:69",
+      "startMs": 252560,
+      "endMs": 253680,
+      "verbatim": "This is my game.",
+      "display": "This is my game.",
+      "search": "this is my game.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:70",
+      "startMs": 253680,
+      "endMs": 257200,
+      "verbatim": "Try cloud agents today, cursor.com/slash agents.",
+      "display": "Try cloud agents today, cursor.com/slash agents.",
+      "search": "try cloud agents today, cursor.com/slash agents.",
+      "confidence": 0.616
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:71",
+      "startMs": 257200,
+      "endMs": 260560,
+      "verbatim": "And never have to worry about your laptop being open again.",
+      "display": "And never have to worry about your laptop being open again.",
+      "search": "and never have to worry about your laptop being open again.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:72",
+      "startMs": 260560,
+      "endMs": 261120,
+      "verbatim": "Yeah!",
+      "display": "Yeah!",
+      "search": "yeah!",
+      "confidence": 0.525
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:73",
+      "startMs": 261120,
+      "endMs": 262000,
+      "verbatim": "Okay, welcome back.",
+      "display": "Okay, welcome back.",
+      "search": "okay, welcome back.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:74",
+      "startMs": 262000,
+      "endMs": 263760,
+      "verbatim": "Let's talk about the future here for a second.",
+      "display": "Let's talk about the future here for a second.",
+      "search": "let's talk about the future here for a second.",
+      "confidence": 0.988
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:75",
+      "startMs": 263760,
+      "endMs": 271760,
+      "verbatim": "So, something that you need to kind of keep in mind when you see these things is that what Pete's entire goal is, it's a research project.",
+      "display": "So, something that you need to kind of keep in mind when you see these things is that what Pete's entire goal is, it's a research project.",
+      "search": "so, something that you need to kind of keep in mind when you see these things is that what pete's entire goal is, it's a research project.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:76",
+      "startMs": 271760,
+      "endMs": 275120,
+      "verbatim": "How far can open AI take token usage?",
+      "display": "How far can open AI take token usage?",
+      "search": "how far can open ai take token usage?",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:77",
+      "startMs": 275120,
+      "endMs": 296640,
+      "verbatim": "Because remember, they believe the future is going to be this token utopia where everybody just sits back and relaxes like we're in Wally, and we just are able to shit out anything, and you have billions upon billions of tokens for free because everything gets 10x cheaper every single year, which by the way, that promise is two years old, and I feel like things have never been more expensive.",
+      "display": "Because remember, they believe the future is going to be this token utopia where everybody just sits back and relaxes like we're in Wally, and we just are able to shit out anything, and you have billions upon billions of tokens for free because everything gets 10x cheaper every single year, which by the way, that promise is two years old, and I feel like things have never been more expensive.",
+      "search": "because remember, they believe the future is going to be this token utopia where everybody just sits back and relaxes like we're in wally, and we just are able to shit out anything, and you have billions upon billions of tokens for free because everything gets 10x cheaper every single year, which by the way, that promise is two years old, and i feel like things have never been more expensive.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:78",
+      "startMs": 296640,
+      "endMs": 298640,
+      "verbatim": "I don't know, it feels that way to me.",
+      "display": "I don't know, it feels that way to me.",
+      "search": "i don't know, it feels that way to me.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:79",
+      "startMs": 298640,
+      "endMs": 301360,
+      "verbatim": "Maybe I'm wrong, but things kind of feel a little costly.",
+      "display": "Maybe I'm wrong, but things kind of feel a little costly.",
+      "search": "maybe i'm wrong, but things kind of feel a little costly.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:80",
+      "startMs": 301360,
+      "endMs": 302800,
+      "verbatim": "Nonetheless, 10x cheaper.",
+      "display": "Nonetheless, 10x cheaper.",
+      "search": "nonetheless, 10x cheaper.",
+      "confidence": 0.768
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:81",
+      "startMs": 302800,
+      "endMs": 304560,
+      "verbatim": "Remember that 10x cheaper every single year.",
+      "display": "Remember that 10x cheaper every single year.",
+      "search": "remember that 10x cheaper every single year.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:82",
+      "startMs": 304560,
+      "endMs": 313840,
+      "verbatim": "And so at some distant point in the future, you spending 603 billion tokens and every last person on earth doing that, which by the way, we don't even have enough.",
+      "display": "And so at some distant point in the future, you spending 603 billion tokens and every last person on earth doing that, which by the way, we don't even have enough.",
+      "search": "and so at some distant point in the future, you spending 603 billion tokens and every last person on earth doing that, which by the way, we don't even have enough.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:83",
+      "startMs": 313840,
+      "endMs": 316480,
+      "verbatim": "Like, I don't even think there's enough power on earth to do that currently.",
+      "display": "Like, I don't even think there's enough power on earth to do that currently.",
+      "search": "like, i don't even think there's enough power on earth to do that currently.",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:84",
+      "startMs": 316480,
+      "endMs": 321120,
+      "verbatim": "We might have to 10x all power on earth and only use it to power GPUs to make this happen.",
+      "display": "We might have to 10x all power on earth and only use it to power GPUs to make this happen.",
+      "search": "we might have to 10x all power on earth and only use it to power gpus to make this happen.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:85",
+      "startMs": 321120,
+      "endMs": 322640,
+      "verbatim": "But again, I digress.",
+      "display": "But again, I digress.",
+      "search": "but again, i digress.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:86",
+      "startMs": 322640,
+      "endMs": 326560,
+      "verbatim": "If this were to come across, this is how projects could look.",
+      "display": "If this were to come across, this is how projects could look.",
+      "search": "if this were to come across, this is how projects could look.",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:87",
+      "startMs": 326560,
+      "endMs": 330160,
+      "verbatim": "So I think a lot of people look at this and they're like, oh, well, you know, open AI is being evil.",
+      "display": "So I think a lot of people look at this and they're like, oh, well, you know, open AI is being evil.",
+      "search": "so i think a lot of people look at this and they're like, oh, well, you know, open ai is being evil.",
+      "confidence": 0.898
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:88",
+      "startMs": 330160,
+      "endMs": 331920,
+      "verbatim": "No, I think they actually just believe this, right?",
+      "display": "No, I think they actually just believe this, right?",
+      "search": "no, i think they actually just believe this, right?",
+      "confidence": 0.988
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:89",
+      "startMs": 331920,
+      "endMs": 336960,
+      "verbatim": "Like, I think they actually believe that every last person will be using infinity tokens at all times.",
+      "display": "Like, I think they actually believe that every last person will be using infinity tokens at all times.",
+      "search": "like, i think they actually believe that every last person will be using infinity tokens at all times.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:90",
+      "startMs": 336960,
+      "endMs": 339200,
+      "verbatim": "And yeah, sure, they are the benefactors of it.",
+      "display": "And yeah, sure, they are the benefactors of it.",
+      "search": "and yeah, sure, they are the benefactors of it.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:91",
+      "startMs": 339200,
+      "endMs": 344720,
+      "verbatim": "And I mean it's a good future for them, but I actually also think they they think this is just like how the world should work.",
+      "display": "And I mean it's a good future for them, but I actually also think they they think this is just like how the world should work.",
+      "search": "and i mean it's a good future for them, but i actually also think they they think this is just like how the world should work.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:92",
+      "startMs": 344720,
+      "endMs": 346560,
+      "verbatim": "This is how projects should be ran.",
+      "display": "This is how projects should be ran.",
+      "search": "this is how projects should be ran.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:93",
+      "startMs": 346560,
+      "endMs": 351280,
+      "verbatim": "And so this is a research project, which got me to think about something for a second.",
+      "display": "And so this is a research project, which got me to think about something for a second.",
+      "search": "and so this is a research project, which got me to think about something for a second.",
+      "confidence": 0.949
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:94",
+      "startMs": 351280,
+      "endMs": 354480,
+      "verbatim": "And it's kind of this funny conundrum that you see.",
+      "display": "And it's kind of this funny conundrum that you see.",
+      "search": "and it's kind of this funny conundrum that you see.",
+      "confidence": 0.973
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:95",
+      "startMs": 354480,
+      "endMs": 359040,
+      "verbatim": "Uh right now, if you go to any of the big companies, what are they all about?",
+      "display": "Uh right now, if you go to any of the big companies, what are they all about?",
+      "search": "uh right now, if you go to any of the big companies, what are they all about?",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:96",
+      "startMs": 359040,
+      "endMs": 360560,
+      "verbatim": "Hey, what's your token spend?",
+      "display": "Hey, what's your token spend?",
+      "search": "hey, what's your token spend?",
+      "confidence": 0.798
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:97",
+      "startMs": 360560,
+      "endMs": 365920,
+      "verbatim": "I mean, there is literal people getting fired because they're not using AI enough.",
+      "display": "I mean, there is literal people getting fired because they're not using AI enough.",
+      "search": "i mean, there is literal people getting fired because they're not using ai enough.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:98",
+      "startMs": 365920,
+      "endMs": 371360,
+      "verbatim": "You've seen this, you've seen the articles, you've seen potentially these rage posts on Reddit.",
+      "display": "You've seen this, you've seen the articles, you've seen potentially these rage posts on Reddit.",
+      "search": "you've seen this, you've seen the articles, you've seen potentially these rage posts on reddit.",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:99",
+      "startMs": 371360,
+      "endMs": 373680,
+      "verbatim": "I can never tell if what I'm reading on Reddit is real or not.",
+      "display": "I can never tell if what I'm reading on Reddit is real or not.",
+      "search": "i can never tell if what i'm reading on reddit is real or not.",
+      "confidence": 0.919
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:100",
+      "startMs": 373680,
+      "endMs": 379360,
+      "verbatim": "If it's just there to rage bait me into a frothy mouth just to go off and tweet a story that doesn't even exist.",
+      "display": "If it's just there to rage bait me into a frothy mouth just to go off and tweet a story that doesn't even exist.",
+      "search": "if it's just there to rage bait me into a frothy mouth just to go off and tweet a story that doesn't even exist.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:101",
+      "startMs": 379360,
+      "endMs": 381120,
+      "verbatim": "But let's pretend they do exist.",
+      "display": "But let's pretend they do exist.",
+      "search": "but let's pretend they do exist.",
+      "confidence": 0.97
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:102",
+      "startMs": 381120,
+      "endMs": 383280,
+      "verbatim": "People are getting fired for not using enough AI.",
+      "display": "People are getting fired for not using enough AI.",
+      "search": "people are getting fired for not using enough ai.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:103",
+      "startMs": 383440,
+      "endMs": 385840,
+      "verbatim": "I've read stories about people who are interviewing.",
+      "display": "I've read stories about people who are interviewing.",
+      "search": "i've read stories about people who are interviewing.",
+      "confidence": 0.937
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:104",
+      "startMs": 385840,
+      "endMs": 387840,
+      "verbatim": "If they use too much AI, people don't like it.",
+      "display": "If they use too much AI, people don't like it.",
+      "search": "if they use too much ai, people don't like it.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:105",
+      "startMs": 387840,
+      "endMs": 390000,
+      "verbatim": "If they don't use enough AI, people are not liking it.",
+      "display": "If they don't use enough AI, people are not liking it.",
+      "search": "if they don't use enough ai, people are not liking it.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:106",
+      "startMs": 390000,
+      "endMs": 391680,
+      "verbatim": "Like interviewing sounds like hell.",
+      "display": "Like interviewing sounds like hell.",
+      "search": "like interviewing sounds like hell.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:107",
+      "startMs": 391680,
+      "endMs": 396000,
+      "verbatim": "Working at companies right now sounds pretty awful because you're constantly being shoved down the throat you must use this.",
+      "display": "Working at companies right now sounds pretty awful because you're constantly being shoved down the throat you must use this.",
+      "search": "working at companies right now sounds pretty awful because you're constantly being shoved down the throat you must use this.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:108",
+      "startMs": 396000,
+      "endMs": 397920,
+      "verbatim": "People at Amazon, you better use Kiro.",
+      "display": "People at Amazon, you better use Kiro.",
+      "search": "people at amazon, you better use kiro.",
+      "confidence": 0.746
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:109",
+      "startMs": 397920,
+      "endMs": 400400,
+      "verbatim": "Hey, if you're over at Google, better use that Gemini buddy.",
+      "display": "Hey, if you're over at Google, better use that Gemini buddy.",
+      "search": "hey, if you're over at google, better use that gemini buddy.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:110",
+      "startMs": 400560,
+      "endMs": 402640,
+      "verbatim": "It just keeps on going and going and going, right?",
+      "display": "It just keeps on going and going and going, right?",
+      "search": "it just keeps on going and going and going, right?",
+      "confidence": 0.965
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:111",
+      "startMs": 402640,
+      "endMs": 404400,
+      "verbatim": "Well, there's kind of a problem there.",
+      "display": "Well, there's kind of a problem there.",
+      "search": "well, there's kind of a problem there.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:112",
+      "startMs": 404400,
+      "endMs": 407040,
+      "verbatim": "I don't think people realize what the problem is.",
+      "display": "I don't think people realize what the problem is.",
+      "search": "i don't think people realize what the problem is.",
+      "confidence": 0.827
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:113",
+      "startMs": 407040,
+      "endMs": 409920,
+      "verbatim": "Because right now it's like spend all the money you want, right?",
+      "display": "Because right now it's like spend all the money you want, right?",
+      "search": "because right now it's like spend all the money you want, right?",
+      "confidence": 0.94
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:114",
+      "startMs": 409920,
+      "endMs": 413680,
+      "verbatim": "Okay, well, let's just rewind like 18 months, okay?",
+      "display": "Okay, well, let's just rewind like 18 months, okay?",
+      "search": "okay, well, let's just rewind like 18 months, okay?",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:115",
+      "startMs": 413680,
+      "endMs": 415200,
+      "verbatim": "Not even that long ago.",
+      "display": "Not even that long ago.",
+      "search": "not even that long ago.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:116",
+      "startMs": 415200,
+      "endMs": 418800,
+      "verbatim": "Let's just go back a little bit.",
+      "display": "Let's just go back a little bit.",
+      "search": "let's just go back a little bit.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:117",
+      "startMs": 418800,
+      "endMs": 421920,
+      "verbatim": "You wanted a new computer.",
+      "display": "You wanted a new computer.",
+      "search": "you wanted a new computer.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:118",
+      "startMs": 421920,
+      "endMs": 425360,
+      "verbatim": "Oh, you want 32 gigabytes of RAM?",
+      "display": "Oh, you want 32 gigabytes of RAM?",
+      "search": "oh, you want 32 gigabytes of ram?",
+      "confidence": 0.846
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:119",
+      "startMs": 425360,
+      "endMs": 430080,
+      "verbatim": "Well, we're gonna have to get a vice president to sign off on those $400.",
+      "display": "Well, we're gonna have to get a vice president to sign off on those $400.",
+      "search": "well, we're gonna have to get a vice president to sign off on those $400.",
+      "confidence": 0.804
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:120",
+      "startMs": 430080,
+      "endMs": 431520,
+      "verbatim": "Oh, and a chair?",
+      "display": "Oh, and a chair?",
+      "search": "oh, and a chair?",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:121",
+      "startMs": 431520,
+      "endMs": 434960,
+      "verbatim": "Yeah, that chair, it's gonna be a used Herman Miller, okay.",
+      "display": "Yeah, that chair, it's gonna be a used Herman Miller, okay.",
+      "search": "yeah, that chair, it's gonna be a used herman miller, okay.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:122",
+      "startMs": 434960,
+      "endMs": 441200,
+      "verbatim": "You're I'm sorry, but those buns of yours do not get the luxury of sitting on brand new Herman Miller, okay?",
+      "display": "You're I'm sorry, but those buns of yours do not get the luxury of sitting on brand new Herman Miller, okay?",
+      "search": "you're i'm sorry, but those buns of yours do not get the luxury of sitting on brand new herman miller, okay?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:123",
+      "startMs": 441200,
+      "endMs": 441600,
+      "verbatim": "You know what?",
+      "display": "You know what?",
+      "search": "you know what?",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:124",
+      "startMs": 441600,
+      "endMs": 442800,
+      "verbatim": "We're getting you a lifetime chair.",
+      "display": "We're getting you a lifetime chair.",
+      "search": "we're getting you a lifetime chair.",
+      "confidence": 0.943
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:125",
+      "startMs": 442800,
+      "endMs": 443360,
+      "verbatim": "That's what you get.",
+      "display": "That's what you get.",
+      "search": "that's what you get.",
+      "confidence": 0.971
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:126",
+      "startMs": 443360,
+      "endMs": 444000,
+      "verbatim": "Yeah, you?",
+      "display": "Yeah, you?",
+      "search": "yeah, you?",
+      "confidence": 0.637
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:127",
+      "startMs": 444000,
+      "endMs": 448880,
+      "verbatim": "You get a lifetime chair, and I'm gonna go grab some patio furniture padding and duct tape that right onto your chair.",
+      "display": "You get a lifetime chair, and I'm gonna go grab some patio furniture padding and duct tape that right onto your chair.",
+      "search": "you get a lifetime chair, and i'm gonna go grab some patio furniture padding and duct tape that right onto your chair.",
+      "confidence": 0.901
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:128",
+      "startMs": 448880,
+      "endMs": 449520,
+      "verbatim": "That's what you get.",
+      "display": "That's what you get.",
+      "search": "that's what you get.",
+      "confidence": 0.93
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:129",
+      "startMs": 449520,
+      "endMs": 450640,
+      "verbatim": "That's what you deserve, okay?",
+      "display": "That's what you deserve, okay?",
+      "search": "that's what you deserve, okay?",
+      "confidence": 0.895
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:130",
+      "startMs": 450640,
+      "endMs": 455520,
+      "verbatim": "Because let's just face it, we can't be bothering our VPs for these $50 upcharges.",
+      "display": "Because let's just face it, we can't be bothering our VPs for these $50 upcharges.",
+      "search": "because let's just face it, we can't be bothering our vps for these $50 upcharges.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:131",
+      "startMs": 455520,
+      "endMs": 456400,
+      "verbatim": "We can't do that, okay?",
+      "display": "We can't do that, okay?",
+      "search": "we can't do that, okay?",
+      "confidence": 0.883
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:132",
+      "startMs": 456800,
+      "endMs": 462960,
+      "verbatim": "Us as a multi-billion dollar company, we are very concerned if you spend $25.",
+      "display": "Us as a multi-billion dollar company, we are very concerned if you spend $25.",
+      "search": "us as a multi-billion dollar company, we are very concerned if you spend $25.",
+      "confidence": 0.791
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:133",
+      "startMs": 462960,
+      "endMs": 467120,
+      "verbatim": "And now all of a sudden, you can spend infinity on tokens.",
+      "display": "And now all of a sudden, you can spend infinity on tokens.",
+      "search": "and now all of a sudden, you can spend infinity on tokens.",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:134",
+      "startMs": 467120,
+      "endMs": 469360,
+      "verbatim": "In fact, you're even encouraged to do so.",
+      "display": "In fact, you're even encouraged to do so.",
+      "search": "in fact, you're even encouraged to do so.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:135",
+      "startMs": 469360,
+      "endMs": 478640,
+      "verbatim": "Going back to this for a second, if you really think about that, that means it takes $1.3 million a month to run OpenClaw.",
+      "display": "Going back to this for a second, if you really think about that, that means it takes $1.3 million a month to run OpenClaw.",
+      "search": "going back to this for a second, if you really think about that, that means it takes $1.3 million a month to run openclaw.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:136",
+      "startMs": 478640,
+      "endMs": 480720,
+      "verbatim": "So, how many engineers is that?",
+      "display": "So, how many engineers is that?",
+      "search": "so, how many engineers is that?",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:137",
+      "startMs": 480720,
+      "endMs": 485280,
+      "verbatim": "Well, like if you think about that, let's just pretend we're a big tech Google company.",
+      "display": "Well, like if you think about that, let's just pretend we're a big tech Google company.",
+      "search": "well, like if you think about that, let's just pretend we're a big tech google company.",
+      "confidence": 0.891
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:138",
+      "startMs": 485280,
+      "endMs": 492320,
+      "verbatim": "It costs $50,000 a month, and you're spending $1.3 million a month on just AI agents.",
+      "display": "It costs $50,000 a month, and you're spending $1.3 million a month on just AI agents.",
+      "search": "it costs $50,000 a month, and you're spending $1.3 million a month on just ai agents.",
+      "confidence": 0.779
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:139",
+      "startMs": 492320,
+      "endMs": 498240,
+      "verbatim": "To replace those with just engineers would, well, that kind of math, you I mean, it's a number, that kind of math you can't just do off the top of your head.",
+      "display": "To replace those with just engineers would, well, that kind of math, you I mean, it's a number, that kind of math you can't just do off the top of your head.",
+      "search": "to replace those with just engineers would, well, that kind of math, you i mean, it's a number, that kind of math you can't just do off the top of your head.",
+      "confidence": 0.871
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:140",
+      "startMs": 498240,
+      "endMs": 499840,
+      "verbatim": "So let's just say 30 engineers.",
+      "display": "So let's just say 30 engineers.",
+      "search": "so let's just say 30 engineers.",
+      "confidence": 0.908
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:141",
+      "startMs": 499840,
+      "endMs": 503360,
+      "verbatim": "That's like 30 engineers worth of people working on something.",
+      "display": "That's like 30 engineers worth of people working on something.",
+      "search": "that's like 30 engineers worth of people working on something.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:142",
+      "startMs": 503360,
+      "endMs": 506240,
+      "verbatim": "You can't just do this for every single project.",
+      "display": "You can't just do this for every single project.",
+      "search": "you can't just do this for every single project.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:143",
+      "startMs": 506240,
+      "endMs": 509280,
+      "verbatim": "Your company at some point's gonna go, okay, time out.",
+      "display": "Your company at some point's gonna go, okay, time out.",
+      "search": "your company at some point's gonna go, okay, time out.",
+      "confidence": 0.837
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:144",
+      "startMs": 509280,
+      "endMs": 510720,
+      "verbatim": "We've made a mistake.",
+      "display": "We've made a mistake.",
+      "search": "we've made a mistake.",
+      "confidence": 0.966
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:145",
+      "startMs": 510720,
+      "endMs": 514240,
+      "verbatim": "We have decided that we let you use all the tokens you want.",
+      "display": "We have decided that we let you use all the tokens you want.",
+      "search": "we have decided that we let you use all the tokens you want.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:146",
+      "startMs": 514240,
+      "endMs": 515120,
+      "verbatim": "That's bad.",
+      "display": "That's bad.",
+      "search": "that's bad.",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:147",
+      "startMs": 515120,
+      "endMs": 516880,
+      "verbatim": "We're gonna go back to the old days.",
+      "display": "We're gonna go back to the old days.",
+      "search": "we're gonna go back to the old days.",
+      "confidence": 0.974
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:148",
+      "startMs": 516880,
+      "endMs": 518720,
+      "verbatim": "Who's the most token efficient?",
+      "display": "Who's the most token efficient?",
+      "search": "who's the most token efficient?",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:149",
+      "startMs": 518720,
+      "endMs": 520400,
+      "verbatim": "Oh, you're not token efficient.",
+      "display": "Oh, you're not token efficient.",
+      "search": "oh, you're not token efficient.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:150",
+      "startMs": 520400,
+      "endMs": 525440,
+      "verbatim": "You're spending 603 billion tokens on maintaining a simple project.",
+      "display": "You're spending 603 billion tokens on maintaining a simple project.",
+      "search": "you're spending 603 billion tokens on maintaining a simple project.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:151",
+      "startMs": 525440,
+      "endMs": 527760,
+      "verbatim": "No, we're not gonna do that.",
+      "display": "No, we're not gonna do that.",
+      "search": "no, we're not gonna do that.",
+      "confidence": 0.953
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:152",
+      "startMs": 527760,
+      "endMs": 528800,
+      "verbatim": "You're gone.",
+      "display": "You're gone.",
+      "search": "you're gone.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:153",
+      "startMs": 528800,
+      "endMs": 537520,
+      "verbatim": "There's gonna come a world where there's an entire consultant class going through these companies teaching people how to be efficient with tokens.",
+      "display": "There's gonna come a world where there's an entire consultant class going through these companies teaching people how to be efficient with tokens.",
+      "search": "there's gonna come a world where there's an entire consultant class going through these companies teaching people how to be efficient with tokens.",
+      "confidence": 0.91
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:154",
+      "startMs": 537520,
+      "endMs": 541520,
+      "verbatim": "No longer will we see this world of infinity token usage.",
+      "display": "No longer will we see this world of infinity token usage.",
+      "search": "no longer will we see this world of infinity token usage.",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:155",
+      "startMs": 541520,
+      "endMs": 547200,
+      "verbatim": "Instead, it's gonna be okay, who's the top performers by features and things delivered, not just by how much you spend?",
+      "display": "Instead, it's gonna be okay, who's the top performers by features and things delivered, not just by how much you spend?",
+      "search": "instead, it's gonna be okay, who's the top performers by features and things delivered, not just by how much you spend?",
+      "confidence": 0.928
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:156",
+      "startMs": 547200,
+      "endMs": 550480,
+      "verbatim": "Because in the old world, we used to do buy versus build.",
+      "display": "Because in the old world, we used to do buy versus build.",
+      "search": "because in the old world, we used to do buy versus build.",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:157",
+      "startMs": 550480,
+      "endMs": 552640,
+      "verbatim": "Do you build the thing or do you buy the thing?",
+      "display": "Do you build the thing or do you buy the thing?",
+      "search": "do you build the thing or do you buy the thing?",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:158",
+      "startMs": 552640,
+      "endMs": 558480,
+      "verbatim": "Depending on the cost and the trade-off, sometimes it's better to, you know, trade the time for the money or the money for the time.",
+      "display": "Depending on the cost and the trade-off, sometimes it's better to, you know, trade the time for the money or the money for the time.",
+      "search": "depending on the cost and the trade-off, sometimes it's better to, you know, trade the time for the money or the money for the time.",
+      "confidence": 0.924
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:159",
+      "startMs": 558480,
+      "endMs": 560160,
+      "verbatim": "But now we kind of have a new world.",
+      "display": "But now we kind of have a new world.",
+      "search": "but now we kind of have a new world.",
+      "confidence": 0.859
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:160",
+      "startMs": 560160,
+      "endMs": 562720,
+      "verbatim": "It's like buy versus build versus vibe.",
+      "display": "It's like buy versus build versus vibe.",
+      "search": "it's like buy versus build versus vibe.",
+      "confidence": 0.845
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:161",
+      "startMs": 562720,
+      "endMs": 563600,
+      "verbatim": "Do you vibe it?",
+      "display": "Do you vibe it?",
+      "search": "do you vibe it?",
+      "confidence": 0.897
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:162",
+      "startMs": 563600,
+      "endMs": 566000,
+      "verbatim": "Well, vibing takes both time and money.",
+      "display": "Well, vibing takes both time and money.",
+      "search": "well, vibing takes both time and money.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:163",
+      "startMs": 566000,
+      "endMs": 567760,
+      "verbatim": "So which is the proper trade-off?",
+      "display": "So which is the proper trade-off?",
+      "search": "so which is the proper trade-off?",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:164",
+      "startMs": 567760,
+      "endMs": 573280,
+      "verbatim": "And I think companies are gonna quickly snap back to the old way in which they've always done things.",
+      "display": "And I think companies are gonna quickly snap back to the old way in which they've always done things.",
+      "search": "and i think companies are gonna quickly snap back to the old way in which they've always done things.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:165",
+      "startMs": 573280,
+      "endMs": 575760,
+      "verbatim": "It's gonna be, okay, who's the most efficient?",
+      "display": "It's gonna be, okay, who's the most efficient?",
+      "search": "it's gonna be, okay, who's the most efficient?",
+      "confidence": 0.861
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:166",
+      "startMs": 575760,
+      "endMs": 577760,
+      "verbatim": "Who knows how to use these things the best?",
+      "display": "Who knows how to use these things the best?",
+      "search": "who knows how to use these things the best?",
+      "confidence": 0.98
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:167",
+      "startMs": 577760,
+      "endMs": 580000,
+      "verbatim": "It's not gonna be the people spending infinity.",
+      "display": "It's not gonna be the people spending infinity.",
+      "search": "it's not gonna be the people spending infinity.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:168",
+      "startMs": 580000,
+      "endMs": 586640,
+      "verbatim": "It's not gonna be the shit fluencers that's telling you you need to run 500 agents in the cloud at all times or you're not gonna make it.",
+      "display": "It's not gonna be the shit fluencers that's telling you you need to run 500 agents in the cloud at all times or you're not gonna make it.",
+      "search": "it's not gonna be the shit fluencers that's telling you you need to run 500 agents in the cloud at all times or you're not gonna make it.",
+      "confidence": 0.917
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:169",
+      "startMs": 586720,
+      "endMs": 596720,
+      "verbatim": "It's gonna be the people that are just being engineers, that the people like learning, people that actually want to just do good work and use things to help speed them up in certain areas.",
+      "display": "It's gonna be the people that are just being engineers, that the people like learning, people that actually want to just do good work and use things to help speed them up in certain areas.",
+      "search": "it's gonna be the people that are just being engineers, that the people like learning, people that actually want to just do good work and use things to help speed them up in certain areas.",
+      "confidence": 0.87
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:170",
+      "startMs": 596720,
+      "endMs": 597920,
+      "verbatim": "And that's my prediction.",
+      "display": "And that's my prediction.",
+      "search": "and that's my prediction.",
+      "confidence": 0.972
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:171",
+      "startMs": 597920,
+      "endMs": 599520,
+      "verbatim": "Yes, I am doing a prediction.",
+      "display": "Yes, I am doing a prediction.",
+      "search": "yes, i am doing a prediction.",
+      "confidence": 0.932
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:172",
+      "startMs": 599520,
+      "endMs": 601280,
+      "verbatim": "I'm doing an actual prediction.",
+      "display": "I'm doing an actual prediction.",
+      "search": "i'm doing an actual prediction.",
+      "confidence": 0.959
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:173",
+      "startMs": 601280,
+      "endMs": 603120,
+      "verbatim": "I know you're not supposed to do predictions.",
+      "display": "I know you're not supposed to do predictions.",
+      "search": "i know you're not supposed to do predictions.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:174",
+      "startMs": 603120,
+      "endMs": 614720,
+      "verbatim": "Tech predictions almost are largely, you're always wrong, but I do think in the near future, we are going to see token efficiency as an entire argument as opposed to simply token maxing.",
+      "display": "Tech predictions almost are largely, you're always wrong, but I do think in the near future, we are going to see token efficiency as an entire argument as opposed to simply token maxing.",
+      "search": "tech predictions almost are largely, you're always wrong, but i do think in the near future, we are going to see token efficiency as an entire argument as opposed to simply token maxing.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:175",
+      "startMs": 614720,
+      "endMs": 618640,
+      "verbatim": "Token maxing is because we're just trying to figure out is this even viable?",
+      "display": "Token maxing is because we're just trying to figure out is this even viable?",
+      "search": "token maxing is because we're just trying to figure out is this even viable?",
+      "confidence": 0.874
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:176",
+      "startMs": 618640,
+      "endMs": 620480,
+      "verbatim": "And by we, I don't mean me.",
+      "display": "And by we, I don't mean me.",
+      "search": "and by we, i don't mean me.",
+      "confidence": 0.782
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:177",
+      "startMs": 620480,
+      "endMs": 624240,
+      "verbatim": "I'm out here still hand coding stuff from a video game.",
+      "display": "I'm out here still hand coding stuff from a video game.",
+      "search": "i'm out here still hand coding stuff from a video game.",
+      "confidence": 0.832
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:178",
+      "startMs": 624240,
+      "endMs": 624800,
+      "verbatim": "Okay.",
+      "display": "Okay.",
+      "search": "okay.",
+      "confidence": 0.207
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:179",
+      "startMs": 625280,
+      "endMs": 626160,
+      "verbatim": "It's a different world.",
+      "display": "It's a different world.",
+      "search": "it's a different world.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:180",
+      "startMs": 626160,
+      "endMs": 628160,
+      "verbatim": "But nonetheless, this was very interesting to see.",
+      "display": "But nonetheless, this was very interesting to see.",
+      "search": "but nonetheless, this was very interesting to see.",
+      "confidence": 0.967
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:181",
+      "startMs": 628160,
+      "endMs": 636880,
+      "verbatim": "I was very happy I got to read about this and kind of see the live reaction from everybody because people were just, you know, instantaneously suspicious.",
+      "display": "I was very happy I got to read about this and kind of see the live reaction from everybody because people were just, you know, instantaneously suspicious.",
+      "search": "i was very happy i got to read about this and kind of see the live reaction from everybody because people were just, you know, instantaneously suspicious.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:182",
+      "startMs": 636880,
+      "endMs": 639360,
+      "verbatim": "Like, oh, this is just open code trying to make money.",
+      "display": "Like, oh, this is just open code trying to make money.",
+      "search": "like, oh, this is just open code trying to make money.",
+      "confidence": 0.96
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:183",
+      "startMs": 639360,
+      "endMs": 642400,
+      "verbatim": "Yeah, they're uh they are trying to make money, I'll tell you that much.",
+      "display": "Yeah, they're uh they are trying to make money, I'll tell you that much.",
+      "search": "yeah, they're uh they are trying to make money, i'll tell you that much.",
+      "confidence": 0.778
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:184",
+      "startMs": 642400,
+      "endMs": 645440,
+      "verbatim": "But they also, this is just like what they think the future looks like.",
+      "display": "But they also, this is just like what they think the future looks like.",
+      "search": "but they also, this is just like what they think the future looks like.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:185",
+      "startMs": 645440,
+      "endMs": 648480,
+      "verbatim": "You and 100 agents nonstop doing stuff.",
+      "display": "You and 100 agents nonstop doing stuff.",
+      "search": "you and 100 agents nonstop doing stuff.",
+      "confidence": 0.86
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:186",
+      "startMs": 648480,
+      "endMs": 651440,
+      "verbatim": "And maybe at some point in the future, maybe, hey, you know what?",
+      "display": "And maybe at some point in the future, maybe, hey, you know what?",
+      "search": "and maybe at some point in the future, maybe, hey, you know what?",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:187",
+      "startMs": 651440,
+      "endMs": 661840,
+      "verbatim": "Maybe in 10 years, some large amount of time when we have, you know, 100x more energy and a thousand X more GPUs, yeah, maybe that future does exist in some faraway place.",
+      "display": "Maybe in 10 years, some large amount of time when we have, you know, 100x more energy and a thousand X more GPUs, yeah, maybe that future does exist in some faraway place.",
+      "search": "maybe in 10 years, some large amount of time when we have, you know, 100x more energy and a thousand x more gpus, yeah, maybe that future does exist in some faraway place.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:188",
+      "startMs": 661840,
+      "endMs": 667680,
+      "verbatim": "But right now, to me at least, the big takeaway here is I think you gotta start thinking about token efficiency.",
+      "display": "But right now, to me at least, the big takeaway here is I think you gotta start thinking about token efficiency.",
+      "search": "but right now, to me at least, the big takeaway here is i think you gotta start thinking about token efficiency.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:189",
+      "startMs": 667680,
+      "endMs": 669760,
+      "verbatim": "You gotta start thinking about how you're actually using it.",
+      "display": "You gotta start thinking about how you're actually using it.",
+      "search": "you gotta start thinking about how you're actually using it.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:190",
+      "startMs": 669760,
+      "endMs": 673760,
+      "verbatim": "Maybe having a cajillion agents does work for one person.",
+      "display": "Maybe having a cajillion agents does work for one person.",
+      "search": "maybe having a cajillion agents does work for one person.",
+      "confidence": 0.831
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:191",
+      "startMs": 673760,
+      "endMs": 680240,
+      "verbatim": "But I'm not sure if this is really a sustainable approach for anybody, even if the promised 10x is gonna happen.",
+      "display": "But I'm not sure if this is really a sustainable approach for anybody, even if the promised 10x is gonna happen.",
+      "search": "but i'm not sure if this is really a sustainable approach for anybody, even if the promised 10x is gonna happen.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:192",
+      "startMs": 680240,
+      "endMs": 685600,
+      "verbatim": "Okay, sorry, I made a future prediction and I'm probably gonna be wrong, but I, you know, honestly, I think I'm right.",
+      "display": "Okay, sorry, I made a future prediction and I'm probably gonna be wrong, but I, you know, honestly, I think I'm right.",
+      "search": "okay, sorry, i made a future prediction and i'm probably gonna be wrong, but i, you know, honestly, i think i'm right.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:193",
+      "startMs": 685600,
+      "endMs": 687920,
+      "verbatim": "Also, the consulting class, can we all just agree?",
+      "display": "Also, the consulting class, can we all just agree?",
+      "search": "also, the consulting class, can we all just agree?",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:194",
+      "startMs": 687920,
+      "endMs": 690000,
+      "verbatim": "That's gonna be the most annoying people in the universe.",
+      "display": "That's gonna be the most annoying people in the universe.",
+      "search": "that's gonna be the most annoying people in the universe.",
+      "confidence": 0.989
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:195",
+      "startMs": 690000,
+      "endMs": 700480,
+      "verbatim": "Honestly, I'd almost rather take the crypto bros who are gonna be like, oh, you got a token max, than the new class of agile coaches that are gonna be coming out.",
+      "display": "Honestly, I'd almost rather take the crypto bros who are gonna be like, oh, you got a token max, than the new class of agile coaches that are gonna be coming out.",
+      "search": "honestly, i'd almost rather take the crypto bros who are gonna be like, oh, you got a token max, than the new class of agile coaches that are gonna be coming out.",
+      "confidence": 0.803
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:196",
+      "startMs": 700480,
+      "endMs": 704320,
+      "verbatim": "These agile coaches for token efficiency is just gonna be the worst.",
+      "display": "These agile coaches for token efficiency is just gonna be the worst.",
+      "search": "these agile coaches for token efficiency is just gonna be the worst.",
+      "confidence": 0.888
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:197",
+      "startMs": 704320,
+      "endMs": 705280,
+      "verbatim": "Oh my gosh.",
+      "display": "Oh my gosh.",
+      "search": "oh my gosh.",
+      "confidence": 0.847
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:198",
+      "startMs": 705280,
+      "endMs": 714560,
+      "verbatim": "There's actually gonna be prompt trainers, like, it's gonna be like Pokemon trainers, but they're gonna be prompt trainers, and you're gonna have to go in there and they're gonna like 1v1 you on prompts.",
+      "display": "There's actually gonna be prompt trainers, like, it's gonna be like Pokemon trainers, but they're gonna be prompt trainers, and you're gonna have to go in there and they're gonna like 1v1 you on prompts.",
+      "search": "there's actually gonna be prompt trainers, like, it's gonna be like pokemon trainers, but they're gonna be prompt trainers, and you're gonna have to go in there and they're gonna like 1v1 you on prompts.",
+      "confidence": 0.784
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:199",
+      "startMs": 714640,
+      "endMs": 716240,
+      "verbatim": "It's gonna be so ridiculous.",
+      "display": "It's gonna be so ridiculous.",
+      "search": "it's gonna be so ridiculous.",
+      "confidence": 0.945
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:200",
+      "startMs": 716240,
+      "endMs": 717920,
+      "verbatim": "It's all horoscopes, baby.",
+      "display": "It's all horoscopes, baby.",
+      "search": "it's all horoscopes, baby.",
+      "confidence": 0.948
+    },
+    {
+      "segmentId": "youtube:0zw-Uk9KJiA:segment:201",
+      "startMs": 717920,
+      "endMs": 719760,
+      "verbatim": "The name is the Primogen",
+      "display": "The name is the Primogen",
+      "search": "the name is the primogen",
+      "confidence": 0.662
+    }
+  ]
+}

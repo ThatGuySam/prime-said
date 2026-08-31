@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:pkndFYSTr0Y",
+  "platform": "youtube",
+  "platformId": "pkndFYSTr0Y",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "It finally happened",
+  "description": "Cursor is the best way to build software with AI → https://trm.sh/cursor\n\nSources:\n- https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9\n- https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy\n- https://github.com/mitchellh/vouch\n- https://x.com/kirancodes/status/2060389488317116649\n- https://www.youtube.com/watch?v=iqddnwKF8HQ\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=pkndFYSTr0Y",
+  "publishedAt": "2026-06-05T13:00:05.000Z",
+  "durationMs": 1000000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:09:40.320Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:09:40.320Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

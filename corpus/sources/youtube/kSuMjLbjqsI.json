@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:kSuMjLbjqsI",
+  "platform": "youtube",
+  "platformId": "kSuMjLbjqsI",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Trash VS Linux | TheStandup",
+  "description": "Thanks to this week's sponsor: Code Rabbit If you're tired of developers just replying with LGTM, then you NEED Code Rabbit. An actually useful application of AI where it can use your own rules, lints and more to provide instant feedback in your editor OR a review on Github. https://coderabbit.link/primeagen-vscode\n\nFull Episode\nSpotify: https://open.spotify.com/episode/7xcNgaZ7d0PgCNqNk9v1ge?si=BoDbRw6rRuSfhQ48wlGTkA\nYoutube: https://youtu.be/AapTIwXPztM\n\nPeep Trash’s Dotfiles: https://github.com/bautistaaa/dotfiles\n\nTrash takes us through his \"hell on earth\" first week switching from Mac to Linux. From battling Wi-Fi drivers on an ancient MacBook Air to discovering the aesthetic joy of Hyperland and custom dot files, this episode covers the highs and lows of the Linux desktop experience. We also dive into the messy definitions of AGI, the utility of efficiency cores in modern CPUs, and why everyone needs a dedicated snack officer.\n\nChapters\n00:00:00 - Intro\n00:00:22 - Choosing a Linux Distro\n00:03:41 - MergeCop\n00:05:32 - Back to Distros\n00:08:42 - Hyprland\n00:11:37 - Scuffed Demo\n00:19:47 - Compositors\n00:22:31 - Linux Pilled\n00:23:46 - Configuration for Everything\n00:25:47 - Picking a Laptop for Linux\n00:29:35 - More Distros\n00:31:06 - Packages and User land\n00:48:17 - DirectX\n00:50:15 - Distro differences and Install experiences\n00:54:57  - Outro\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.  \n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis",
+  "canonicalUrl": "https://www.youtube.com/watch?v=kSuMjLbjqsI",
+  "publishedAt": "2026-05-30T13:00:14.000Z",
+  "durationMs": 3359000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:30:02.280Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:30:02.280Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

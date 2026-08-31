@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:-AgwE_4_slM",
+  "platform": "youtube",
+  "platformId": "-AgwE_4_slM",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Finally a Normal CEO",
+  "description": "Don’t let bad code get merged without reviewing (hopefully not by merge cop!). Check out Code Rabbit at https://trm.sh/coderabbit\n\nSources:\n\n- https://x.com/MarioNawfal/status/2056170401831796778\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=-AgwE_4_slM",
+  "publishedAt": "2026-05-28T13:00:23.000Z",
+  "durationMs": 835000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:34:17.773Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:34:17.773Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

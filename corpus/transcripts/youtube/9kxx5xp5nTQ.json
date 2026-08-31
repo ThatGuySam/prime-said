@@ -1,0 +1,1103 @@
+{
+  "schemaVersion": 1,
+  "transcriptId": "t1_73338336ccf6116e0be4a299",
+  "sourceId": "youtube:9kxx5xp5nTQ",
+  "language": "en",
+  "pipeline": {
+    "modelId": "mlx-community/parakeet-tdt-0.6b-v3",
+    "modelRevision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "runtime": "parakeet-mlx 0.5.1",
+    "generatedAt": "2026-08-31T17:19:53.828Z"
+  },
+  "segments": [
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:1",
+      "startMs": 0,
+      "endMs": 6400,
+      "verbatim": "Now I know most of my videos about Microsoft tend to be a little bit more nitpicky uh or making fun of a situation.",
+      "display": "Now I know most of my videos about Microsoft tend to be a little bit more nitpicky uh or making fun of a situation.",
+      "search": "now i know most of my videos about microsoft tend to be a little bit more nitpicky uh or making fun of a situation.",
+      "confidence": 0.865
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:2",
+      "startMs": 6400,
+      "endMs": 7840,
+      "verbatim": "Like look at this graph right here.",
+      "display": "Like look at this graph right here.",
+      "search": "like look at this graph right here.",
+      "confidence": 0.914
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:3",
+      "startMs": 7840,
+      "endMs": 12720,
+      "verbatim": "You see how it starts off at pretty much zero and then just in the last year completely exploding.",
+      "display": "You see how it starts off at pretty much zero and then just in the last year completely exploding.",
+      "search": "you see how it starts off at pretty much zero and then just in the last year completely exploding.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:4",
+      "startMs": 12720,
+      "endMs": 13760,
+      "verbatim": "Well, what is this graph?",
+      "display": "Well, what is this graph?",
+      "search": "well, what is this graph?",
+      "confidence": 0.935
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:5",
+      "startMs": 13760,
+      "endMs": 17120,
+      "verbatim": "Well, this is the Google Trends for GitHub alternatives.",
+      "display": "Well, this is the Google Trends for GitHub alternatives.",
+      "search": "well, this is the google trends for github alternatives.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:6",
+      "startMs": 17120,
+      "endMs": 20720,
+      "verbatim": "Normally I'd make a video and we'd all ha ha ha GitHub.",
+      "display": "Normally I'd make a video and we'd all ha ha ha GitHub.",
+      "search": "normally i'd make a video and we'd all ha ha ha github.",
+      "confidence": 0.755
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:7",
+      "startMs": 20720,
+      "endMs": 21520,
+      "verbatim": "What?",
+      "display": "What?",
+      "search": "what?",
+      "confidence": 0.276
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:8",
+      "startMs": 21520,
+      "endMs": 23360,
+      "verbatim": "Oh, they suck.",
+      "display": "Oh, they suck.",
+      "search": "oh, they suck.",
+      "confidence": 0.806
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:9",
+      "startMs": 23360,
+      "endMs": 26400,
+      "verbatim": "But this time, this video, it's a little different, okay?",
+      "display": "But this time, this video, it's a little different, okay?",
+      "search": "but this time, this video, it's a little different, okay?",
+      "confidence": 0.825
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:10",
+      "startMs": 26480,
+      "endMs": 28240,
+      "verbatim": "I want you to take a look at this picture.",
+      "display": "I want you to take a look at this picture.",
+      "search": "i want you to take a look at this picture.",
+      "confidence": 0.977
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:11",
+      "startMs": 28240,
+      "endMs": 28880,
+      "verbatim": "I know.",
+      "display": "I know.",
+      "search": "i know.",
+      "confidence": 0.74
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:12",
+      "startMs": 28880,
+      "endMs": 31360,
+      "verbatim": "Anime wife, who some of you pretty excited.",
+      "display": "Anime wife, who some of you pretty excited.",
+      "search": "anime wife, who some of you pretty excited.",
+      "confidence": 0.8
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:13",
+      "startMs": 31360,
+      "endMs": 31920,
+      "verbatim": "Calm down.",
+      "display": "Calm down.",
+      "search": "calm down.",
+      "confidence": 0.868
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:14",
+      "startMs": 31920,
+      "endMs": 33600,
+      "verbatim": "This is not an exciting topic, okay?",
+      "display": "This is not an exciting topic, okay?",
+      "search": "this is not an exciting topic, okay?",
+      "confidence": 0.931
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:15",
+      "startMs": 33600,
+      "endMs": 37760,
+      "verbatim": "This picture right here is nothing but distilled fear for Microsoft.",
+      "display": "This picture right here is nothing but distilled fear for Microsoft.",
+      "search": "this picture right here is nothing but distilled fear for microsoft.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:16",
+      "startMs": 37760,
+      "endMs": 39120,
+      "verbatim": "For you, probably something different.",
+      "display": "For you, probably something different.",
+      "search": "for you, probably something different.",
+      "confidence": 0.899
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:17",
+      "startMs": 39120,
+      "endMs": 40720,
+      "verbatim": "Distilled something completely different.",
+      "display": "Distilled something completely different.",
+      "search": "distilled something completely different.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:18",
+      "startMs": 40720,
+      "endMs": 46320,
+      "verbatim": "But for Microsoft, absolutely the most terrifying image they've seen in years.",
+      "display": "But for Microsoft, absolutely the most terrifying image they've seen in years.",
+      "search": "but for microsoft, absolutely the most terrifying image they've seen in years.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:19",
+      "startMs": 46320,
+      "endMs": 54160,
+      "verbatim": "Now, if you're not chronically online and I'm your news source, which a lot of you say that, uh, if that's the case, then this image you're probably going, well, what's so scary?",
+      "display": "Now, if you're not chronically online and I'm your news source, which a lot of you say that, uh, if that's the case, then this image you're probably going, well, what's so scary?",
+      "search": "now, if you're not chronically online and i'm your news source, which a lot of you say that, uh, if that's the case, then this image you're probably going, well, what's so scary?",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:20",
+      "startMs": 54160,
+      "endMs": 56720,
+      "verbatim": "What's so scary about a little anime waifu?",
+      "display": "What's so scary about a little anime waifu?",
+      "search": "what's so scary about a little anime waifu?",
+      "confidence": 0.735
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:21",
+      "startMs": 56720,
+      "endMs": 60000,
+      "verbatim": "Because we all know what happens when you see an anime waifu, right?",
+      "display": "Because we all know what happens when you see an anime waifu, right?",
+      "search": "because we all know what happens when you see an anime waifu, right?",
+      "confidence": 0.858
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:22",
+      "startMs": 60000,
+      "endMs": 70560,
+      "verbatim": "Either whatever's coming up next is gonna be just single-handedly the dumbest thing you've ever heard in your entire lifetime, or from the most cracked engineer you've ever seen in your lifetime.",
+      "display": "Either whatever's coming up next is gonna be just single-handedly the dumbest thing you've ever heard in your entire lifetime, or from the most cracked engineer you've ever seen in your lifetime.",
+      "search": "either whatever's coming up next is gonna be just single-handedly the dumbest thing you've ever heard in your entire lifetime, or from the most cracked engineer you've ever seen in your lifetime.",
+      "confidence": 0.854
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:23",
+      "startMs": 70560,
+      "endMs": 73600,
+      "verbatim": "Well, it turns out it's the second one, okay?",
+      "display": "Well, it turns out it's the second one, okay?",
+      "search": "well, it turns out it's the second one, okay?",
+      "confidence": 0.882
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:24",
+      "startMs": 73600,
+      "endMs": 75920,
+      "verbatim": "It's the s very, very cracked.",
+      "display": "It's the s very, very cracked.",
+      "search": "it's the s very, very cracked.",
+      "confidence": 0.724
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:25",
+      "startMs": 75920,
+      "endMs": 79200,
+      "verbatim": "Because what you're seeing is the nightmare eclipse account.",
+      "display": "Because what you're seeing is the nightmare eclipse account.",
+      "search": "because what you're seeing is the nightmare eclipse account.",
+      "confidence": 0.89
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:26",
+      "startMs": 79200,
+      "endMs": 83520,
+      "verbatim": "Six zero days in six weeks and one big grudge.",
+      "display": "Six zero days in six weeks and one big grudge.",
+      "search": "six zero days in six weeks and one big grudge.",
+      "confidence": 0.797
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:27",
+      "startMs": 83520,
+      "endMs": 90800,
+      "verbatim": "This individual is releasing zero days that are absolutely devastating once a week for the last six weeks.",
+      "display": "This individual is releasing zero days that are absolutely devastating once a week for the last six weeks.",
+      "search": "this individual is releasing zero days that are absolutely devastating once a week for the last six weeks.",
+      "confidence": 0.907
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:28",
+      "startMs": 90800,
+      "endMs": 92800,
+      "verbatim": "They have been banned off of GitHub.",
+      "display": "They have been banned off of GitHub.",
+      "search": "they have been banned off of github.",
+      "confidence": 0.939
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:29",
+      "startMs": 92800,
+      "endMs": 95520,
+      "verbatim": "They just got done being banned off of GitLab.",
+      "display": "They just got done being banned off of GitLab.",
+      "search": "they just got done being banned off of gitlab.",
+      "confidence": 0.903
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:30",
+      "startMs": 95520,
+      "endMs": 101520,
+      "verbatim": "They are losing and being deplatformed constantly by releasing these huge zero days.",
+      "display": "They are losing and being deplatformed constantly by releasing these huge zero days.",
+      "search": "they are losing and being deplatformed constantly by releasing these huge zero days.",
+      "confidence": 0.802
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:31",
+      "startMs": 101520,
+      "endMs": 107600,
+      "verbatim": "Now, if you're anything like me, you probably go, okay, well, like releasing zero days, that's that's bad, right?",
+      "display": "Now, if you're anything like me, you probably go, okay, well, like releasing zero days, that's that's bad, right?",
+      "search": "now, if you're anything like me, you probably go, okay, well, like releasing zero days, that's that's bad, right?",
+      "confidence": 0.844
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:32",
+      "startMs": 107600,
+      "endMs": 111600,
+      "verbatim": "I mean, I'm not a huge security guy, so I can't tell you a lot about security.",
+      "display": "I mean, I'm not a huge security guy, so I can't tell you a lot about security.",
+      "search": "i mean, i'm not a huge security guy, so i can't tell you a lot about security.",
+      "confidence": 0.933
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:33",
+      "startMs": 111600,
+      "endMs": 113920,
+      "verbatim": "Uh, but I can tell you that it seems bad, right?",
+      "display": "Uh, but I can tell you that it seems bad, right?",
+      "search": "uh, but i can tell you that it seems bad, right?",
+      "confidence": 0.918
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:34",
+      "startMs": 113920,
+      "endMs": 119680,
+      "verbatim": "Releasing out stuff that could potentially get just your average ma and pa hacked or have some of their assets stolen.",
+      "display": "Releasing out stuff that could potentially get just your average ma and pa hacked or have some of their assets stolen.",
+      "search": "releasing out stuff that could potentially get just your average ma and pa hacked or have some of their assets stolen.",
+      "confidence": 0.818
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:35",
+      "startMs": 119680,
+      "endMs": 134880,
+      "verbatim": "Yeah, that sounds that sounds pretty bad, but when you start learning about this story, when you start learning about Microsoft, I think you're gonna be a little bit surprised, and maybe just maybe you'll go, oh, this story's a bit different.",
+      "display": "Yeah, that sounds that sounds pretty bad, but when you start learning about this story, when you start learning about Microsoft, I think you're gonna be a little bit surprised, and maybe just maybe you'll go, oh, this story's a bit different.",
+      "search": "yeah, that sounds that sounds pretty bad, but when you start learning about this story, when you start learning about microsoft, i think you're gonna be a little bit surprised, and maybe just maybe you'll go, oh, this story's a bit different.",
+      "confidence": 0.814
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:36",
+      "startMs": 134880,
+      "endMs": 140400,
+      "verbatim": "Now, before we get to the nightmare eclipse anime waifu, we first need to say thank you to the sponsors.",
+      "display": "Now, before we get to the nightmare eclipse anime waifu, we first need to say thank you to the sponsors.",
+      "search": "now, before we get to the nightmare eclipse anime waifu, we first need to say thank you to the sponsors.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:37",
+      "startMs": 141120,
+      "endMs": 146080,
+      "verbatim": "I know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "display": "I know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "search": "i know a lot of you have agents and you're letting them run around on the internet on your computer.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:38",
+      "startMs": 146080,
+      "endMs": 146880,
+      "verbatim": "Stop it!",
+      "display": "Stop it!",
+      "search": "stop it!",
+      "confidence": 0.672
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:39",
+      "startMs": 146880,
+      "endMs": 149520,
+      "verbatim": "That's the easiest way to shoot yourself in the foot.",
+      "display": "That's the easiest way to shoot yourself in the foot.",
+      "search": "that's the easiest way to shoot yourself in the foot.",
+      "confidence": 0.968
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:40",
+      "startMs": 149520,
+      "endMs": 153360,
+      "verbatim": "This is why you need today's video sponsor, kernel.sh.",
+      "display": "This is why you need today's video sponsor, kernel.sh.",
+      "search": "this is why you need today's video sponsor, kernel.sh.",
+      "confidence": 0.836
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:41",
+      "startMs": 153360,
+      "endMs": 158640,
+      "verbatim": "The crazy fast and open source infra for your AI agents to access the internet.",
+      "display": "The crazy fast and open source infra for your AI agents to access the internet.",
+      "search": "the crazy fast and open source infra for your ai agents to access the internet.",
+      "confidence": 0.82
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:42",
+      "startMs": 158640,
+      "endMs": 164160,
+      "verbatim": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "display": "It takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "search": "it takes under 30 milliseconds to spin up one or 1,000 cloud browsers for your agents.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:43",
+      "startMs": 164160,
+      "endMs": 166960,
+      "verbatim": "And authentication is automatically handled.",
+      "display": "And authentication is automatically handled.",
+      "search": "and authentication is automatically handled.",
+      "confidence": 0.916
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:44",
+      "startMs": 166960,
+      "endMs": 172640,
+      "verbatim": "Right now, over 3,000 teams already use this in production, including Framer and Cash App.",
+      "display": "Right now, over 3,000 teams already use this in production, including Framer and Cash App.",
+      "search": "right now, over 3,000 teams already use this in production, including framer and cash app.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:45",
+      "startMs": 172640,
+      "endMs": 175280,
+      "verbatim": "So quit nerfing your agents and give them a real browser.",
+      "display": "So quit nerfing your agents and give them a real browser.",
+      "search": "so quit nerfing your agents and give them a real browser.",
+      "confidence": 0.983
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:46",
+      "startMs": 175280,
+      "endMs": 178480,
+      "verbatim": "Head on over to kernel.sh and let them use the internet.",
+      "display": "Head on over to kernel.sh and let them use the internet.",
+      "search": "head on over to kernel.sh and let them use the internet.",
+      "confidence": 0.813
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:47",
+      "startMs": 179200,
+      "endMs": 180720,
+      "verbatim": "Oh, welcome back.",
+      "display": "Oh, welcome back.",
+      "search": "oh, welcome back.",
+      "confidence": 0.663
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:48",
+      "startMs": 180720,
+      "endMs": 190800,
+      "verbatim": "So, first let's just like learn a little bit about kind of the backstory or what's going on, and then we're gonna see some of the reactions, which is gonna make you kind of have a a kind of a 180 about what's going on.",
+      "display": "So, first let's just like learn a little bit about kind of the backstory or what's going on, and then we're gonna see some of the reactions, which is gonna make you kind of have a a kind of a 180 about what's going on.",
+      "search": "so, first let's just like learn a little bit about kind of the backstory or what's going on, and then we're gonna see some of the reactions, which is gonna make you kind of have a a kind of a 180 about what's going on.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:49",
+      "startMs": 190800,
+      "endMs": 206400,
+      "verbatim": "So, first off, Nightmare Eclipse, dead eclipse, chaotic eclipse, or just eclipse is a malicious actor who has released six Windows Zero Day Exploits since early April 2026 in what multiple researchers described as an escalating retaliatory campaign against Microsoft.",
+      "display": "So, first off, Nightmare Eclipse, dead eclipse, chaotic eclipse, or just eclipse is a malicious actor who has released six Windows Zero Day Exploits since early April 2026 in what multiple researchers described as an escalating retaliatory campaign against Microsoft.",
+      "search": "so, first off, nightmare eclipse, dead eclipse, chaotic eclipse, or just eclipse is a malicious actor who has released six windows zero day exploits since early april 2026 in what multiple researchers described as an escalating retaliatory campaign against microsoft.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:50",
+      "startMs": 206480,
+      "endMs": 210480,
+      "verbatim": "Eclipse doesn't fit neatly into the traditional threat intelligence categories.",
+      "display": "Eclipse doesn't fit neatly into the traditional threat intelligence categories.",
+      "search": "eclipse doesn't fit neatly into the traditional threat intelligence categories.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:51",
+      "startMs": 210480,
+      "endMs": 216560,
+      "verbatim": "They don't appear to be seeking profits, advancing a social cause, or pursuing geopolitical objectives.",
+      "display": "They don't appear to be seeking profits, advancing a social cause, or pursuing geopolitical objectives.",
+      "search": "they don't appear to be seeking profits, advancing a social cause, or pursuing geopolitical objectives.",
+      "confidence": 0.952
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:52",
+      "startMs": 216560,
+      "endMs": 219440,
+      "verbatim": "In other words, just pure chaos.",
+      "display": "In other words, just pure chaos.",
+      "search": "in other words, just pure chaos.",
+      "confidence": 0.869
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:53",
+      "startMs": 219440,
+      "endMs": 223280,
+      "verbatim": "Like, they're literally out there for the love of the game.",
+      "display": "Like, they're literally out there for the love of the game.",
+      "search": "like, they're literally out there for the love of the game.",
+      "confidence": 0.796
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:54",
+      "startMs": 223280,
+      "endMs": 232880,
+      "verbatim": "They appear to be a single security researcher driven by a personal vengeance, deliberately unleashing dangerous exploits that others are now using in real world attacks.",
+      "display": "They appear to be a single security researcher driven by a personal vengeance, deliberately unleashing dangerous exploits that others are now using in real world attacks.",
+      "search": "they appear to be a single security researcher driven by a personal vengeance, deliberately unleashing dangerous exploits that others are now using in real world attacks.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:55",
+      "startMs": 232880,
+      "endMs": 241360,
+      "verbatim": "Defenders and researchers should respond to nightmare eclipses as seriously as any other threat actor, even though they operate alone and outside the usual ecosystem.",
+      "display": "Defenders and researchers should respond to nightmare eclipses as seriously as any other threat actor, even though they operate alone and outside the usual ecosystem.",
+      "search": "defenders and researchers should respond to nightmare eclipses as seriously as any other threat actor, even though they operate alone and outside the usual ecosystem.",
+      "confidence": 0.926
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:56",
+      "startMs": 241360,
+      "endMs": 249040,
+      "verbatim": "And of course, the list of their exploits Blue Hammer, Red Sun, Undefend, Yellow Key, Green Plasma, Mini Plasma.",
+      "display": "And of course, the list of their exploits Blue Hammer, Red Sun, Undefend, Yellow Key, Green Plasma, Mini Plasma.",
+      "search": "and of course, the list of their exploits blue hammer, red sun, undefend, yellow key, green plasma, mini plasma.",
+      "confidence": 0.776
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:57",
+      "startMs": 249040,
+      "endMs": 251520,
+      "verbatim": "And several of them unpatched.",
+      "display": "And several of them unpatched.",
+      "search": "and several of them unpatched.",
+      "confidence": 0.732
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:58",
+      "startMs": 251520,
+      "endMs": 258720,
+      "verbatim": "If you're interested more in kind of some of the backstory and like how they're coming up with the names, you can check out uh the link in the description.",
+      "display": "If you're interested more in kind of some of the backstory and like how they're coming up with the names, you can check out uh the link in the description.",
+      "search": "if you're interested more in kind of some of the backstory and like how they're coming up with the names, you can check out uh the link in the description.",
+      "confidence": 0.878
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:59",
+      "startMs": 258720,
+      "endMs": 264480,
+      "verbatim": "But the part that's pretty interesting is that the actor identity is unknown, but people believe this is an insider.",
+      "display": "But the part that's pretty interesting is that the actor identity is unknown, but people believe this is an insider.",
+      "search": "but the part that's pretty interesting is that the actor identity is unknown, but people believe this is an insider.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:60",
+      "startMs": 264480,
+      "endMs": 267520,
+      "verbatim": "They believe it is a former Microsoft employee.",
+      "display": "They believe it is a former Microsoft employee.",
+      "search": "they believe it is a former microsoft employee.",
+      "confidence": 0.951
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:61",
+      "startMs": 267520,
+      "endMs": 273840,
+      "verbatim": "Nightmare Eclipse also alleges that personnel directly threatened them from Microsoft Security Response Center.",
+      "display": "Nightmare Eclipse also alleges that personnel directly threatened them from Microsoft Security Response Center.",
+      "search": "nightmare eclipse also alleges that personnel directly threatened them from microsoft security response center.",
+      "confidence": 0.788
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:62",
+      "startMs": 273840,
+      "endMs": 278160,
+      "verbatim": "I was told personally by them that they will ruin my life, and they did.",
+      "display": "I was told personally by them that they will ruin my life, and they did.",
+      "search": "i was told personally by them that they will ruin my life, and they did.",
+      "confidence": 0.913
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:63",
+      "startMs": 278160,
+      "endMs": 283200,
+      "verbatim": "Alright, so that's kind of like where we stand on what we know about the situation.",
+      "display": "Alright, so that's kind of like where we stand on what we know about the situation.",
+      "search": "alright, so that's kind of like where we stand on what we know about the situation.",
+      "confidence": 0.875
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:64",
+      "startMs": 283200,
+      "endMs": 289120,
+      "verbatim": "And so for me, I was, you know, you could see that there's some sort of personal grievance, some sort of vendetta going on here.",
+      "display": "And so for me, I was, you know, you could see that there's some sort of personal grievance, some sort of vendetta going on here.",
+      "search": "and so for me, i was, you know, you could see that there's some sort of personal grievance, some sort of vendetta going on here.",
+      "confidence": 0.851
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:65",
+      "startMs": 289120,
+      "endMs": 296720,
+      "verbatim": "But still, I still kind of feel bad about zero days being released, just proof of concept, right into the wild, because people will end up getting hurt.",
+      "display": "But still, I still kind of feel bad about zero days being released, just proof of concept, right into the wild, because people will end up getting hurt.",
+      "search": "but still, i still kind of feel bad about zero days being released, just proof of concept, right into the wild, because people will end up getting hurt.",
+      "confidence": 0.886
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:66",
+      "startMs": 296720,
+      "endMs": 304400,
+      "verbatim": "Granted, that's still true, but now I'm starting to learn a lot of things about Microsoft Security Response Center, and I think you should probably know about them too.",
+      "display": "Granted, that's still true, but now I'm starting to learn a lot of things about Microsoft Security Response Center, and I think you should probably know about them too.",
+      "search": "granted, that's still true, but now i'm starting to learn a lot of things about microsoft security response center, and i think you should probably know about them too.",
+      "confidence": 0.921
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:67",
+      "startMs": 304400,
+      "endMs": 311280,
+      "verbatim": "Last time I dealt with Microsoft Security Response Center, I found a command injection vulnerability present for a decade in context menus.",
+      "display": "Last time I dealt with Microsoft Security Response Center, I found a command injection vulnerability present for a decade in context menus.",
+      "search": "last time i dealt with microsoft security response center, i found a command injection vulnerability present for a decade in context menus.",
+      "confidence": 0.923
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:68",
+      "startMs": 311280,
+      "endMs": 313440,
+      "verbatim": "Not highly critical, but still exploitable.",
+      "display": "Not highly critical, but still exploitable.",
+      "search": "not highly critical, but still exploitable.",
+      "confidence": 0.962
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:69",
+      "startMs": 313440,
+      "endMs": 322800,
+      "verbatim": "MSRC did not reward the bounty, nor did they attribute a CVE to this finding because it doesn't meet their criteria as vulnerability that requires an immediate security update.",
+      "display": "MSRC did not reward the bounty, nor did they attribute a CVE to this finding because it doesn't meet their criteria as vulnerability that requires an immediate security update.",
+      "search": "msrc did not reward the bounty, nor did they attribute a cve to this finding because it doesn't meet their criteria as vulnerability that requires an immediate security update.",
+      "confidence": 0.866
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:70",
+      "startMs": 322800,
+      "endMs": 326720,
+      "verbatim": "However, it was fixed a month later in Windows 11 Canary.",
+      "display": "However, it was fixed a month later in Windows 11 Canary.",
+      "search": "however, it was fixed a month later in windows 11 canary.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:71",
+      "startMs": 326720,
+      "endMs": 330480,
+      "verbatim": "So taking credit and pretending like it's not a big deal and not paying somebody.",
+      "display": "So taking credit and pretending like it's not a big deal and not paying somebody.",
+      "search": "so taking credit and pretending like it's not a big deal and not paying somebody.",
+      "confidence": 0.963
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:72",
+      "startMs": 330480,
+      "endMs": 334320,
+      "verbatim": "My last submission to MSRC was for a defend guard bypass.",
+      "display": "My last submission to MSRC was for a defend guard bypass.",
+      "search": "my last submission to msrc was for a defend guard bypass.",
+      "confidence": 0.815
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:73",
+      "startMs": 334320,
+      "endMs": 339040,
+      "verbatim": "I learned my lesson from prior drawn-out submissions, so I included a 90-day window this time.",
+      "display": "I learned my lesson from prior drawn-out submissions, so I included a 90-day window this time.",
+      "search": "i learned my lesson from prior drawn-out submissions, so i included a 90-day window this time.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:74",
+      "startMs": 339040,
+      "endMs": 348800,
+      "verbatim": "MSRC responded saying that I it met their bar and they would fix it, but asked me to withhold disclosure for another 90 days because they needed a few extra months to fix it.",
+      "display": "MSRC responded saying that I it met their bar and they would fix it, but asked me to withhold disclosure for another 90 days because they needed a few extra months to fix it.",
+      "search": "msrc responded saying that i it met their bar and they would fix it, but asked me to withhold disclosure for another 90 days because they needed a few extra months to fix it.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:75",
+      "startMs": 348800,
+      "endMs": 352400,
+      "verbatim": "I agreed on the condition that they issue a CVE, to which they agreed.",
+      "display": "I agreed on the condition that they issue a CVE, to which they agreed.",
+      "search": "i agreed on the condition that they issue a cve, to which they agreed.",
+      "confidence": 0.925
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:76",
+      "startMs": 352400,
+      "endMs": 358320,
+      "verbatim": "After the agreed upon patch Tuesday, a few months later, I couldn't find any mention in the CVE list.",
+      "display": "After the agreed upon patch Tuesday, a few months later, I couldn't find any mention in the CVE list.",
+      "search": "after the agreed upon patch tuesday, a few months later, i couldn't find any mention in the cve list.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:77",
+      "startMs": 358320,
+      "endMs": 360560,
+      "verbatim": "So I reached out to MSRC to inquire.",
+      "display": "So I reached out to MSRC to inquire.",
+      "search": "so i reached out to msrc to inquire.",
+      "confidence": 0.957
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:78",
+      "startMs": 360560,
+      "endMs": 365840,
+      "verbatim": "It turns out they changed their minds, deciding it did not meet their bar for servicing, get patched it anyways.",
+      "display": "It turns out they changed their minds, deciding it did not meet their bar for servicing, get patched it anyways.",
+      "search": "it turns out they changed their minds, deciding it did not meet their bar for servicing, get patched it anyways.",
+      "confidence": 0.902
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:79",
+      "startMs": 365840,
+      "endMs": 368640,
+      "verbatim": "Since it didn't meet their bar, they didn't issue a CVE.",
+      "display": "Since it didn't meet their bar, they didn't issue a CVE.",
+      "search": "since it didn't meet their bar, they didn't issue a cve.",
+      "confidence": 0.955
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:80",
+      "startMs": 368640,
+      "endMs": 373600,
+      "verbatim": "MSRC strung me along a few extra months to keep me quiet and then broke their word.",
+      "display": "MSRC strung me along a few extra months to keep me quiet and then broke their word.",
+      "search": "msrc strung me along a few extra months to keep me quiet and then broke their word.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:81",
+      "startMs": 373600,
+      "endMs": 374560,
+      "verbatim": "Huh.",
+      "display": "Huh.",
+      "search": "huh.",
+      "confidence": 0.667
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:82",
+      "startMs": 374560,
+      "endMs": 380320,
+      "verbatim": "So again, they effectively strung somebody along and didn't give them credit, effectively refusing to pay them.",
+      "display": "So again, they effectively strung somebody along and didn't give them credit, effectively refusing to pay them.",
+      "search": "so again, they effectively strung somebody along and didn't give them credit, effectively refusing to pay them.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:83",
+      "startMs": 401120,
+      "endMs": 405120,
+      "verbatim": "You know, it's almost like you're starting to see a pattern here.",
+      "display": "You know, it's almost like you're starting to see a pattern here.",
+      "search": "you know, it's almost like you're starting to see a pattern here.",
+      "confidence": 0.912
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:84",
+      "startMs": 405120,
+      "endMs": 410480,
+      "verbatim": "And if you check out VX Underground, apparently there's a maybe a little bit more that we don't understand.",
+      "display": "And if you check out VX Underground, apparently there's a maybe a little bit more that we don't understand.",
+      "search": "and if you check out vx underground, apparently there's a maybe a little bit more that we don't understand.",
+      "confidence": 0.857
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:85",
+      "startMs": 410480,
+      "endMs": 421360,
+      "verbatim": "It turns out that Microsoft Security Response Center is actually somehow this center that is just really disservicing the security researchers out there.",
+      "display": "It turns out that Microsoft Security Response Center is actually somehow this center that is just really disservicing the security researchers out there.",
+      "search": "it turns out that microsoft security response center is actually somehow this center that is just really disservicing the security researchers out there.",
+      "confidence": 0.807
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:86",
+      "startMs": 421360,
+      "endMs": 433680,
+      "verbatim": "They are completely ignoring them and/or they're just taking their work, silently fixing it, not responding, doing all sorts of stuff that just massively decentivizes the entire security research world.",
+      "display": "They are completely ignoring them and/or they're just taking their work, silently fixing it, not responding, doing all sorts of stuff that just massively decentivizes the entire security research world.",
+      "search": "they are completely ignoring them and/or they're just taking their work, silently fixing it, not responding, doing all sorts of stuff that just massively decentivizes the entire security research world.",
+      "confidence": 0.876
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:87",
+      "startMs": 433680,
+      "endMs": 436160,
+      "verbatim": "And this has been going on for years.",
+      "display": "And this has been going on for years.",
+      "search": "and this has been going on for years.",
+      "confidence": 0.889
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:88",
+      "startMs": 436160,
+      "endMs": 440000,
+      "verbatim": "It's been going on for so long that look at this right here.",
+      "display": "It's been going on for so long that look at this right here.",
+      "search": "it's been going on for so long that look at this right here.",
+      "confidence": 0.83
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:89",
+      "startMs": 440000,
+      "endMs": 442560,
+      "verbatim": "La this is in August 2023.",
+      "display": "La this is in August 2023.",
+      "search": "la this is in august 2023.",
+      "confidence": 0.724
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:90",
+      "startMs": 442560,
+      "endMs": 444640,
+      "verbatim": "Okay, this is three years ago.",
+      "display": "Okay, this is three years ago.",
+      "search": "okay, this is three years ago.",
+      "confidence": 0.88
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:91",
+      "startMs": 444640,
+      "endMs": 462480,
+      "verbatim": "Last week, Senator Ron Wyden sent a letter to the Cybersecurity and Infrastructure Security Agency, the Department of Justice, and Federal Trade Commission asking they hold Microsoft accountable for repeated pattern of negligent cybersecurity practices, which has enabled the Chinese espionage against the United States government.",
+      "display": "Last week, Senator Ron Wyden sent a letter to the Cybersecurity and Infrastructure Security Agency, the Department of Justice, and Federal Trade Commission asking they hold Microsoft accountable for repeated pattern of negligent cybersecurity practices, which has enabled the Chinese espionage against the United States government.",
+      "search": "last week, senator ron wyden sent a letter to the cybersecurity and infrastructure security agency, the department of justice, and federal trade commission asking they hold microsoft accountable for repeated pattern of negligent cybersecurity practices, which has enabled the chinese espionage against the united states government.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:92",
+      "startMs": 462480,
+      "endMs": 472960,
+      "verbatim": "According to the data from Google Project Zero, Microsoft products have accounted for an aggregate 42.5% of all zero days discovered since 2014.",
+      "display": "According to the data from Google Project Zero, Microsoft products have accounted for an aggregate 42.5% of all zero days discovered since 2014.",
+      "search": "according to the data from google project zero, microsoft products have accounted for an aggregate 42.5% of all zero days discovered since 2014.",
+      "confidence": 0.767
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:93",
+      "startMs": 472960,
+      "endMs": 474720,
+      "verbatim": "So it turns out this has been going on for years.",
+      "display": "So it turns out this has been going on for years.",
+      "search": "so it turns out this has been going on for years.",
+      "confidence": 0.855
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:94",
+      "startMs": 474720,
+      "endMs": 481520,
+      "verbatim": "They are negligent, they have been the government has been getting involved now, and people are just absolutely fed up.",
+      "display": "They are negligent, they have been the government has been getting involved now, and people are just absolutely fed up.",
+      "search": "they are negligent, they have been the government has been getting involved now, and people are just absolutely fed up.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:95",
+      "startMs": 481520,
+      "endMs": 487120,
+      "verbatim": "So whatever has happened to Nightmare Eclipse, obviously there's probably a bigger backstory than we realize.",
+      "display": "So whatever has happened to Nightmare Eclipse, obviously there's probably a bigger backstory than we realize.",
+      "search": "so whatever has happened to nightmare eclipse, obviously there's probably a bigger backstory than we realize.",
+      "confidence": 0.911
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:96",
+      "startMs": 487120,
+      "endMs": 491360,
+      "verbatim": "Now we may not get the entire story, but we do know how Microsoft is gonna respond.",
+      "display": "Now we may not get the entire story, but we do know how Microsoft is gonna respond.",
+      "search": "now we may not get the entire story, but we do know how microsoft is gonna respond.",
+      "confidence": 0.947
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:97",
+      "startMs": 491360,
+      "endMs": 496320,
+      "verbatim": "A shared responsibility protecting customers through coordinated vulnerability disclosure.",
+      "display": "A shared responsibility protecting customers through coordinated vulnerability disclosure.",
+      "search": "a shared responsibility protecting customers through coordinated vulnerability disclosure.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:98",
+      "startMs": 496320,
+      "endMs": 502240,
+      "verbatim": "In other words, you need to do these kind of responsible disclosures, or else whatever they say in here is going to happen.",
+      "display": "In other words, you need to do these kind of responsible disclosures, or else whatever they say in here is going to happen.",
+      "search": "in other words, you need to do these kind of responsible disclosures, or else whatever they say in here is going to happen.",
+      "confidence": 0.881
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:99",
+      "startMs": 502240,
+      "endMs": 506720,
+      "verbatim": "Now they obviously are acknowledging this eclipse uh vulnerabilities that have been happening.",
+      "display": "Now they obviously are acknowledging this eclipse uh vulnerabilities that have been happening.",
+      "search": "now they obviously are acknowledging this eclipse uh vulnerabilities that have been happening.",
+      "confidence": 0.904
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:100",
+      "startMs": 506720,
+      "endMs": 510320,
+      "verbatim": "In recent weeks, several zero day vulnerabilities have been publicly disclosed.",
+      "display": "In recent weeks, several zero day vulnerabilities have been publicly disclosed.",
+      "search": "in recent weeks, several zero day vulnerabilities have been publicly disclosed.",
+      "confidence": 0.956
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:101",
+      "startMs": 510320,
+      "endMs": 517040,
+      "verbatim": "Now, if you go down here, you can see that they list out a couple of those right there, including no links to Green Plasma or Mini Plasma.",
+      "display": "Now, if you go down here, you can see that they list out a couple of those right there, including no links to Green Plasma or Mini Plasma.",
+      "search": "now, if you go down here, you can see that they list out a couple of those right there, including no links to green plasma or mini plasma.",
+      "confidence": 0.838
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:102",
+      "startMs": 517040,
+      "endMs": 520400,
+      "verbatim": "But even further down, right here, look at this line.",
+      "display": "But even further down, right here, look at this line.",
+      "search": "but even further down, right here, look at this line.",
+      "confidence": 0.849
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:103",
+      "startMs": 520400,
+      "endMs": 531760,
+      "verbatim": "Our digital crimes unit will continue bringing cases against these actors and those who that enable their criminal activity, coordinating as needed with law enforcement around the world.",
+      "display": "Our digital crimes unit will continue bringing cases against these actors and those who that enable their criminal activity, coordinating as needed with law enforcement around the world.",
+      "search": "our digital crimes unit will continue bringing cases against these actors and those who that enable their criminal activity, coordinating as needed with law enforcement around the world.",
+      "confidence": 0.856
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:104",
+      "startMs": 531760,
+      "endMs": 539120,
+      "verbatim": "In other words, if you don't responsibly disclose, they're going to bring the long hand of justice against you.",
+      "display": "In other words, if you don't responsibly disclose, they're going to bring the long hand of justice against you.",
+      "search": "in other words, if you don't responsibly disclose, they're going to bring the long hand of justice against you.",
+      "confidence": 0.892
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:105",
+      "startMs": 539120,
+      "endMs": 544160,
+      "verbatim": "They're actually out there being like, yo, it's actually a crime not to tell us where we have messed up.",
+      "display": "They're actually out there being like, yo, it's actually a crime not to tell us where we have messed up.",
+      "search": "they're actually out there being like, yo, it's actually a crime not to tell us where we have messed up.",
+      "confidence": 0.92
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:106",
+      "startMs": 544160,
+      "endMs": 554000,
+      "verbatim": "We're probably gonna completely disincentivize people, we're probably gonna take their work, we're probably not gonna give them credit as we have on multiple occasions, we're probably not even gonna give them money.",
+      "display": "We're probably gonna completely disincentivize people, we're probably gonna take their work, we're probably not gonna give them credit as we have on multiple occasions, we're probably not even gonna give them money.",
+      "search": "we're probably gonna completely disincentivize people, we're probably gonna take their work, we're probably not gonna give them credit as we have on multiple occasions, we're probably not even gonna give them money.",
+      "confidence": 0.9
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:107",
+      "startMs": 554000,
+      "endMs": 554640,
+      "verbatim": "But you know what?",
+      "display": "But you know what?",
+      "search": "but you know what?",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:108",
+      "startMs": 554640,
+      "endMs": 564880,
+      "verbatim": "If you don't do right by us, then that's actually evil, wrong, and deserves to be punished, and you should be thrown in some sort of uh concrete box with metal bars.",
+      "display": "If you don't do right by us, then that's actually evil, wrong, and deserves to be punished, and you should be thrown in some sort of uh concrete box with metal bars.",
+      "search": "if you don't do right by us, then that's actually evil, wrong, and deserves to be punished, and you should be thrown in some sort of uh concrete box with metal bars.",
+      "confidence": 0.862
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:109",
+      "startMs": 564880,
+      "endMs": 566480,
+      "verbatim": "Because you're the bad person.",
+      "display": "Because you're the bad person.",
+      "search": "because you're the bad person.",
+      "confidence": 0.789
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:110",
+      "startMs": 566480,
+      "endMs": 568880,
+      "verbatim": "You know, me just being like a complete novice.",
+      "display": "You know, me just being like a complete novice.",
+      "search": "you know, me just being like a complete novice.",
+      "confidence": 0.905
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:111",
+      "startMs": 568880,
+      "endMs": 571280,
+      "verbatim": "I'm a complete novice in this area, I don't know how to hack.",
+      "display": "I'm a complete novice in this area, I don't know how to hack.",
+      "search": "i'm a complete novice in this area, i don't know how to hack.",
+      "confidence": 0.934
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:112",
+      "startMs": 571280,
+      "endMs": 578960,
+      "verbatim": "I one time found a vulnerability that was super, super duper massive, but that's because like I stumbled ass backwards into it completely by accident.",
+      "display": "I one time found a vulnerability that was super, super duper massive, but that's because like I stumbled ass backwards into it completely by accident.",
+      "search": "i one time found a vulnerability that was super, super duper massive, but that's because like i stumbled ass backwards into it completely by accident.",
+      "confidence": 0.812
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:113",
+      "startMs": 578960,
+      "endMs": 595040,
+      "verbatim": "I've never really done any sort of serious security researching, and so I don't actually understand the world that's out there, but from all the private messages I have received, even about this specific topic, Microsoft has been hands down dealing people dirty for over a decade.",
+      "display": "I've never really done any sort of serious security researching, and so I don't actually understand the world that's out there, but from all the private messages I have received, even about this specific topic, Microsoft has been hands down dealing people dirty for over a decade.",
+      "search": "i've never really done any sort of serious security researching, and so i don't actually understand the world that's out there, but from all the private messages i have received, even about this specific topic, microsoft has been hands down dealing people dirty for over a decade.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:114",
+      "startMs": 595040,
+      "endMs": 596240,
+      "verbatim": "It appears at least.",
+      "display": "It appears at least.",
+      "search": "it appears at least.",
+      "confidence": 0.884
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:115",
+      "startMs": 596240,
+      "endMs": 602080,
+      "verbatim": "That's if I are if I'm to believe all the stories I've been told, and some of them are from quite credible people.",
+      "display": "That's if I are if I'm to believe all the stories I've been told, and some of them are from quite credible people.",
+      "search": "that's if i are if i'm to believe all the stories i've been told, and some of them are from quite credible people.",
+      "confidence": 0.887
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:116",
+      "startMs": 602080,
+      "endMs": 610800,
+      "verbatim": "Anyways, I wanted to make this video because I feel like it's just super unfair how they're treating people, and I don't think a lot of people even know that this is happening.",
+      "display": "Anyways, I wanted to make this video because I feel like it's just super unfair how they're treating people, and I don't think a lot of people even know that this is happening.",
+      "search": "anyways, i wanted to make this video because i feel like it's just super unfair how they're treating people, and i don't think a lot of people even know that this is happening.",
+      "confidence": 0.877
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:117",
+      "startMs": 610800,
+      "endMs": 618560,
+      "verbatim": "It's it's honestly, it's a pretty responsible disclosure thing of me to do to let people know just how bad this organization is.",
+      "display": "It's it's honestly, it's a pretty responsible disclosure thing of me to do to let people know just how bad this organization is.",
+      "search": "it's it's honestly, it's a pretty responsible disclosure thing of me to do to let people know just how bad this organization is.",
+      "confidence": 0.867
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:118",
+      "startMs": 618560,
+      "endMs": 619120,
+      "verbatim": "Okay?",
+      "display": "Okay?",
+      "search": "okay?",
+      "confidence": 0.433
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:119",
+      "startMs": 619120,
+      "endMs": 623360,
+      "verbatim": "Hey, I'm not uh I'm not hey, I I'm doing this for the love of the game, okay?",
+      "display": "Hey, I'm not uh I'm not hey, I I'm doing this for the love of the game, okay?",
+      "search": "hey, i'm not uh i'm not hey, i i'm doing this for the love of the game, okay?",
+      "confidence": 0.739
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:120",
+      "startMs": 623360,
+      "endMs": 625440,
+      "verbatim": "The name is the primogen.",
+      "display": "The name is the primogen.",
+      "search": "the name is the primogen.",
+      "confidence": 0.657
+    },
+    {
+      "segmentId": "youtube:9kxx5xp5nTQ:segment:121",
+      "startMs": 625440,
+      "endMs": 626480,
+      "verbatim": "It's just too good.",
+      "display": "It's just too good.",
+      "search": "it's just too good.",
+      "confidence": 0.777
+    }
+  ]
+}

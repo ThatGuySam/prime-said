@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:9kxx5xp5nTQ",
+  "platform": "youtube",
+  "platformId": "9kxx5xp5nTQ",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "\"We will ruin your life\" -Microsoft",
+  "description": "KERNEL builds crazy fast, open source infra for AI agents to access the internet. Trusted by Framer, Cash App, and 3000+ teams https://trm.sh/kernel\n\nSources:\n\n- https://blog.barracuda.com/2026/05/19/nightmare-eclipse-zero-days-grudge\n- https://x.com/podalirius_/status/2059892083029069929\n- https://x.com/GabrielLandau/status/2059990548337828090\n- https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-customers-through-coordinated-vulnerability-disclosure\n- https://www.linkedin.com/pulse/microsoftthe-truth-even-worse-than-you-think-amit-yoran/\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=9kxx5xp5nTQ",
+  "publishedAt": "2026-06-01T13:00:09.000Z",
+  "durationMs": 627000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:19:53.828Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:19:53.828Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

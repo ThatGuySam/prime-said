@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:f1jlJCNgtOg",
+  "platform": "youtube",
+  "platformId": "f1jlJCNgtOg",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Layoffs are getting Wild (ft. Big A)",
+  "description": "Big A: https://youtube.com/@AtriocClips\n\nSources:\nhttps://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\n\nTopics Covered:\n- Layoffs in 2026\n- AI affecting Jobs\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=f1jlJCNgtOg",
+  "publishedAt": "2026-06-03T12:30:15.000Z",
+  "durationMs": 2452000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:18:23.931Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:18:23.931Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}

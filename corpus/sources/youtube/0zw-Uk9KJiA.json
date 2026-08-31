@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube:0zw-Uk9KJiA",
+  "platform": "youtube",
+  "platformId": "0zw-Uk9KJiA",
+  "channel": {
+    "id": "UCUyeluBRhGPCW4rPe_UvBZQ",
+    "name": "The PrimeTime",
+    "category": "creator-official"
+  },
+  "title": "Everyone is Wrong about Tokens",
+  "description": "Cursor is the best way to build software with AI → https://trm.sh/cursor\n\nSources:\n\n- https://x.com/i/status/2055405041843052792\n- https://x.com/i/status/2055346265869721905\n\nTopics Covered:\n\n- Token Spending\n- Token Efficiency\n- Buy VS Build VS Vibe\n\nhttps://twitch.tv/ThePrimeagen - I Stream on Twitch\n\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\n\n#theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop",
+  "canonicalUrl": "https://www.youtube.com/watch?v=0zw-Uk9KJiA",
+  "publishedAt": "2026-05-25T13:00:31.000Z",
+  "durationMs": 720000,
+  "availability": "available",
+  "lastCheckedAt": "2026-08-31T17:36:09.853Z",
+  "mediaFingerprint": null,
+  "provenance": {
+    "allowListId": "youtube:theprimetimeagen-official",
+    "discoveredAt": "2026-08-31T17:36:09.853Z",
+    "runId": "2026-08-31T17-06-05-296Z-3eb84117"
+  }
+}
