@@ -373,6 +373,29 @@ function alignSentenceBounds(
       end: tokens[tokens.length - 1]!.end,
     };
   }
+  let seamIndex = -1;
+  let seamGap = 0;
+  for (let index = 1; index < tokens.length; index += 1) {
+    const gap = tokens[index]!.start - tokens[index - 1]!.end;
+    if (gap >= 1 && gap > seamGap) {
+      seamIndex = index;
+      seamGap = gap;
+    }
+  }
+  if (seamIndex > 0) {
+    const suffix = normalizeWhitespace(tokens.slice(seamIndex).map((token) => token.text).join(""));
+    const comparableTarget = target.toLocaleLowerCase("en-US").replace(/[^a-z0-9]/g, "");
+    const comparableSuffix = suffix.toLocaleLowerCase("en-US").replace(/[^a-z0-9]/g, "");
+    if (
+      comparableSuffix.length >= 2
+      && comparableTarget.slice(0, 2) === comparableSuffix.slice(0, 2)
+    ) {
+      return {
+        start: tokens[seamIndex]!.start,
+        end: tokens[tokens.length - 1]!.end,
+      };
+    }
+  }
   return null;
 }
 

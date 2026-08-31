@@ -124,6 +124,25 @@ describe("external data parsing", () => {
     expect(parsed.sentences[0]).toMatchObject({ start: 2390.32, end: 2396.48 });
   });
 
+  test("drops a stale token before a clear chunk seam", () => {
+    const parsed = parseParakeetOutput({
+      text: "Yeah.",
+      sentences: [{
+        text: " Yeah.",
+        start: 1199.44,
+        end: 1203.48,
+        confidence: 0.589,
+        tokens: [
+          { text: "ah", start: 1199.44, end: 1199.52, confidence: 0.997 },
+          { text: " Ye", start: 1203, end: 1203.16, confidence: 0.535 },
+          { text: ".", start: 1203.32, end: 1203.48, confidence: 0.383 },
+        ],
+      }],
+    });
+
+    expect(parsed.sentences[0]).toMatchObject({ start: 1203, end: 1203.48 });
+  });
+
   test("requires the downloaded audio track to be English", () => {
     expect(YOUTUBE_ORIGINAL_AUDIO_FORMAT).toContain("language^=en");
     expect(parseDownloadedAudioLanguage({
